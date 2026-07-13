@@ -12,6 +12,8 @@ configuration:
     - private
     - templates
     - .obsidian
+    - z_assets
+    - z_templates
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

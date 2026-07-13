@@ -1,6 +1,3 @@
 ---
-title: Welcome to Quartz
+title: Season of Ghosts Vault
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
