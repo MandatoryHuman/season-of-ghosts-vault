@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: en-UK
   baseUrl: season-of-ghosts.vercel.app
   ignorePatterns:
     - private
