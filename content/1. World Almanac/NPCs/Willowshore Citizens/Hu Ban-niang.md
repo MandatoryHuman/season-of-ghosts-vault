@@ -5,7 +5,7 @@ aliases:
 created: 2026-07-13T22:49:42.084+01:00
 modified: 2026-07-13T22:50:21.890+01:00
 tags:
-  - "#npc"
+  - npc
 ---
 
 > [!info]+ Biographical Data
