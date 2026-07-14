@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T17:19:07.316+01:00
-modified: 2026-07-14T19:33:17.521+01:00
-published: 2026-07-14T19:33:17.521+01:00
+modified: 2026-07-14T21:16:38.963+01:00
+published: 2026-07-14T21:16:38.963+01:00
 tags:
   - location/building
   - shop
@@ -14,7 +14,7 @@ marker:
   - coordinates: 3437, 6761
     colour: "#f16623"
     icon: pinhead:dollar
-    minZoom: -2
+    minZoom: -2.5
 ---
 
 > [!info]+ Establishment Details

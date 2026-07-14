@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T16:29:41.738+01:00
-modified: 2026-07-14T19:14:08.649+01:00
-published: 2026-07-14T19:14:08.649+01:00
+modified: 2026-07-14T21:16:11.806+01:00
+published: 2026-07-14T21:16:11.806+01:00
 tags:
   - location/building
   - office
@@ -14,7 +14,7 @@ marker:
   - coordinates: 2813, 3132
     colour: "#e48873"
     icon: pinhead:three-books-stacked
-    minZoom: -2
+    minZoom: -2.5
 ---
 
 > [!info]+ Establishment Details

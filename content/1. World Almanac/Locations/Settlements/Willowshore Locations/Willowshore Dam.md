@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T16:11:07.906+01:00
-modified: 2026-07-14T19:33:32.751+01:00
-published: 2026-07-14T19:33:32.751+01:00
+modified: 2026-07-14T21:16:43.809+01:00
+published: 2026-07-14T21:16:43.809+01:00
 tags:
   - location/building
   - dam
@@ -14,7 +14,7 @@ marker:
   - coordinates: 2305, 3679
     icon: pinhead:dam
     colour: "#04adff"
-    minZoom: -2
+    minZoom: -2.5
 ---
 
 > [!info]+ Establishment Details

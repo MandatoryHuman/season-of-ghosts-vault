@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T16:39:45.539+01:00
-modified: 2026-07-14T19:30:30.460+01:00
-published: 2026-07-14T19:30:30.460+01:00
+modified: 2026-07-14T21:16:24.906+01:00
+published: 2026-07-14T21:16:24.906+01:00
 tags:
   - location/building
   - shop
@@ -14,7 +14,7 @@ marker:
   - coordinates: 2509, 3691
     icon: lucide-anvil
     colour: "#f16623"
-    minZoom: -2
+    minZoom: -2.5
 ---
 
 > [!info]+ Establishment Details

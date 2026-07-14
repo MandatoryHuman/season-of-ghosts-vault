@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T16:44:17.569+01:00
-modified: 2026-07-14T19:33:03.792+01:00
-published: 2026-07-14T19:33:03.792+01:00
+modified: 2026-07-14T21:16:35.753+01:00
+published: 2026-07-14T21:16:35.753+01:00
 tags:
   - location/building
   - herbalist
@@ -14,7 +14,7 @@ marker:
   - coordinates: 2799, 4199
     icon: lucide-leaf
     colour: "#f16623"
-    minZoom: -2
+    minZoom: -2.5
 ---
 
 > [!info]+ Establishment Details

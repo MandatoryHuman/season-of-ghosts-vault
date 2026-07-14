@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T17:32:01.128+01:00
-modified: 2026-07-14T19:33:10.501+01:00
-published: 2026-07-14T19:33:10.501+01:00
+modified: 2026-07-14T21:16:37.509+01:00
+published: 2026-07-14T21:16:37.509+01:00
 tags:
   - location/building
   - teahouse
@@ -13,7 +13,7 @@ buildingtype: Teahouse
 marker:
   - coordinates: 3084, 1851
     icon: pinhead:japanese-teacup-with-steam
-    minZoom: -2
+    minZoom: -2.5
 ---
 
 > [!info]+ Establishment Details

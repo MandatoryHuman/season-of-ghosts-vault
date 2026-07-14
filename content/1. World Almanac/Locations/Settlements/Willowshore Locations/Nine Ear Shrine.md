@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T00:52:50.505+01:00
-modified: 2026-07-14T19:30:21.033+01:00
-published: 2026-07-14T19:30:21.033+01:00
+modified: 2026-07-14T21:16:22.372+01:00
+published: 2026-07-14T21:16:22.372+01:00
 tags:
   - location/building
   - shrine
@@ -14,7 +14,7 @@ marker:
   - coordinates: 1868, 4106
     icon: pinhead:column-shrine
     colour: "#e2c505"
-    minZoom: -2
+    minZoom: -2.5
 ---
 
 > [!info]+ Establishment Details

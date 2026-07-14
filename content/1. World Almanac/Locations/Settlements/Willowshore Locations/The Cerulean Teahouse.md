@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T17:25:47.019+01:00
-modified: 2026-07-14T19:32:48.782+01:00
-published: 2026-07-14T19:32:48.782+01:00
+modified: 2026-07-14T21:16:32.336+01:00
+published: 2026-07-14T21:16:32.336+01:00
 tags:
   - location/building
   - teahouse
@@ -13,7 +13,7 @@ buildingtype: Teahouse
 marker:
   - coordinates: 2625, 2683
     icon: pinhead:japanese-teacup-with-steam
-    minZoom: -2
+    minZoom: -2.5
     colour: "#646464"
 ---
 

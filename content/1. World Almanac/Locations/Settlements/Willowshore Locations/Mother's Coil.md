@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T16:48:27.421+01:00
-modified: 2026-07-14T19:29:52.741+01:00
-published: 2026-07-14T19:29:52.741+01:00
+modified: 2026-07-14T21:16:19.591+01:00
+published: 2026-07-14T21:16:19.591+01:00
 tags:
   - location/building
   - shop
@@ -14,7 +14,7 @@ marker:
   - coordinates: 2623, 5820
     icon: lucide-book-open-text
     colour: "#f16623"
-    minZoom: -2
+    minZoom: -2.5
 ---
 
 > [!info]+ Establishment Details

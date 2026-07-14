@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T00:47:23.365+01:00
-modified: 2026-07-14T19:14:39.126+01:00
-published: 2026-07-14T19:14:39.126+01:00
+modified: 2026-07-14T21:16:18.188+01:00
+published: 2026-07-14T21:16:18.188+01:00
 tags:
   - location/building
   - mill
@@ -14,7 +14,7 @@ marker:
   - coordinates: 1965, 2561
     icon: pinhead:windmill
     colour: "#e48873"
-    minZoom: -2
+    minZoom: -2.5
 ---
 
 > [!info]+ Establishment Details

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T17:07:36.927+01:00
-modified: 2026-07-14T19:13:37.559+01:00
-published: 2026-07-14T19:13:37.559+01:00
+modified: 2026-07-14T21:16:03.847+01:00
+published: 2026-07-14T21:16:03.847+01:00
 tags:
   - location/building
   - fishery
@@ -14,7 +14,7 @@ marker:
   - coordinates: 3025, 7003
     icon: lucide-fish
     colour: "#e48873"
-    minZoom: -2
+    minZoom: -2.5
 ---
 
 > [!info]+ Establishment Details

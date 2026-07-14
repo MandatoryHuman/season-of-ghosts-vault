@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T16:35:51.762+01:00
-modified: 2026-07-14T19:14:29.627+01:00
-published: 2026-07-14T19:14:29.627+01:00
+modified: 2026-07-14T21:16:15.378+01:00
+published: 2026-07-14T21:16:15.378+01:00
 tags:
   - location/building
   - district
@@ -14,7 +14,7 @@ marker:
   - coordinates: 2912, 3420
     icon: map:shopping-mall
     colour: "#f16623"
-    minZoom: -2
+    minZoom: -2.5
 ---
 
 > [!info]+ Establishment Details

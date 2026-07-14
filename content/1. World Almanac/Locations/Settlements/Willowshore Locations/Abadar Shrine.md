@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T00:28:54.633+01:00
-modified: 2026-07-14T19:37:54.416+01:00
-published: 2026-07-14T19:37:54.416+01:00
+modified: 2026-07-14T21:15:48.900+01:00
+published: 2026-07-14T21:15:48.900+01:00
 ---
 
 > [!info]+ Establishment Details
