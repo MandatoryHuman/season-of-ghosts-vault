@@ -4,8 +4,8 @@ created: 2026-07-14T16:13:32.251+01:00
 modified: 2026-07-14T19:13:20.274+01:00
 published: 2026-07-14T19:13:20.274+01:00
 tags:
-  - "#location/building"
-  - "#district"
+  - location/building
+  - district
 aliases: []
 settlement: "[[Willowshore]]"
 owner:

@@ -4,8 +4,8 @@ created: 2026-07-14T16:11:07.906+01:00
 modified: 2026-07-14T19:33:32.751+01:00
 published: 2026-07-14T19:33:32.751+01:00
 tags:
-  - "#location/building"
-  - "#dam"
+  - location/building
+  - dam
 aliases: []
 settlement: "[[Willowshore]]"
 owner:

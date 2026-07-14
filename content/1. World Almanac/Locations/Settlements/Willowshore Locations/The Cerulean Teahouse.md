@@ -4,8 +4,8 @@ created: 2026-07-14T17:25:47.019+01:00
 modified: 2026-07-14T19:32:48.782+01:00
 published: 2026-07-14T19:32:48.782+01:00
 tags:
-  - "#location/building"
-  - "#teahouse"
+  - location/building
+  - teahouse
 aliases: []
 settlement: "[[Willowshore]]"
 owner:

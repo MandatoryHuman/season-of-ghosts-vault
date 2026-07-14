@@ -4,8 +4,8 @@ created: 2026-07-14T00:28:54.634+01:00
 modified: 2026-07-14T19:13:44.233+01:00
 published: 2026-07-14T19:13:44.233+01:00
 tags:
-  - "#location/building"
-  - "#shop"
+  - location/building
+  - shop
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[You So-Jin]]"

@@ -4,7 +4,7 @@ created: 2026-07-14T00:56:18.057+01:00
 modified: 2026-07-14T19:11:38.439+01:00
 published: 2026-07-14T19:11:38.439+01:00
 tags:
-  - "#npc"
+  - npc
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Nine Ear Shrine.md|Nine Ear Shrine]]"

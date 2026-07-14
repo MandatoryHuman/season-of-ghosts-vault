@@ -4,8 +4,8 @@ created: 2026-07-14T00:47:23.365+01:00
 modified: 2026-07-14T19:14:39.126+01:00
 published: 2026-07-14T19:14:39.126+01:00
 tags:
-  - "#location/building"
-  - "#mill"
+  - location/building
+  - mill
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Choe Chung-hu]]"

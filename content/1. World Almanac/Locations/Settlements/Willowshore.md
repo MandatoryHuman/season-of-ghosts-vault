@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T00:28:54.636+01:00
-modified: 2026-07-14T19:34:30.158+01:00
-published: 2026-07-14T19:34:30.158+01:00
+modified: 2026-07-14T20:58:27.120+01:00
+published: 2026-07-14T20:58:27.120+01:00
 tags:
   - "#location/settlement"
 aliases: []
@@ -21,7 +21,6 @@ settlementtype: Town
 ```base
 filters:
   and:
-    - file.tags.contains("location")
     - file.path.startsWith("1. World Almanac/Locations/Settlements/Willowshore Locations")
 views:
   - type: leaflet-map
