@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T23:01:00.080+01:00
-modified: 2026-07-15T00:01:41.402+01:00
-published: 2026-07-15T00:01:41.402+01:00
+modified: 2026-07-15T00:03:47.837+01:00
+published: 2026-07-15T00:03:47.837+01:00
 tags:
   - "#pc"
 aliases: []
@@ -28,6 +28,8 @@ partyrole: Controller
 Amaya is a staunch follower of the teachings of the River of Life, otherwise known as Sangpotshi. She believes that when a person passes, their essence trickles back into the River of Souls, flowing through the afterlife before cascading down the final waterfall to be born anew. Over these repeated journeys, a spirit accumulates merit through virtuous deeds, slowly earning its ultimate release from the endless cycle to find its final resting place in the Great Beyond.
 
 Since childhood, Amaya has had a strong sensitivity to this spiritual veil, able to sense, understand, and speak with lingering spirits when others fail. Driven in equal measure by a sense of solemn duty and of earnest curiosity, Amaya has devoted countless hours to honing these abilities to bridge the gap between herself and the departed.
+
+![[z_assets/Icons/Sangpotshi.webp|400]]
 
 Her connection is perhaps strongest at night, when she often experiences vivid, lucid dreams. In these visions, she finds herself walking the shores of the River of Souls, where she gently guides wayward shades back to the waters to continue their eternal journey. Though she cannot say for certain whether these are mere dreams or a supernatural tether to the afterlife, she finds deep comfort in the belief that she is aiding these lost spirits on their way.
 
