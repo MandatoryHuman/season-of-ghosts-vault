@@ -3,8 +3,8 @@ publish: true
 created: 2026-07-14T17:19:07.316+01:00
 modified: 2026-07-14T17:22:53.877+01:00
 tags:
-  - "#location/building"
-  - "#shop"
+  - location/building
+  - shop
 ---
 
 > [!info]+ Establishment Details

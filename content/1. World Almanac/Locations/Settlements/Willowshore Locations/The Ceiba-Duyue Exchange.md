@@ -3,8 +3,8 @@ publish: true
 created: 2026-07-14T16:59:20.010+01:00
 modified: 2026-07-14T17:06:04.950+01:00
 tags:
-  - "#location/building"
-  - "#office"
+  - location/building
+  - office
 ---
 
 > [!info]+ Establishment Details

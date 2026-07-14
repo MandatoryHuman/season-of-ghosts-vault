@@ -3,8 +3,8 @@ publish: true
 created: 2026-07-14T16:35:51.762+01:00
 modified: 2026-07-14T16:39:19.769+01:00
 tags:
-  - "#location/building"
-  - "#district"
+  - location/building
+  - district
 ---
 
 > [!info]+ Establishment Details

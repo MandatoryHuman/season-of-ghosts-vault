@@ -3,8 +3,8 @@ publish: true
 created: 2026-07-14T16:44:17.569+01:00
 modified: 2026-07-14T16:55:19.047+01:00
 tags:
-  - "#location/building"
-  - "#herbalist"
+  - location/building
+  - herbalist
 ---
 
 > [!info]+ Establishment Details

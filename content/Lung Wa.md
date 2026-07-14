@@ -3,7 +3,7 @@ publish: true
 created: 2026-07-14T18:07:57.872+01:00
 modified: 2026-07-14T18:19:59.936+01:00
 tags:
-  - "#faction"
+  - faction
 ---
 
 > [!info]+ Faction Details

@@ -3,8 +3,8 @@ publish: true
 created: 2026-07-14T00:57:33.532+01:00
 modified: 2026-07-14T17:18:31.407+01:00
 tags:
-  - "#location/building"
-  - "#church"
+  - location/building
+  - church
 ---
 
 > [!info]+ Establishment Details

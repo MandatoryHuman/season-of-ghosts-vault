@@ -3,8 +3,8 @@ publish: true
 created: 2026-07-14T17:32:01.128+01:00
 modified: 2026-07-14T17:35:03.402+01:00
 tags:
-  - "#location/building"
-  - "#teahouse"
+  - location/building
+  - teahouse
 ---
 
 > [!info]+ Establishment Details

@@ -3,8 +3,8 @@ publish: true
 created: 2026-07-14T16:11:07.906+01:00
 modified: 2026-07-14T16:19:56.092+01:00
 tags:
-  - "#location/building"
-  - "#dam"
+  - location/building
+  - dam
 ---
 
 > [!info]+ Establishment Details
