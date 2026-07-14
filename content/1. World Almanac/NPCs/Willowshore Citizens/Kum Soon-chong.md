@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T00:28:54.639+01:00
-modified: 2026-07-14T18:57:05.280+01:00
-published: 2026-07-14T18:57:05.280+01:00
+modified: 2026-07-15T00:08:09.447+01:00
+published: 2026-07-15T00:08:09.447+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[Willowshore Stables]]"

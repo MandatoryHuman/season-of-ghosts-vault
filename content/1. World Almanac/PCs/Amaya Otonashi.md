@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T23:01:00.080+01:00
-modified: 2026-07-15T00:03:47.837+01:00
-published: 2026-07-15T00:03:47.837+01:00
+modified: 2026-07-15T00:09:10.496+01:00
+published: 2026-07-15T00:09:10.496+01:00
 tags:
   - "#pc"
 aliases: []
@@ -11,6 +11,7 @@ ancestry:
   - Elf
 class: Necromancer
 partyrole: Controller
+friend: "[[Elizeth Candora]]"
 ---
 
 > [!info]+ Character Details
