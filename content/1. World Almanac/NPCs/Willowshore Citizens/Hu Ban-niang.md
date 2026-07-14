@@ -1,32 +1,28 @@
 ---
+publish: true
 aliases:
   - Granny Hu
+created: 2026-07-14T00:28:54.638+01:00
+modified: 2026-07-14T00:22:19.373+01:00
 tags:
   - npc
-status: Alive
-location: "[[Willowshore]]"
-faction:
-ancestry:
-  - Human
-  - Tian-shu
-class: Guard Captain
-level:
-npcimage: "[[Granny Hu.webp]]"
 ---
+
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Faction:**
 
 ## Appearance
 
-![[Granny Hu.webp]]
+![[z_assets/NPCs/Granny Hu.webp]]
 
 ## Bio
 
-
 ## Relationship to Party
+
 - **Attitude:** Neutral
 
 ## Notes
-- 
+
+-

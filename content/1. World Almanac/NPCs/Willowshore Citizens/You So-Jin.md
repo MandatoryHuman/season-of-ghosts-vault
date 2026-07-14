@@ -1,22 +1,17 @@
 ---
-aliases: []
+publish: true
+created: 2026-07-14T00:28:54.642+01:00
+modified: 2026-07-14T00:22:19.388+01:00
 tags:
   - npc
-status: Alive
-location: "[[Graveside Manners]]"
-faction:
-ancestry:
-  - Elf
-class: Herbalist
-level:
-npcimage:
 ---
+
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Graveside Manners.md|Graveside Manners]]
+> **Ancestry:** Elf
+> **Profession:** Herbalist
+> **Faction:**
 
 ## Appearance
 
@@ -24,10 +19,11 @@ npcimage:
 
 ## Bio
 
-
 ## Relationship to Party
+
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-- 
+
+-
