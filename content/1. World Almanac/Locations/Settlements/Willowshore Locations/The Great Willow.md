@@ -3,9 +3,9 @@ publish: true
 created: 2026-07-14T17:38:17.896+01:00
 modified: 2026-07-14T17:41:34.201+01:00
 tags:
-  - "#location"
-  - "#landmark"
-  - "#shrine"
+  - location
+  - landmark
+  - shrine
 ---
 
 ## Description

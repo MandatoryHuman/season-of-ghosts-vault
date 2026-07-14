@@ -3,7 +3,7 @@ publish: true
 created: 2026-07-14T16:00:52.057+01:00
 modified: 2026-07-14T16:02:26.015+01:00
 tags:
-  - "#item"
+  - item
 ---
 
 ## Description

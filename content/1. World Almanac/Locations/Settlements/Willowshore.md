@@ -3,7 +3,7 @@ publish: true
 created: 2026-07-13T22:48:07.090+01:00
 modified: 2026-07-13T23:49:25.704+01:00
 tags:
-  - "#location/settlement"
+  - location/settlement
 ---
 
 > [!info]+ Settlement Details
