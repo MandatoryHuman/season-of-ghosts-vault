@@ -3,8 +3,8 @@ publish: true
 created: 2026-07-14T00:47:23.365+01:00
 modified: 2026-07-14T00:52:09.911+01:00
 tags:
-  - "#location/building"
-  - "#mill"
+  - location/building
+  - mill
 ---
 
 > [!info]+ Establishment Details

@@ -3,8 +3,8 @@ publish: true
 created: 2026-07-14T00:39:35.879+01:00
 modified: 2026-07-14T00:48:02.769+01:00
 tags:
-  - "#location/building"
-  - "#residential"
+  - location/building
+  - residential
 ---
 
 > [!info]+ Establishment Details

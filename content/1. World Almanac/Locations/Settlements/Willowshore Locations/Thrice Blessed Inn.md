@@ -3,8 +3,8 @@ publish: true
 created: 2026-07-14T00:43:13.630+01:00
 modified: 2026-07-14T00:48:06.861+01:00
 tags:
-  - "#location/building"
-  - "#inn"
+  - location/building
+  - inn
 ---
 
 > [!info]+ Establishment Details

@@ -3,8 +3,8 @@ publish: true
 created: 2026-07-14T00:28:54.633+01:00
 modified: 2026-07-14T00:54:14.824+01:00
 tags:
-  - "#location/building"
-  - "#shrine"
+  - location/building
+  - shrine
 ---
 
 > [!info]+ Establishment Details
