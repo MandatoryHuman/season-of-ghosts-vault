@@ -1,11 +1,15 @@
 ---
-publish: true
 aliases:
   - Governor
-created: 2026-07-14T00:28:54.638+01:00
-modified: 2026-07-14T17:45:11.636+01:00
 tags:
   - npc
+status: Alive
+location:
+faction:
+ancestry:
+class:
+level:
+npcimage:
 ---
 
 > [!info]+ Biographical Data
@@ -17,7 +21,7 @@ tags:
 
 ## Appearance
 
-![[z_assets/NPCs/Heh Shan-Bao.webp]]
+(Image)
 
 ## Bio
 

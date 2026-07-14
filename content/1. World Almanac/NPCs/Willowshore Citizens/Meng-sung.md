@@ -4,6 +4,14 @@ created: 2026-07-14T00:28:54.641+01:00
 modified: 2026-07-14T01:07:49.268+01:00
 tags:
   - npc
+status: Alive
+location: "[[Willowshore Stables]]"
+faction:
+ancestry:
+  - Human
+class: Veterinarian
+level:
+npcimage:
 ---
 
 > [!info]+ Biographical Data

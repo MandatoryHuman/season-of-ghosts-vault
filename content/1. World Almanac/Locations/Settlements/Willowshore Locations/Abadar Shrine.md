@@ -10,7 +10,7 @@ owner:
 buildingtype: Shrine
 marker:
   - coordinates: 2113, 1075
-    icon: lucide-church
+    icon: pinhead:column-shrine
     colour: "#e2c505"
     minZoom: -2
 ---

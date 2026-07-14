@@ -5,6 +5,14 @@ modified: 2026-07-14T00:47:57.690+01:00
 tags:
   - location/building
   - shop
+settlement: "[[Willowshore]]"
+owner: "[[Yong Wu-Xiu]]"
+buildingtype: Ironworks
+marker:
+  - coordinates: 1473, 683
+    icon: lucide-anvil
+    colour: "#f16623"
+    minZoom: -3
 ---
 
 > [!info]+ Establishment Details
