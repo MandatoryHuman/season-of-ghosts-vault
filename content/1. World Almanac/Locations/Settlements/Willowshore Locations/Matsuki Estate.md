@@ -2,9 +2,19 @@
 publish: true
 created: 2026-07-14T00:39:35.879+01:00
 modified: 2026-07-14T19:14:16.493+01:00
+published: 2026-07-14T19:14:16.493+01:00
 tags:
   - "#location/building"
   - "#residential"
+aliases: []
+settlement: "[[Willowshore]]"
+owner: "[[Matsuki Shou|Old Matsuki]]"
+buildingtype: Residential
+marker:
+  - coordinates: 2363, 1454
+    icon: lucide-house
+    colour: "#039c4b"
+    minZoom: -2
 ---
 
 > [!info]+ Establishment Details

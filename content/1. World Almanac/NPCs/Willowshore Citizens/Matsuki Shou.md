@@ -4,8 +4,18 @@ aliases:
   - Old Matsuki
 created: 2026-07-14T00:28:54.640+01:00
 modified: 2026-07-14T19:11:38.451+01:00
+published: 2026-07-14T19:11:38.451+01:00
 tags:
   - "#npc"
+status: Alive
+location: "[[Willowshore]]"
+faction: "[[Southbankers]]"
+ancestry:
+  - Human
+  - Tian-shu
+class: Carpenter
+level:
+npcimage: "[[Old Matsuki.webp]]"
 ---
 
 > [!info]+ Biographical Data

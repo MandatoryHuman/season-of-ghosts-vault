@@ -2,9 +2,19 @@
 publish: true
 created: 2026-07-14T00:28:54.633+01:00
 modified: 2026-07-14T19:12:28.893+01:00
+published: 2026-07-14T19:12:28.893+01:00
 tags:
   - "#location/building"
   - "#shrine"
+aliases: []
+settlement: "[[Willowshore]]"
+owner:
+buildingtype: Shrine
+marker:
+  - coordinates: 2113, 1075
+    icon: pinhead:column-shrine
+    colour: "#e2c505"
+    minZoom: -2
 ---
 
 > [!info]+ Establishment Details

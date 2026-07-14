@@ -2,9 +2,19 @@
 publish: true
 created: 2026-07-14T16:29:41.738+01:00
 modified: 2026-07-14T19:14:08.649+01:00
+published: 2026-07-14T19:14:08.649+01:00
 tags:
   - "#location/building"
   - "#office"
+aliases: []
+settlement: "[[Willowshore]]"
+owner: "[[Luo Xi Yang]]"
+buildingtype: Law office
+marker:
+  - coordinates: 2813, 3132
+    colour: "#e48873"
+    icon: pinhead:three-books-stacked
+    minZoom: -2
 ---
 
 > [!info]+ Establishment Details

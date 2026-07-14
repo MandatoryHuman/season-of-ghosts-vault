@@ -4,8 +4,16 @@ aliases:
   - Dami
 created: 2026-07-14T16:45:21.160+01:00
 modified: 2026-07-14T19:11:38.439+01:00
+published: 2026-07-14T19:11:38.439+01:00
 tags:
   - "#npc"
+status: Alive
+location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/The Hand of Spring.md|The Hand of Spring]]"
+faction:
+ancestry: Human
+class: Doctor
+level:
+npcimage:
 ---
 
 > [!info]+ Biographical Data

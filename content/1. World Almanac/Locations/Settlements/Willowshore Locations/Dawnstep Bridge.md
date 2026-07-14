@@ -2,9 +2,19 @@
 publish: true
 created: 2026-07-14T15:54:46.806+01:00
 modified: 2026-07-14T19:12:52.029+01:00
+published: 2026-07-14T19:12:52.029+01:00
 tags:
   - "#location/building"
   - "#bridge"
+aliases: []
+settlement: "[[Willowshore]]"
+owner:
+buildingtype: Bridge
+marker:
+  - coordinates: 2216, 2998
+    icon: pinhead:bridge
+    colour: "#66d313"
+    minZoom: -2
 ---
 
 > [!info]+ Establishment Details

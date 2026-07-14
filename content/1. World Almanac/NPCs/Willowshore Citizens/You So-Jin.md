@@ -2,8 +2,17 @@
 publish: true
 created: 2026-07-14T00:28:54.642+01:00
 modified: 2026-07-14T19:11:38.451+01:00
+published: 2026-07-14T19:11:38.451+01:00
 tags:
   - "#npc"
+aliases: []
+status: Alive
+location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Graveside Manners.md|Graveside Manners]]"
+faction:
+ancestry: Elf
+class: Herbalist
+level:
+npcimage:
 ---
 
 > [!info]+ Biographical Data

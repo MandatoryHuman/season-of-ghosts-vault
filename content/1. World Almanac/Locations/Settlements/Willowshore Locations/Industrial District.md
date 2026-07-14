@@ -2,9 +2,19 @@
 publish: true
 created: 2026-07-14T16:02:49.502+01:00
 modified: 2026-07-14T19:13:50.650+01:00
+published: 2026-07-14T19:13:50.650+01:00
 tags:
   - "#location/building"
   - "#district"
+aliases: []
+settlement: "[[Willowshore]]"
+owner:
+buildingtype: District
+marker:
+  - coordinates: 1943, 3409
+    colour: "#e48873"
+    icon: lucide-factory
+    minZoom: -3
 ---
 
 > [!info]+ Establishment Details

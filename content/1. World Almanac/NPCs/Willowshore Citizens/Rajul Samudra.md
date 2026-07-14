@@ -2,8 +2,17 @@
 publish: true
 created: 2026-07-14T17:14:15.130+01:00
 modified: 2026-07-14T19:11:38.450+01:00
+published: 2026-07-14T19:11:38.450+01:00
 tags:
   - "#npc"
+aliases: []
+status: Alive
+location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Dock.md|Dock]]"
+faction:
+ancestry: Nagaji
+class: Shipwright
+level:
+npcimage:
 ---
 
 > [!info]+ Biographical Data

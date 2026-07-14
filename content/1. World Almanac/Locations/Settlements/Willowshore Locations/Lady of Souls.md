@@ -2,9 +2,19 @@
 publish: true
 created: 2026-07-14T00:57:33.532+01:00
 modified: 2026-07-14T19:14:02.057+01:00
+published: 2026-07-14T19:14:02.057+01:00
 tags:
   - "#location/building"
   - "#church"
+aliases: []
+settlement: "[[Willowshore]]"
+owner: "[[Elizeth Candora]]"
+buildingtype: Church
+marker:
+  - coordinates: 1416, 3149
+    minZoom: -3
+    colour: "#e2c505"
+    icon: lucide-church
 ---
 
 > [!info]+ Establishment Details

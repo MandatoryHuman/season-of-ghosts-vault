@@ -2,9 +2,19 @@
 publish: true
 created: 2026-07-14T17:35:26.194+01:00
 modified: 2026-07-14T19:12:44.925+01:00
+published: 2026-07-14T19:12:44.925+01:00
 tags:
   - "#location/building"
   - "#cemetery"
+aliases: []
+settlement: "[[Willowshore]]"
+owner:
+buildingtype: Cemetery
+marker:
+  - coordinates: 4132, 1354
+    icon: lucide-skull
+    colour: "#e48873"
+    minZoom: -3
 ---
 
 > [!info]+ Establishment Details
