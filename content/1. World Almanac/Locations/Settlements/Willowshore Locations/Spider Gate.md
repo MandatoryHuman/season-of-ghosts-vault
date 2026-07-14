@@ -2,9 +2,15 @@
 publish: true
 created: 2026-07-14T17:41:55.300+01:00
 modified: 2026-07-14T17:58:55.538+01:00
+published: 2026-07-14T19:31:58.459+01:00
 tags:
-  - location/building
-  - gate
+  - "#location/building"
+  - "#gate"
+marker:
+  - coordinates: 2131, 6909
+    icon: pinhead:city-gate
+    colour: "#e48873"
+    minZoom: -3
 ---
 
 > [!info]+ Establishment Details

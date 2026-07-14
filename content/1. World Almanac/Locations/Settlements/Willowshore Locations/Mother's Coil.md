@@ -1,10 +1,20 @@
 ---
 publish: true
 created: 2026-07-14T16:48:27.421+01:00
-modified: 2026-07-14T17:18:46.165+01:00
+modified: 2026-07-14T19:29:52.741+01:00
+published: 2026-07-14T19:29:52.741+01:00
 tags:
-  - location/building
-  - shop
+  - "#location/building"
+  - "#shop"
+aliases: []
+settlement: "[[Willowshore]]"
+owner: "[[Jubei]]"
+buildingtype: Shop
+marker:
+  - coordinates: 2623, 5820
+    icon: lucide-book-open-text
+    colour: "#f16623"
+    minZoom: -2
 ---
 
 > [!info]+ Establishment Details

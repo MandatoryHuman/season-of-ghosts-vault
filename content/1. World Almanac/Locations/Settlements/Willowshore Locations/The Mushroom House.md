@@ -1,10 +1,20 @@
 ---
 publish: true
 created: 2026-07-14T17:19:07.316+01:00
-modified: 2026-07-14T17:22:53.877+01:00
+modified: 2026-07-14T19:33:17.521+01:00
+published: 2026-07-14T19:33:17.521+01:00
 tags:
-  - location/building
-  - shop
+  - "#location/building"
+  - "#shop"
+aliases: []
+settlement: "[[Willowshore]]"
+owner: "[[Luda Bama]]"
+buildingtype: Black Market
+marker:
+  - coordinates: 3437, 6761
+    colour: "#f16623"
+    icon: pinhead:dollar
+    minZoom: -2
 ---
 
 > [!info]+ Establishment Details

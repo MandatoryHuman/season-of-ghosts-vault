@@ -1,10 +1,19 @@
 ---
 publish: true
 created: 2026-07-14T00:43:13.630+01:00
-modified: 2026-07-14T00:48:06.861+01:00
+modified: 2026-07-14T19:33:23.845+01:00
+published: 2026-07-14T19:33:23.845+01:00
 tags:
-  - location/building
-  - inn
+  - "#location/building"
+  - "#inn"
+aliases: []
+settlement: "[[Willowshore]]"
+owner:
+buildingtype: Inn
+marker:
+  - coordinates: 2511, 1989
+    icon: pinhead:beer-bottle-and-drink-bottle
+    minZoom: -3
 ---
 
 > [!info]+ Establishment Details

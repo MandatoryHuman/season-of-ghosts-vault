@@ -1,10 +1,20 @@
 ---
 publish: true
 created: 2026-07-14T00:28:54.635+01:00
-modified: 2026-07-14T00:22:19.373+01:00
+modified: 2026-07-14T19:33:38.897+01:00
+published: 2026-07-14T19:33:38.897+01:00
 tags:
-  - location/building
-  - shop
+  - "#location/building"
+  - "#shop"
+aliases: []
+settlement: "[[Willowshore]]"
+owner: "[[Kum Soon-chong]]"
+buildingtype: Stable
+marker:
+  - coordinates: 1629, 1066
+    icon: lucide-paw-print
+    colour: "#f16623"
+    minZoom: -3
 ---
 
 > [!info]+ Establishment Details

@@ -1,10 +1,20 @@
 ---
 publish: true
 created: 2026-07-14T16:59:20.010+01:00
-modified: 2026-07-14T17:06:04.950+01:00
+modified: 2026-07-14T19:32:13.324+01:00
+published: 2026-07-14T19:32:13.324+01:00
 tags:
-  - location/building
-  - office
+  - "#location/building"
+  - "#office"
+aliases: []
+settlement: "[[Willowshore]]"
+owner: "[[Kim Gu-won]]"
+buildingtype: Trade Office
+marker:
+  - coordinates: 2969, 6755
+    icon: lucide-scale
+    colour: "#f16623"
+    minZoom: -3
 ---
 
 > [!info]+ Establishment Details

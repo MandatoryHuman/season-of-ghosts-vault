@@ -1,10 +1,19 @@
 ---
 publish: true
 created: 2026-07-14T16:07:49.021+01:00
-modified: 2026-07-14T16:12:57.362+01:00
+modified: 2026-07-14T19:33:46.034+01:00
+published: 2026-07-14T19:33:46.034+01:00
 tags:
-  - location
-  - lake
+  - "#location"
+  - "#lake"
+aliases: []
+region: "[[Willowshore]]"
+type: Lake
+marker:
+  - coordinates: 2303, 3410
+    icon: lucide-sailboat
+    minZoom: -3
+    colour: "#04adff"
 ---
 
 ## Description

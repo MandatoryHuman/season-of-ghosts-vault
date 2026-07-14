@@ -1,10 +1,19 @@
 ---
 publish: true
 created: 2026-07-14T17:32:01.128+01:00
-modified: 2026-07-14T17:35:03.402+01:00
+modified: 2026-07-14T19:33:10.501+01:00
+published: 2026-07-14T19:33:10.501+01:00
 tags:
-  - location/building
-  - teahouse
+  - "#location/building"
+  - "#teahouse"
+aliases: []
+settlement: "[[Willowshore]]"
+owner: "[[Mountain Summit Grass]]"
+buildingtype: Teahouse
+marker:
+  - coordinates: 3084, 1851
+    icon: pinhead:japanese-teacup-with-steam
+    minZoom: -2
 ---
 
 > [!info]+ Establishment Details

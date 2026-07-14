@@ -1,10 +1,20 @@
 ---
 publish: true
 created: 2026-07-14T16:39:45.539+01:00
-modified: 2026-07-14T16:43:42.693+01:00
+modified: 2026-07-14T19:30:30.460+01:00
+published: 2026-07-14T19:30:30.460+01:00
 tags:
-  - location/building
-  - shop
+  - "#location/building"
+  - "#shop"
+aliases: []
+settlement:
+owner: "[[Huo Tian-Zhe]]"
+buildingtype: Shop
+marker:
+  - coordinates: 2509, 3691
+    icon: lucide-anvil
+    colour: "#f16623"
+    minZoom: -2
 ---
 
 > [!info]+ Establishment Details

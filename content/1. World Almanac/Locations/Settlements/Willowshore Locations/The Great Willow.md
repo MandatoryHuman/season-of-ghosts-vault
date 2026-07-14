@@ -1,11 +1,20 @@
 ---
 publish: true
 created: 2026-07-14T17:38:17.896+01:00
-modified: 2026-07-14T17:41:34.201+01:00
+modified: 2026-07-14T19:32:55.496+01:00
+published: 2026-07-14T19:32:55.496+01:00
 tags:
-  - location
-  - landmark
-  - shrine
+  - "#location"
+  - "#landmark"
+  - "#shrine"
+aliases: []
+region: "[[Willowshore]]"
+type: Landmark
+marker:
+  - coordinates: 4536, 3220
+    icon: lucide-tree-deciduous
+    colour: "#e2c505"
+    minZoom: -3
 ---
 
 ## Description
