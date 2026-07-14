@@ -1,9 +1,7 @@
 ---
 publish: true
-aliases:
-  - Governor
-created: 2026-07-14T00:28:54.638+01:00
-modified: 2026-07-14T17:45:11.636+01:00
+created: 2026-07-14T16:21:24.816+01:00
+modified: 2026-07-14T16:21:49.249+01:00
 tags:
   - "#npc"
 ---
@@ -11,13 +9,13 @@ tags:
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Downtown Willowshore.md|Downtown Willowshore]]
-> **Ancestry:** Human,Tian-shu
-> **Profession:** Governor
+> **Ancestry:** Halfling
+> **Profession:** Bathhouse Owner
 > **Faction:**
 
 ## Appearance
 
-![[z_assets/NPCs/Heh Shan-Bao.webp]]
+(Image)
 
 ## Bio
 

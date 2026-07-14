@@ -1,16 +1,16 @@
 ---
 publish: true
-created: 2026-07-14T00:28:54.641+01:00
-modified: 2026-07-14T01:07:49.268+01:00
+created: 2026-07-14T17:00:10.051+01:00
+modified: 2026-07-14T18:04:41.887+01:00
 tags:
   - "#npc"
 ---
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Willowshore Stables.md|Willowshore Stables]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/The Ceiba-Duyue Exchange.md|The Ceiba-Duyue Exchange]]
 > **Ancestry:** Human
-> **Profession:** Veterinarian
+> **Profession:** Cleric
 > **Faction:**
 
 ## Appearance

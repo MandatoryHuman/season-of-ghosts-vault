@@ -1,14 +1,16 @@
 ---
 publish: true
 created: 2026-07-14T00:28:54.654+01:00
-modified: 2026-07-14T00:22:19.388+01:00
+modified: 2026-07-14T18:08:34.211+01:00
 tags:
-  - faction
+  - "#faction"
 ---
 
 > [!info]+ Faction Details
 > **Type:**
 > **Leader:**
+
+## Details
 
 ## Goals & Motivations
 

@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-14T00:28:54.653+01:00
-modified: 2026-07-14T00:22:19.388+01:00
+modified: 2026-07-14T16:49:22.071+01:00
 tags:
-  - location/building
+  - "#location/building"
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** <% await tp.system.prompt("Which settlement is this in?") %>
+> **Settlement:**
 > **Owner:**
 > **Type:** <% await tp.system.prompt("What kind of building? (e.g., Tavern, Smithy, Residence)") %>
 

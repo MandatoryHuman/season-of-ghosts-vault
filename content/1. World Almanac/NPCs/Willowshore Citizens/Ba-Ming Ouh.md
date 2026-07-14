@@ -1,14 +1,14 @@
 ---
 publish: true
 created: 2026-07-14T00:56:18.057+01:00
-modified: 2026-07-14T00:56:33.880+01:00
+modified: 2026-07-14T18:04:08.809+01:00
 tags:
-  - npc
+  - "#npc"
 ---
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** Nine Ear Shrine
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Nine Ear Shrine.md|Nine Ear Shrine]]
 > **Ancestry:** Human
 > **Profession:** Priest
 > **Faction:**

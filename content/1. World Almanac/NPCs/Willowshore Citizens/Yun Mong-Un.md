@@ -1,16 +1,16 @@
 ---
 publish: true
-created: 2026-07-14T00:28:54.641+01:00
-modified: 2026-07-14T01:07:49.268+01:00
+created: 2026-07-14T16:38:00.743+01:00
+modified: 2026-07-14T18:05:58.395+01:00
 tags:
   - "#npc"
 ---
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Willowshore Stables.md|Willowshore Stables]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Mercantile Street.md|Mercantile Street]]
 > **Ancestry:** Human
-> **Profession:** Veterinarian
+> **Profession:** Woodcarver
 > **Faction:**
 
 ## Appearance
