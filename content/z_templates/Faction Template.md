@@ -12,6 +12,8 @@ tags:
 
 ## Details
 
+## Details
+
 ## Goals & Motivations
 
 ## Standing with Party
