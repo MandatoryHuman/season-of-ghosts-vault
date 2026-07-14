@@ -4,7 +4,7 @@ created: 2026-07-14T17:00:10.051+01:00
 modified: 2026-07-14T19:11:38.440+01:00
 published: 2026-07-14T19:11:38.440+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/The Ceiba-Duyue Exchange.md|The Ceiba-Duyue Exchange]]"
