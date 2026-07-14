@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Dami
 created: 2026-07-14T16:45:21.160+01:00
-modified: 2026-07-14T16:46:31.315+01:00
+modified: 2026-07-14T19:11:38.439+01:00
 tags:
-  - npc
+  - "#npc"
 ---
 
 > [!info]+ Biographical Data

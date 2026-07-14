@@ -1,9 +1,9 @@
 ---
 publish: true
 created: 2026-07-14T00:59:17.200+01:00
-modified: 2026-07-14T01:07:02.028+01:00
+modified: 2026-07-14T19:11:38.440+01:00
 tags:
-  - npc
+  - "#npc"
 ---
 
 > [!info]+ Biographical Data

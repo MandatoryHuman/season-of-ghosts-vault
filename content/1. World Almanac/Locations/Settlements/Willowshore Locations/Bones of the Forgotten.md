@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T17:35:26.194+01:00
-modified: 2026-07-14T17:38:10.434+01:00
+modified: 2026-07-14T19:12:44.925+01:00
 tags:
-  - location/building
-  - cemetery
+  - "#location/building"
+  - "#cemetery"
 ---
 
 > [!info]+ Establishment Details

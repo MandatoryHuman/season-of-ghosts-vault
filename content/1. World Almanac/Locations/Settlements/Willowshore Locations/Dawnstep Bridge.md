@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T15:54:46.806+01:00
-modified: 2026-07-14T16:02:37.746+01:00
+modified: 2026-07-14T19:12:52.029+01:00
 tags:
-  - location/building
-  - bridge
+  - "#location/building"
+  - "#bridge"
 ---
 
 > [!info]+ Establishment Details
