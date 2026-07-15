@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T00:59:17.200+01:00
-modified: 2026-07-15T13:23:29.292+01:00
-published: 2026-07-15T13:23:29.292+01:00
+modified: 2026-07-15T21:05:09.258+01:00
+published: 2026-07-15T21:05:09.258+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Lady of Souls.md|Lady of Souls]]"
@@ -29,6 +29,12 @@ npcimage: "[[Elizeth Candora.webp]]"
 ![[z_assets/NPCs/Elizeth Candora.webp]]
 
 ## Bio
+
+A second generation Taldan from Goka, Elizeth is a priestess at the [[Lady of Souls]], a cathedral devoted to [Pharasma](https://pathfinderwiki.com/wiki/Pharasma) built when [[Lung Wa]] first took interest in the area as a way to prevent an undead uprising.
+
+When she was a child living in Goka, Elizeth once visited [[Willowshore]] and the [[Tan Sugi Monastery]]. She took the position in Willowshore as a chance to help restore the village to place she recalls from that visit, seeing the opportunity as fate arranged by Pharasma's hand.
+
+She's fond of spending time alone in the graveyard with her flute, playing to soothe the spirits of those recently buried within.
 
 ## Relationship to Party
 

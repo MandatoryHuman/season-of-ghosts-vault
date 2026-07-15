@@ -4,7 +4,7 @@ created: 2026-07-15T16:12:45.314+01:00
 modified: 2026-07-15T16:27:02.064+01:00
 published: 2026-07-15T16:27:02.064+01:00
 tags:
-  - "#faction"
+  - faction
 aliases: []
 leader: "[[Matsuki Shou]]"
 alignment:

@@ -4,7 +4,7 @@ created: 2026-07-15T16:05:41.817+01:00
 modified: 2026-07-15T16:12:17.864+01:00
 published: 2026-07-15T16:12:17.864+01:00
 tags:
-  - "#faction"
+  - faction
 aliases: []
 leader: "[[Lung Wa]]"
 alignment:

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Granny Hu
 created: 2026-07-14T00:28:54.638+01:00
-modified: 2026-07-15T13:23:46.333+01:00
-published: 2026-07-15T13:23:46.333+01:00
+modified: 2026-07-15T21:20:28.272+01:00
+published: 2026-07-15T21:20:28.272+01:00
 tags:
   - npc
 status: Alive
@@ -29,6 +29,8 @@ npcimage: "[[Granny Hu.webp]]"
 ![[z_assets/NPCs/Granny Hu.webp]]
 
 ## Bio
+
+While "Granny" Hu Ban-niang was once the [[Lung Wa]] appointed guard captain, she has been retired for many years now, succeeded by [[Zheng Peng]]. Despite her retirement, Granny Hu still holds significant sway within the town; both by reputation and black mail. It was this pressure she exerted to "convice" [[Kim Gu-won]] to take up his current post as Exchange Manager at [[The Ceiba-Duyue Exchange]].
 
 ## Relationship to Party
 
