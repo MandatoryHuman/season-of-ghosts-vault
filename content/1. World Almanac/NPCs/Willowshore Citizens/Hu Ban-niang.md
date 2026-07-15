@@ -20,7 +20,7 @@ npcimage: "[[Granny Hu.webp]]"
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Ancestry:** [[Human|Human]]
+> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
 > **Profession:** Guard Captain (Retired)
 > **Faction:**
 

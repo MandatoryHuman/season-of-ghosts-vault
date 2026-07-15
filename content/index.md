@@ -2,8 +2,8 @@
 publish: true
 title: Season of Ghosts Vault
 created: 2026-07-14T00:28:54.644+01:00
-modified: 2026-07-15T11:56:04.984+01:00
-published: 2026-07-15T11:56:04.984+01:00
+modified: 2026-07-15T17:49:45.723+01:00
+published: 2026-07-15T17:49:45.723+01:00
 ---
 
 ```base
@@ -39,7 +39,7 @@ views:
 >
 > #### Dragons aren't monsters
 >
-> Heroic tales of [Taldan](https://pathfinderwiki.com/wiki/Taldor) knights facing down dragons are common entertainment in [Avistan](https://pathfinderwiki.com/wiki/Avistan)—but in Tian Xia, dragons aren’t massive beasts to slay. They’re people, just like humans, [[Nagaji]], [[Tengu]], [[Elves]], and others who live upon the continent. They’ve served as rulers, advisors, guardians, and spiritual leaders across history, and they’re chosen agents of the [Empress of Heaven](https://pathfinderwiki.com/wiki/Shizuru). If a Tian person comes into conflict with a dragon, their first thought usually isn’t how to kill it, but how to negotiate with it.
+> Heroic tales of [Taldan](https://pathfinderwiki.com/wiki/Taldor) knights facing down dragons are common entertainment in [Avistan](https://pathfinderwiki.com/wiki/Avistan)—but in Tian Xia, dragons aren’t massive beasts to slay. They’re people, just like humans, [[Nagaji]], [[Tengu]], [[Elf|Elves]], and others who live upon the continent. They’ve served as rulers, advisors, guardians, and spiritual leaders across history, and they’re chosen agents of the [Empress of Heaven](https://pathfinderwiki.com/wiki/Shizuru). If a Tian person comes into conflict with a dragon, their first thought usually isn’t how to kill it, but how to negotiate with it.
 >
 > #### Spirits aren't abstract
 >

@@ -19,7 +19,7 @@ npcimage:
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Downtown Willowshore.md|Downtown Willowshore]]
-> **Ancestry:** [[Kitsune|Kitsune]]
+> **Ancestry:** [[1. World Almanac/Creatures/Kitsune.md|Kitsune]]
 > **Profession:** Director
 > **Faction:**
 

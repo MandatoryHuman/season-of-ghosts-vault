@@ -16,7 +16,7 @@ npcimage: "[[Crimson Rosoideae.jpg]]"
 
 > [!info]+ Character Details
 > **Player:** Amren
-> **Ancestry & Heritage:** [[Leshy|Leshy]]
+> **Ancestry & Heritage:** [[1. World Almanac/Creatures/Leshy.md|Leshy]]
 > **Class:** Wizard
 > **Primary Role:**
 

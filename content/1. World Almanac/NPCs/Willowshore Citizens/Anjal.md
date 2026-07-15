@@ -19,7 +19,7 @@ npcimage:
 > [!info]+ Biographical Data
 > **Status:** Dead
 > **Location:**
-> **Ancestry:** [[Nagaji|Nagaji]]
+> **Ancestry:** [[1. World Almanac/Creatures/Nagaji.md|Nagaji]]
 > **Profession:** Wizard
 > **Faction:**
 

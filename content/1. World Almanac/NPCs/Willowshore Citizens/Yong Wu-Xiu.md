@@ -19,7 +19,7 @@ npcimage:
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Eternal Blaze Ironworks.md|Eternal Blaze Ironworks]]
-> **Ancestry:** [[Kitsune|Kitsune]]
+> **Ancestry:** [[1. World Almanac/Creatures/Kitsune.md|Kitsune]]
 > **Profession:** Blacksmith
 > **Faction:**
 

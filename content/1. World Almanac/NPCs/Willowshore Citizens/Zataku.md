@@ -19,7 +19,7 @@ npcimage:
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Fisheries.md|Fisheries]]
-> **Ancestry:** [[Ratfolk|Ratfolk]]
+> **Ancestry:** [[1. World Almanac/Creatures/Ratfolk.md|Ratfolk]]
 > **Profession:** Fisher
 > **Faction:**
 

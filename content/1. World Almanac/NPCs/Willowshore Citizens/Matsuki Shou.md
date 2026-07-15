@@ -21,9 +21,9 @@ npcimage: "[[Old Matsuki.webp]]"
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Ancestry:** [[Human|Human]],Tian-shu
+> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]],Tian-shu
 > **Profession:** Carpenter
-> **Faction:** [[Southbankers|Southbankers]]
+> **Faction:** [[1. World Almanac/Factions/Southbankers.md|Southbankers]]
 
 ## Appearance
 

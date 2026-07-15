@@ -19,7 +19,7 @@ npcimage:
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Dock.md|Dock]]
-> **Ancestry:** [[Nagaji|Nagaji]]
+> **Ancestry:** [[1. World Almanac/Creatures/Nagaji.md|Nagaji]]
 > **Profession:** Shipwright
 > **Faction:**
 

@@ -19,7 +19,7 @@ npcimage:
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/The Leshy's Saloon.md|The Leshy's Saloon]]
-> **Ancestry:** [[Leshy|Leshy]]
+> **Ancestry:** [[1. World Almanac/Creatures/Leshy.md|Leshy]]
 > **Profession:** Teamaker
 > **Faction:**
 

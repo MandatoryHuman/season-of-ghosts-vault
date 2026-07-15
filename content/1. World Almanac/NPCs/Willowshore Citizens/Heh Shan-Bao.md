@@ -21,7 +21,7 @@ npcimage: "[[Heh Shan-Bao.webp]]"
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Downtown Willowshore.md|Downtown Willowshore]]
-> **Ancestry:** [[Human|Human]],Tian-shu
+> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]],Tian-shu
 > **Profession:** Governor
 > **Faction:**
 

@@ -20,7 +20,7 @@ npcimage: "[[Dami.webp]]"
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/The Hand of Spring.md|The Hand of Spring]]
-> **Ancestry:** [[Human|Human]]
+> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
 > **Profession:** Doctor
 > **Faction:**
 

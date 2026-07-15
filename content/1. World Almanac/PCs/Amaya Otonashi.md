@@ -17,7 +17,7 @@ npcimage: "[[Amaya Otonashi 4-5.webp]]"
 
 > [!info]+ Character Details
 > **Player:** Alfie
-> **Ancestry & Heritage:** [[Elf|Elf]]
+> **Ancestry & Heritage:** [[1. World Almanac/Creatures/Elf.md|Elf]]
 > **Class:** Necromancer
 > **Primary Role:** Controller
 

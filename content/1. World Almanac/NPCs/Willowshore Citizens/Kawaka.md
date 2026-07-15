@@ -19,7 +19,7 @@ npcimage:
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Industrial District.md|Industrial District]]
-> **Ancestry:** [[Tengu|Tengu]]
+> **Ancestry:** [[1. World Almanac/Creatures/Tengu.md|Tengu]]
 > **Profession:** Guild leader
 > **Faction:**
 

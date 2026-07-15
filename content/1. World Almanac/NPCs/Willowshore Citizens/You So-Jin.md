@@ -19,7 +19,7 @@ npcimage:
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Graveside Manners.md|Graveside Manners]]
-> **Ancestry:** [[Elf|Elf]]
+> **Ancestry:** [[1. World Almanac/Creatures/Elf.md|Elf]]
 > **Profession:** Herbalist
 > **Faction:**
 

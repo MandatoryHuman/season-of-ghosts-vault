@@ -14,7 +14,7 @@ settlementtype: Town
 
 > [!info]+ Settlement Details
 > **Type:** Town
-> **Region:** [[Shenmen|Shenmen]]
+> **Region:** [[1. World Almanac/Locations/Regions/Shenmen.md|Shenmen]]
 > **Leadership:** [[1. World Almanac/NPCs/Willowshore Citizens/Heh Shan-Bao.md|Heh Shan-Bao]]
 > **Population:** 225
 

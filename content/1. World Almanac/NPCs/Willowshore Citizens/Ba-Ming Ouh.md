@@ -19,7 +19,7 @@ npcimage:
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Nine Ear Shrine.md|Nine Ear Shrine]]
-> **Ancestry:** [[Human|Human]]
+> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
 > **Profession:** Priest
 > **Faction:**
 

@@ -19,7 +19,7 @@ npcimage: "[[Luo Xi Yang.webp]]"
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Luo and Laws.md|Luo and Laws]]
-> **Ancestry:** [[Human|Human]]
+> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
 > **Profession:** Lawyer
 > **Faction:**
 

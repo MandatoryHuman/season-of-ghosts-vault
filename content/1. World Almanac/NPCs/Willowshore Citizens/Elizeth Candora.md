@@ -20,7 +20,7 @@ npcimage: "[[Elizeth Candora.webp]]"
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Lady of Souls.md|Lady of Souls]]
-> **Ancestry:** [[Human|Human]],Taldan
+> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]],Taldan
 > **Profession:** Cleric
 > **Faction:**
 

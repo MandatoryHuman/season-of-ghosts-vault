@@ -19,7 +19,7 @@ npcimage:
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/The Mushroom House.md|The Mushroom House]]
-> **Ancestry:** [[Halfling|Halfling]]
+> **Ancestry:** [[1. World Almanac/Creatures/Halfling.md|Halfling]]
 > **Profession:** Smuggler
 > **Faction:**
 
