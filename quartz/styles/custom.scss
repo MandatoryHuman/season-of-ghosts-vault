@@ -1,3 +1,9 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+.mermaid {
+    overflow-x: auto;
+}
+.mermaid svg {
+    min-width: 1200px; /* Increase this value if the text is still too compressed */
+    height: auto;
+}
