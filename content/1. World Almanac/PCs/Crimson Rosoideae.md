@@ -1,16 +1,17 @@
 ---
 publish: true
 created: 2026-07-15T12:47:58.063+01:00
-modified: 2026-07-15T12:53:44.094+01:00
-published: 2026-07-15T12:53:44.094+01:00
+modified: 2026-07-15T13:23:02.713+01:00
+published: 2026-07-15T13:23:02.713+01:00
 tags:
-  - "#pc"
+  - pc
 aliases: []
 player_name: Amren
 ancestry:
   - "[[Leshy]]"
 class: Wizard
 partyrole:
+npcimage: "[[Crimson Rosoideae.jpg]]"
 ---
 
 > [!info]+ Character Details

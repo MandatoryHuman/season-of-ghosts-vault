@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T00:59:17.200+01:00
-modified: 2026-07-15T13:03:53.468+01:00
-published: 2026-07-15T13:03:53.468+01:00
+modified: 2026-07-15T13:23:29.292+01:00
+published: 2026-07-15T13:23:29.292+01:00
 tags:
-  - "#npc"
+  - npc
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Lady of Souls.md|Lady of Souls]]"
@@ -14,7 +14,7 @@ ancestry:
   - Taldan
 class: Cleric
 level:
-npcimage:
+npcimage: "[[Elizeth Candora.webp]]"
 ---
 
 > [!info]+ Biographical Data

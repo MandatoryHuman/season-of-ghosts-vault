@@ -6,7 +6,7 @@ created: 2026-07-14T00:28:54.640+01:00
 modified: 2026-07-15T13:04:44.884+01:00
 published: 2026-07-15T13:04:44.884+01:00
 tags:
-  - "#npc"
+  - npc
 status: Alive
 location: "[[Willowshore]]"
 faction: "[[Southbankers]]"
