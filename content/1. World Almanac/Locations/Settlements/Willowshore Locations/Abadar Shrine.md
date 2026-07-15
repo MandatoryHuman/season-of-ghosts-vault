@@ -4,8 +4,8 @@ created: 2026-07-14T00:28:54.633+01:00
 modified: 2026-07-15T00:11:48.213+01:00
 published: 2026-07-15T00:11:48.213+01:00
 tags:
-  - "#location/building"
-  - "#shrine"
+  - location/building
+  - shrine
 aliases: []
 settlement: "[[Willowshore]]"
 owner:

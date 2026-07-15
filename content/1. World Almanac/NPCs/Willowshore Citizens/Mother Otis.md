@@ -1,15 +1,16 @@
 ---
 publish: true
 created: 2026-07-14T00:45:49.044+01:00
-modified: 2026-07-14T19:11:38.450+01:00
-published: 2026-07-14T19:11:38.450+01:00
+modified: 2026-07-15T13:06:21.898+01:00
+published: 2026-07-15T13:06:21.898+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Thrice Blessed Inn.md|Thrice Blessed Inn]]"
 faction:
-ancestry: Half-Elf
+ancestry:
+  - Half-Elf
 class: Innkeeper
 level:
 npcimage:

@@ -1,15 +1,16 @@
 ---
 publish: true
 created: 2026-07-14T16:38:00.743+01:00
-modified: 2026-07-14T19:11:38.451+01:00
-published: 2026-07-14T19:11:38.451+01:00
+modified: 2026-07-15T13:07:04.697+01:00
+published: 2026-07-15T13:07:04.697+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Mercantile Street.md|Mercantile Street]]"
 faction:
-ancestry: Human
+ancestry:
+  - "[[Human]]"
 class: Woodcarver
 level:
 npcimage:
@@ -18,7 +19,7 @@ npcimage:
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Mercantile Street.md|Mercantile Street]]
-> **Ancestry:** Human
+> **Ancestry:** [[Human|Human]]
 > **Profession:** Woodcarver
 > **Faction:**
 

@@ -3,15 +3,15 @@ publish: true
 aliases:
   - Granny Hu
 created: 2026-07-14T00:28:54.638+01:00
-modified: 2026-07-15T00:06:41.813+01:00
-published: 2026-07-15T00:06:41.813+01:00
+modified: 2026-07-15T13:04:07.229+01:00
+published: 2026-07-15T13:04:07.229+01:00
 tags:
   - "#npc"
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]"
 faction:
 ancestry:
-  - Human
+  - "[[Human]]"
 class: Guard Captain (Retired)
 level:
 npcimage:
@@ -20,7 +20,7 @@ npcimage:
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Ancestry:** Human
+> **Ancestry:** [[Human|Human]]
 > **Profession:** Guard Captain (Retired)
 > **Faction:**
 
