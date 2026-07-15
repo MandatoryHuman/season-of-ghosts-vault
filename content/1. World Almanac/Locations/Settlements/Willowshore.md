@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T00:28:54.636+01:00
-modified: 2026-07-15T15:16:58.352+01:00
-published: 2026-07-15T15:16:58.352+01:00
+modified: 2026-07-15T15:38:45.813+01:00
+published: 2026-07-15T15:38:45.813+01:00
 tags:
   - "#location/settlement"
 aliases: []
@@ -41,11 +41,23 @@ views:
 
 ## Description
 
-Willowshore
+Willowshore is a remote, rural town situated in the haunted nation of Shenmen on the continent of Tian Xia. It is a tight-knit, highly superstitious community steeped in folklore. The locals are keenly aware of the monsters and spirits that haunt Shenmen, and they observe numerous rituals to ward off evil.
 
-## Key Establishments
+The town's calendar revolves around these protective traditions, the most famous being the [[Reenactment Festival]]. Held on the last day of spring, this massive feast involves townsfolk wearing paper masks and staging a mock-abduction ceremony. It is designed to trick malicious entities into believing the town is already haunted, theoretically keeping the residents safe as they transition into the humid summer months—a period locally dubbed the "season of ghosts".
 
-## Notable Residents
+> [!tip] The Eight Practices
+> The people of Willowshore follow these eight bits of advice during the first several weeks of summer—the season of ghosts. These beliefs are primarily local superstitions, and their capacity to actually help in an encounter with any sort of malicious spirit is hotly debated.
+>
+> 1. Do not call a ghost a ghost.
+> 2. Do not pat people on the head or shoulders.
+> 3. Avoid entering bodies of water when a ghost is nearby.
+> 4. Do not eat food that has two stick-like objects protruding from it.
+> 5. Do not lean against walls during the day.
+> 6. Do not whistle at night.
+> 7. Do not leave laundry out at night.
+> 8. If you hear someone call your name from behind you at night, do not turn around.
+
+## Timeline
 
 ```mermaid
 timeline
@@ -56,7 +68,25 @@ timeline
         7054 IC : Zhi Hui passes away, monks of the Tan Sugi Monastery begin to drift away. Willowshore develops into a lumber town.
         7060 IC : The Monastery is entirely abandoned.
         7062 IC : A group of woodcutters attempt to cut the ancient sugi trees around the monastery. They returned to town as undead with their weapons broken. This event is known as the "Night of the Broken Blades" and few have visited the monastery since.
+
 	section Modern History
-		7106 IC : Aroden dies, bringing about the end of prophesy.
-		7106 IC : The Lung Wa Empire collapses, ending the Age of Ascendancy in Tian Xia and marking the begining of the Age of Succession
+	    ~7070 IC : The government of Shenmen makes Willowshore part of its lumber network, leading to the construction of infrastructure such as bridges and dams. However, this also caused the arrival of a number of "Lumber Lords", who were known for exploiting the town, and for inviting Lung Wa aristocrats to treat the town as their personal holiday resort.
+		7106 IC : Aroden dies, bringing about the end of prophesy and wracking all of Golarion with terrible storms, leading to Willowshore suffering the worst winter storms in living memory.
+		7106 IC : The Lung Wa Empire collapses, ending the Age of Ascendancy in Tian Xia and marking the begining of the Age of Succession. Across the contenant many groups grasp for power; in Shenmen, the Jorogumo seek control.
+		7106 IC : With their Lung Wa backing gone, the Lumber Lords abandon Willowshore to return to more urban settlements.
+	section Current Events
+7108 IC : Current date
 ```
+
+## Key Establishments
+
+- [[Downtown Willowshore]]
+- [[The Ceiba-Duyue Exchange]]
+- [[Thrice Blessed Inn]]
+- [[Industrial District]]
+
+## Notable Residents
+
+- [[Hu Ban-niang]]
+- [[Matsuki Shou]]
+- [[Heh Shan-Bao]]
