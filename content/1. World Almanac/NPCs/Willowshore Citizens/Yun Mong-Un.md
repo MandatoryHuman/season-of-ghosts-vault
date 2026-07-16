@@ -4,7 +4,7 @@ created: 2026-07-14T16:38:00.743+01:00
 modified: 2026-07-16T21:45:24.168+01:00
 published: 2026-07-16T21:45:24.168+01:00
 tags:
-  - "#npc"
+  - npc
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Mercantile Street.md|Mercantile Street]]"

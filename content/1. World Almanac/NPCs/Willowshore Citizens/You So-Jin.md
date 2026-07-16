@@ -4,7 +4,7 @@ created: 2026-07-14T00:28:54.642+01:00
 modified: 2026-07-16T21:43:08.308+01:00
 published: 2026-07-16T21:43:08.308+01:00
 tags:
-  - "#npc"
+  - npc
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Graveside Manners.md|Graveside Manners]]"

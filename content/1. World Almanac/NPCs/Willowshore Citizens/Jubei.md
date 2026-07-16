@@ -4,7 +4,7 @@ created: 2026-07-15T20:45:07.045+01:00
 modified: 2026-07-16T21:29:21.836+01:00
 published: 2026-07-16T21:29:21.836+01:00
 tags:
-  - "#npc"
+  - npc
 aliases: []
 status: Alive
 location: "[[Mother's Coil]]"
