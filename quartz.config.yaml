@@ -267,7 +267,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: its-theme.ttrpg-pathfinder-remastered
+      theme: its-theme.minimalist
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
