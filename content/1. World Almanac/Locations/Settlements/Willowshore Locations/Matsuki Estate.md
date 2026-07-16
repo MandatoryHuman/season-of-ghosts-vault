@@ -4,8 +4,8 @@ created: 2026-07-14T00:39:35.879+01:00
 modified: 2026-07-15T21:15:19.244+01:00
 published: 2026-07-15T21:15:19.244+01:00
 tags:
-  - "#location/building"
-  - "#residential"
+  - location/building
+  - residential
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Matsuki Shou|Old Matsuki]]"

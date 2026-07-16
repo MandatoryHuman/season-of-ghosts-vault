@@ -6,7 +6,7 @@ created: 2026-07-14T16:45:21.160+01:00
 modified: 2026-07-15T20:56:19.763+01:00
 published: 2026-07-15T20:56:19.763+01:00
 tags:
-  - "#npc"
+  - npc
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/The Hand of Spring.md|The Hand of Spring]]"
 faction:

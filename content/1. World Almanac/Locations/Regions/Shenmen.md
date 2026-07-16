@@ -4,7 +4,7 @@ created: 2026-07-15T17:54:00.300+01:00
 modified: 2026-07-15T20:21:05.176+01:00
 published: 2026-07-15T20:21:05.176+01:00
 tags:
-  - "#location/region"
+  - location/region
 aliases: []
 parentregion: Tian Xia
 dangerlevel: High

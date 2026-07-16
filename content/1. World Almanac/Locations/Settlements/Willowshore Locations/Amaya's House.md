@@ -4,7 +4,7 @@ created: 2026-07-15T21:10:39.532+01:00
 modified: 2026-07-15T21:15:28.562+01:00
 published: 2026-07-15T21:15:28.562+01:00
 tags:
-  - "#location/building"
+  - location/building
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Amaya Otonashi]]"
