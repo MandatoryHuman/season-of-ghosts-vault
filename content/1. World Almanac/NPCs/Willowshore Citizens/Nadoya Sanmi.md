@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T16:18:27.192+01:00
-modified: 2026-07-15T13:06:48.082+01:00
-published: 2026-07-15T13:06:48.082+01:00
+modified: 2026-07-16T21:35:14.834+01:00
+published: 2026-07-16T21:35:14.834+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Downtown Willowshore.md|Downtown Willowshore]]"
@@ -28,6 +28,8 @@ npcimage:
 (Image)
 
 ## Bio
+
+Owner of the family-owned Treesparrow's grocery store.
 
 ## Relationship to Party
 

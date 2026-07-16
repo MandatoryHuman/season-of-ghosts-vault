@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T00:28:54.641+01:00
-modified: 2026-07-15T13:06:57.343+01:00
-published: 2026-07-15T13:06:57.343+01:00
+modified: 2026-07-16T21:38:27.230+01:00
+published: 2026-07-16T21:38:27.230+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Eternal Blaze Ironworks.md|Eternal Blaze Ironworks]]"
@@ -28,6 +28,8 @@ npcimage:
 (Image)
 
 ## Bio
+
+Blacksmith and owner of the [[Eternal Blaze Ironworks]].
 
 ## Relationship to Party
 

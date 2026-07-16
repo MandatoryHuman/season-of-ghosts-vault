@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T17:33:36.396+01:00
-modified: 2026-07-15T13:06:31.161+01:00
-published: 2026-07-15T13:06:31.161+01:00
+modified: 2026-07-16T21:34:21.223+01:00
+published: 2026-07-16T21:34:21.223+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/The Leshy's Saloon.md|The Leshy's Saloon]]"
@@ -28,6 +28,8 @@ npcimage:
 (Image)
 
 ## Bio
+
+Proprietor of [[The Leshy's Saloon]], where they focus on crafting bespoke blends of tea for customers, as well as the leader of the leshy population within [[Willowshore]].
 
 ## Relationship to Party
 

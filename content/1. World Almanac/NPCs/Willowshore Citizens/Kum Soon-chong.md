@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T00:28:54.639+01:00
-modified: 2026-07-15T13:04:27.301+01:00
-published: 2026-07-15T13:04:27.301+01:00
+modified: 2026-07-16T21:28:20.195+01:00
+published: 2026-07-16T21:28:20.195+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[Willowshore Stables]]"
@@ -28,6 +28,8 @@ npcimage:
 (Image)
 
 ## Bio
+
+A vet and owner of the [[Willowshore Stables]] along with his teenage son [[Meng-Sung]].
 
 ## Relationship to Party
 

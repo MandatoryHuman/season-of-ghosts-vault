@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T00:28:54.636+01:00
-modified: 2026-07-15T16:04:00.493+01:00
-published: 2026-07-15T16:04:00.493+01:00
+modified: 2026-07-16T21:48:58.384+01:00
+published: 2026-07-16T21:48:58.384+01:00
 tags:
-  - location/settlement
+  - "#location/settlement"
 aliases: []
 region: "[[Shenmen]]"
 ruler: "[[Heh Shan-Bao]]"
@@ -56,27 +56,6 @@ The town's calendar revolves around these protective traditions, the most famous
 > 6. Do not whistle at night.
 > 7. Do not leave laundry out at night.
 > 8. If you hear someone call your name from behind you at night, do not turn around.
-
-## Timeline
-
-```mermaid
-timeline
-    title History of Willowshore
-    section Founding
-        7020 IC : Tan Sugi Monastery is founded by the Sangpotshi monk Zhi Hui. Willowshore is founded to support the monastery
-    section Fall of the Monastery
-        7054 IC : Zhi Hui passes away, monks of the Tan Sugi Monastery begin to drift away. Willowshore develops into a lumber town.
-        7060 IC : The Monastery is entirely abandoned.
-        7062 IC : A group of woodcutters attempt to cut the ancient sugi trees around the monastery. They returned to town as undead with their weapons broken. This event is known as the "Night of the Broken Blades" and few have visited the monastery since.
-
-	section Modern History
-	    ~7070 IC : The government of Shenmen makes Willowshore part of its lumber network, leading to the construction of infrastructure such as bridges and dams. However, this also caused the arrival of a number of "Lumber Lords", who were known for exploiting the town, and for inviting Lung Wa aristocrats to treat the town as their personal holiday resort.
-		7106 IC : Aroden dies, bringing about the end of prophesy and wracking all of Golarion with terrible storms, leading to Willowshore suffering the worst winter storms in living memory.
-		7106 IC : The Lung Wa Empire collapses, ending the Age of Ascendancy in Tian Xia and marking the begining of the Age of Succession. Across the contenant many groups grasp for power; in Shenmen, the Jorogumo seek control.
-		7106 IC : With their Lung Wa backing gone, the Lumber Lords abandon Willowshore to return to more urban settlements.
-	section Current Events
-7108 IC : Current date
-```
 
 ## Key Establishments
 

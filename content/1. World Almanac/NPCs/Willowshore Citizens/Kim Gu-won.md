@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T17:00:10.051+01:00
-modified: 2026-07-15T13:04:20.578+01:00
-published: 2026-07-15T13:04:20.578+01:00
+modified: 2026-07-16T21:14:01.189+01:00
+published: 2026-07-16T21:14:01.189+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/The Ceiba-Duyue Exchange.md|The Ceiba-Duyue Exchange]]"
@@ -28,6 +28,8 @@ npcimage:
 (Image)
 
 ## Bio
+
+Manager of [[The Ceiba-Duyue Exchange]]. Kim took the position under pressure from [[Hu Ban-niang]], knowing that she had more than enough dirt on him to force the issue.
 
 ## Relationship to Party
 

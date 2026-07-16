@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T17:20:18.227+01:00
-modified: 2026-07-15T13:02:02.010+01:00
-published: 2026-07-15T13:02:02.010+01:00
+modified: 2026-07-16T21:22:40.601+01:00
+published: 2026-07-16T21:22:40.601+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/The Mushroom House.md|The Mushroom House]]"
@@ -28,6 +28,8 @@ npcimage:
 (Image)
 
 ## Bio
+
+A spry, elderly halfling woman, and head of [[The Mushroom House]], an illicit market which she runs with the explicit permission of [[Hu Ban-niang|Granny Hu]].
 
 ## Relationship to Party
 

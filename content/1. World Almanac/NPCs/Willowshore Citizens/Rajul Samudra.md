@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T17:14:15.130+01:00
-modified: 2026-07-15T13:06:53.216+01:00
-published: 2026-07-15T13:06:53.216+01:00
+modified: 2026-07-16T21:36:36.495+01:00
+published: 2026-07-16T21:36:36.495+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Dock.md|Dock]]"
@@ -28,6 +28,8 @@ npcimage:
 (Image)
 
 ## Bio
+
+Manager of the [[Willowshore]] [[Dock]], as hired by [[The Ceiba-Duyue Exchange]] due to his great skill in boatbuilding.
 
 ## Relationship to Party
 
