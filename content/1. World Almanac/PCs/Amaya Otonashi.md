@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T23:01:00.080+01:00
-modified: 2026-07-15T14:26:05.897+01:00
-published: 2026-07-15T14:26:05.897+01:00
+modified: 2026-07-17T23:20:33.080+01:00
+published: 2026-07-17T23:20:33.080+01:00
 tags:
-  - pc
+  - "#pc"
 aliases: []
 player_name: Alfie
 ancestry:
@@ -13,6 +13,7 @@ class: Necromancer
 partyrole: Controller
 friend: "[[Elizeth Candora]]"
 npcimage: "[[Amaya Otonashi 4-5.webp]]"
+ally: "[[Crimson Rosoideae]]"
 ---
 
 > [!info]+ Character Details

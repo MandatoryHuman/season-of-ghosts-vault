@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-15T20:45:07.045+01:00
-modified: 2026-07-16T21:29:21.836+01:00
-published: 2026-07-16T21:29:21.836+01:00
+modified: 2026-07-17T23:19:19.001+01:00
+published: 2026-07-17T23:19:19.001+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[Mother's Coil]]"
@@ -14,6 +14,7 @@ class: Wizard
 level:
 npcimage:
 parent: "[[Anjal]]"
+mentor: "[[Crimson Rosoideae]]"
 ---
 
 > [!info]+ Biographical Data
