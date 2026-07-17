@@ -2,13 +2,11 @@
 publish: true
 title: Season of Ghosts Vault
 created: 2026-07-14T00:28:54.644+01:00
-modified: 2026-07-17T09:44:14.939+01:00
-published: 2026-07-17T09:44:14.939+01:00
+modified: 2026-07-17T17:14:06.521+01:00
+published: 2026-07-17T17:14:06.521+01:00
 ---
 
-![[z_assets/Misc/Cover.webp]]
-
-# Map of Willowshore
+# Map of [[Willowshore]]
 
 ```base
 filters:
@@ -35,6 +33,51 @@ views:
 
 ![[History of Willowshore.canvas]]
 
+# Important Pages
+
+## Heroes of Willowshore
+
+- [[Amaya Otonashi]]
+- [[Crimson Rosoideae]]
+
+## Factions and Organisations
+
+- [[Lung Wa|The Lung Wa Empire]]
+- [[Northridgers]]
+- [[Southbankers]]
+
+## Locations in Willowshore
+
+### Shops
+
+| Location                                                                                                               | Type         | Owner/Manager                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------- |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/Eternal Blaze Ironworks.md\|Eternal Blaze Ironworks]]   | Ironworks    | [[1. World Almanac/NPCs/Willowshore Citizens/Yong Wu-Xiu.md\|Yong Wu-Xiu]]                         |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/Fisheries.md\|Fisheries]]                               | Fishery      | [[1. World Almanac/NPCs/Willowshore Citizens/Zataku.md\|Zataku]]                                   |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/Graveside Manners.md\|Graveside Manners]]               | Cemetery     | [[1. World Almanac/NPCs/Willowshore Citizens/You So-Jin.md\|You So-Jin]]                           |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/Milling Houses.md\|Milling Houses]]                     | Mill         | [[1. World Almanac/NPCs/Willowshore Citizens/Choe Chung-hu.md\|Choe Chung-hu]]                     |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/Mother's Coil.md\|Mother's Coil]]                       | Shop         | [[1. World Almanac/NPCs/Willowshore Citizens/Jubei.md\|Jubei]]                                     |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/Second Best.md\|Second Best]]                           | Shop         | [[1. World Almanac/NPCs/Willowshore Citizens/Huo Tian-Zhe.md\|Huo Tian-Zhe]]                       |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/The Ceiba-Duyue Exchange.md\|The Ceiba-Duyue Exchange]] | Trade Office | [[1. World Almanac/NPCs/Willowshore Citizens/Kim Gu-won.md\|Kim Gu-won]]                           |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/The Cerulean Teahouse.md\|The Cerulean Teahouse]]       | Teahouse     | -                                                                                                 |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/The Hand of Spring.md\|The Hand of Spring]]             | Herbalist    | [[1. World Almanac/NPCs/Willowshore Citizens/Damihansig Mababangloob.md\|Damihansig Mababangloob]] |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/The Leshy's Saloon.md\|The Leshy's Saloon]]             | Teahouse     | [[1. World Almanac/NPCs/Willowshore Citizens/Mountain Summit Grass.md\|Mountain Summit Grass]]     |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/The Mushroom House.md\|The Mushroom House]]             | Black Market | [[1. World Almanac/NPCs/Willowshore Citizens/Luda Bama.md\|Luda Bama]]                             |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/Thrice Blessed Inn.md\|Thrice Blessed Inn]]             | Inn          | [[1. World Almanac/NPCs/Willowshore Citizens/Mother Otis.md\|Mother Otis]]                         |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/Willowshore Stables.md\|Willowshore Stables]]           | Stable       | [[1. World Almanac/NPCs/Willowshore Citizens/Kum Soon-chong.md\|Kum Soon-chong]]                   |
+
+### Temples & Shrines
+
+| Location                                                                                                           | Type      | Caretaker/Priest                                                                   |
+| ------------------------------------------------------------------------------------------------------------------ | --------- | ---------------------------------------------------------------------------------- |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/Abadar Shrine.md\|Abadar Shrine]]                   | Shrine    | -                                                                                 |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/Bones of the Forgotten.md\|Bones of the Forgotten]] | Cemetery  | -                                                                                 |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/Graveside Manners.md\|Graveside Manners]]           | Cemetery  | [[1. World Almanac/NPCs/Willowshore Citizens/You So-Jin.md\|You So-Jin]]           |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/Lady of Souls.md\|Lady of Souls]]                   | Church    | [[1. World Almanac/NPCs/Willowshore Citizens/Elizeth Candora.md\|Elizeth Candora]] |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/Nine Ear Shrine.md\|Nine Ear Shrine]]               | Shrine    | [[1. World Almanac/NPCs/Willowshore Citizens/Ba-Ming Ouh.md\|Ba-Ming Ouh]]         |
+| [[1. World Almanac/Locations/Tan Sugi Monastery.md\|Tan Sugi Monastery]]                                           | Monastery | -                                                                                 |
+| [[1. World Almanac/Locations/Settlements/Willowshore Locations/The Great Willow.md\|The Great Willow]]             | Landmark  | -                                                                                 |
+
 > [!tip] Five Tips for Tian Xia
 >
 > #### Celestials aren't always good
@@ -56,7 +99,3 @@ views:
 > #### The dead are never truly gone
 >
 > In many philosophies, a soul is judged by [Pharasma](https://pathfinderwiki.com/wiki/Pharasma), then moves on to its final reward. In Tian Xia, ancestors linger, watching their family and affecting their fortunes. Village heroes can straddle the line between ghost and god; sages who cultivate their spirit can even transcend mortality. The [Celestial Court](https://pathfinderwiki.com/wiki/Celestial_Court) of Tian Xia also offers a different path for those who choose it: reincarnation. Much like history, souls move around the universe in circles, and death isn’t always a permanent ending.
-
-Featured pages:
-
-- [[Willowshore]]
