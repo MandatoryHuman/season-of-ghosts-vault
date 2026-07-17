@@ -4,8 +4,8 @@ created: 2026-07-14T00:35:09.014+01:00
 modified: 2026-07-17T00:18:51.920+01:00
 published: 2026-07-17T00:18:51.920+01:00
 tags:
-  - "#location/building"
-  - "#residential"
+  - location/building
+  - residential
 aliases: []
 settlement: "[[Willowshore]]"
 owner:
