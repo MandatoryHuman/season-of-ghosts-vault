@@ -25,7 +25,7 @@
 		{"id":"fbb40ce9cfd658ac","type":"text","text":"## 7108 IC\n\nThree weeks ago, Crimson re-awoke. Eager to resume their studies, they seek out Anjal, only to find that the Nagaji passed while Crimson was unconsious. The Leshy instead chooses to study under Anjal's apprentice, Jubei.","x":5040,"y":-230,"width":346,"height":291,"color":"2"},
 		{"id":"c66a790fe0d3248f","x":4200,"y":578,"width":431,"height":245,"color":"6","type":"text","text":"## 7106 IC\n\nAfter hearing of Lung Wa's collapse, Qing Mai-Lai throws in the towel and opts to retire. She would, however, struggle to find anyone willing to take over The Cerulean Teahouse, with none of her family willing to move to Willowshore."},
 		{"id":"351d1a49b21beda0","x":4800,"y":590,"width":380,"height":222,"color":"6","type":"text","text":"## 7107\n\nIn the winter of this year, Qing Mai-Lai dies. Unable to secure a replacement to take over her business, The Cerulean Teahouse has been sitting abandoned ever since"},
-		{"id":"c63db01b5a5f82dc","x":1618,"y":-220,"width":285,"height":200,"color":"2","type":"text","text":"## 7066\n\nAmaya arrives in Willowshore???"}
+		{"id":"c63db01b5a5f82dc","x":1275,"y":-140,"width":245,"height":160,"color":"2","type":"text","text":"## 7064 - 7068 ish\n\nAmaya arrives in Willowshore???"}
 	],
 	"edges":[
 		{"id":"51c072b8738e1338","fromNode":"n1_7054","fromSide":"right","toNode":"n1_7060","toSide":"left"},
@@ -52,7 +52,7 @@
 		{"id":"d42f4ddeb2a8e097","fromNode":"n1_7106_2","fromSide":"bottom","toNode":"c66a790fe0d3248f","toSide":"left"},
 		{"id":"49d0a637344e5d06","fromNode":"c66a790fe0d3248f","fromSide":"right","toNode":"351d1a49b21beda0","toSide":"left"},
 		{"id":"f15a47dca8957380","fromNode":"351d1a49b21beda0","fromSide":"right","toNode":"662268684afd263f","toSide":"left"},
-		{"id":"626398a58734fc25","fromNode":"n1_7062","fromSide":"top","toNode":"c63db01b5a5f82dc","toSide":"left"},
-		{"id":"c0a334b660a8eea1","fromNode":"c63db01b5a5f82dc","fromSide":"bottom","toNode":"n1_7070","toSide":"top"}
+		{"id":"626398a58734fc25","fromNode":"n1_7062","fromSide":"top","toNode":"c63db01b5a5f82dc","toSide":"bottom"},
+		{"id":"c0a334b660a8eea1","fromNode":"c63db01b5a5f82dc","fromSide":"right","toNode":"n1_7070","toSide":"top"}
 	]
 }
