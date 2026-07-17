@@ -4,7 +4,7 @@ created: 2026-07-15T12:47:58.063+01:00
 modified: 2026-07-17T10:25:09.568+01:00
 published: 2026-07-17T10:25:09.568+01:00
 tags:
-  - "#pc"
+  - pc
 aliases: []
 player_name: Amren
 ancestry:
