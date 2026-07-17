@@ -4,8 +4,8 @@ created: 2026-07-14T00:43:13.630+01:00
 modified: 2026-07-17T17:09:30.049+01:00
 published: 2026-07-17T17:09:30.049+01:00
 tags:
-  - "#location/building"
-  - "#inn"
+  - location/building
+  - inn
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Mother Otis]]"
