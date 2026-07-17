@@ -2,8 +2,8 @@
 publish: true
 title: Season of Ghosts Vault
 created: 2026-07-14T00:28:54.644+01:00
-modified: 2026-07-17T09:34:27.363+01:00
-published: 2026-07-17T09:34:27.363+01:00
+modified: 2026-07-17T09:44:14.939+01:00
+published: 2026-07-17T09:44:14.939+01:00
 ---
 
 ![[z_assets/Misc/Cover.webp]]
@@ -51,7 +51,7 @@ views:
 >
 > #### Spirits aren't abstract
 >
-> Elsewhere in the world, spirits are often insubstantial and thus remain out of mind for the average person. Those who know how to call to these strange entities can wield incredible power, but most will never see a spirit beyond a stray leshy or a summoned eidolon. In Tian Xia, [[Kami]] walk the forests, [[Anito]] teem in the jungles, and [[Yakshas]] help in the villages—tangible beings that feel very real. Offending the spirit of a river is much more serious when that river spirit might manifest as a dragon in response!
+> Elsewhere in the world, spirits are often insubstantial and thus remain out of mind for the average person. Those who know how to call to these strange entities can wield incredible power, but most will never see a spirit beyond a stray leshy or a summoned eidolon. In Tian Xia, [[Kami]] walk the forests, Anito teem in the jungles, and [[Yaksha|Yakshas]] help in the villages—tangible beings that feel very real. Offending the spirit of a river is much more serious when that river spirit might manifest as a dragon in response!
 >
 > #### The dead are never truly gone
 >
