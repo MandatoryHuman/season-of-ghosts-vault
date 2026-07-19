@@ -2,8 +2,8 @@
 publish: true
 title: Season of Ghosts Vault
 created: 2026-07-14T00:28:54.644+01:00
-modified: 2026-07-19T13:26:54.922+01:00
-published: 2026-07-19T13:26:54.922+01:00
+modified: 2026-07-19T23:32:20.912+01:00
+published: 2026-07-19T23:32:20.912+01:00
 ---
 
 # Map of [[Willowshore]]

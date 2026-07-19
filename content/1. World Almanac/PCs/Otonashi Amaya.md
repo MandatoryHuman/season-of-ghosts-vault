@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T23:01:00.080+01:00
-modified: 2026-07-19T15:39:42.704+01:00
-published: 2026-07-19T15:39:42.704+01:00
+modified: 2026-07-19T23:23:19.516+01:00
+published: 2026-07-19T23:23:19.516+01:00
 tags:
-  - "#pc"
+  - pc
 aliases: []
 player_name: Alfie
 ancestry:
@@ -26,7 +26,7 @@ family: "[[Otonashi Shio]]"
 
 ## Appearance
 
-![[z_assets/PCs/Otonashi Amaya.webp|500]]
+![[z_assets/PCs/Otonashi Amaya.webp|400]]
 
 ## Backstory
 

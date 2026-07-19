@@ -3,13 +3,13 @@ publish: true
 aliases:
   - Granny Hu
 created: 2026-07-14T00:28:54.638+01:00
-modified: 2026-07-15T21:20:28.272+01:00
-published: 2026-07-15T21:20:28.272+01:00
+modified: 2026-07-19T23:16:58.927+01:00
+published: 2026-07-19T23:16:58.927+01:00
 tags:
   - npc
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]"
-faction:
+faction: "[[Northridgers]]"
 ancestry:
   - "[[Human]]"
 class: Guard Captain (Retired)
@@ -22,7 +22,7 @@ npcimage: "[[Granny Hu.webp]]"
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
 > **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
 > **Profession:** Guard Captain (Retired)
-> **Faction:**
+> **Faction:** [[1. World Almanac/Factions/Northridgers.md|Northridgers]]
 
 ## Appearance
 

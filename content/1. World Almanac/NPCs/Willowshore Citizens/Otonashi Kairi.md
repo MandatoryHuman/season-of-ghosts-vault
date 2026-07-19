@@ -4,7 +4,7 @@ created: 2026-07-19T13:25:17.591+01:00
 modified: 2026-07-19T15:40:15.436+01:00
 published: 2026-07-19T15:40:15.436+01:00
 tags:
-  - "#npc"
+  - npc
 aliases: []
 status: Alive
 location:

@@ -4,7 +4,7 @@ created: 2026-07-19T13:46:54.403+01:00
 modified: 2026-07-19T14:36:39.884+01:00
 published: 2026-07-19T14:36:39.884+01:00
 tags:
-  - "#npc"
+  - npc
 aliases: []
 status: Alive
 location: "[[Willowshore]]"
