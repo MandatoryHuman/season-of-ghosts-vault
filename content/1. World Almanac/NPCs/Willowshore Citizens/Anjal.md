@@ -6,7 +6,7 @@ created: 2026-07-14T16:52:16.895+01:00
 modified: 2026-07-18T09:28:10.863+01:00
 published: 2026-07-18T09:28:10.863+01:00
 tags:
-  - "#npc"
+  - npc
 status: Dead
 location:
 faction:

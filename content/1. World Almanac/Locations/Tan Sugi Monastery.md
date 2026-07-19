@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-17T14:30:37.907+01:00
-modified: 2026-07-17T14:43:48.072+01:00
-published: 2026-07-17T14:43:48.072+01:00
+modified: 2026-07-18T09:41:13.060+01:00
+published: 2026-07-18T09:41:13.060+01:00
 tags:
-  - "#location"
+  - location
 aliases: []
 region: "[[Willowshore]]"
 type: Monastery
@@ -12,7 +12,7 @@ type: Monastery
 
 ## Description
 
-The Tan Sugi Monastery was founded in 7020 IC by the monk Zhi Hu. Its construction led to the creation of [[Willowshore]] as a town to support it, though since the monastery's fall in 7060, Willowshore has been more focused on its lumber industry.
+The Tan Sugi Monastery was founded in 7020 IC by the monk [[Zhi Hu]]. Its construction led to the creation of [[Willowshore]] as a town to support it, though since the monastery's fall in 7060, Willowshore has been more focused on its lumber industry.
 
 Zhi Hu founded the monastery when the [[Kami]] that lives within [[The Great Willow]] revealed the location of a [[Tan Sugi Grove]] to the West. The site soon became a popular destination for pilgrimage, and a monastery was built to make it a more permanent fixture.
 
