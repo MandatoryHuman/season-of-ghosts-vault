@@ -1,4 +1,5 @@
 @use "./variables.scss" as *;
+@use "./syncer";
 
 .mermaid {
     overflow-x: auto;
