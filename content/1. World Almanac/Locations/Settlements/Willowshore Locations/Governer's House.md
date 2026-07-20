@@ -4,9 +4,9 @@ created: 2026-07-20T13:33:22.377+01:00
 modified: 2026-07-20T13:40:46.226+01:00
 published: 2026-07-20T13:40:46.226+01:00
 tags:
-  - "#location/building"
-  - "#residential"
-  - "#office"
+  - location/building
+  - residential
+  - office
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Heh Shan-Bao]]"

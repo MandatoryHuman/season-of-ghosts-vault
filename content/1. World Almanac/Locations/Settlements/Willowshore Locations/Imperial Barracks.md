@@ -4,7 +4,7 @@ created: 2026-07-20T13:37:46.065+01:00
 modified: 2026-07-20T13:41:44.128+01:00
 published: 2026-07-20T13:41:44.128+01:00
 tags:
-  - "#location/building"
+  - location/building
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Zheng Peng]]"

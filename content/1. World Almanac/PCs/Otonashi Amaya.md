@@ -4,7 +4,7 @@ created: 2026-07-20T10:49:06.832+01:00
 modified: 2026-07-20T13:30:07.932+01:00
 published: 2026-07-20T13:30:07.932+01:00
 tags:
-  - "#pc"
+  - pc
 aliases: []
 player_name: Alfie
 ancestry:
