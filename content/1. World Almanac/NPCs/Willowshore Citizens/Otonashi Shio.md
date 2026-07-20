@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-20T10:49:06.817+01:00
-modified: 2026-07-19T14:36:39.884+01:00
-published: 2026-07-19T14:36:39.884+01:00
+modified: 2026-07-20T13:47:59.022+01:00
+published: 2026-07-20T13:47:59.022+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[Willowshore]]"
@@ -14,7 +14,7 @@ ancestry:
 class: Fisherman
 level:
 npcimage: "[[Otonashi Shio.webp]]"
-parent: "[[Otonashi Nagi]] [[Otonashi Kairi]]"
+parent: Otonashi Nagi, Otonashi Kairi
 ---
 
 > [!info]+ Biographical Data
