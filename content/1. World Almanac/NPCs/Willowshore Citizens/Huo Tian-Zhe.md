@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T16:42:04.709+01:00
-modified: 2026-07-20T02:07:13.909+01:00
-published: 2026-07-20T02:07:13.909+01:00
+modified: 2026-07-20T02:17:17.926+01:00
+published: 2026-07-20T02:17:17.926+01:00
 tags:
   - "#npc"
 aliases: []
@@ -13,7 +13,7 @@ ancestry:
   - "[[Human]]"
 class: Inventor
 level:
-npcimage:
+npcimage: "[[Huo Tian-Zhe.webp]]"
 ---
 
 > [!info]+ Biographical Data

@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T17:33:36.396+01:00
-modified: 2026-07-20T02:14:07.780+01:00
-published: 2026-07-20T02:14:07.780+01:00
+modified: 2026-07-20T02:18:26.879+01:00
+published: 2026-07-20T02:18:26.879+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/The Leshy's Saloon.md|The Leshy's Saloon]]"
@@ -13,7 +13,7 @@ ancestry:
   - "[[Leshy]]"
 class: Teamaker
 level:
-npcimage:
+npcimage: "[[Mountain Summit Grass.webp]]"
 ---
 
 > [!info]+ Biographical Data

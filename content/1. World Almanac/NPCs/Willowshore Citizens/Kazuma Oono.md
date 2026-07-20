@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T16:17:49.523+01:00
-modified: 2026-07-20T02:08:05.774+01:00
-published: 2026-07-20T02:08:05.774+01:00
+modified: 2026-07-20T02:17:37.426+01:00
+published: 2026-07-20T02:17:37.426+01:00
 tags:
   - "#npc"
 aliases: []
@@ -13,7 +13,7 @@ ancestry:
   - "[[Kitsune]]"
 class: Director
 level:
-npcimage:
+npcimage: "[[Kazuma Oono.webp]]"
 ---
 
 > [!info]+ Biographical Data

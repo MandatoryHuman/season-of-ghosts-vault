@@ -4,8 +4,8 @@ created: 2026-07-14T00:28:54.635+01:00
 modified: 2026-07-20T02:12:58.398+01:00
 published: 2026-07-20T02:12:58.398+01:00
 tags:
-  - location/building
-  - shop
+  - "#location/building"
+  - "#shop"
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Kum Soon-chong]]"

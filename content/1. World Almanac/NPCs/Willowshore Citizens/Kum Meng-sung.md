@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T00:28:54.641+01:00
-modified: 2026-07-20T02:13:18.639+01:00
-published: 2026-07-20T02:13:18.639+01:00
+modified: 2026-07-20T02:17:55.810+01:00
+published: 2026-07-20T02:17:55.810+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[Willowshore Stables]]"
@@ -13,7 +13,7 @@ ancestry:
   - "[[Human]]"
 class: Veterinarian
 level:
-npcimage:
+npcimage: "[[Kum Meng-sung.webp]]"
 parent: "[[Kum Soon-chong]]"
 ---
 

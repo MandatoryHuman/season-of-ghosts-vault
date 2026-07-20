@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T16:04:44.921+01:00
-modified: 2026-07-20T02:07:52.351+01:00
-published: 2026-07-20T02:07:52.351+01:00
+modified: 2026-07-20T02:17:27.230+01:00
+published: 2026-07-20T02:17:27.230+01:00
 tags:
   - "#npc"
 aliases: []
@@ -13,7 +13,7 @@ ancestry:
   - "[[Tengu]]"
 class: Guild leader
 level:
-npcimage:
+npcimage: "[[Kawaka.webp]]"
 ---
 
 > [!info]+ Biographical Data

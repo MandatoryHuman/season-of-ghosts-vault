@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T17:14:15.130+01:00
-modified: 2026-07-20T02:14:50.333+01:00
-published: 2026-07-20T02:14:50.333+01:00
+modified: 2026-07-20T02:19:07.454+01:00
+published: 2026-07-20T02:19:07.454+01:00
 tags:
   - npc
 aliases: []
@@ -13,7 +13,7 @@ ancestry:
   - "[[Nagaji]]"
 class: Shipwright
 level:
-npcimage:
+npcimage: "[[Rajul Samudra.webp]]"
 ---
 
 > [!info]+ Biographical Data

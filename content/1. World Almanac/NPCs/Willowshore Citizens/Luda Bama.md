@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T17:20:18.227+01:00
-modified: 2026-07-20T02:13:33.828+01:00
-published: 2026-07-20T02:13:33.828+01:00
+modified: 2026-07-20T02:18:11.136+01:00
+published: 2026-07-20T02:18:11.136+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/The Mushroom House.md|The Mushroom House]]"
@@ -13,7 +13,7 @@ ancestry:
   - "[[Halfling]]"
 class: Smuggler
 level:
-npcimage:
+npcimage: "[[Luda Bama.webp]]"
 ---
 
 > [!info]+ Biographical Data

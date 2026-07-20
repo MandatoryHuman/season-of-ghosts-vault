@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T00:50:27.572+01:00
-modified: 2026-07-20T02:06:29.615+01:00
-published: 2026-07-20T02:06:29.615+01:00
+modified: 2026-07-20T02:16:54.962+01:00
+published: 2026-07-20T02:16:54.962+01:00
 tags:
   - "#npc"
 aliases: []
@@ -13,7 +13,7 @@ ancestry:
   - "[[Human]]"
 class: Miller
 level:
-npcimage:
+npcimage: "[[Choe Chung-hu.webp]]"
 ---
 
 > [!info]+ Biographical Data

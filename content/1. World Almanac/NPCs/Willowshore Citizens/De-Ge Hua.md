@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T16:21:24.816+01:00
-modified: 2026-07-20T02:06:48.662+01:00
-published: 2026-07-20T02:06:48.662+01:00
+modified: 2026-07-20T02:17:04.464+01:00
+published: 2026-07-20T02:17:04.464+01:00
 tags:
   - "#npc"
 aliases: []
@@ -13,7 +13,7 @@ ancestry:
   - "[[Halfling]]"
 class: Bathhouse Owner
 level:
-npcimage:
+npcimage: "[[De-Ge Hua.webp]]"
 ---
 
 > [!info]+ Biographical Data

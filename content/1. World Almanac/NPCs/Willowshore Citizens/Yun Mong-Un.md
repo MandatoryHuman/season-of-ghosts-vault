@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T16:38:00.743+01:00
-modified: 2026-07-20T02:16:04.719+01:00
-published: 2026-07-20T02:16:04.719+01:00
+modified: 2026-07-20T02:19:24.872+01:00
+published: 2026-07-20T02:19:24.872+01:00
 tags:
   - npc
 aliases: []
@@ -13,7 +13,7 @@ ancestry:
   - "[[Human]]"
 class: Woodcarver
 level:
-npcimage:
+npcimage: "[[Yun Mong-Un.webp]]"
 ---
 
 > [!info]+ Biographical Data

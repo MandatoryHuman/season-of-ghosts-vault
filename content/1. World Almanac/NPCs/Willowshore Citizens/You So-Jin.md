@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T00:28:54.642+01:00
-modified: 2026-07-20T02:15:42.633+01:00
-published: 2026-07-20T02:15:42.633+01:00
+modified: 2026-07-20T02:19:18.543+01:00
+published: 2026-07-20T02:19:18.543+01:00
 tags:
   - npc
 aliases: []
@@ -13,7 +13,7 @@ ancestry:
   - "[[Elf]]"
 class: Herbalist
 level:
-npcimage:
+npcimage: "[[You So-Jin.webp]]"
 ---
 
 > [!info]+ Biographical Data

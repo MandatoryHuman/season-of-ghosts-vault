@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T00:56:18.057+01:00
-modified: 2026-07-20T02:06:15.253+01:00
-published: 2026-07-20T02:06:15.253+01:00
+modified: 2026-07-20T02:16:45.256+01:00
+published: 2026-07-20T02:16:45.256+01:00
 tags:
   - "#npc"
 aliases: []
@@ -13,7 +13,7 @@ ancestry:
   - "[[Human]]"
 class: Priest
 level:
-npcimage:
+npcimage: "[[Ba-Ming Ouh.webp]]"
 ---
 
 > [!info]+ Biographical Data
