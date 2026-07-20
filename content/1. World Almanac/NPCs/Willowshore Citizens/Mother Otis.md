@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T00:45:49.044+01:00
-modified: 2026-07-16T21:32:34.694+01:00
-published: 2026-07-16T21:32:34.694+01:00
+modified: 2026-07-20T02:13:56.694+01:00
+published: 2026-07-20T02:13:56.694+01:00
 tags:
   - npc
 aliases: []
@@ -25,7 +25,7 @@ npcimage:
 
 ## Appearance
 
-(Image)
+![[z_assets/NPCs/Mother Otis.webp|400]]
 
 ## Bio
 

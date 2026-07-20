@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-15T20:45:07.045+01:00
-modified: 2026-07-17T23:19:19.001+01:00
-published: 2026-07-17T23:19:19.001+01:00
+modified: 2026-07-20T02:07:33.702+01:00
+published: 2026-07-20T02:07:33.702+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[Mother's Coil]]"
@@ -26,7 +26,7 @@ mentor: "[[Crimson Rosoideae]]"
 
 ## Appearance
 
-(Image)
+![[z_assets/NPCs/Igawa Jubei.webp|400]]
 
 ## Bio
 

@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T16:21:24.816+01:00
-modified: 2026-07-15T20:58:08.700+01:00
-published: 2026-07-15T20:58:08.700+01:00
+modified: 2026-07-20T02:06:48.662+01:00
+published: 2026-07-20T02:06:48.662+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Downtown Willowshore.md|Downtown Willowshore]]"
@@ -25,7 +25,7 @@ npcimage:
 
 ## Appearance
 
-(Image)
+![[z_assets/NPCs/De-Ge Hua.webp|400]]
 
 ## Bio
 

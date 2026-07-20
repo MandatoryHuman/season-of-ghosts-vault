@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T16:18:27.192+01:00
-modified: 2026-07-16T21:35:14.834+01:00
-published: 2026-07-16T21:35:14.834+01:00
+modified: 2026-07-20T02:14:33.697+01:00
+published: 2026-07-20T02:14:33.697+01:00
 tags:
   - npc
 aliases: []
@@ -25,7 +25,7 @@ npcimage:
 
 ## Appearance
 
-(Image)
+![[z_assets/NPCs/Nadoya Sanmi.webp|400]]
 
 ## Bio
 

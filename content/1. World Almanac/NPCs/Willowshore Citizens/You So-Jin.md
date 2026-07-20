@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T00:28:54.642+01:00
-modified: 2026-07-16T21:43:08.308+01:00
-published: 2026-07-16T21:43:08.308+01:00
+modified: 2026-07-20T02:15:42.633+01:00
+published: 2026-07-20T02:15:42.633+01:00
 tags:
   - npc
 aliases: []
@@ -25,7 +25,7 @@ npcimage:
 
 ## Appearance
 
-(Image)
+![[z_assets/NPCs/You So-Jin.webp|400]]
 
 ## Bio
 

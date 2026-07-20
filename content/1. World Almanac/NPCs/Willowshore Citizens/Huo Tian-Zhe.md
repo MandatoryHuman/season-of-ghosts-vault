@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T16:42:04.709+01:00
-modified: 2026-07-16T21:07:51.735+01:00
-published: 2026-07-16T21:07:51.735+01:00
+modified: 2026-07-20T02:07:13.909+01:00
+published: 2026-07-20T02:07:13.909+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Second Best.md|Second Best]]"
@@ -25,7 +25,7 @@ npcimage:
 
 ## Appearance
 
-(Image)
+![[z_assets/NPCs/Huo Tian-Zhe.webp|400]]
 
 ## Bio
 

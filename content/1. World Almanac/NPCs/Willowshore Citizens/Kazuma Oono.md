@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-14T16:17:49.523+01:00
-modified: 2026-07-16T21:12:36.112+01:00
-published: 2026-07-16T21:12:36.112+01:00
+modified: 2026-07-20T02:08:05.774+01:00
+published: 2026-07-20T02:08:05.774+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Downtown Willowshore.md|Downtown Willowshore]]"
@@ -25,7 +25,7 @@ npcimage:
 
 ## Appearance
 
-(Image)
+![[z_assets/NPCs/Kazuma Oono.webp|400]]
 
 ## Bio
 

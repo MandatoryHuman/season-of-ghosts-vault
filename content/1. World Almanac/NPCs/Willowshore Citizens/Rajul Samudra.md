@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T17:14:15.130+01:00
-modified: 2026-07-16T21:36:36.495+01:00
-published: 2026-07-16T21:36:36.495+01:00
+modified: 2026-07-20T02:14:50.333+01:00
+published: 2026-07-20T02:14:50.333+01:00
 tags:
   - npc
 aliases: []
@@ -25,7 +25,7 @@ npcimage:
 
 ## Appearance
 
-(Image)
+![[z_assets/NPCs/Rajul Samudra.webp|400]]
 
 ## Bio
 

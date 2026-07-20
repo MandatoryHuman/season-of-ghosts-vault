@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T17:20:18.227+01:00
-modified: 2026-07-16T21:22:40.601+01:00
-published: 2026-07-16T21:22:40.601+01:00
+modified: 2026-07-20T02:13:33.828+01:00
+published: 2026-07-20T02:13:33.828+01:00
 tags:
   - npc
 aliases: []
@@ -25,7 +25,7 @@ npcimage:
 
 ## Appearance
 
-(Image)
+![[z_assets/NPCs/Luda Bama.webp|400]]
 
 ## Bio
 

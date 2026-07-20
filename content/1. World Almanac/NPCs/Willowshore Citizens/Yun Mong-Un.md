@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T16:38:00.743+01:00
-modified: 2026-07-16T21:45:24.168+01:00
-published: 2026-07-16T21:45:24.168+01:00
+modified: 2026-07-20T02:16:04.719+01:00
+published: 2026-07-20T02:16:04.719+01:00
 tags:
   - npc
 aliases: []
@@ -25,7 +25,7 @@ npcimage:
 
 ## Appearance
 
-(Image)
+![[z_assets/NPCs/Yun Mong-Un.webp|400]]
 
 ## Bio
 

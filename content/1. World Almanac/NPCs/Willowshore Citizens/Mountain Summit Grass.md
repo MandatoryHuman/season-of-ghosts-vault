@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-14T17:33:36.396+01:00
-modified: 2026-07-16T21:34:21.223+01:00
-published: 2026-07-16T21:34:21.223+01:00
+modified: 2026-07-20T02:14:07.780+01:00
+published: 2026-07-20T02:14:07.780+01:00
 tags:
   - npc
 aliases: []
@@ -25,7 +25,7 @@ npcimage:
 
 ## Appearance
 
-(Image)
+![[z_assets/NPCs/Mountain Summit Grass.webp|400]]
 
 ## Bio
 
