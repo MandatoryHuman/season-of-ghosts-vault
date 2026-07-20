@@ -17,9 +17,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Crimson Pro
+      body: Inter
+      code: Fira Code
     colors:
       lightMode:
         light: "#faf8f8"
@@ -48,7 +48,6 @@ plugins:
       defaultDateType: modified
       priority:
         - frontmatter
-        - git
         - filesystem
     order: 10
   - source: github:quartz-community/syntax-highlighting
@@ -267,7 +266,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: its-theme.its-dark
+      theme: its-theme.minimalist
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:

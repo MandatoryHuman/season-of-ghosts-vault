@@ -4,6 +4,12 @@
     overflow-x: auto;
 }
 .mermaid svg {
-    min-width: 1200px; /* Increase this value if the text is still too compressed */
+    min-width: 1200px;
     height: auto;
+}
+/* Left-justify Mermaid timeline text */
+.mermaid .eventText div,
+.mermaid .eventText p,
+.mermaid [class*="timeline"] foreignObject div {
+    text-align: left !important;
 }
