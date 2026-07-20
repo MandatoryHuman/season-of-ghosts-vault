@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-07-20T10:49:06.718+01:00
-modified: 2026-07-15T20:21:05.176+01:00
-published: 2026-07-15T20:21:05.176+01:00
+modified: 2026-07-20T17:29:01.165+01:00
+published: 2026-07-20T17:29:01.165+01:00
 tags:
   - location/region
 aliases: []
 parentregion: Tian Xia
 dangerlevel: High
+banner: "[[Shenmen Banner.webp]]"
 ---
 
 > [!info]+ Regional Data
