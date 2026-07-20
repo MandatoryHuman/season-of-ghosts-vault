@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-20T10:49:06.832+01:00
-modified: 2026-07-19T23:23:19.516+01:00
-published: 2026-07-19T23:23:19.516+01:00
+modified: 2026-07-20T13:30:07.932+01:00
+published: 2026-07-20T13:30:07.932+01:00
 tags:
-  - pc
+  - "#pc"
 aliases: []
 player_name: Alfie
 ancestry:
@@ -14,7 +14,7 @@ partyrole: Controller
 friend: "[[Elizeth Candora]]"
 npcimage: "[[Amaya Otonashi 4-5.webp]]"
 ally: "[[Crimson Rosoideae]]"
-parent: "[[Otonashi Nagi]], [[Otonashi Kairi]]"
+parent: Otonashi Nagi, Otonashi Kairi
 family: "[[Otonashi Shio]]"
 ---
 

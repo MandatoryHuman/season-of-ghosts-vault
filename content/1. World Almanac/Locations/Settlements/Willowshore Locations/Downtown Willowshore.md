@@ -1,17 +1,17 @@
 ---
 publish: true
 created: 2026-07-20T10:49:06.738+01:00
-modified: 2026-07-14T19:13:20.274+01:00
-published: 2026-07-14T19:13:20.274+01:00
+modified: 2026-07-20T13:39:18.636+01:00
+published: 2026-07-20T13:39:18.636+01:00
 tags:
-  - location/building
-  - district
+  - "#location/building"
+  - "#district"
 aliases: []
 settlement: "[[Willowshore]]"
 owner:
 buildingtype: District
 marker:
-  - coordinates: 2521, 3013
+  - coordinates: 2552, 2949
     icon: map:shopping-mall
     colour: "#f16623"
     minZoom: -3

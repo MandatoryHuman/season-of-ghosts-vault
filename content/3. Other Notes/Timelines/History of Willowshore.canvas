@@ -1,12 +1,12 @@
 {
 	"nodes":[
 		{"id":"337a8420901f233f","type":"group","x":-1124,"y":-400,"width":7304,"height":880,"label":"Main Timeline"},
-		{"id":"4fc6a237b570c272","type":"group","x":1440,"y":-440,"width":2640,"height":1920,"color":"3","label":"Lung Wa Occupancy"},
 		{"id":"4f8a798e550d1262","type":"group","x":4120,"y":-440,"width":2080,"height":1920,"color":"6","label":"Modern Age"},
 		{"id":"0c8344104ce8d3d1","type":"group","x":-340,"y":-440,"width":1740,"height":1920,"color":"1","label":"Fall of the Tang Sugi"},
 		{"id":"f3115dfcd03d395d","type":"group","x":-1124,"y":520,"width":7304,"height":440,"label":"Crimson's Timeline"},
 		{"id":"577a803ee80c62e4","type":"group","x":-1124,"y":1000,"width":7304,"height":440,"label":"Amaya's Timeline"},
 		{"id":"0d9c0730c4e26dba","type":"group","x":-740,"y":-440,"width":360,"height":1920,"color":"4","label":"Founding Years"},
+		{"id":"4fc6a237b570c272","type":"group","x":1440,"y":-440,"width":2640,"height":1920,"color":"3","label":"Lung Wa Occupancy"},
 		{"id":"n1_7106_1","type":"text","text":"### 7106 IC\n[Aroden](https://pathfinderwiki.com/wiki/Aroden) dies, bringing about the [death of prophecy](https://pathfinderwiki.com/wiki/Prophecy) and wracking all of Golarion with terrible storms, leading to Willowshore suffering the worst winter storms in living memory.","x":4160,"y":125,"width":320,"height":250,"color":"6"},
 		{"id":"n1_7106_2","type":"text","text":"### 7106 IC\nThe Lung Wa Empire collapses, ending the Age of Ascendancy in Tian Xia and marking the beginning of the Age of Succession. Across the continent many groups grasp for power; in Shenmen, the Jorogumo seek control.","x":4600,"y":117,"width":320,"height":265,"color":"6"},
 		{"id":"n1_7106_3","type":"text","text":"### 7106 IC\nWith their Lung Wa backing gone, the Lumber Lords abandon Willowshore to return to more urban settlements.","x":4980,"y":150,"width":320,"height":200,"color":"6"},
@@ -28,15 +28,15 @@
 		{"id":"7cc78b7f14b0ade3","type":"text","text":"## 7064 IC\nNagi & Kairi Otonashi move to Willowshore from Sze.","x":720,"y":1132,"width":260,"height":166,"color":"2"},
 		{"id":"n1_7062","type":"text","text":"### 7062 IC\nA group of woodcutters attempt to cut the ancient sugi trees around the monastery. They returned to town as undead with their weapons broken. This event is known as the \"Night of the Broken Blades\" and few have visited the monastery since.","x":480,"y":-80,"width":320,"height":280,"color":"1"},
 		{"id":"n1_7060","type":"text","text":"### 7060 IC\nAfter years of decline, the Tan Sugi Monastery is entirely abandoned.","x":80,"y":-40,"width":320,"height":200,"color":"1"},
-		{"id":"n1_7054","type":"text","text":"### 7054 IC\nZhi Hui passes away, monks of the Tan Sugi Monastery begin to drift away. Willowshore develops into a lumber town.","x":-320,"y":-40,"width":320,"height":200,"color":"1"},
-		{"id":"n1_7020","type":"text","text":"### 7020 IC\nThe Tan Sugi Monastery is founded by the Sangpotshi monk Zhi Hui. Willowshore is founded shortly after to support the monastery.","x":-720,"y":-60,"width":320,"height":240,"color":"4"},
-		{"id":"f815d9a639c89406","type":"file","file":"z_assets/PCs/Crimson Rosoideae.jpg","x":-1080,"y":540,"width":300,"height":400},
-		{"id":"af7782501779ec26","type":"file","file":"z_assets/PCs/Otonashi Amaya.webp","x":-1068,"y":1020,"width":276,"height":400},
 		{"id":"bb166822d5a060fd","type":"text","text":"## ~7080's IC\nThe Lumber Lords, loath as they did to mingle with the common folk of Willowshore, commission the establishment of The Cerulean Teahouse to give them a semi-private venue flush with extravagant food, drinks, and performances. However, after just a few years of novelty, the teahouse's popularity would sharply decline","x":2400,"y":-342,"width":380,"height":305,"color":"3"},
 		{"id":"bbcbe35a156a8491","type":"text","text":"## ~7080's IC\nThe expansion of Willowshore, spurred on by the arrival of the Lumber Lords, means that the local Leshy population has no choice but to intergrate. Soon after, the Leshy's Saloon is founded. As the leshies have inhabited the area longer than any humanoid, the citizens of the town vow to keep the greedy Lumber Lords away from the establishment.","x":1900,"y":-329,"width":453,"height":280,"color":"3"},
 		{"id":"n2_7103_2","type":"text","text":"### 7103 IC\nHuo Tian-Zhe arrives in Willowshore with his father. He quickly opens his store and workshop, \"Second Best\".","x":3720,"y":160,"width":320,"height":180,"color":"3"},
 		{"id":"n2_7103_1","type":"text","text":"### 7103 IC\nThe Thrice Blessed Brothel is forced to close due to political complications. With the help of Luo Xi Yang, it was soon able to reopen as The Thrice Blessed Inn.","x":3360,"y":130,"width":320,"height":240,"color":"3"},
-		{"id":"n2_7093_2","type":"text","text":"### 7093 IC\nAn infant Ba-Ming Ouh is hidden in the Nine Ear Shrine. A pack of foxes appear to defend her from the corrupt guards looking to execute her entire family.","x":3000,"y":136,"width":320,"height":228,"color":"3"}
+		{"id":"n2_7093_2","type":"text","text":"### 7093 IC\nAn infant Ba-Ming Ouh is hidden in the Nine Ear Shrine. A pack of foxes appear to defend her from the corrupt guards looking to execute her entire family.","x":3000,"y":136,"width":320,"height":228,"color":"3"},
+		{"id":"n1_7054","type":"text","text":"### 7054 IC\nZhi Hui passes away, monks of the Tan Sugi Monastery begin to drift away. Willowshore develops into a lumber town.","x":-320,"y":-40,"width":320,"height":200,"color":"1"},
+		{"id":"n1_7020","type":"text","text":"### 7020 IC\nThe Tan Sugi Monastery is founded by the Sangpotshi monk Zhi Hui. Willowshore is founded shortly after to support the monastery.","x":-720,"y":-60,"width":320,"height":240,"color":"4"},
+		{"id":"f815d9a639c89406","type":"file","file":"z_assets/PCs/Crimson Rosoideae.jpg","x":-1080,"y":540,"width":300,"height":400},
+		{"id":"af7782501779ec26","type":"file","file":"z_assets/PCs/Otonashi Amaya.webp","x":-1068,"y":1020,"width":276,"height":400}
 	],
 	"edges":[
 		{"id":"51c072b8738e1338","fromNode":"n1_7054","fromSide":"right","toNode":"n1_7060","toSide":"left"},

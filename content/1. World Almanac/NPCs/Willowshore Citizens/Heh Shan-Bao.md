@@ -3,12 +3,12 @@ publish: true
 aliases:
   - Governor
 created: 2026-07-20T10:49:06.793+01:00
-modified: 2026-07-15T21:07:53.228+01:00
-published: 2026-07-15T21:07:53.228+01:00
+modified: 2026-07-20T13:35:45.943+01:00
+published: 2026-07-20T13:35:45.943+01:00
 tags:
-  - npc
+  - "#npc"
 status: Alive
-location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Downtown Willowshore.md|Downtown Willowshore]]"
+location: "[[Governer's House]]"
 faction:
 ancestry:
   - "[[Human]]"
@@ -20,7 +20,7 @@ npcimage: "[[Heh Shan-Bao.webp]]"
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Downtown Willowshore.md|Downtown Willowshore]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Governer's House.md|Governer's House]]
 > **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]],Tian-shu
 > **Profession:** Governor
 > **Faction:**

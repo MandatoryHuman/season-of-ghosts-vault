@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-07-20T10:49:06.763+01:00
-modified: 2026-07-14T21:16:32.336+01:00
-published: 2026-07-14T21:16:32.336+01:00
+modified: 2026-07-20T13:40:03.857+01:00
+published: 2026-07-20T13:40:03.857+01:00
 tags:
-  - location/building
-  - teahouse
+  - "#location/building"
+  - "#teahouse"
 aliases: []
 settlement: "[[Willowshore]]"
 owner:
@@ -13,7 +13,7 @@ buildingtype: Teahouse
 marker:
   - coordinates: 2625, 2683
     icon: pinhead:japanese-teacup-with-steam
-    minZoom: -2.5
+    minZoom: -1.5
     colour: "#646464"
 ---
 

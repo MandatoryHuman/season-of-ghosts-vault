@@ -1,18 +1,19 @@
 ---
 publish: true
 created: 2026-07-20T10:49:06.797+01:00
-modified: 2026-07-20T02:07:33.702+01:00
-published: 2026-07-20T02:07:33.702+01:00
+modified: 2026-07-20T13:31:43.292+01:00
+published: 2026-07-20T13:31:43.292+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[Mother's Coil]]"
 faction:
 ancestry:
+  - "[[Human]]"
 class: Wizard
 level:
-npcimage:
+npcimage: "[[Igawa Jubei.webp]]"
 parent: "[[Anjal]]"
 mentor: "[[Crimson Rosoideae]]"
 ---
@@ -20,7 +21,7 @@ mentor: "[[Crimson Rosoideae]]"
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Mother's Coil.md|Mother's Coil]]
-> **Ancestry:**
+> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
 > **Profession:** Wizard
 > **Faction:**
 
