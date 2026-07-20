@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-20T10:49:06.815+01:00
-modified: 2026-07-19T15:23:40.076+01:00
-published: 2026-07-19T15:23:40.076+01:00
+modified: 2026-07-20T21:01:38.837+01:00
+published: 2026-07-20T21:01:38.837+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
 location: "[[Willowshore]]"
@@ -39,6 +39,8 @@ Eventually, Kairi could contain his feelings no longer. On the day he finally gr
 After sharing six decades of life together in Sze, Nagi fell pregnant with the twins. Seeking a quieter, safer environment away from the relentless hustle of the city, the couple pooled their savings and relocated to the town of [[Willowshore]] to raise their growing family.
 
 For many years, Nagi dedicated herself entirely to raising Amaya and Shio. Now that the twins have grown and established lives of their own, she finally has time to herself again. She has rekindled an old passion for writing poetry, whilst still finding practical use for her diving skills at the local docks - most often retrieving tools, dropped cargo, and valuables that some oaf or another has fumbled into the waters.
+
+On her daughter's 40th birthday, Nagi gifted her daughter something special; the very same carved pearl that her husband had gifted her when he asked to form their "partnership". She told her daughter that the pearl had bought her 100 years of luck, and that she hoped it'd do the same for Amaya.
 
 ## Relationship to Party
 
