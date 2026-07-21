@@ -4,11 +4,11 @@ aliases:
   - Nǚ guǐ
 title: Female Ghost
 created: 2026-07-21T10:55:44.291+01:00
-modified: 2026-07-21T19:21:39.637+01:00
-published: 2026-07-21T19:21:39.637+01:00
+modified: 2026-07-21T19:39:29.910+01:00
+published: 2026-07-21T19:39:29.910+01:00
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 cultural_origin: Chinese
 danger: Very High
 ghost_category: Vengeful Ghosts
@@ -39,7 +39,7 @@ While less common in literature, nán guǐ or "Male Ghosts" have also been repor
 
 ### Associated Hazards
 
-- Typically the most dangerous Nǚ guǐ are those wearing red
+- Typically the most dangerous Nǚ guǐ are those wearing red, which symbolises anger.
 
 ## Exorcism and Resolution
 
