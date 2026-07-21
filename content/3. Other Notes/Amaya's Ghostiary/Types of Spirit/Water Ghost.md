@@ -7,8 +7,8 @@ created: 2026-07-21T18:02:31.513+01:00
 modified: 2026-07-21T19:21:45.659+01:00
 published: 2026-07-21T19:21:45.659+01:00
 tags:
-  - ghost-type
-  - creature
+  - "#ghost-type"
+  - "#creature"
 cultural_origin: Chinese, Singaporean
 danger: Very High
 ghost_category: Tì Shēn Ghosts
