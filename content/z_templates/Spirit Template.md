@@ -1,12 +1,12 @@
 ---
 publish: true
 title: <% tp.file.title %>
-created: <% tp.date.now("YYYY-MM-DD") %>
-modified: 2026-07-21T18:28:08.353+01:00
-published: 2026-07-21T18:28:08.353+01:00
+created: 2026-07-21T10:10:20.894+01:00
+modified: 2026-07-21T19:21:59.015+01:00
+published: 2026-07-21T19:21:59.015+01:00
 tags:
-  - ghost-type
-  - creature
+  - "#ghost-type"
+  - "#creature"
 aliases: []
 cultural_origin: ""
 danger: ""

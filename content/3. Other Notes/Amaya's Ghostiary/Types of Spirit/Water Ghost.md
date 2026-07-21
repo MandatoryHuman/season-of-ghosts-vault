@@ -3,13 +3,13 @@ publish: true
 aliases:
   - Shuǐ Guǐ
 title: Water Ghost
-created: 2026-07-21
-modified: 2026-07-21T18:26:22.778+01:00
-published: 2026-07-21T18:26:22.778+01:00
+created: 2026-07-21T18:02:31.513+01:00
+modified: 2026-07-21T19:21:45.659+01:00
+published: 2026-07-21T19:21:45.659+01:00
 tags:
-  - ghost-type
-  - creature
-cultural_origin: Chinese
+  - "#ghost-type"
+  - "#creature"
+cultural_origin: Chinese, Singaporean
 danger: Very High
 ghost_category: Tì Shēn Ghosts
 ---
@@ -17,7 +17,7 @@ ghost_category: Tì Shēn Ghosts
 > [!info]+ Details
 >
 > - **Other Names:** Shuǐ Guǐ
-> - **Cultural Origin(s):** Chinese
+> - **Cultural Origin(s):** Chinese, Singaporean
 > - **Category** [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Tì Shēn Ghosts.md|Tì Shēn Ghosts]]
 > - **Danger:** Very High
 
@@ -25,7 +25,7 @@ ghost_category: Tì Shēn Ghosts
 
 ## Overview
 
-Shuǐ Guǐ are spirits of people who have drowned either through accident or suicide. Unable to reincarnate, the spirit instead lingers at the site of its death.
+![[z_assets/Creatures/Ghost Types/Water Ghost.webp|float-left|400]]Shuǐ Guǐ are spirits of people who have drowned either through accident or suicide. Unable to reincarnate, the spirit instead lingers at the site of its death.
 
 ## Behaviour and Haunts
 

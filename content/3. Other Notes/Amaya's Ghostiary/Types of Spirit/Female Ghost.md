@@ -3,22 +3,22 @@ publish: true
 aliases:
   - Nǚ guǐ
 title: Female Ghost
-created: 2026-07-21
-modified: 2026-07-21T18:27:30.164+01:00
-published: 2026-07-21T18:27:30.164+01:00
+created: 2026-07-21T10:55:44.291+01:00
+modified: 2026-07-21T19:21:39.637+01:00
+published: 2026-07-21T19:21:39.637+01:00
 tags:
-  - ghost-type
-  - creature
+  - "#ghost-type"
+  - "#creature"
 cultural_origin: Chinese
 danger: Very High
-ghost_category: Wandering Ghost
+ghost_category: Vengeful Ghosts
 ---
 
 > [!info]+ Details
 >
 > - **Other Names:** Nǚ guǐ
 > - **Cultural Origin(s):** Chinese
-> - **Category** [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Wandering Ghost.md|Wandering Ghost]]
+> - **Category** [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Vengeful Ghosts.md|Vengeful Ghosts]]
 > - **Danger:** Very High
 
 ---

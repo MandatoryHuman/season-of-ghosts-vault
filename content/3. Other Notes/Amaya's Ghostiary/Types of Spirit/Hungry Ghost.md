@@ -3,22 +3,22 @@ publish: true
 aliases:
   - È Guǐ
 title: Hungry Ghost
-created: 2026-07-21
-modified: 2026-07-21T18:27:22.160+01:00
-published: 2026-07-21T18:27:22.160+01:00
+created: 2026-07-21T10:12:40.767+01:00
+modified: 2026-07-21T19:21:36.420+01:00
+published: 2026-07-21T19:21:36.420+01:00
 tags:
-  - ghost-type
-  - creature
+  - "#ghost-type"
+  - "#creature"
 cultural_origin: Chinese, Japanese, Tibetan
 danger: Low
-ghost_category: Wandering Ghost
+ghost_category: Wandering Ghosts
 ---
 
 > [!info]+ Details
 >
 > - **Other Names:** È Guǐ
 > - **Cultural Origin(s):** Chinese, Japanese, Tibetan
-> - **Category** [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Wandering Ghost.md|Wandering Ghost]]
+> - **Category** [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
 > - **Danger:** Low
 
 ---
