@@ -4,8 +4,8 @@ created: 2026-07-21T01:46:26.158+01:00
 modified: 2026-07-20T13:39:18.636+01:00
 published: 2026-07-20T13:39:18.636+01:00
 tags:
-  - "#location/building"
-  - "#district"
+  - location/building
+  - district
 aliases: []
 settlement: "[[Willowshore]]"
 owner:
@@ -18,7 +18,7 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore.md|Willowshore]]
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
 > **Owner:**
 > **Type:** District
 

@@ -4,7 +4,7 @@ created: 2026-07-21T01:46:26.233+01:00
 modified: 2026-07-21T21:34:30.415+01:00
 published: 2026-07-21T21:34:30.415+01:00
 tags:
-  - "#npc"
+  - npc
 aliases: []
 status: Alive
 location: "[[The Leshy's Saloon|The Leshy's Saloon]]"

@@ -4,8 +4,8 @@ created: 2026-07-21T01:46:26.151+01:00
 modified: 2026-07-14T19:12:44.925+01:00
 published: 2026-07-14T19:12:44.925+01:00
 tags:
-  - "#location/building"
-  - "#cemetery"
+  - location/building
+  - cemetery
 aliases: []
 settlement: "[[Willowshore]]"
 owner:
@@ -18,7 +18,7 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore.md|Willowshore]]
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
 > **Owner:**
 > **Type:** Cemetery
 

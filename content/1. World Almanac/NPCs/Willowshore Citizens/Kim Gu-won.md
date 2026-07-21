@@ -4,7 +4,7 @@ created: 2026-07-21T01:46:26.224+01:00
 modified: 2026-07-21T21:34:30.395+01:00
 published: 2026-07-21T21:34:30.395+01:00
 tags:
-  - "#npc"
+  - npc
 aliases: []
 status: Alive
 location: "[[The Ceiba-Duyue Exchange|The Ceiba-Duyue Exchange]]"

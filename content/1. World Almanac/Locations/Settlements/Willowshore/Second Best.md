@@ -4,8 +4,8 @@ created: 2026-07-21T01:46:26.179+01:00
 modified: 2026-07-14T21:16:24.906+01:00
 published: 2026-07-14T21:16:24.906+01:00
 tags:
-  - "#location/building"
-  - "#shop"
+  - location/building
+  - shop
 aliases: []
 settlement:
 owner: "[[Huo Tian-Zhe]]"

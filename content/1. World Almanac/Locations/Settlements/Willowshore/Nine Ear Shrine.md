@@ -4,8 +4,8 @@ created: 2026-07-21T01:46:26.178+01:00
 modified: 2026-07-14T21:16:22.372+01:00
 published: 2026-07-14T21:16:22.372+01:00
 tags:
-  - "#location/building"
-  - "#shrine"
+  - location/building
+  - shrine
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Ba-Ming Ouh]]"
@@ -18,7 +18,7 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore.md|Willowshore]]
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
 > **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Ba-Ming Ouh.md|Ba-Ming Ouh]]
 > **Type:** Shrine
 

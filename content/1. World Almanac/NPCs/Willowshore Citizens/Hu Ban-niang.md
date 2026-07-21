@@ -6,7 +6,7 @@ created: 2026-07-21T01:46:26.217+01:00
 modified: 2026-07-21T21:34:31.004+01:00
 published: 2026-07-21T21:34:31.004+01:00
 tags:
-  - "#npc"
+  - npc
 status: Alive
 location: "[[Willowshore|Willowshore]]"
 faction: "[[Northridgers]]"
@@ -19,7 +19,7 @@ npcimage: "[[Granny Hu.webp]]"
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore.md|Willowshore]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
 > **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
 > **Profession:** Guard Captain (Retired)
 > **Faction:** [[1. World Almanac/Factions/Northridgers.md|Northridgers]]

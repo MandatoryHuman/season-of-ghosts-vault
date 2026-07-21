@@ -4,7 +4,7 @@ created: 2026-07-21T01:46:26.149+01:00
 modified: 2026-07-19T13:26:54.915+01:00
 published: 2026-07-19T13:26:54.915+01:00
 tags:
-  - "#location/building"
+  - location/building
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Otonashi Amaya]]"
@@ -17,7 +17,7 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore.md|Willowshore]]
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
 > **Owner:** [[1. World Almanac/PCs/Otonashi Amaya.md|Otonashi Amaya]]
 > **Type:** Residential
 

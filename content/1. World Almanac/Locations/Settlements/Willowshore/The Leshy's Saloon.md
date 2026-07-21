@@ -4,8 +4,8 @@ created: 2026-07-21T01:46:26.190+01:00
 modified: 2026-07-14T21:16:37.509+01:00
 published: 2026-07-14T21:16:37.509+01:00
 tags:
-  - "#location/building"
-  - "#teahouse"
+  - location/building
+  - teahouse
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Mountain Summit Grass]]"
@@ -17,7 +17,7 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore.md|Willowshore]]
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
 > **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Mountain Summit Grass.md|Mountain Summit Grass]]
 > **Type:** Teahouse
 

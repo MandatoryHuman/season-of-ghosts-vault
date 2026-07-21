@@ -6,7 +6,7 @@ created: 2026-07-21T01:46:26.211+01:00
 modified: 2026-07-21T21:34:30.355+01:00
 published: 2026-07-21T21:34:30.355+01:00
 tags:
-  - "#npc"
+  - npc
 status: Alive
 location: "[[The Hand of Spring|The Hand of Spring]]"
 faction:

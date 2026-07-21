@@ -4,8 +4,8 @@ created: 2026-07-21T01:46:26.187+01:00
 modified: 2026-07-20T13:40:03.857+01:00
 published: 2026-07-20T13:40:03.857+01:00
 tags:
-  - "#location/building"
-  - "#teahouse"
+  - location/building
+  - teahouse
 aliases: []
 settlement: "[[Willowshore]]"
 owner:
@@ -18,7 +18,7 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore.md|Willowshore]]
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
 > **Owner:**
 > **Type:** Teahouse
 

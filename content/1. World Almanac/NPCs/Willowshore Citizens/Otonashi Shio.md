@@ -19,7 +19,7 @@ parent: Otonashi Nagi, Otonashi Kairi
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore.md|Willowshore]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
 > **Ancestry:** [[1. World Almanac/Creatures/Elf.md|Elf]]
 > **Profession:** Fisherman
 > **Faction:**

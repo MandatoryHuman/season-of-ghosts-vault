@@ -4,7 +4,7 @@ created: 2026-07-21T01:46:26.228+01:00
 modified: 2026-07-21T21:34:30.401+01:00
 published: 2026-07-21T21:34:30.401+01:00
 tags:
-  - "#npc"
+  - npc
 aliases: []
 status: Alive
 location: "[[The Mushroom House|The Mushroom House]]"
