@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-20T10:49:06.830+01:00
-modified: 2026-07-18T09:28:10.866+01:00
-published: 2026-07-18T09:28:10.866+01:00
+modified: 2026-07-21T01:36:19.510+01:00
+published: 2026-07-21T01:36:19.510+01:00
 tags:
   - pc
 aliases: []
@@ -22,7 +22,7 @@ npcimage: "[[Crimson Rosoideae.jpg]]"
 
 ## Appearance
 
-![[z_assets/PCs/Crimson Rosoideae.jpg|500]]
+![[z_assets/PCs/Crimson Rosoideae.jpg|400]]
 
 ## Backstory
 
