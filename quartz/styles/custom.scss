@@ -14,3 +14,17 @@
 .mermaid [class*="timeline"] foreignObject div {
     text-align: left !important;
 }
+
+/* Float image to the right and wrap text around the left */
+img[alt*="float-right"] {
+    float: right;
+    clear: right;
+    margin: 0.5rem 0 1rem 1.5rem;
+}
+
+/* Float image to the left and wrap text around the right */
+img[alt*="float-left"] {
+    float: left;
+    clear: left;
+    margin: 0.5rem 1.5rem 1rem 0;
+}
