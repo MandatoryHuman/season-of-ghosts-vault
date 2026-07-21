@@ -2,24 +2,26 @@
 publish: true
 aliases:
   - Shuǐ Guǐ
+  - Mul Gwisin
 title: Water Ghost
 created: 2026-07-21T18:02:31.513+01:00
-modified: 2026-07-22T00:03:36.686+01:00
-published: 2026-07-22T00:03:36.686+01:00
+modified: 2026-07-22T00:34:53.497+01:00
+published: 2026-07-22T00:34:53.497+01:00
 tags:
   - "#ghost-type"
   - "#creature"
 cultural_origin:
   - Chinese
   - Singaporean
+  - Korean
 danger: Very High
 ghost_category: Bound Ghosts
 ---
 
 > [!info]+ Details
 >
-> - **Other Names:** Shuǐ Guǐ
-> - **Cultural Origin(s):** Chinese,Singaporean
+> - **Other Names:** Shuǐ Guǐ,Mul Gwisin
+> - **Cultural Origin(s):** Chinese,Singaporean,Korean
 > - **Category** [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Bound Ghosts.md|Bound Ghosts]]
 > - **Danger:** Very High
 
