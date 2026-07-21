@@ -20,7 +20,7 @@ mentor: "[[Crimson Rosoideae]]"
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Mother's Coil.md|Mother's Coil]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Mother's Coil.md|Mother's Coil]]
 > **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
 > **Profession:** Wizard
 > **Faction:**

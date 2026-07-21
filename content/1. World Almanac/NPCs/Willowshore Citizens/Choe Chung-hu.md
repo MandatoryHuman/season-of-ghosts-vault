@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-21T01:46:26.209+01:00
-modified: 2026-07-20T02:16:54.962+01:00
-published: 2026-07-20T02:16:54.962+01:00
+modified: 2026-07-21T21:34:30.347+01:00
+published: 2026-07-21T21:34:30.347+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
-location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Milling Houses.md|Milling Houses]]"
+location: "[[Milling Houses|Milling Houses]]"
 faction:
 ancestry:
   - "[[Human]]"
@@ -18,7 +18,7 @@ npcimage: "[[Choe Chung-hu.webp]]"
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Milling Houses.md|Milling Houses]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Milling Houses.md|Milling Houses]]
 > **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
 > **Profession:** Miller
 > **Faction:**

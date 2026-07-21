@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-21T01:46:26.229+01:00
-modified: 2026-07-16T21:25:12.683+01:00
-published: 2026-07-16T21:25:12.683+01:00
+modified: 2026-07-21T21:34:30.406+01:00
+published: 2026-07-21T21:34:30.406+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
-location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Luo and Laws.md|Luo and Laws]]"
+location: "[[Luo and Laws|Luo and Laws]]"
 faction:
 ancestry:
   - "[[Human]]"
@@ -18,7 +18,7 @@ npcimage: "[[Luo Xi Yang.webp]]"
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Luo and Laws.md|Luo and Laws]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Luo and Laws.md|Luo and Laws]]
 > **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
 > **Profession:** Lawyer
 > **Faction:**

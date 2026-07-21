@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-21T01:46:26.224+01:00
-modified: 2026-07-20T02:17:42.838+01:00
-published: 2026-07-20T02:17:42.838+01:00
+modified: 2026-07-21T21:34:30.395+01:00
+published: 2026-07-21T21:34:30.395+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
-location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/The Ceiba-Duyue Exchange.md|The Ceiba-Duyue Exchange]]"
+location: "[[The Ceiba-Duyue Exchange|The Ceiba-Duyue Exchange]]"
 faction:
 ancestry:
   - "[[Human]]"
@@ -18,7 +18,7 @@ npcimage: "[[Kim Gu-won.webp]]"
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/The Ceiba-Duyue Exchange.md|The Ceiba-Duyue Exchange]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/The Ceiba-Duyue Exchange.md|The Ceiba-Duyue Exchange]]
 > **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
 > **Profession:** Cleric
 > **Faction:**

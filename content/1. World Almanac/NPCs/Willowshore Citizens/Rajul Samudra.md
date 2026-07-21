@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-21T01:46:26.239+01:00
-modified: 2026-07-20T02:19:07.454+01:00
-published: 2026-07-20T02:19:07.454+01:00
+modified: 2026-07-21T21:34:30.426+01:00
+published: 2026-07-21T21:34:30.426+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
-location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Dock.md|Dock]]"
+location: "[[Dock|Dock]]"
 faction:
 ancestry:
   - "[[Nagaji]]"
@@ -18,7 +18,7 @@ npcimage: "[[Rajul Samudra.webp]]"
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Dock.md|Dock]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Dock.md|Dock]]
 > **Ancestry:** [[1. World Almanac/Creatures/Nagaji.md|Nagaji]]
 > **Profession:** Shipwright
 > **Faction:**

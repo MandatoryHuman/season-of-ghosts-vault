@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-21T01:46:26.233+01:00
-modified: 2026-07-20T02:18:26.879+01:00
-published: 2026-07-20T02:18:26.879+01:00
+modified: 2026-07-21T21:34:30.415+01:00
+published: 2026-07-21T21:34:30.415+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
-location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/The Leshy's Saloon.md|The Leshy's Saloon]]"
+location: "[[The Leshy's Saloon|The Leshy's Saloon]]"
 faction:
 ancestry:
   - "[[Leshy]]"
@@ -18,7 +18,7 @@ npcimage: "[[Mountain Summit Grass.webp]]"
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/The Leshy's Saloon.md|The Leshy's Saloon]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/The Leshy's Saloon.md|The Leshy's Saloon]]
 > **Ancestry:** [[1. World Almanac/Creatures/Leshy.md|Leshy]]
 > **Profession:** Teamaker
 > **Faction:**

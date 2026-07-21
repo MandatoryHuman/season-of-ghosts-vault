@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-21T01:46:26.213+01:00
-modified: 2026-07-20T02:17:04.464+01:00
-published: 2026-07-20T02:17:04.464+01:00
+modified: 2026-07-21T21:34:30.363+01:00
+published: 2026-07-21T21:34:30.363+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
-location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Downtown Willowshore.md|Downtown Willowshore]]"
+location: "[[Downtown Willowshore|Downtown Willowshore]]"
 faction:
 ancestry:
   - "[[Halfling]]"
@@ -18,7 +18,7 @@ npcimage: "[[De-Ge Hua.webp]]"
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Downtown Willowshore.md|Downtown Willowshore]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Downtown Willowshore.md|Downtown Willowshore]]
 > **Ancestry:** [[1. World Almanac/Creatures/Halfling.md|Halfling]]
 > **Profession:** Bathhouse Owner
 > **Faction:**

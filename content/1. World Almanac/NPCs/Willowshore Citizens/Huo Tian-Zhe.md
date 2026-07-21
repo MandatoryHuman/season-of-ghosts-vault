@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-21T01:46:26.218+01:00
-modified: 2026-07-20T02:17:17.926+01:00
-published: 2026-07-20T02:17:17.926+01:00
+modified: 2026-07-21T21:34:30.376+01:00
+published: 2026-07-21T21:34:30.376+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
-location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Second Best.md|Second Best]]"
+location: "[[Second Best|Second Best]]"
 faction:
 ancestry:
   - "[[Human]]"
@@ -18,7 +18,7 @@ npcimage: "[[Huo Tian-Zhe.webp]]"
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Second Best.md|Second Best]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Second Best.md|Second Best]]
 > **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
 > **Profession:** Inventor
 > **Faction:**

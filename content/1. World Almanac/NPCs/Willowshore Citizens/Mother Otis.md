@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-21T01:46:26.231+01:00
-modified: 2026-07-20T02:18:20.914+01:00
-published: 2026-07-20T02:18:20.914+01:00
+modified: 2026-07-21T21:34:30.410+01:00
+published: 2026-07-21T21:34:30.410+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
-location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Thrice Blessed Inn.md|Thrice Blessed Inn]]"
+location: "[[Thrice Blessed Inn|Thrice Blessed Inn]]"
 faction:
 ancestry:
   - Half-Elf
@@ -18,7 +18,7 @@ npcimage: "[[Mother Otis.webp]]"
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Thrice Blessed Inn.md|Thrice Blessed Inn]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Thrice Blessed Inn.md|Thrice Blessed Inn]]
 > **Ancestry:** Half-Elf
 > **Profession:** Innkeeper
 > **Faction:**

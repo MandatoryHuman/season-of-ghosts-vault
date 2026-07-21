@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-21T01:46:26.214+01:00
-modified: 2026-07-15T21:05:09.258+01:00
-published: 2026-07-15T21:05:09.258+01:00
+modified: 2026-07-21T21:34:30.368+01:00
+published: 2026-07-21T21:34:30.368+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
-location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Lady of Souls.md|Lady of Souls]]"
+location: "[[Lady of Souls|Lady of Souls]]"
 faction:
 ancestry:
   - "[[Human]]"
@@ -19,7 +19,7 @@ npcimage: "[[Elizeth Candora.webp]]"
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Lady of Souls.md|Lady of Souls]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Lady of Souls.md|Lady of Souls]]
 > **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]],Taldan
 > **Profession:** Cleric
 > **Faction:**

@@ -18,7 +18,7 @@ npcimage: "[[Kum Soon-chong.webp]]"
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Willowshore Stables.md|Willowshore Stables]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore Stables.md|Willowshore Stables]]
 > **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
 > **Profession:** Veterinarian
 > **Faction:**

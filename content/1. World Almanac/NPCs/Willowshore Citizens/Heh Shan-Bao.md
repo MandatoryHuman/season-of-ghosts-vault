@@ -20,7 +20,7 @@ npcimage: "[[Heh Shan-Bao.webp]]"
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Governer's House.md|Governer's House]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Governer's House.md|Governer's House]]
 > **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]],Tian-shu
 > **Profession:** Governor
 > **Faction:**

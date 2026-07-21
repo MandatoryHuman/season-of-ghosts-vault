@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-07-21T01:46:26.245+01:00
-modified: 2026-07-16T21:46:44.494+01:00
-published: 2026-07-16T21:46:44.494+01:00
+modified: 2026-07-21T21:34:30.448+01:00
+published: 2026-07-21T21:34:30.448+01:00
 tags:
-  - npc
+  - "#npc"
 aliases: []
 status: Alive
-location: "[[1. World Almanac/Locations/Settlements/Willowshore Locations/Fisheries.md|Fisheries]]"
+location: "[[Fisheries|Fisheries]]"
 faction:
 ancestry:
   - "[[Ratfolk]]"
@@ -18,7 +18,7 @@ npcimage:
 
 > [!info]+ Biographical Data
 > **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore Locations/Fisheries.md|Fisheries]]
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Fisheries.md|Fisheries]]
 > **Ancestry:** [[1. World Almanac/Creatures/Ratfolk.md|Ratfolk]]
 > **Profession:** Fisher
 > **Faction:**
