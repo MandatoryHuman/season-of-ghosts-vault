@@ -15,7 +15,7 @@ Also note that the Season of Ghosts Player's guide explicitly calls out the fact
 
 | File                                                                                           |
 | ---------------------------------------------------------------------------------------------- |
-| [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Tì Shēn Ghosts.md\|Tì Shēn Ghosts]]     |
+| [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Bound Ghosts.md\|Bound Ghosts]]         |
 | [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Vengeful Ghosts.md\|Vengeful Ghosts]]   |
 | [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Wandering Ghosts.md\|Wandering Ghosts]] |
 

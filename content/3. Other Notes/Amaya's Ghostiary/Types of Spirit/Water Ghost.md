@@ -4,21 +4,23 @@ aliases:
   - Shuǐ Guǐ
 title: Water Ghost
 created: 2026-07-21T18:02:31.513+01:00
-modified: 2026-07-21T19:21:45.659+01:00
-published: 2026-07-21T19:21:45.659+01:00
+modified: 2026-07-22T00:03:36.686+01:00
+published: 2026-07-22T00:03:36.686+01:00
 tags:
-  - ghost-type
-  - creature
-cultural_origin: Chinese, Singaporean
+  - "#ghost-type"
+  - "#creature"
+cultural_origin:
+  - Chinese
+  - Singaporean
 danger: Very High
-ghost_category: Tì Shēn Ghosts
+ghost_category: Bound Ghosts
 ---
 
 > [!info]+ Details
 >
 > - **Other Names:** Shuǐ Guǐ
-> - **Cultural Origin(s):** Chinese, Singaporean
-> - **Category** [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Tì Shēn Ghosts.md|Tì Shēn Ghosts]]
+> - **Cultural Origin(s):** Chinese,Singaporean
+> - **Category** [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Bound Ghosts.md|Bound Ghosts]]
 > - **Danger:** Very High
 
 ---

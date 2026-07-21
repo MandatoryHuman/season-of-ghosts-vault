@@ -4,12 +4,14 @@ aliases:
   - È Guǐ
 title: Hungry Ghost
 created: 2026-07-21T10:12:40.767+01:00
-modified: 2026-07-21T19:21:36.420+01:00
-published: 2026-07-21T19:21:36.420+01:00
+modified: 2026-07-22T00:33:22.165+01:00
+published: 2026-07-22T00:33:22.165+01:00
 tags:
   - ghost-type
   - creature
-cultural_origin: Chinese, Japanese, Tibetan
+cultural_origin:
+  - Chinese
+  - Tibetan
 danger: Low
 ghost_category: Wandering Ghosts
 ---
@@ -17,7 +19,7 @@ ghost_category: Wandering Ghosts
 > [!info]+ Details
 >
 > - **Other Names:** È Guǐ
-> - **Cultural Origin(s):** Chinese, Japanese, Tibetan
+> - **Cultural Origin(s):** Chinese,Tibetan
 > - **Category** [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
 > - **Danger:** Low
 
@@ -25,7 +27,7 @@ ghost_category: Wandering Ghosts
 
 ## Overview
 
-![[z_assets/Creatures/Ghost Types/Hungry Ghost.webp|float-left|400]] These spirits are a type of Yóu Hún Yě Guǐ, or "wandering ghost". They represent those who lived in extreme greed and refused to help others. They are cursed with insatiable appetites, bloated bellies, and thin necks. Food they attempt to eat bursts into flames or turns to ash.
+![[z_assets/Creatures/Ghost Types/Hungry Ghost.webp|float-left|400]]These spirits are a type of Yóu Hún Yě Guǐ, or "wandering ghost". They represent those who lived in extreme greed and refused to help others. They are cursed with insatiable appetites, bloated bellies, and thin necks. Food they attempt to eat bursts into flames or turns to ash.
 
 ## Behaviour and Haunts
 
