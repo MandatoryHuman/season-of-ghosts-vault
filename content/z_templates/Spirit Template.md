@@ -5,8 +5,8 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 modified: 2026-07-21T11:31:12.128+01:00
 published: 2026-07-21T11:31:12.128+01:00
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 aliases: []
 cultural_origin: ""
 danger: ""
