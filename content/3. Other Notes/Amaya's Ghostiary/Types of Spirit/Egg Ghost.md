@@ -7,8 +7,8 @@ created: 2026-07-22T00:34:59.961+01:00
 modified: 2026-07-22T00:42:27.255+01:00
 published: 2026-07-22T00:42:27.255+01:00
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 cultural_origin:
   - Korean
 danger: Very High

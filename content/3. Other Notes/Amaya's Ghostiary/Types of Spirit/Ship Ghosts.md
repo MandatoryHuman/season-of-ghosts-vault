@@ -7,8 +7,8 @@ created: 2026-07-22T00:02:30.934+01:00
 modified: 2026-07-22T00:32:54.896+01:00
 published: 2026-07-22T00:32:54.896+01:00
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 cultural_origin: Japanese
 danger: High
 ghost_category: Bound Ghosts

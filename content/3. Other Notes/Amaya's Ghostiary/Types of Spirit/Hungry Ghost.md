@@ -7,8 +7,8 @@ created: 2026-07-21T10:12:40.767+01:00
 modified: 2026-07-22T00:33:22.165+01:00
 published: 2026-07-22T00:33:22.165+01:00
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 cultural_origin:
   - Chinese
   - Tibetan

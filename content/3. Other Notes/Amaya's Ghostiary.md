@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-21T10:03:19.182+01:00
-modified: 2026-07-21T21:35:10.038+01:00
-published: 2026-07-21T21:35:10.038+01:00
+modified: 2026-07-22T00:45:24.547+01:00
+published: 2026-07-22T00:45:24.547+01:00
 aliases: []
 tags: []
 ---
@@ -13,16 +13,8 @@ Also note that the Season of Ghosts Player's guide explicitly calls out the fact
 
 # Categories of Ghosts
 
-| File                                                                                           |
+| Type of Ghost                                                                                  |
 | ---------------------------------------------------------------------------------------------- |
 | [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Bound Ghosts.md\|Bound Ghosts]]         |
 | [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Vengeful Ghosts.md\|Vengeful Ghosts]]   |
 | [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Wandering Ghosts.md\|Wandering Ghosts]] |
-
-# Notes on Cultural Perceptions of Spirits
-
-Most (if not all) of the cultures I will touch upon here have existed for over a millennium, and over that time they have shifted, mixed, and changed. The things stated below are a single snapshot, not comprehensive definitions.
-
-### Chinese Ghosts
-
-Most Chinese ghosts are the lingering spirits of a person who has died, portrayed as vengeful spirits who will harm the living if provoked. The spirits of the dead - primarily of ancestors - can also be contacted via a medium, and can help the living when properly respected.

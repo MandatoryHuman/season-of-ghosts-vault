@@ -4,22 +4,22 @@ aliases:
   - Cheonyeo Gwisin
 title: Virgin Ghost
 created: 2026-07-22T00:18:48.435+01:00
-modified: 2026-07-22T00:28:45.908+01:00
-published: 2026-07-22T00:28:45.908+01:00
+modified: 2026-07-22T00:48:02.021+01:00
+published: 2026-07-22T00:48:02.021+01:00
 tags:
   - "#ghost-type"
   - "#creature"
 cultural_origin:
   - Korean
 danger: Moderate
-ghost_category:
+ghost_category: Wandering Ghosts
 ---
 
 > [!info]+ Details
 >
 > - **Other Names:** Cheonyeo Gwisin
 > - **Cultural Origin(s):** Korean
-> - **Category**
+> - **Category** [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
 > - **Danger:** Moderate
 
 ---

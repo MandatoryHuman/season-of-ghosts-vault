@@ -7,8 +7,8 @@ created: 2026-07-21T19:13:08.868+01:00
 modified: 2026-07-22T00:01:42.756+01:00
 published: 2026-07-22T00:01:42.756+01:00
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 cultural_origin: Chinese
 danger: High
 ghost_category: Bound Ghosts
