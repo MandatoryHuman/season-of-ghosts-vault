@@ -4,19 +4,21 @@ aliases:
   - È Guǐ
 title: Hungry Ghost
 created: 2026-07-21
-modified: 2026-07-21T11:43:28.549+01:00
-published: 2026-07-21T11:43:28.549+01:00
+modified: 2026-07-21T18:27:22.160+01:00
+published: 2026-07-21T18:27:22.160+01:00
 tags:
   - ghost-type
   - creature
 cultural_origin: Chinese, Japanese, Tibetan
 danger: Low
+ghost_category: Wandering Ghost
 ---
 
 > [!info]+ Details
 >
 > - **Other Names:** È Guǐ
 > - **Cultural Origin(s):** Chinese, Japanese, Tibetan
+> - **Category** [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Wandering Ghost.md|Wandering Ghost]]
 > - **Danger:** Low
 
 ---
@@ -39,6 +41,7 @@ danger: Low
 
 ## Exorcism and Resolution
 
-- Offering food to the ghost can satiate it temporarily.
+- Offering food to the ghost can satiate it temporarily. The food must be accompanied by a special chant or ritual to actually allow the ghost to consume it.
 - Burning of "Hell Money" or Joss paper can calm them.
+- Monks and priests can chant and pray for the ghosts. The good karma generated from these chants can allow the ghost to move on.
 - Some communities put on theatrical shows, leaving the front row empty in hopes that the ghosts will enjoy the entertainment and be satisfied.
