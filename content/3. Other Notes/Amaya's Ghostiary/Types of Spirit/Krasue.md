@@ -8,22 +8,22 @@ aliases:
   - Capculacay
 title: Krasue
 created: 2026-07-22T12:04:34.797+01:00
-modified: 2026-07-22T12:17:57.859+01:00
-published: 2026-07-22T12:17:57.859+01:00
+modified: 2026-07-22T12:18:17.134+01:00
+published: 2026-07-22T12:18:17.134+01:00
 tags:
   - ghost-type
   - creature
 cultural_origin:
   - Thai
 danger: Very High
-ghost_category:
+ghost_category: Wandering Ghosts
 ---
 
 > [!info]+ Details
 >
 > - **Other Names:** Ahp,Penanggal,Kuyang,Palasik,Capculacay
 > - **Cultural Origin(s):** Thai
-> - **Category**
+> - **Category** [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
 > - **Danger:** Very High
 
 ---
