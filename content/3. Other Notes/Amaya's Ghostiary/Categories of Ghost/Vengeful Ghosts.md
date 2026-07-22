@@ -7,8 +7,8 @@ aliases: []
 tags: []
 ---
 
-| Ghost                                                                                  | Other Names                    | Danger Level | Cultural Origin        |
-| -------------------------------------------------------------------------------------- | ------------------------------ | ------------ | ---------------------- |
-| [[3. Other Notes/Amaya's Ghostiary/Types of Spirit/Female Ghost.md\|Female Ghost]]     | <ul><li>Nǚ guǐ</li></ul>       | Very High    | Chinese                |
-| [[3. Other Notes/Amaya's Ghostiary/Types of Spirit/Hatred Spirits.md\|Hatred Spirits]] | <ul><li>Onryō</li></ul>        | Very High    | Japanese               |
-| [[3. Other Notes/Amaya's Ghostiary/Types of Spirit/Sudden Ghosts.md\|Sudden Ghosts]]   | <ul><li>Phi Tai Hong</li></ul> | Very High    | <ul><li>Thai</li></ul> |
+| Ghost                                                                                | Other Names                    | Danger Level | Cultural Origin        |
+| ------------------------------------------------------------------------------------ | ------------------------------ | ------------ | ---------------------- |
+| [[3. Other Notes/Amaya's Ghostiary/Types of Spirit/Female Ghost.md\|Female Ghost]]   | <ul><li>Nǚ guǐ</li></ul>       | Very High    | Chinese                |
+| [[3. Other Notes/Amaya's Ghostiary/Types of Spirit/Hatred Spirit.md\|Hatred Spirit]] | <ul><li>Onryō</li></ul>        | Very High    | Japanese               |
+| [[3. Other Notes/Amaya's Ghostiary/Types of Spirit/Sudden Ghost.md\|Sudden Ghost]]   | <ul><li>Phi Tai Hong</li></ul> | Very High    | <ul><li>Thai</li></ul> |

@@ -12,5 +12,5 @@ Tì Shēn Ghosts are those that are bound to the location of their unnatural dea
 | Ghost                                                                                | Other Names                                   | Danger Level | Cultural Origin                                              |
 | ------------------------------------------------------------------------------------ | --------------------------------------------- | ------------ | ------------------------------------------------------------ |
 | [[3. Other Notes/Amaya's Ghostiary/Types of Spirit/Hanging Ghost.md\|Hanging Ghost]] | <ul><li>Diào Sǐ Guǐ</li></ul>                 | High         | Chinese                                                      |
-| [[3. Other Notes/Amaya's Ghostiary/Types of Spirit/Ship Ghosts.md\|Ship Ghosts]]     | <ul><li>Funa-yūrei</li></ul>                  | High         | Japanese                                                     |
+| [[3. Other Notes/Amaya's Ghostiary/Types of Spirit/Ship Ghost.md\|Ship Ghost]]       | <ul><li>Funa-yūrei</li></ul>                  | High         | Japanese                                                     |
 | [[3. Other Notes/Amaya's Ghostiary/Types of Spirit/Water Ghost.md\|Water Ghost]]     | <ul><li>Shuǐ Guǐ</li><li>Mul Gwisin</li></ul> | Very High    | <ul><li>Chinese</li><li>Singaporean</li><li>Korean</li></ul> |
