@@ -3,12 +3,12 @@ publish: true
 aliases:
   - Phi Pob
 title: Phi Pop
-created: 2026-07-25T21:33:48.418+01:00
+created: 2026-07-25T22:08:19.578+01:00
 modified: 2026-07-25T21:44:13.158+01:00
 published: 2026-07-25T21:44:13.158+01:00
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 cultural_origin:
   - Thai
 danger: High

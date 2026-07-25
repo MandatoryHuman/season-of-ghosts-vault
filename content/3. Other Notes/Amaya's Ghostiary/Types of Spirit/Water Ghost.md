@@ -4,7 +4,7 @@ aliases:
   - Shuǐ Guǐ
   - Mul Gwisin
 title: Water Ghost
-created: 2026-07-21T18:02:31.513+01:00
+created: 2026-07-25T22:08:19.583+01:00
 modified: 2026-07-22T00:34:53.497+01:00
 published: 2026-07-22T00:34:53.497+01:00
 tags:
