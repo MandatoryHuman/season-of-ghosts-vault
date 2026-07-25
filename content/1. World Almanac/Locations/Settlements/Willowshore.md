@@ -4,8 +4,8 @@ created: 2026-07-21T01:46:26.145+01:00
 modified: 2026-07-25T15:01:29.295+01:00
 published: 2026-07-25T15:01:29.295+01:00
 tags:
-  - "#location/settlement"
-  - "#town"
+  - location/settlement
+  - town
 aliases: []
 region: "[[Shenmen]]"
 ruler: "[[Heh Shan-Bao]]"
