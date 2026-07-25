@@ -1,12 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-07-25T22:08:19.549+01:00
-modified: 2026-07-21T01:36:19.510+01:00
-published: 2026-07-21T01:36:19.510+01:00
->>>>>>> 0416d39d8e241afb95b347138923390020f91b2d
 tags:
   - pc
 player_name: Amren

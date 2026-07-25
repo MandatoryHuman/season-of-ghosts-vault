@@ -1,12 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-07-25T22:08:19.438+01:00
-modified: 2026-07-15T18:19:08.580+01:00
-published: 2026-07-15T18:19:08.580+01:00
->>>>>>> 0416d39d8e241afb95b347138923390020f91b2d
 tags:
   - location/region
 parentregion: "[[Shenmen]]"
