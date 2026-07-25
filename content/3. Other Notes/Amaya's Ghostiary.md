@@ -13,8 +13,9 @@ Ghosts have been categorised based on their behaviour:
 
 # Categories of Ghosts
 
-| Type of Ghost                                                                                  |
-| ---------------------------------------------------------------------------------------------- |
-| [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Bound Ghosts.md\|Bound Ghosts]]         |
-| [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Vengeful Ghosts.md\|Vengeful Ghosts]]   |
-| [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Wandering Ghosts.md\|Wandering Ghosts]] |
+| Type of Ghost                                                                                    |
+| ------------------------------------------------------------------------------------------------ |
+| [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Bound Ghosts.md\|Bound Ghosts]]           |
+| [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Possessive Ghosts.md\|Possessive Ghosts]] |
+| [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Vengeful Ghosts.md\|Vengeful Ghosts]]     |
+| [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Wandering Ghosts.md\|Wandering Ghosts]]   |
