@@ -1,33 +1,23 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-07-25T22:39:02.429+01:00
-modified: 2026-07-14T21:27:56.495+01:00
-published: 2026-07-14T21:27:56.495+01:00
->>>>>>> fbdd1ed1684c274da8dc4996012e1a5feb451b62
 tags:
   - pc
-aliases: []
 player_name: <% await tp.system.prompt("Who is the player?") %>
 ancestry:
 class:
 partyrole:
 ---
-
 > [!info]+ Character Details
-> **Player:** <% await tp.system.prompt("Who is the player?") %>
-> **Ancestry & Heritage:**
-> **Class:**
-> **Primary Role:**
+> **Player:** `=this.player_name`
+> **Ancestry & Heritage:** `=this.ancestry`
+> **Class:** `=this.class`
+> **Primary Role:** `=this.partyrole`
 
 ## Appearance
 
-## Backstory
 
--
+## Backstory
+- 
 
 ## Current Personal Goals
-
--
+- 

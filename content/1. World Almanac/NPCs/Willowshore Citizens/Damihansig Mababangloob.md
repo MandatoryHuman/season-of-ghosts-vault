@@ -1,13 +1,6 @@
 ---
-publish: true
 aliases:
   - Dami
-<<<<<<< HEAD
-=======
-created: 2026-07-25T22:39:02.229+01:00
-modified: 2026-07-21T21:34:30.355+01:00
-published: 2026-07-21T21:34:30.355+01:00
->>>>>>> fbdd1ed1684c274da8dc4996012e1a5feb451b62
 tags:
   - npc
 status: Alive
@@ -21,18 +14,17 @@ npcimage: "[[Dami.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/The Hand of Spring.md|The Hand of Spring]]
-> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
-> **Profession:** Doctor
-> **Faction:**
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 
 ![[z_assets/NPCs/Dami.webp]]
 
 ## Bio
-
 As the resident doctor of [[Willowshore]], Dami uses a mix of acupuncture, purified chemicals, and surgery to care for its citizens. Dami has developed a reputation for being a charitable man who cares more for his patient's wellbeing than monetary gain.
 
 ## Relationship to Party

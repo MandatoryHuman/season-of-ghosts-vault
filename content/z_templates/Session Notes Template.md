@@ -1,27 +1,16 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-07-25T22:39:02.431+01:00
-modified: 2026-07-14T21:28:07.792+01:00
-published: 2026-07-14T21:28:07.792+01:00
->>>>>>> fbdd1ed1684c274da8dc4996012e1a5feb451b62
 tags:
   - session
-aliases: []
 realdate: <% tp.file.creation_date("YYYY-MM-DD") %>
 ingamedate: <% await tp.system.prompt("What is the in-game date?") %>
 ---
-
-**Date Played:** <% tp.file.creation\_date("YYYY-MM-DD") %>
-**In-Game Date:** <% await tp.system.prompt("What is the in-game date?") %>
-**Characters Present:**
+**Date Played:** `=this.realdate`
+**In-Game Date:** `=this.ingamedate`
+**Characters Present:** 
 
 ## Session Log
-
--
+- 
 
 ## Outstanding Threads / To-Dos
-
--
+- 
