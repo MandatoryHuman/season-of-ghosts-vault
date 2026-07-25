@@ -6,6 +6,13 @@ aliases:
   - Kuyang
   - Palasik
   - Capculacay
+<<<<<<< HEAD
+=======
+title: Krasue
+created: 2026-07-25T22:08:19.574+01:00
+modified: 2026-07-22T12:18:17.134+01:00
+published: 2026-07-22T12:18:17.134+01:00
+>>>>>>> 0416d39d8e241afb95b347138923390020f91b2d
 tags:
   - ghost-type
   - creature

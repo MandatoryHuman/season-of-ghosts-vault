@@ -1,6 +1,12 @@
 ---
 publish: true
 title: Season of Ghosts Vault
+<<<<<<< HEAD
+=======
+created: 2026-07-25T22:08:18.898+01:00
+modified: 2026-07-25T14:58:21.388+01:00
+published: 2026-07-25T14:58:21.388+01:00
+>>>>>>> 0416d39d8e241afb95b347138923390020f91b2d
 banner: "[[SoG Banner.webp]]"
 ---
 # Map of [[Willowshore]]
