@@ -1,7 +1,14 @@
 ---
-title: Phi Pop
+publish: true
 aliases:
   - Phi Pob
+<<<<<<< HEAD
+=======
+title: Phi Pop
+created: 2026-07-25T22:39:02.298+01:00
+modified: 2026-07-25T22:19:45.441+01:00
+published: 2026-07-25T22:19:45.441+01:00
+>>>>>>> fbdd1ed1684c274da8dc4996012e1a5feb451b62
 tags:
   - ghost-type
   - creature
@@ -10,17 +17,29 @@ cultural_origin:
 danger: High
 ghost_category: Possessive Ghosts
 ---
+
 > [!info]+ Details
+<<<<<<< HEAD
 > * **Other Names:** `=this.aliases`
 > * **Cultural Origin(s):** `=this.cultural_origin`
 > * **Category** `=link(this.ghost_category)`
 > * **Danger:** `=this.danger`
+=======
+>
+> - **Other Names:** Phi Pob
+> - **Cultural Origin(s):** Thai
+> - **Category** [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Possessive Ghosts.md|Possessive Ghosts]]
+> - **Danger:** High
+>>>>>>> fbdd1ed1684c274da8dc4996012e1a5feb451b62
 
 ---
+
 ## Overview
+
 A Pop or Pob is a cannibalistic spirit that enjoys consuming human intestines and viscera.
 
 ## Behaviour and Haunts
+
 - Pop spirits can vary widely, but they share common traits and abilities is that the Pop will possess a person and force them to eat their own entrails, all while keeping the person alive and maintaining their day-to-day activities.
 - Pops are also known to be able to possess animals, using these forms to attack and eat humans.
 - Some Pops are known to follow a bloodline; they will possess a parent, and then when the parent dies they will hunt down their children.
@@ -28,10 +47,13 @@ A Pop or Pob is a cannibalistic spirit that enjoys consuming human intestines an
 - Other reports claim that Pob particularly target sorcerers and witches.
 
 ### Recognition Guide
-- 
+
+-
 
 ### Associated Hazards
+
 - Gross bodily harm
 
 ## Exorcism and Resolution
-- Exorcisms have been noted to be effective, but Phai Pob are known to be hard to detect, with their ability to change form and possess others. 
+
+- Exorcisms have been noted to be effective, but Phai Pob are known to be hard to detect, with their ability to change form and possess others.
