@@ -1,12 +1,8 @@
 ---
-<<<<<<< HEAD
-aliases: []
-=======
 publish: true
-created: 2026-07-25T22:39:02.173+01:00
+created: 2026-07-25T22:46:21.528+01:00
 modified: 2026-07-20T13:39:18.636+01:00
 published: 2026-07-20T13:39:18.636+01:00
->>>>>>> fbdd1ed1684c274da8dc4996012e1a5feb451b62
 tags:
   - location/building
   - district

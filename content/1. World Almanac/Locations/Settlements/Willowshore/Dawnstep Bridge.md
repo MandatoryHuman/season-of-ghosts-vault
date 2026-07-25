@@ -1,12 +1,8 @@
 ---
-<<<<<<< HEAD
-aliases: []
-=======
 publish: true
-created: 2026-07-25T22:39:02.171+01:00
+created: 2026-07-25T22:46:21.525+01:00
 modified: 2026-07-15T21:13:01.861+01:00
 published: 2026-07-15T21:13:01.861+01:00
->>>>>>> fbdd1ed1684c274da8dc4996012e1a5feb451b62
 tags:
   - location/building
   - bridge

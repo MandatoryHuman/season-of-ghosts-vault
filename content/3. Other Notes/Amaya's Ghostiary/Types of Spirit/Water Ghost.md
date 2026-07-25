@@ -3,13 +3,10 @@ publish: true
 aliases:
   - Shuǐ Guǐ
   - Mul Gwisin
-<<<<<<< HEAD
-=======
 title: Water Ghost
-created: 2026-07-25T22:39:02.303+01:00
+created: 2026-07-25T22:46:21.676+01:00
 modified: 2026-07-22T00:34:53.497+01:00
 published: 2026-07-22T00:34:53.497+01:00
->>>>>>> fbdd1ed1684c274da8dc4996012e1a5feb451b62
 tags:
   - ghost-type
   - creature
