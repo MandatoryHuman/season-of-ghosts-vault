@@ -7,5 +7,6 @@ aliases: []
 tags: []
 ---
 
-| Ghost | Other Names | Danger Level | Cultural Origin |
-| ----- | ----------- | ------------ | --------------- |
+| Ghost       | Other Names               | Danger Level | Cultural Origin        |
+| ----------- | ------------------------- | ------------ | ---------------------- |
+| [[Phi Pop]] | <ul><li>Phi Pob</li></ul> | High         | <ul><li>Thai</li></ul> |

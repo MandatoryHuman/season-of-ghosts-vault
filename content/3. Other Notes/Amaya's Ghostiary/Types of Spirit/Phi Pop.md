@@ -4,22 +4,22 @@ aliases:
   - Phi Pob
 title: Phi Pop
 created: 2026-07-25T22:08:19.578+01:00
-modified: 2026-07-25T21:44:13.158+01:00
-published: 2026-07-25T21:44:13.158+01:00
+modified: 2026-07-25T22:19:45.441+01:00
+published: 2026-07-25T22:19:45.441+01:00
 tags:
   - ghost-type
   - creature
 cultural_origin:
   - Thai
 danger: High
-ghost_category: Possessive Ghost
+ghost_category: Possessive Ghosts
 ---
 
 > [!info]+ Details
 >
 > - **Other Names:** Phi Pob
 > - **Cultural Origin(s):** Thai
-> - **Category** [[Possessive Ghost|Possessive Ghost]]
+> - **Category** [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Possessive Ghosts.md|Possessive Ghosts]]
 > - **Danger:** High
 
 ---
