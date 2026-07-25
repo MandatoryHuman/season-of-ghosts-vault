@@ -1,25 +1,19 @@
 ---
-publish: true
-created: 2026-07-21T01:46:26.366+01:00
-modified: 2026-07-14T21:28:03.573+01:00
-published: 2026-07-14T21:28:03.573+01:00
+aliases: []
 tags:
   - location/region
-aliases: []
 parentregion:
 dangerlevel: <% await tp.system.prompt("Estimated danger level? (e.g., Low, Extreme, Unknown)") %>
 ---
-
 > [!info]+ Regional Data
-> **Broader Region:**
-> **Danger:** <% await tp.system.prompt("Estimated danger level? (e.g., Low, Extreme, Unknown)") %>
+> **Broader Region:** `=this.parentregion`
+> **Danger:** `=this.dangerlevel`
 
 ## Geography & Weather
 
-## Known Encounters & Hazards
 
--
+## Known Encounters & Hazards
+- 
 
 ## Points of Interest
-
--
+- 
