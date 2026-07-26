@@ -2,12 +2,9 @@
 publish: true
 aliases:
   - Governor
-<<<<<<< HEAD
-=======
-created: 2026-07-26T13:55:46.578+01:00
+created: 2026-07-26T14:04:36.057+01:00
 modified: 2026-07-20T13:35:45.943+01:00
 published: 2026-07-20T13:35:45.943+01:00
->>>>>>> 95b3659d7dfee66a46eddc8dc2e31eb5834ad36e
 tags:
   - npc
 status: Alive
