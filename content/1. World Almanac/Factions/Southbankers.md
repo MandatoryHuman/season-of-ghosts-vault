@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-07-26T14:48:43.315+01:00
+modified: 2026-07-15T16:27:02.064+01:00
+published: 2026-07-15T16:27:02.064+01:00
 tags:
   - faction
 aliases: []

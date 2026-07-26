@@ -1,12 +1,8 @@
 ---
-<<<<<<< HEAD
-aliases: []
-=======
 publish: true
-created: 2026-07-26T14:45:39.744+01:00
+created: 2026-07-26T14:48:43.330+01:00
 modified: 2026-07-15T18:19:08.580+01:00
 published: 2026-07-15T18:19:08.580+01:00
->>>>>>> 78bbce9e643a3f39c0a00ddd8c73fe14f0991c5a
 tags:
   - location/region
 aliases: []

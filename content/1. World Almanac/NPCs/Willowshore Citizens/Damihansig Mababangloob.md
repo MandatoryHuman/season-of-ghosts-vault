@@ -2,12 +2,9 @@
 publish: true
 aliases:
   - Dami
-<<<<<<< HEAD
-=======
-created: 2026-07-26T14:45:39.835+01:00
+created: 2026-07-26T14:48:43.415+01:00
 modified: 2026-07-21T21:34:30.355+01:00
 published: 2026-07-21T21:34:30.355+01:00
->>>>>>> 78bbce9e643a3f39c0a00ddd8c73fe14f0991c5a
 tags:
   - npc
 status: Alive
