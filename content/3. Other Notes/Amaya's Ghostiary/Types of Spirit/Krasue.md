@@ -7,8 +7,8 @@ aliases:
   - Palasik
   - Capculacay
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 cultural_origin:
   - Thai
 danger: Very High
