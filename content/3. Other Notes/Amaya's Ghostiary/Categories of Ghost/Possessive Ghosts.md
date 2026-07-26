@@ -1,21 +1,12 @@
 ---
-<<<<<<< HEAD
-=======
 publish: true
-created: 2026-07-26T14:48:43.473+01:00
+created: 2026-07-26T15:05:50.634+01:00
 modified: 2026-07-26T11:40:34.518+01:00
 published: 2026-07-26T11:40:34.518+01:00
->>>>>>> 015ead5368073e847509fafbe90684253bff9fbe
 aliases: []
 tags: []
 ---
-```dataview
-TABLE WITHOUT ID
-  link(replace(file.path, "3. Other Notes/", ""), file.name) AS Ghost,
-  aliases AS "Other Names",
-  danger AS "Danger Level", 
-  cultural_origin AS "Cultural Origin"
-FROM "3. Other Notes/Amaya's Ghostiary/Types of Spirit"
-WHERE ghost_category = "Possessive Ghosts"
-SORT file.name ASC
-```
+
+| Ghost                                                                    | Other Names               | Danger Level | Cultural Origin        |
+| ------------------------------------------------------------------------ | ------------------------- | ------------ | ---------------------- |
+| [[3. Other Notes/Amaya's Ghostiary/Types of Spirit/Phi Pop.md\|Phi Pop]] | <ul><li>Phi Pob</li></ul> | High         | <ul><li>Thai</li></ul> |
