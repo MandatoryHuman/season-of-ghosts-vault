@@ -14,12 +14,12 @@ configuration:
     - .obsidian
     - z_templates
   theme:
-    fontOrigin: local
+    fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header:  system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif
-      body: Georgia, 'Times New Roman', Times, serif
-      code: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, Courier, monospace
+      header:  Crimson Pro
+      body: Inter
+      code: Fira Code
     colors:
       lightMode:
         light: "#faf8f8"
