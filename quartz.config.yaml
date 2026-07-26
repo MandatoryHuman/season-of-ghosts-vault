@@ -260,13 +260,6 @@ plugins:
     enabled: true
     options:
       enableCopyTool: false
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: true
-    options:
-      theme: its-theme.minimalist
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
