@@ -7,7 +7,7 @@ aliases:
   - Palasik
   - Capculacay
 title: Krasue
-created: 2026-07-26T08:53:50.028+01:00
+created: 2026-07-26T09:04:47.100+01:00
 modified: 2026-07-22T12:18:17.134+01:00
 published: 2026-07-22T12:18:17.134+01:00
 tags:

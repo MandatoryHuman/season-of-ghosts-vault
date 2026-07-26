@@ -2,7 +2,7 @@
 publish: true
 aliases:
   - Governor
-created: 2026-07-26T08:53:49.967+01:00
+created: 2026-07-26T09:04:47.025+01:00
 modified: 2026-07-20T13:35:45.943+01:00
 published: 2026-07-20T13:35:45.943+01:00
 tags:
