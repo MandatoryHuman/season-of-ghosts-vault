@@ -1,12 +1,8 @@
 ---
-publish: true
-created: 2026-07-26T09:17:20.096+01:00
-modified: 2026-07-17T00:18:51.920+01:00
-published: 2026-07-17T00:18:51.920+01:00
+aliases: []
 tags:
   - location/building
   - residential
-aliases: []
 settlement: "[[Willowshore]]"
 owner:
 buildingtype: Residential
@@ -20,20 +16,16 @@ marker:
     colour: "#039c4b"
     minZoom: -2.5
 ---
-
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:**
-> **Type:** Residential
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
-
 The Silvermist Lodges are split between two small compounds in the woods south of town. At each location, the lodges’ woodwork conforms to the grain of the wood, giving the buildings an organic look associated with elven architecture. In the days when Willowshore first tried to become self-sufficient, eight elven adventurers came and took up an offer to settle in the village, seeing the request as a short-term contract given their life spans. Though none of these original eight elves live in Willowshore anymore, they left many offspring and descendants behind.
 
 ## Goods, Services & Rumours
-
 - Trade for animal parts and snare supplies
 
 ## Associated NPCs
-
--
+- 
