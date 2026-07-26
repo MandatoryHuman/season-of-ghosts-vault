@@ -2,7 +2,7 @@
 publish: true
 aliases:
   - Old Matsuki
-created: 2026-07-26T12:06:15.369+01:00
+created: 2026-07-26T12:51:05.201+01:00
 modified: 2026-07-16T21:27:31.094+01:00
 published: 2026-07-16T21:27:31.094+01:00
 tags:

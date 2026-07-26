@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Onryō
 title: Hatred Spirits
-created: 2026-07-26T12:06:15.418+01:00
+created: 2026-07-26T12:51:05.251+01:00
 modified: 2026-07-26T11:16:54.085+01:00
 published: 2026-07-26T11:16:54.085+01:00
 tags:

@@ -1,7 +1,7 @@
 ---
 publish: true
 title: Season of Ghosts Vault
-created: 2026-07-26T12:06:12.459+01:00
+created: 2026-07-26T12:51:04.482+01:00
 modified: 2026-07-25T14:58:21.388+01:00
 published: 2026-07-25T14:58:21.388+01:00
 banner: "[[SoG Banner.webp]]"
