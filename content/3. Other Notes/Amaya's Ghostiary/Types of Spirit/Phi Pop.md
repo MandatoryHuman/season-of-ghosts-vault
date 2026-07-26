@@ -3,8 +3,8 @@ title: Phi Pop
 aliases:
   - Phi Pob
 tags:
-  - ghost-type
-  - creature
+  - "#ghost-type"
+  - "#creature"
 cultural_origin:
   - Thai
 danger: High

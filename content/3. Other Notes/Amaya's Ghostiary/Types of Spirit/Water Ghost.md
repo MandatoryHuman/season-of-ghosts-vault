@@ -5,8 +5,8 @@ aliases:
   - Mul Gwisin
   - Ma Da
 tags:
-  - ghost-type
-  - creature
+  - "#ghost-type"
+  - "#creature"
 cultural_origin:
   - Chinese
   - Singaporean
