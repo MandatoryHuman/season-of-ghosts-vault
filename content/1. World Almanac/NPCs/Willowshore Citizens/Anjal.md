@@ -1,13 +1,6 @@
 ---
-publish: true
 aliases:
   - Anjal of Thulsadus
-<<<<<<< HEAD
-=======
-created: 2026-07-26T13:55:46.570+01:00
-modified: 2026-07-18T09:28:10.863+01:00
-published: 2026-07-18T09:28:10.863+01:00
->>>>>>> 95b3659d7dfee66a46eddc8dc2e31eb5834ad36e
 tags:
   - npc
 status: Dead
@@ -21,18 +14,17 @@ npcimage:
 ---
 
 > [!info]+ Biographical Data
-> **Status:** Dead
-> **Location:**
-> **Ancestry:** [[1. World Almanac/Creatures/Nagaji.md|Nagaji]]
-> **Profession:** Wizard
-> **Faction:**
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 
 (Image)
 
 ## Bio
-
 The previous owner of [[Mother's Coil]]. Anjal of Thulsadus arrived in Willowshore 15 years ago and found the climate benificial for his dryscale, so he bought a plot of land a conjured a tower upon it.
 
 Anjal passed just last year, leaving Mother's Coil to his sole apprentice and adoptive child [[Igawa Jubei]].
