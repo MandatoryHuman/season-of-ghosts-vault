@@ -2,6 +2,13 @@
 title: Corner Spirit
 aliases:
   - Ma Xó
+<<<<<<< HEAD
+=======
+title: Corner Spirit
+created: 2026-07-26T14:48:43.480+01:00
+modified: 2026-07-26T11:15:50.440+01:00
+published: 2026-07-26T11:15:50.440+01:00
+>>>>>>> 015ead5368073e847509fafbe90684253bff9fbe
 tags:
   - ghost-type
   - creature
