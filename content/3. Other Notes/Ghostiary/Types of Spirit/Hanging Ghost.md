@@ -4,11 +4,11 @@ aliases:
   - Diào Sǐ Guǐ
 title: Hanged Ghost
 created: 2026-07-26T15:05:50.645+01:00
-modified: 2026-07-26T11:16:30.767+01:00
-published: 2026-07-26T11:16:30.767+01:00
+modified: 2026-07-26T23:37:08.340+01:00
+published: 2026-07-26T23:37:08.340+01:00
 tags:
-  - ghost-type
-  - creature
+  - "#ghost-type"
+  - "#creature"
 cultural_origin:
   - Chinese
 danger: High
