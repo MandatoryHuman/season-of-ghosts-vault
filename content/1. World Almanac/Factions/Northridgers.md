@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-07-26T15:05:50.483+01:00
-modified: 2026-07-15T16:26:03.262+01:00
-published: 2026-07-15T16:26:03.262+01:00
+modified: 2026-07-26T15:12:17.474+01:00
+published: 2026-07-26T15:12:17.474+01:00
 tags:
-  - faction
+  - "#faction"
 aliases: []
 leader: "[[Hu Ban-niang]]"
 alignment:
@@ -29,3 +29,5 @@ Northridgers are open to the rule of the [[Jorogumo]], focusing on pragmatism an
 - **Favours Owed:** None
 
 ## Known Members
+
+- [[Hu Ban-niang|Granny Hu]]
