@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-26T10:05:16.649+01:00
-modified: 2026-07-25T22:13:19.976+01:00
-published: 2026-07-25T22:13:19.976+01:00
+modified: 2026-07-26T11:18:46.271+01:00
+published: 2026-07-26T11:18:46.271+01:00
 aliases: []
 tags: []
 ---
@@ -13,9 +13,9 @@ Ghosts have been categorised based on their behaviour:
 
 # Categories of Ghosts
 
-| Type of Ghost         |
-| --------------------- |
-| [[Bound Ghosts]]      |
-| [[Possessive Ghosts]] |
-| [[Vengeful Ghosts]]   |
-| [[Wandering Ghosts]]  |
+| Type of Ghost                                                                                    |
+| ------------------------------------------------------------------------------------------------ |
+| [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Bound Ghosts.md\|Bound Ghosts]]           |
+| [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Possessive Ghosts.md\|Possessive Ghosts]] |
+| [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Vengeful Ghosts.md\|Vengeful Ghosts]]     |
+| [[3. Other Notes/Amaya's Ghostiary/Categories of Ghost/Wandering Ghosts.md\|Wandering Ghosts]]   |
