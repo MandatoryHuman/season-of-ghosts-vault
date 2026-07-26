@@ -1,17 +1,26 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-07-26T14:45:40.089+01:00
+modified: 2026-07-14T21:28:25.291+01:00
+published: 2026-07-14T21:28:25.291+01:00
+>>>>>>> 78bbce9e643a3f39c0a00ddd8c73fe14f0991c5a
 tags:
   - location/settlement
+aliases: []
 region: <% await tp.system.prompt("What broader region is this in?") %>
 ruler:
 population:
 settlement_type: <% await tp.system.prompt("Type of settlement?)") %>
 ---
+
 > [!info]+ Settlement Details
-> **Type:** `=this.settlement_type`
-> **Region:** `=this.region`
-> **Leadership:** `=this.ruler`
-> **Population:** `=this.population`
+> **Type:** <% await tp.system.prompt("Type of settlement?)") %>
+> **Region:** <% await tp.system.prompt("What broader region is this in?") %>
+> **Leadership:**
+> **Population:**
 
 ## Description
 
