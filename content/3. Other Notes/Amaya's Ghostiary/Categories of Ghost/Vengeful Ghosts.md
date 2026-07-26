@@ -7,8 +7,8 @@ aliases: []
 tags: []
 ---
 
-| Ghost             | Other Names                    | Danger Level | Cultural Origin        |
-| ----------------- | ------------------------------ | ------------ | ---------------------- |
-| [[Female Ghost]]  | <ul><li>Nǚ guǐ</li></ul>       | Very High    | Chinese                |
-| [[Hatred Spirit]] | <ul><li>Onryō</li></ul>        | Very High    | Japanese               |
-| [[Sudden Ghost]]  | <ul><li>Phi Tai Hong</li></ul> | Very High    | <ul><li>Thai</li></ul> |
+| Ghost             | Other Names                    | Danger Level | Cultural Origin            |
+| ----------------- | ------------------------------ | ------------ | -------------------------- |
+| [[Female Ghost]]  | <ul><li>Nǚ guǐ</li></ul>       | Very High    | <ul><li>Chinese</li></ul>  |
+| [[Hatred Spirit]] | <ul><li>Onryō</li></ul>        | Very High    | <ul><li>Japanese</li></ul> |
+| [[Sudden Ghost]]  | <ul><li>Phi Tai Hong</li></ul> | Very High    | <ul><li>Thai</li></ul>     |

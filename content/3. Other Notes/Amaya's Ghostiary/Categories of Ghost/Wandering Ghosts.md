@@ -1,3 +1,12 @@
+---
+publish: true
+created: 2026-07-26T10:05:16.658+01:00
+modified: 2026-07-26T11:06:56.914+01:00
+published: 2026-07-26T11:06:56.914+01:00
+aliases: []
+tags: []
+---
+
 | Ghost              | Other Names                                                                               | Danger Level | Cultural Origin                           |
 | ------------------ | ----------------------------------------------------------------------------------------- | ------------ | ----------------------------------------- |
 | [[Egg Ghost]]      | <ul><li>Dalgyal Gwisin</li></ul>                                                          | Very High    | <ul><li>Korean</li></ul>                  |

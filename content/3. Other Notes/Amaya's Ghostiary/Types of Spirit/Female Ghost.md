@@ -4,12 +4,13 @@ aliases:
   - Nǚ guǐ
 title: Female Ghost
 created: 2026-07-26T10:05:16.664+01:00
-modified: 2026-07-21T21:09:26.824+01:00
-published: 2026-07-21T21:09:26.824+01:00
+modified: 2026-07-26T11:16:48.391+01:00
+published: 2026-07-26T11:16:48.391+01:00
 tags:
-  - ghost-type
-  - creature
-cultural_origin: Chinese
+  - "#ghost-type"
+  - "#creature"
+cultural_origin:
+  - Chinese
 danger: Very High
 ghost_category: Vengeful Ghosts
 ---
