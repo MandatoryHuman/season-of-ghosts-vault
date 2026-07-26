@@ -2,13 +2,6 @@
 title: Sudden Ghosts
 aliases:
   - Phi Tai Hong
-<<<<<<< HEAD
-=======
-title: Sudden Ghosts
-created: 2026-07-26T14:04:36.136+01:00
-modified: 2026-07-22T00:59:05.573+01:00
-published: 2026-07-22T00:59:05.573+01:00
->>>>>>> 0869b683792553e76b22e89c628c9ed9aa64144a
 tags:
   - ghost-type
   - creature

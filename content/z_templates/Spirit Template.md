@@ -1,12 +1,6 @@
 ---
 title: <% tp.file.title %>
-<<<<<<< HEAD
 aliases: []
-=======
-created: 2026-07-26T14:04:36.303+01:00
-modified: 2026-07-21T19:21:59.015+01:00
-published: 2026-07-21T19:21:59.015+01:00
->>>>>>> 0869b683792553e76b22e89c628c9ed9aa64144a
 tags:
   - ghost-type
   - creature

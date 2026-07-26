@@ -1,12 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-07-26T14:04:35.976+01:00
-modified: 2026-07-25T15:01:29.295+01:00
-published: 2026-07-25T15:01:29.295+01:00
->>>>>>> 0869b683792553e76b22e89c628c9ed9aa64144a
 tags:
   - location/settlement
   - town
