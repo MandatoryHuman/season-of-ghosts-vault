@@ -1,21 +1,31 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-07-26T13:55:46.789+01:00
+modified: 2026-07-14T21:27:15.285+01:00
+published: 2026-07-14T21:27:15.285+01:00
+>>>>>>> 95b3659d7dfee66a46eddc8dc2e31eb5834ad36e
 tags:
   - location/building
+aliases: []
 settlement:
 owner:
 buildingtype: <% await tp.system.prompt("What kind of building? (e.g., Tavern, Smithy, Residence)") %>
 ---
+
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:**
+> **Owner:**
+> **Type:** <% await tp.system.prompt("What kind of building? (e.g., Tavern, Smithy, Residence)") %>
 
 ## Description
 
-
 ## Goods, Services & Rumours
-- 
+
+-
 
 ## Associated NPCs
-- 
+
+-

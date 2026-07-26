@@ -1,7 +1,15 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-07-26T13:55:46.591+01:00
+modified: 2026-07-21T21:34:30.401+01:00
+published: 2026-07-21T21:34:30.401+01:00
+>>>>>>> 95b3659d7dfee66a46eddc8dc2e31eb5834ad36e
 tags:
   - npc
+aliases: []
 status: Alive
 location: "[[The Mushroom House|The Mushroom House]]"
 faction:
@@ -13,22 +21,25 @@ npcimage: "[[Luda Bama.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/The Mushroom House.md|The Mushroom House]]
+> **Ancestry:** [[1. World Almanac/Creatures/Halfling.md|Halfling]]
+> **Profession:** Smuggler
+> **Faction:**
 
 ## Appearance
 
-![[Luda Bama.webp|400]]
+![[z_assets/NPCs/Luda Bama.webp|400]]
 
 ## Bio
+
 A spry, elderly halfling woman, and head of [[The Mushroom House]], an illicit market which she runs with the explicit permission of [[Hu Ban-niang|Granny Hu]].
 
 ## Relationship to Party
+
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-- 
+
+-
