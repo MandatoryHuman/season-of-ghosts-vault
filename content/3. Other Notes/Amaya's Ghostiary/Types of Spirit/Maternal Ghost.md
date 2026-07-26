@@ -2,6 +2,13 @@
 title: Maternal Ghost
 aliases:
   - Ubume
+<<<<<<< HEAD
+=======
+title: Maternal Ghost
+created: 2026-07-26T14:04:36.131+01:00
+modified: 2026-07-22T00:33:29.228+01:00
+published: 2026-07-22T00:33:29.228+01:00
+>>>>>>> 0869b683792553e76b22e89c628c9ed9aa64144a
 tags:
   - ghost-type
   - creature
