@@ -4,8 +4,8 @@ aliases:
   - Phi Pob
 title: Phi Pop
 created: 2026-07-26T10:05:16.671+01:00
-modified: 2026-07-26T09:32:39.504+01:00
-published: 2026-07-26T09:32:39.504+01:00
+modified: 2026-07-26T10:53:46.084+01:00
+published: 2026-07-26T10:53:46.084+01:00
 tags:
   - ghost-type
   - creature
@@ -38,12 +38,12 @@ A Pop or Pob is a cannibalistic spirit that enjoys consuming human intestines an
 
 ### Recognition Guide
 
--
+- Phai Pob are known to be hard to detect, with their ability to change form and possess others. This unfortunately means you're unlikely to discover that one is present before at least one person has fallen victim to them.
 
 ### Associated Hazards
 
-- Gross bodily harm
+- Gross bodily harm.
 
 ## Exorcism and Resolution
 
-- Exorcisms have been noted to be effective, especially those using holy water, but Phai Pob are known to be hard to detect, with their ability to change form and possess others.
+- Exorcisms have been noted to be effective, especially those using holy water.
