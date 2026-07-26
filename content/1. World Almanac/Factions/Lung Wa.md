@@ -1,22 +1,19 @@
 ---
-<<<<<<< HEAD
-aliases: []
-=======
 publish: true
-created: 2026-07-26T12:51:05.077+01:00
+created: 2026-07-26T13:55:46.483+01:00
 modified: 2026-07-21T09:55:33.295+01:00
 published: 2026-07-21T09:55:33.295+01:00
->>>>>>> 66ad995992ccbce3229cc4102d7625d4d1cb7ea2
 tags:
   - faction
+aliases: []
 leader: Various emperors
 alignment:
 factiontype: Empire
 ---
 
 > [!info]+ Faction Details
-> **Type:** `=this.factiontype`
-> **Leader:** `=this.leader`
+> **Type:** Empire
+> **Leader:** Various emperors
 
 ## Details
 

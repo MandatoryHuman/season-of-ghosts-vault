@@ -1,15 +1,12 @@
 ---
-<<<<<<< HEAD
-aliases: []
-=======
 publish: true
-created: 2026-07-26T12:51:05.119+01:00
+created: 2026-07-26T13:55:46.521+01:00
 modified: 2026-07-14T21:16:03.847+01:00
 published: 2026-07-14T21:16:03.847+01:00
->>>>>>> 66ad995992ccbce3229cc4102d7625d4d1cb7ea2
 tags:
   - location/building
   - fishery
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Zataku]]"
 buildingtype: Fishery
@@ -19,19 +16,23 @@ marker:
     colour: "#e48873"
     minZoom: -2.5
 ---
+
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Zataku.md|Zataku]]
+> **Type:** Fishery
 
 ## Description
-Fish is an important food source for Willowshore. Locals traditionally capture entire schools of fish, preserve those above a certain size, and raise small ones in their backyard ponds. Today, this practice has been expanded, though the fishers have yet to reach a point where the fishery ponds here can be maintained indefinitely. 
+
+Fish is an important food source for Willowshore. Locals traditionally capture entire schools of fish, preserve those above a certain size, and raise small ones in their backyard ponds. Today, this practice has been expanded, though the fishers have yet to reach a point where the fishery ponds here can be maintained indefinitely.
 
 [[Zataku]] is Willowshore’s foremost fish keeper; her ability to sense weather changes gives her the perfect edge in her occupation.
 
 ## Goods, Services & Rumours
+
 - Dried or smoked fish and shrimp, fertilizer,
-fishing gear, insect bait.
+  fishing gear, insect bait.
 
 ## Associated NPCs
-- 
+
+-
