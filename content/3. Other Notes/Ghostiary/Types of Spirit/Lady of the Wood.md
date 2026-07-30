@@ -9,8 +9,8 @@ created: 2026-07-27T14:55:57.096+01:00
 modified: 2026-07-27T15:03:29.329+01:00
 published: 2026-07-27T15:03:29.329+01:00
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 cultural_origin:
   - Thai
   - Cambodian
