@@ -1,12 +1,14 @@
 ---
 publish: true
 created: 2026-07-26T14:05:50.634Z
-modified: 2026-07-26T17:45:35.896Z
-published: 2026-07-26T17:45:35.896Z
+modified: 2026-07-31T22:08:47.841Z
+published: 2026-07-31T22:08:47.841Z
 aliases: []
 tags: []
 ---
 
-| Ghost                                                            | Other Names               | Danger Level | Cultural Origin        |
-| ---------------------------------------------------------------- | ------------------------- | ------------ | ---------------------- |
-| [[3. Other Notes/Ghostiary/Types of Spirit/Phi Pop.md\|Phi Pop]] | <ul><li>Phi Pob</li></ul> | High         | <ul><li>Thai</li></ul> |
+| Ghost                                                                      | Other Names                       | Danger Level | Cultural Origin            |
+| -------------------------------------------------------------------------- | --------------------------------- | ------------ | -------------------------- |
+| [[3. Other Notes/Ghostiary/Types of Spirit/Death Spirit.md\|Death Spirit]] | <ul><li>Shinigami</li></ul>       | High         | <ul><li>Japanese</li></ul> |
+| [[3. Other Notes/Ghostiary/Types of Spirit/Phi Pop.md\|Phi Pop]]           | <ul><li>Phi Pob</li></ul>         | High         | <ul><li>Thai</li></ul>     |
+| [[3. Other Notes/Ghostiary/Types of Spirit/Turtle Ghost.md\|Turtle Ghost]] | <ul><li>Suppon no yūrei</li></ul> |              |                            |

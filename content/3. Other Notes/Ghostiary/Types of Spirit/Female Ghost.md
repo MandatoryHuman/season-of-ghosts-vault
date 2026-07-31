@@ -7,8 +7,8 @@ created: 2026-07-26T14:05:50.643Z
 modified: 2026-07-31T15:50:13.239Z
 published: 2026-07-31T15:50:13.239Z
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 cultural_origin:
   - Chinese
 danger: Very High
