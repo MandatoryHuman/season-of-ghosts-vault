@@ -1,12 +1,13 @@
 ---
 publish: true
+aliases:
+  - Cerulean Teahouse
 created: 2026-07-26T15:05:50.548+01:00
-modified: 2026-07-20T13:40:03.857+01:00
-published: 2026-07-20T13:40:03.857+01:00
+modified: 2026-07-31T14:26:57.739+01:00
+published: 2026-07-31T14:26:57.739+01:00
 tags:
-  - location/building
-  - teahouse
-aliases: []
+  - "#location/building"
+  - "#teahouse"
 settlement: "[[Willowshore]]"
 owner:
 buildingtype: Teahouse

@@ -2,8 +2,8 @@
 publish: true
 title: Season of Ghosts Vault
 created: 2026-07-26T15:05:49.889+01:00
-modified: 2026-07-25T14:58:21.388+01:00
-published: 2026-07-25T14:58:21.388+01:00
+modified: 2026-07-31T14:29:39.714+01:00
+published: 2026-07-31T14:29:39.714+01:00
 banner: "[[SoG Banner.webp]]"
 ---
 
@@ -12,11 +12,11 @@ banner: "[[SoG Banner.webp]]"
 ```base
 filters:
   and:
-    - file.path.startsWith("1. World Almanac/Locations/Settlements/Willowshore Locations")
+    - file.path.startsWith("1. World Almanac/Locations/Settlements/Willowshore")
 views:
   - type: leaflet-map
     name: Willowshore-Map
-    mapName: test
+    mapName: Willowshore-Map
     image: z_assets/Maps/Willowshore.webp
     height: 400
     minZoom: -4

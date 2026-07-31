@@ -11,4 +11,5 @@ tags: []
 | -------------------------------------------------------------- |
 | [[3. Other Notes/Amaya's Thralls/Thralls/Asagi.md\|Asagi]]     |
 | [[3. Other Notes/Amaya's Thralls/Thralls/Boshū.md\|Boshū]]     |
+| [[3. Other Notes/Amaya's Thralls/Thralls/Ruten.md\|Ruten]]     |
 | [[3. Other Notes/Amaya's Thralls/Thralls/Somboon.md\|Somboon]] |
