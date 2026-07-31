@@ -8,8 +8,8 @@ created: 2026-07-30T18:06:01.412+01:00
 modified: 2026-07-31T11:10:45.612+01:00
 published: 2026-07-31T11:10:45.612+01:00
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 cultural_origin:
   - Japanese
 danger: Very High
