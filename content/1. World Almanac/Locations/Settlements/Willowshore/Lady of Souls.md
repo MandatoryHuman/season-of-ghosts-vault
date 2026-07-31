@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T15:05:50.529+01:00
-modified: 2026-07-14T19:14:02.057+01:00
-published: 2026-07-14T19:14:02.057+01:00
+created: 2026-07-26T14:05:50.529Z
+modified: 2026-07-14T18:14:02.057Z
+published: 2026-07-14T18:14:02.057Z
 tags:
   - location/building
   - church

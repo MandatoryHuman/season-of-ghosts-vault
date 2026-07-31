@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T20:18:44.956+01:00
-modified: 2026-07-30T20:33:40.938+01:00
-published: 2026-07-30T20:33:40.938+01:00
+created: 2026-07-30T19:18:44.956Z
+modified: 2026-07-30T19:33:40.938Z
+published: 2026-07-30T19:33:40.938Z
 aliases: []
 tags: []
 npcimage: "[[Boshū Square.webp]]"

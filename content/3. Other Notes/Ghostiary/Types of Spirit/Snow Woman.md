@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Yuki-onna
 title: Snow Woman
-created: 2026-07-30T17:38:32.855+01:00
-modified: 2026-07-31T11:56:40.089+01:00
-published: 2026-07-31T11:56:40.089+01:00
+created: 2026-07-30T16:38:32.855Z
+modified: 2026-07-31T10:56:40.089Z
+published: 2026-07-31T10:56:40.089Z
 tags:
   - ghost-type
   - creature

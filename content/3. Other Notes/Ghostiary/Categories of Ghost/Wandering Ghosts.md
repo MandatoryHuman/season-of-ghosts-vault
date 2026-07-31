@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T15:05:50.637+01:00
-modified: 2026-07-26T18:45:44.479+01:00
-published: 2026-07-26T18:45:44.479+01:00
+created: 2026-07-26T14:05:50.637Z
+modified: 2026-07-26T17:45:44.479Z
+published: 2026-07-26T17:45:44.479Z
 aliases: []
 tags: []
 ---
@@ -10,6 +10,7 @@ tags: []
 | Ghost                                                                                | Other Names                                                                               | Danger Level | Cultural Origin                            |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------ | ------------------------------------------ |
 | [[3. Other Notes/Ghostiary/Types of Spirit/Belly Exposer.md\|Belly Exposer]]         | <ul><li>Haradashi</li></ul>                                                               | Low          | <ul><li>Japanese</li></ul>                 |
+| [[3. Other Notes/Ghostiary/Types of Spirit/Changed Cat.md\|Changed Cat]]             | <ul><li>Bakeneko</li></ul>                                                                | Low          | <ul><li>Japanese</li></ul>                 |
 | [[3. Other Notes/Ghostiary/Types of Spirit/Egg Ghost.md\|Egg Ghost]]                 | <ul><li>Dalgyal Gwisin</li></ul>                                                          | Very High    | <ul><li>Korean</li></ul>                   |
 | [[3. Other Notes/Ghostiary/Types of Spirit/Flat-Faced.md\|Flat-Faced]]               | <ul><li>Noppera-bō</li></ul>                                                              | Low          | <ul><li>Japanese</li></ul>                 |
 | [[3. Other Notes/Ghostiary/Types of Spirit/God of Drought.md\|God of Drought]]       | <ul><li>Hiderigami</li><li>Hanba</li></ul>                                                | High         | <ul><li>Japanese</li><li>Chinese</li></ul> |

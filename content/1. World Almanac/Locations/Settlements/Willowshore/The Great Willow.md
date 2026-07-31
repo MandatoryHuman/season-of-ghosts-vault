@@ -1,12 +1,12 @@
 ---
 publish: true
-created: 2026-07-21T01:46:26.188+01:00
-modified: 2026-07-14T21:20:29.604+01:00
-published: 2026-07-14T21:20:29.604+01:00
+created: 2026-07-26T14:05:50.550Z
+modified: 2026-07-14T20:20:29.604Z
+published: 2026-07-14T20:20:29.604Z
 tags:
-  - "#location"
-  - "#landmark"
-  - "#shrine"
+  - location
+  - landmark
+  - shrine
 aliases: []
 region: "[[Willowshore]]"
 type: Landmark

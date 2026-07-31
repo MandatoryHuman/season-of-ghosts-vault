@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T15:05:50.514+01:00
-modified: 2026-07-15T21:13:01.861+01:00
-published: 2026-07-15T21:13:01.861+01:00
+created: 2026-07-26T14:05:50.514Z
+modified: 2026-07-15T20:13:01.861Z
+published: 2026-07-15T20:13:01.861Z
 tags:
   - location/building
   - bridge

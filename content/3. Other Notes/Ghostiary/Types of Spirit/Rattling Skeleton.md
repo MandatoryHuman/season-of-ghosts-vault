@@ -4,9 +4,9 @@ aliases:
   - Gashadokuro
   - Odokuro
 title: Rattling Skeleton
-created: 2026-07-30T18:06:01.412+01:00
-modified: 2026-07-31T11:10:45.612+01:00
-published: 2026-07-31T11:10:45.612+01:00
+created: 2026-07-30T17:06:01.412Z
+modified: 2026-07-31T10:10:45.612Z
+published: 2026-07-31T10:10:45.612Z
 tags:
   - ghost-type
   - creature

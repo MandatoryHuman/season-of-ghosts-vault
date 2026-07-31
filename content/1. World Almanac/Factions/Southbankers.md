@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T15:05:50.485+01:00
-modified: 2026-07-15T16:27:02.064+01:00
-published: 2026-07-15T16:27:02.064+01:00
+created: 2026-07-26T14:05:50.485Z
+modified: 2026-07-15T15:27:02.064Z
+published: 2026-07-15T15:27:02.064Z
 tags:
   - faction
 aliases: []

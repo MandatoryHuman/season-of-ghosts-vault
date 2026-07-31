@@ -1,11 +1,11 @@
 ---
 publish: true
-created: 2026-07-21T01:46:26.198+01:00
-modified: 2026-07-14T19:33:46.034+01:00
-published: 2026-07-14T19:33:46.034+01:00
+created: 2026-07-26T14:05:50.562Z
+modified: 2026-07-14T18:33:46.034Z
+published: 2026-07-14T18:33:46.034Z
 tags:
-  - "#location"
-  - "#lake"
+  - location
+  - lake
 aliases: []
 region: "[[Willowshore]]"
 type: Lake

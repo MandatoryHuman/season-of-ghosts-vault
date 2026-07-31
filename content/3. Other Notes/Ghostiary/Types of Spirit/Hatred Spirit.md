@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Onryō
 title: Hatred Spirits
-created: 2026-07-26T15:05:50.647+01:00
-modified: 2026-07-26T11:16:54.085+01:00
-published: 2026-07-26T11:16:54.085+01:00
+created: 2026-07-26T14:05:50.647Z
+modified: 2026-07-26T10:16:54.085Z
+published: 2026-07-26T10:16:54.085Z
 tags:
   - ghost-type
   - creature

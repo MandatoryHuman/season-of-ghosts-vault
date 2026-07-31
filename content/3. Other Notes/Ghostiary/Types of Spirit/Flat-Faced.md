@@ -3,12 +3,12 @@ publish: true
 aliases:
   - Noppera-bō
 title: Flat-Faced
-created: 2026-07-30T17:38:32.855+01:00
-modified: 2026-07-31T11:41:11.242+01:00
-published: 2026-07-31T11:41:11.242+01:00
+created: 2026-07-30T16:38:32.855Z
+modified: 2026-07-31T15:46:21.300Z
+published: 2026-07-31T15:46:21.300Z
 tags:
-  - ghost-type
-  - creature
+  - "#ghost-type"
+  - "#creature"
 cultural_origin:
   - Japanese
 danger: Low
@@ -26,7 +26,7 @@ ghost_category: Wandering Ghosts
 
 ## Overview
 
-![[z_assets/Creatures/Ghost Types/Flat-Faced.webp|float-left|400]]Noppera-bō are a faceless species of spirit known for their tricks and deceptions.
+![[z_assets/Creatures/Ghost Types/Flat-Faced.webp|float-left|400]]Noppera-bō are a faceless species of spirit known for their tricks and deceptions. Their origin, as well as the reason for their pranks is unknown.
 
 ## Behaviour and Haunts
 

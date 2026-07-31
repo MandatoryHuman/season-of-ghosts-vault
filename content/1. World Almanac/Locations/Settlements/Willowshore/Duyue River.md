@@ -1,10 +1,10 @@
 ---
 publish: true
-created: 2026-07-21T01:46:26.159+01:00
-modified: 2026-07-15T14:54:26.497+01:00
-published: 2026-07-15T14:54:26.497+01:00
+created: 2026-07-26T14:05:50.518Z
+modified: 2026-07-15T13:54:26.497Z
+published: 2026-07-15T13:54:26.497Z
 tags:
-  - "#location"
+  - location
 aliases: []
 region: "[[Willowshore]]"
 type: River

@@ -1,10 +1,10 @@
 ---
 publish: true
-created: 2026-07-14T23:57:13.190+01:00
-modified: 2026-07-14T23:58:37.887+01:00
-published: 2026-07-14T23:58:37.887+01:00
+created: 2026-07-26T14:05:50.476Z
+modified: 2026-07-14T22:58:37.887Z
+published: 2026-07-14T22:58:37.887Z
 tags:
-  - "#event"
+  - event
 aliases: []
 ---
 

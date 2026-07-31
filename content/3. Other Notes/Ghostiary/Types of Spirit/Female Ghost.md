@@ -3,12 +3,12 @@ publish: true
 aliases:
   - Nǚ guǐ
 title: Female Ghost
-created: 2026-07-26T15:05:50.643+01:00
-modified: 2026-07-26T11:16:48.391+01:00
-published: 2026-07-26T11:16:48.391+01:00
+created: 2026-07-26T14:05:50.643Z
+modified: 2026-07-31T15:50:13.239Z
+published: 2026-07-31T15:50:13.239Z
 tags:
-  - ghost-type
-  - creature
+  - "#ghost-type"
+  - "#creature"
 cultural_origin:
   - Chinese
 danger: Very High
@@ -31,7 +31,7 @@ While less common in literature, nán guǐ or "Male Ghosts" have also been repor
 
 ## Behaviour and Haunts
 
-- A Nǚ guǐ will normally seek revenge on those who wronged her in life, but she is not unlikely to harm any who get in her way.
+- A Nǚ guǐ will normally seek revenge on those who wronged her in life.
 - Some Nǚ guǐ have been known to act in a way similar to a succubus; seducing men to suck their essence or even kill them.
 
 ### Recognition Guide

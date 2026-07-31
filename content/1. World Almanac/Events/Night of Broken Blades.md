@@ -1,11 +1,11 @@
 ---
 publish: true
-created: 2026-07-17T14:44:14.108+01:00
-modified: 2026-07-17T14:46:11.430+01:00
-published: 2026-07-17T14:46:11.430+01:00
+created: 2026-07-26T14:05:50.475Z
+modified: 2026-07-17T13:46:11.430Z
+published: 2026-07-17T13:46:11.430Z
 tags:
-  - "#event"
-  - "#lore"
+  - event
+  - lore
 aliases: []
 ---
 

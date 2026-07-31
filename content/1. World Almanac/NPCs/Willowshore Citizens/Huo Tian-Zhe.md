@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T15:05:50.584+01:00
-modified: 2026-07-21T21:34:30.376+01:00
-published: 2026-07-21T21:34:30.376+01:00
+created: 2026-07-26T14:05:50.584Z
+modified: 2026-07-21T20:34:30.376Z
+published: 2026-07-21T20:34:30.376Z
 tags:
   - npc
 aliases: []

@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Orang Minyak
 title: Oily Man
-created: 2026-07-27T15:03:51.335+01:00
-modified: 2026-07-27T15:15:53.536+01:00
-published: 2026-07-27T15:15:53.536+01:00
+created: 2026-07-27T14:03:51.335Z
+modified: 2026-07-27T14:15:53.536Z
+published: 2026-07-27T14:15:53.536Z
 tags:
   - ghost-type
   - creature
