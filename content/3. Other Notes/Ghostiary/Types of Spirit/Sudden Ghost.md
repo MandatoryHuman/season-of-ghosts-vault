@@ -2,13 +2,13 @@
 publish: true
 aliases:
   - Phi Tai Hong
-title: Sudden Ghosts
+title: Sudden Ghost
 created: 2026-07-26T15:05:50.656+01:00
-modified: 2026-07-22T00:59:05.573+01:00
-published: 2026-07-22T00:59:05.573+01:00
+modified: 2026-07-31T10:41:05.046+01:00
+published: 2026-07-31T10:41:05.046+01:00
 tags:
-  - ghost-type
-  - creature
+  - "#ghost-type"
+  - "#creature"
 cultural_origin:
   - Thai
 danger: Very High
