@@ -1,7 +1,11 @@
 ---
-title: Belly Exposer
+publish: true
 aliases:
   - Haradashi
+title: Belly Exposer
+created: 2026-08-04T11:05:05.143Z
+modified: 2026-08-04T11:32:39.843Z
+published: 2026-08-04T11:32:39.843Z
 tags:
   - ghost-type
   - creature

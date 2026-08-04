@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:05.079Z
+modified: 2026-07-30T19:54:20.638Z
+published: 2026-07-30T19:54:20.638Z
 tags:
   - npc
 status: Alive

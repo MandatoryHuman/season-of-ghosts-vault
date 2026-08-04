@@ -1,7 +1,11 @@
 ---
-title: Turtle Ghost
+publish: true
 aliases:
   - Suppon no yūrei
+title: Turtle Ghost
+created: 2026-08-04T11:05:05.177Z
+modified: 2026-08-04T11:33:36.965Z
+published: 2026-08-04T11:33:36.965Z
 tags:
   - ghost-type
   - creature

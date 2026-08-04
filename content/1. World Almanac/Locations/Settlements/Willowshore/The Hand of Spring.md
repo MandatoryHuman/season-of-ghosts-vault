@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:05.023Z
+modified: 2026-07-14T20:16:35.753Z
+published: 2026-07-14T20:16:35.753Z
 tags:
   - location/building
   - herbalist

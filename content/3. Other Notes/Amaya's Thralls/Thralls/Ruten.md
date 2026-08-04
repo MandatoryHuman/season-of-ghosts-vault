@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2026-07-31T13:20:29.275Z
+modified: 2026-07-31T13:47:33.638Z
+published: 2026-07-31T13:47:33.638Z
 aliases: []
 tags: []
 npcimage: "[[Ruten Square.webp]]"

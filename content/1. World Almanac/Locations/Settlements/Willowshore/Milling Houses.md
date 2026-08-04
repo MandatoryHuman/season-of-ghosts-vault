@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:05.007Z
+modified: 2026-07-14T20:16:18.188Z
+published: 2026-07-14T20:16:18.188Z
 tags:
   - location/building
   - mill

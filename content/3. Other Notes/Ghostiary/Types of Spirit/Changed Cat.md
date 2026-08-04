@@ -1,7 +1,11 @@
 ---
-title: Changed Cat
+publish: true
 aliases:
   - Bakeneko
+title: Changed Cat
+created: 2026-08-04T11:05:05.145Z
+modified: 2026-08-04T11:32:43.892Z
+published: 2026-08-04T11:32:43.892Z
 tags:
   - ghost-type
   - creature

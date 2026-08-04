@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:04.949Z
+modified: 2026-07-26T14:12:17.474Z
+published: 2026-07-26T14:12:17.474Z
 tags:
   - faction
 leader: "[[Hu Ban-niang]]"

@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2026-07-31T16:19:50.371Z
+modified: 2026-07-31T16:46:25.901Z
+published: 2026-07-31T16:46:25.901Z
 aliases: []
 tags: []
 npcimage: "[[Seisui Square.webp]]"

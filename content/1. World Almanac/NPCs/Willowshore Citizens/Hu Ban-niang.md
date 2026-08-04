@@ -1,6 +1,9 @@
 ---
 aliases:
   - Granny Hu
+created: 2026-08-04T11:05:05.057Z
+modified: 2026-07-21T20:34:31.004Z
+published: 2026-07-21T20:34:31.004Z
 tags:
   - npc
 status: Alive

@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:04.991Z
+modified: 2026-07-14T20:16:03.847Z
+published: 2026-07-14T20:16:03.847Z
 tags:
   - location/building
   - fishery

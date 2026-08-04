@@ -1,7 +1,11 @@
 ---
-title: Death Spirit
+publish: true
 aliases:
   - Shinigami
+title: Death Spirit
+created: 2026-08-04T11:05:05.148Z
+modified: 2026-08-04T11:32:47.180Z
+published: 2026-08-04T11:32:47.180Z
 tags:
   - ghost-type
   - creature

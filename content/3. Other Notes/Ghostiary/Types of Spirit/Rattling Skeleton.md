@@ -1,8 +1,12 @@
 ---
-title: Rattling Skeleton
+publish: true
 aliases:
   - Gashadokuro
   - Odokuro
+title: Rattling Skeleton
+created: 2026-08-04T11:05:05.169Z
+modified: 2026-08-04T11:33:21.939Z
+published: 2026-08-04T11:33:21.939Z
 tags:
   - ghost-type
   - creature

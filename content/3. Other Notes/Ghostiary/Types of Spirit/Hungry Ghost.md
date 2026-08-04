@@ -2,6 +2,10 @@
 title: Hungry Ghost
 aliases:
   - È Guǐ
+title: Hungry Ghost
+created: 2026-08-04T11:05:05.159Z
+modified: 2026-08-04T11:33:08.108Z
+published: 2026-08-04T11:33:08.108Z
 tags:
   - ghost-type
   - creature

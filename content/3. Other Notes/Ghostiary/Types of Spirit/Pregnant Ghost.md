@@ -1,8 +1,12 @@
 ---
-title: Pregnant Ghost
+publish: true
 aliases:
   - Kuntilanak
   - Pontianak
+title: Pregnant Ghost
+created: 2026-08-04T11:05:05.167Z
+modified: 2026-08-04T11:33:20.506Z
+published: 2026-08-04T11:33:20.506Z
 tags:
   - ghost-type
   - creature

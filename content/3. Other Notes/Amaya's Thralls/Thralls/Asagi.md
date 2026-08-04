@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2026-07-30T18:34:14.001Z
+modified: 2026-07-31T10:43:46.010Z
+published: 2026-07-31T10:43:46.010Z
 aliases: []
 tags: []
 npcimage: "[[Asagi Square.webp]]"

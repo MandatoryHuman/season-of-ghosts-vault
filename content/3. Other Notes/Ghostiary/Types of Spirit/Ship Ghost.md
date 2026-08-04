@@ -2,6 +2,10 @@
 title: Ship Ghosts
 aliases:
   - Funa-yūrei
+title: Ship Ghosts
+created: 2026-08-04T11:05:05.170Z
+modified: 2026-08-04T11:33:24.712Z
+published: 2026-08-04T11:33:24.712Z
 tags:
   - ghost-type
   - creature

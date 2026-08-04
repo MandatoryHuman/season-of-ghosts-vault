@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:05.009Z
+modified: 2026-07-18T08:28:10.844Z
+published: 2026-07-18T08:28:10.844Z
 tags:
   - location/building
   - shop

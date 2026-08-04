@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:05.029Z
+modified: 2026-07-14T20:16:43.809Z
+published: 2026-07-14T20:16:43.809Z
 tags:
   - location/building
   - dam

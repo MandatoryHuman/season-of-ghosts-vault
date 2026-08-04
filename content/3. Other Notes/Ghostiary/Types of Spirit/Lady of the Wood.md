@@ -1,9 +1,13 @@
 ---
-title: Nature Spirit
+publish: true
 aliases:
   - Nang Tani
   - Phi Tani
   - Phrai Tani
+title: Nature Spirit
+created: 2026-08-04T11:05:05.162Z
+modified: 2026-08-04T11:33:12.788Z
+published: 2026-08-04T11:33:12.788Z
 tags:
   - ghost-type
   - creature

@@ -2,6 +2,10 @@
 title: Virgin Ghost
 aliases:
   - Cheonyeo Gwisin
+title: Virgin Ghost
+created: 2026-08-04T11:05:05.178Z
+modified: 2026-08-04T11:33:39.317Z
+published: 2026-08-04T11:33:39.317Z
 tags:
   - ghost-type
   - creature

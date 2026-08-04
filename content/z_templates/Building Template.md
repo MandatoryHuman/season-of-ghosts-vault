@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:05.359Z
+modified: 2026-07-14T20:27:15.285Z
+published: 2026-07-14T20:27:15.285Z
 tags:
   - location/building
 settlement:

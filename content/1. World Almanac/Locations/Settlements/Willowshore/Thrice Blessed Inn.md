@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:05.028Z
+modified: 2026-07-17T16:09:30.049Z
+published: 2026-07-17T16:09:30.049Z
 tags:
   - location/building
   - inn

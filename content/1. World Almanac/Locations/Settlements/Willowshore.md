@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:04.972Z
+modified: 2026-07-25T14:01:29.295Z
+published: 2026-07-25T14:01:29.295Z
 tags:
   - location/settlement
   - town

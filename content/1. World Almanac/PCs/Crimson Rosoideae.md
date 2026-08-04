@@ -1,6 +1,10 @@
 ---
+publish: true
 aliases:
   - Crimson
+created: 2026-08-04T11:05:05.099Z
+modified: 2026-07-30T19:41:26.179Z
+published: 2026-07-30T19:41:26.179Z
 tags:
   - pc
 player_name: Amren
@@ -19,7 +23,7 @@ npcimage: "[[Crimson Rosoideae Square.webp]]"
 
 ## Appearance
 
-![[Crimson Rosoideae.webp|400]]
+![[z_assets/PCs/Crimson Rosoideae.webp|400]]
 
 ## Backstory
 

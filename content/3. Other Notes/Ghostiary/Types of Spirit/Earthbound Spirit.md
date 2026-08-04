@@ -1,7 +1,11 @@
 ---
-title: Earthbound Spirit
+publish: true
 aliases:
   - Jibakurei
+title: Earthbound Spirit
+created: 2026-08-04T11:05:05.149Z
+modified: 2026-08-04T11:32:49.912Z
+published: 2026-08-04T11:32:49.912Z
 tags:
   - ghost-type
   - creature

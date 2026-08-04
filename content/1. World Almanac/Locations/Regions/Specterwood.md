@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:04.966Z
+modified: 2026-07-15T17:19:08.580Z
+published: 2026-07-15T17:19:08.580Z
 tags:
   - location/region
 parentregion: "[[Shenmen]]"

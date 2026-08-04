@@ -1,6 +1,10 @@
 ---
+publish: true
 aliases:
   - Amaya
+created: 2026-08-04T11:05:05.100Z
+modified: 2026-07-30T19:41:21.933Z
+published: 2026-07-30T19:41:21.933Z
 tags:
   - pc
 player_name: Alfie

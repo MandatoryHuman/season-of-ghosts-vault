@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:04.998Z
+modified: 2026-07-14T18:13:50.650Z
+published: 2026-07-14T18:13:50.650Z
 tags:
   - location/building
   - district

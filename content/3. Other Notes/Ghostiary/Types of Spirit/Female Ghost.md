@@ -2,6 +2,10 @@
 title: Female Ghost
 aliases:
   - Nǚ guǐ
+title: Female Ghost
+created: 2026-08-04T11:05:05.152Z
+modified: 2026-08-04T11:32:54.468Z
+published: 2026-08-04T11:32:54.468Z
 tags:
   - ghost-type
   - creature

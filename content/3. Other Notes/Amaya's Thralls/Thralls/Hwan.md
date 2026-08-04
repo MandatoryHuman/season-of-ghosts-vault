@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2026-07-31T16:04:22.921Z
+modified: 2026-07-31T16:15:37.101Z
+published: 2026-07-31T16:15:37.101Z
 aliases: []
 tags: []
 npcimage: "[[Hwan Square.webp]]"

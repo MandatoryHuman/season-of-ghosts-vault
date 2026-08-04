@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:04.974Z
+modified: 2026-07-14T23:11:48.213Z
+published: 2026-07-14T23:11:48.213Z
 tags:
   - location/building
   - shrine

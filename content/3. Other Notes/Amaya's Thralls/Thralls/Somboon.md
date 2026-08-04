@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2026-07-30T19:37:58.172Z
+modified: 2026-07-30T19:53:18.872Z
+published: 2026-07-30T19:53:18.872Z
 aliases: []
 tags: []
 npcimage: "[[Komen Square.webp]]"

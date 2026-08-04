@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:04.978Z
+modified: 2026-07-19T12:26:54.915Z
+published: 2026-07-19T12:26:54.915Z
 tags:
   - location/building
 settlement: "[[Willowshore]]"
