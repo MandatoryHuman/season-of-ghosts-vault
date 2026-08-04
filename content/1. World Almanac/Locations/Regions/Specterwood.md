@@ -2,14 +2,13 @@
 aliases: []
 tags:
   - location/region
-aliases: []
 parentregion: "[[Shenmen]]"
 dangerlevel: High
 ---
 
 > [!info]+ Regional Data
-> **Broader Region:** [[1. World Almanac/Locations/Regions/Shenmen.md|Shenmen]]
-> **Danger:** High
+> **Broader Region:** `=this.parentregion`
+> **Danger:** `=this.dangerlevel`
 
 ## Geography & Weather
 

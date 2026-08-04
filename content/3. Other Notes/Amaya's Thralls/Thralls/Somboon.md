@@ -3,6 +3,7 @@ aliases: []
 tags: []
 npcimage: "[[Komen Square.webp]]"
 ---
+
 ![[Komen.webp|float-left|400]]Somboon is a [[Sudden Ghost|Phi Tai Hong]] who [[Otonashi Amaya|Amaya]] encountered many years ago. It was a bitterly cold and damp Autumn evening as the scent of copper and stagnant rainwater hung heavy in the air where the old crossroads met the forest edge. Amaya knelt in the mud, her fingers tracing the deep, jagged gouges in the earth. A violent end had occurred here and - for whatever reason - had chosen this day to resurface.
 
 The temperature plummeted, freezing the breath in her lungs. From the shadows of the treeline, Somboon materialised. His lower half was nothing but tattered, swirling cyan mist, anchoring him to the exact spot where his life had been brutally cut short. A void existed where his sternum should have been. The edges of the exposed thoracic cavity were ragged and warped, endlessly weeping a torrent of blood that vanished before it hit the ground.

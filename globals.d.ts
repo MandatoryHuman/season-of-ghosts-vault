@@ -1,3 +1,8 @@
+declare module "micromorph" {
+  const micromorph: (from: Node, to: Node) => Promise<void>
+  export default micromorph
+}
+
 export declare global {
   interface Document {
     addEventListener<K extends keyof CustomEventMap>(

@@ -13,10 +13,10 @@ ghost_category: Vengeful Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** Phi Tai Hong
-> - **Cultural Origin(s):** Thai
-> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Vengeful Ghosts.md|Vengeful Ghosts]]
-> - **Danger:** Very High
+> - **Other Names:** `=this.aliases`
+> - **Cultural Origin(s):** `=this.cultural_origin`
+> - **Category** `=link(this.ghost_category)`
+> - **Danger:** `=this.danger`
 
 ---
 
@@ -39,3 +39,5 @@ Phi Tai Hong are spirits of those who died sudden and violent deaths. This means
 ## Exorcism and Resolution
 
 - Because these spirits actively haunt the area it died, untrained people are advised to stay clear. Only the best trained priests should approach to perform exorcisms.
+
+### See also

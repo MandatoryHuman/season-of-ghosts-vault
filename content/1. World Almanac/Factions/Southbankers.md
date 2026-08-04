@@ -2,15 +2,14 @@
 aliases: []
 tags:
   - faction
-aliases: []
 leader: "[[Matsuki Shou]]"
 alignment:
 factiontype: Political Ideology
 ---
 
 > [!info]+ Faction Details
-> **Type:** Political Ideology
-> **Leader:** [[1. World Almanac/NPCs/Willowshore Citizens/Matsuki Shou.md|Matsuki Shou]]
+> **Type:** `=this.factiontype`
+> **Leader:** `=this.leader`
 
 ## Details
 

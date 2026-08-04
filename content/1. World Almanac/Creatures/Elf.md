@@ -1,17 +1,13 @@
 ---
-publish: true
-created: 2026-07-26T14:05:50.453Z
-modified: 2026-07-15T15:56:37.062Z
-published: 2026-07-15T15:56:37.062Z
+aliases: []
 tags:
   - creature
   - ancestry
-aliases: []
 ---
 
 In their escape from Earthfall, a group of elves followed the oracle Jininsiel and her vision of a dawnsilver tree to the forested heart of Tian Xia, where they founded the nation of Jinin. These elves spent centuries in protective isolation but have since opened their doors o diplomatic relationships and cultural exchange with their neighbours.
 
-![[z_assets/Creatures/Ancestries/Elf.webp|400]]
+![[Elf.webp|400]]
 
 Tian elves are unique from their distant cousins in other parts of Golarion, as they have a culture rooted in ancient Avistani traditions and infused with cultural practices learned from their neighbours in Tian Xia. Their physical appearances have attuned to a combination of the continent’s native flora and rare imported flowers from Avistan that have long gone extinct elsewhere. Flowers play a prominent role for Tian elves, with blossoms used in important ceremonies, lauded in art, implemented in the names of sword fighting styles and grandmasters, and incorporated into cuisine. Due to this intricate connection to nature, many people view elves as figures of ethereal beauty.
 

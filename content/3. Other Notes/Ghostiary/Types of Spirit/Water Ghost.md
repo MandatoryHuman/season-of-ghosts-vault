@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Water Ghost
 aliases:
   - Shuǐ Guǐ
   - Mul Gwisin
@@ -18,16 +18,16 @@ ghost_category: Bound Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** Shuǐ Guǐ,Mul Gwisin,Ma Da
-> - **Cultural Origin(s):** Chinese,Singaporean,Korean,Vietnamese
-> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Bound Ghosts.md|Bound Ghosts]]
-> - **Danger:** Very High
+> - **Other Names:** `=this.aliases`
+> - **Cultural Origin(s):** `=this.cultural_origin`
+> - **Category** `=link(this.ghost_category)`
+> - **Danger:** `=this.danger`
 
 ---
 
 ## Overview
 
-![[z_assets/Creatures/Ghost Types/Water Ghost.webp|float-left|400]]Shuǐ Guǐ are spirits of people who have drowned either through accident or suicide. Unable to reincarnate, the spirit instead lingers at the site of its death.
+![[Water Ghost.webp|float-left|400]]Shuǐ Guǐ are spirits of people who have drowned either through accident or suicide. Unable to reincarnate, the spirit instead lingers at the site of its death.
 
 ## Behaviour and Haunts
 
@@ -45,3 +45,5 @@ ghost_category: Bound Ghosts
 
 - To exorcise these spirits, their physical remains must be dragged from the river or lake they are bound to. This breaks the binding and allows them to enter the afterlife.
 - Alternatively, a priest can perform a ritual to prevent the spirit from interacting with the mortal world, or to guide them to the afterlife.
+
+### See also

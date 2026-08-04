@@ -2,7 +2,6 @@
 aliases: []
 tags:
   - location/building
-aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Zheng Peng]]"
 buildingtype: barracks
@@ -14,9 +13,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Zheng Peng.md|Zheng Peng]]
-> **Type:** barracks
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 

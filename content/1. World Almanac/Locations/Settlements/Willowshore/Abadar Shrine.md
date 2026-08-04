@@ -3,7 +3,6 @@ aliases: []
 tags:
   - location/building
   - shrine
-aliases: []
 settlement: "[[Willowshore]]"
 owner:
 buildingtype: Shrine
@@ -15,9 +14,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:**
-> **Type:** Shrine
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 

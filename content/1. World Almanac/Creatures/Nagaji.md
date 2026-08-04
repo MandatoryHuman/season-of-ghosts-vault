@@ -1,17 +1,13 @@
 ---
-publish: true
-created: 2026-07-26T14:05:50.464Z
-modified: 2026-07-15T16:31:25.196Z
-published: 2026-07-15T16:31:25.196Z
+aliases: []
 tags:
   - creature
   - ancestry
-aliases: []
 ---
 
 Nagaji strongly believe that to keep the wheels of civilization turning, a strong foundation must be built and maintained. They’re among those proud builders who take their expertise very seriously, regarding hard labour as the most righteous form of serving the world. Many nagaji take pride in being farmers, builders, chefs, healers, and guards.
 
-![[z_assets/Creatures/Ancestries/Nagaji.webp|400]]
+![[Nagaji.webp|400]]
 
 Nagaji are an ambitious people. Stemming from their deep devotion to [Nalinivati](https://pathfinderwiki.com/wiki/Nalinivati), they pursue knowledge to share with each other, encouraging the young to explore, join other cultures, and bring back what others might be lacking. This outlook leads to guilds forming between nagaji groups to innovate labour. While outsiders might assume this culture of sharing would lead to a more unified people, nagaji remain prideful and picky about tradition—nagaji love to learn, but hate having their hometown methods proven worse.
 

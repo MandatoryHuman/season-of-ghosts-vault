@@ -3,7 +3,6 @@ aliases: []
 tags:
   - location/building
   - shop
-aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Igawa Jubei]]"
 buildingtype: Shop
@@ -15,9 +14,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Igawa Jubei.md|Igawa Jubei]]
-> **Type:** Shop
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 

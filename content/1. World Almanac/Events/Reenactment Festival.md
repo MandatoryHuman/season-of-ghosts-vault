@@ -1,11 +1,7 @@
 ---
-publish: true
-created: 2026-07-26T14:05:50.476Z
-modified: 2026-07-14T22:58:37.887Z
-published: 2026-07-14T22:58:37.887Z
+aliases: []
 tags:
   - event
-aliases: []
 ---
 
 A massive feast and festival that takes place on the last day of Spring. This gala is meant not only to celebrate the end of spring, but to trick the evil spirits and ghosts believed to come out of the woods during the first few weeks of summer. As the festival’s feast concludes, the town reenacts victims being snatched away by “ghosts” (played by townsfolk in paper masks).

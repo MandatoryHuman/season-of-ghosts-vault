@@ -1,11 +1,11 @@
-import { DefaultFrame } from "./DefaultFrame";
-import { FullWidthFrame } from "./FullWidthFrame";
-import { MinimalFrame } from "./MinimalFrame";
-import { frameRegistry } from "./registry";
-export { DefaultFrame } from "./DefaultFrame";
-export { FullWidthFrame } from "./FullWidthFrame";
-export { MinimalFrame } from "./MinimalFrame";
-export { frameRegistry } from "./registry";
+import { DefaultFrame } from "./DefaultFrame"
+import { FullWidthFrame } from "./FullWidthFrame"
+import { MinimalFrame } from "./MinimalFrame"
+import { frameRegistry } from "./registry"
+export { DefaultFrame } from "./DefaultFrame"
+export { FullWidthFrame } from "./FullWidthFrame"
+export { MinimalFrame } from "./MinimalFrame"
+export { frameRegistry } from "./registry"
 /**
  * Registry of built-in page frames. Page types can reference these by name
  * via their `frame` property, and YAML config can override via
@@ -14,29 +14,31 @@ export { frameRegistry } from "./registry";
  * The "default" frame reproduces the original three-column Quartz layout.
  */
 const builtinFrames = {
-    default: DefaultFrame,
-    "full-width": FullWidthFrame,
-    minimal: MinimalFrame,
-};
+  default: DefaultFrame,
+  "full-width": FullWidthFrame,
+  minimal: MinimalFrame,
+}
 /**
  * Resolve a frame by name. Checks plugin-registered frames first,
  * then built-in frames, then falls back to DefaultFrame.
  */
 export function resolveFrame(name) {
-    if (!name || name === "default") {
-        return DefaultFrame;
-    }
-    // Check plugin-registered frames first
-    const registered = frameRegistry.get(name);
-    if (registered) {
-        return registered.frame;
-    }
-    // Fall back to built-in frames
-    const frame = builtinFrames[name];
-    if (!frame) {
-        const allFrameNames = [...Object.keys(builtinFrames), ...[...frameRegistry.getAll().keys()]];
-        console.warn(`Unknown page frame "${name}", falling back to "default". Available frames: ${allFrameNames.join(", ")}`);
-        return DefaultFrame;
-    }
-    return frame;
+  if (!name || name === "default") {
+    return DefaultFrame
+  }
+  // Check plugin-registered frames first
+  const registered = frameRegistry.get(name)
+  if (registered) {
+    return registered.frame
+  }
+  // Fall back to built-in frames
+  const frame = builtinFrames[name]
+  if (!frame) {
+    const allFrameNames = [...Object.keys(builtinFrames), ...[...frameRegistry.getAll().keys()]]
+    console.warn(
+      `Unknown page frame "${name}", falling back to "default". Available frames: ${allFrameNames.join(", ")}`,
+    )
+    return DefaultFrame
+  }
+  return frame
 }

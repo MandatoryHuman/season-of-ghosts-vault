@@ -3,7 +3,6 @@ aliases: []
 tags:
   - location/building
   - teahouse
-aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Mountain Summit Grass]]"
 buildingtype: Teahouse
@@ -14,9 +13,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Mountain Summit Grass.md|Mountain Summit Grass]]
-> **Type:** Teahouse
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 

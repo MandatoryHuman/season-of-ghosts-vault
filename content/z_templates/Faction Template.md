@@ -2,15 +2,14 @@
 aliases: []
 tags:
   - faction
-aliases: []
 leader:
 alignment:
 factiontype:
 ---
 
 > [!info]+ Faction Details
-> **Type:**
-> **Leader:**
+> **Type:** `=this.factiontype`
+> **Leader:** `=this.leader`
 
 ## Details
 

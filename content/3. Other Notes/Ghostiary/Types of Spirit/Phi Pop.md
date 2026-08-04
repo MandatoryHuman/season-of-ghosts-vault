@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Phi Pop
 aliases:
   - Phi Pob
 tags:
@@ -13,10 +13,10 @@ ghost_category: Possessive Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** Phi Pob
-> - **Cultural Origin(s):** Thai
-> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Possessive Ghosts.md|Possessive Ghosts]]
-> - **Danger:** High
+> - **Other Names:** `=this.aliases`
+> - **Cultural Origin(s):** `=this.cultural_origin`
+> - **Category** `=link(this.ghost_category)`
+> - **Danger:** `=this.danger`
 
 ---
 
@@ -43,3 +43,5 @@ A Pop or Pob is a cannibalistic spirit that enjoys consuming human intestines an
 ## Exorcism and Resolution
 
 - Exorcisms have been noted to be effective, especially those using holy water.
+
+### See also

@@ -16,14 +16,14 @@ family: "[[Otonashi Shio]]"
 ---
 
 > [!info]+ Character Details
-> **Player:** Alfie
-> **Ancestry & Heritage:** [[1. World Almanac/Creatures/Elf.md|Elf]]
-> **Class:** Necromancer
-> **Primary Role:** Controller
+> **Player:** `=this.player_name`
+> **Ancestry & Heritage:** `=this.ancestry`
+> **Class:** `=this.class`
+> **Primary Role:** `=this.partyrole`
 
 ## Appearance
 
-![[z_assets/PCs/Otonashi Amaya.webp|400]]
+![[Otonashi Amaya.webp|400]]
 
 ## Backstory
 
@@ -31,7 +31,7 @@ Amaya is a staunch follower of the teachings of the River of Life, otherwise kno
 
 Since childhood, Amaya has had a strong sensitivity to this spiritual veil, able to sense, understand, and speak with lingering spirits when others fail. Driven in equal measure by a sense of solemn duty and of earnest curiosity, Amaya has devoted countless hours to honing these abilities to bridge the gap between herself and the departed.
 
-![[z_assets/Icons/Sangpotshi.webp|400]]
+![[Sangpotshi.webp|400]]
 
 Her connection is perhaps strongest at night, when she often experiences vivid lucid dreams. In these visions, she finds herself walking the shores of the River of Souls, where she gently guides wayward shades back to the waters to continue their eternal journey. Though she cannot say for certain whether these are mere dreams or a supernatural tether to the afterlife, she finds deep comfort in the belief that she is aiding these lost spirits on their way.
 

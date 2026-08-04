@@ -2,15 +2,14 @@
 aliases: []
 tags:
   - faction
-aliases: []
 leader: "[[Hu Ban-niang]]"
 alignment:
 factiontype: Political Ideology
 ---
 
 > [!info]+ Faction Details
-> **Type:** Political Ideology
-> **Leader:** [[1. World Almanac/NPCs/Willowshore Citizens/Hu Ban-niang.md|Hu Ban-niang]]
+> **Type:** `=this.factiontype`
+> **Leader:** `=this.leader`
 
 ## Details
 
@@ -26,4 +25,5 @@ Northridgers are open to the rule of the [[Jorogumo]], focusing on pragmatism an
 - **Favours Owed:** None
 
 ## Known Members
+
 - [[Hu Ban-niang|Granny Hu]]

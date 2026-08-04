@@ -3,7 +3,6 @@ aliases: []
 tags:
   - location/building
   - inn
-aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Mother Otis]]"
 buildingtype: Inn
@@ -14,9 +13,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Mother Otis.md|Mother Otis]]
-> **Type:** Inn
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 

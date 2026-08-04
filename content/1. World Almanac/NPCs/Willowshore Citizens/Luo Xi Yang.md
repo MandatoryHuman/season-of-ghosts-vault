@@ -2,7 +2,6 @@
 aliases: []
 tags:
   - npc
-aliases: []
 status: Alive
 location: "[[Luo and Laws|Luo and Laws]]"
 faction:
@@ -14,11 +13,11 @@ npcimage: "[[Luo Xi Yang.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Luo and Laws.md|Luo and Laws]]
-> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
-> **Profession:** Lawyer
-> **Faction:**
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 

@@ -209,8 +209,29 @@ export function installNativeDeps(
 
   if (merged.size === 0) return
 
+  const esmRequire = createRequire(import.meta.url)
+  const missingPackages = [...merged.keys()].filter((pkg) => {
+    try {
+      esmRequire.resolve(pkg)
+      return false
+    } catch {
+      return true
+    }
+  })
+
+  if (missingPackages.length === 0) {
+    if (options.verbose) {
+      console.log(styleText("green", `✓`), `Native dependencies already satisfied`)
+    }
+    return
+  }
+
   const installArgs: string[] = []
   for (const [pkg, pluginRanges] of merged) {
+    if (!missingPackages.includes(pkg)) {
+      continue
+    }
+
     const ranges = [...pluginRanges.values()]
     const uniqueRanges = [...new Set(ranges)]
 

@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Ship Ghosts
 aliases:
   - Funa-yūrei
 tags:
@@ -13,16 +13,16 @@ ghost_category: Bound Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** Funa-yūrei
-> - **Cultural Origin(s):** Japanese
-> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Bound Ghosts.md|Bound Ghosts]]
-> - **Danger:** High
+> - **Other Names:** `=this.aliases`
+> - **Cultural Origin(s):** `=this.cultural_origin`
+> - **Category** `=link(this.ghost_category)`
+> - **Danger:** `=this.danger`
 
 ---
 
 ## Overview
 
-![[z_assets/Creatures/Ghost Types/Ship Ghost.webp|float-left|300]]These spirits are those who died at sea. After their death they transform into spirits who appear at night, hunting their previous comrades to take them down into the sea to join their ranks.
+![[Ship Ghost.webp|float-left|300]]These spirits are those who died at sea. After their death they transform into spirits who appear at night, hunting their previous comrades to take them down into the sea to join their ranks.
 
 ## Behaviour and Haunts
 
@@ -40,3 +40,5 @@ ghost_category: Bound Ghosts
 ## Exorcism and Resolution
 
 - A popular trick to be left alone by a Funa-yūrei is to give them a ladle with a whole in the bottom. They will attempt to sink you, but fail with the useless tool, giving you a chance to leave.
+
+### See also

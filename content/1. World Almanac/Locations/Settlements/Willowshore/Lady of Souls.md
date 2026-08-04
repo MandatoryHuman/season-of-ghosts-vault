@@ -3,7 +3,6 @@ aliases: []
 tags:
   - location/building
   - church
-aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Elizeth Candora]]"
 buildingtype: Church
@@ -15,9 +14,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Elizeth Candora.md|Elizeth Candora]]
-> **Type:** Church
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 

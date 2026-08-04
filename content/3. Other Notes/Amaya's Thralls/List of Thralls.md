@@ -2,6 +2,7 @@
 aliases: []
 tags: []
 ---
+
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Thrall"

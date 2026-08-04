@@ -2,7 +2,6 @@
 aliases: []
 tags:
   - npc
-aliases: []
 status: Alive
 location: "[[Mother's Coil]]"
 faction:
@@ -16,15 +15,15 @@ mentor: "[[Crimson Rosoideae]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Mother's Coil.md|Mother's Coil]]
-> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
-> **Profession:** Wizard
-> **Faction:**
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 
-![[z_assets/NPCs/Igawa Jubei.webp|400]]
+![[Igawa Jubei.webp|400]]
 
 ## Bio
 

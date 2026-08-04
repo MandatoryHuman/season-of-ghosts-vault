@@ -1,5 +1,4 @@
 ---
-publish: true
 aliases:
   - Old Matsuki
 tags:
@@ -16,11 +15,11 @@ npcimage: "[[Old Matsuki.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]],Tian-shu
-> **Profession:** Carpenter
-> **Faction:** [[1. World Almanac/Factions/Southbankers.md|Southbankers]]
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 

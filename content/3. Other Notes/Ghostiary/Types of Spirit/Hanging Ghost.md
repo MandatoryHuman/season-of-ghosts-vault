@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Hanged Ghost
 aliases:
   - Diào Sǐ Guǐ
 tags:
@@ -13,16 +13,16 @@ ghost_category: Bound Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** Diào Sǐ Guǐ
-> - **Cultural Origin(s):** Chinese
-> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Bound Ghosts.md|Bound Ghosts]]
-> - **Danger:** High
+> - **Other Names:** `=this.aliases`
+> - **Cultural Origin(s):** `=this.cultural_origin`
+> - **Category** `=link(this.ghost_category)`
+> - **Danger:** `=this.danger`
 
 ---
 
 ## Overview
 
-![[z_assets/Creatures/Ghost Types/Hanged Ghost.webp|float-left|300]]Diào Sǐ Guǐ are the spirits left behind after someone dies by hanging (either by suicide or execution). They are bound to the site of their death and unable to be reincarnated or move on to the afterlife.
+![[Hanged Ghost.webp|float-left|300]]Diào Sǐ Guǐ are the spirits left behind after someone dies by hanging (either by suicide or execution). They are bound to the site of their death and unable to be reincarnated or move on to the afterlife.
 
 ## Behaviour and Haunts
 
@@ -39,3 +39,5 @@ ghost_category: Bound Ghosts
 ## Exorcism and Resolution
 
 - A priest can perform a ritual to prevent the spirit from interacting with the mortal world by cleansing the area of lingering death energy, or to guide them to the afterlife.
+
+### See also

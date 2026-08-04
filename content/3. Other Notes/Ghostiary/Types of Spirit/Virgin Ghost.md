@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Virgin Ghost
 aliases:
   - Cheonyeo Gwisin
 tags:
@@ -13,10 +13,10 @@ ghost_category: Wandering Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** Cheonyeo Gwisin
-> - **Cultural Origin(s):** Korean
-> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
-> - **Danger:** Moderate
+> - **Other Names:** `=this.aliases`
+> - **Cultural Origin(s):** `=this.cultural_origin`
+> - **Category** `=link(this.ghost_category)`
+> - **Danger:** `=this.danger`
 
 ---
 
@@ -43,3 +43,5 @@ In certain regions and time periods, a woman who died without marrying and produ
 
 - It is thought that burying a body with a doll emphasizing the male genitalia, or erecting a phallic statue in their name may prevent a spirit returning as a Cheonyeo Gwisin.
 - Alternatively, a posthumourous wedding between a Vigin and Bachelor ghost can be performed to allow both to pass to the afterlife.
+
+### See also

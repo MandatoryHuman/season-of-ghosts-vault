@@ -3,7 +3,6 @@ aliases: []
 tags:
   - location/building
   - herbalist
-aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Damihansig Mababangloob]]"
 buildingtype: Herbalist
@@ -15,9 +14,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Damihansig Mababangloob.md|Damihansig Mababangloob]]
-> **Type:** Herbalist
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 

@@ -15,15 +15,15 @@ parent: Otonashi Nagi, Otonashi Kairi
 ---
 
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Ancestry:** [[1. World Almanac/Creatures/Elf.md|Elf]]
-> **Profession:** Fisherman
-> **Faction:**
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 
-![[z_assets/NPCs/Otonashi Shio.webp|600]]
+![[Otonashi Shio.webp|600]]
 
 ## Bio
 

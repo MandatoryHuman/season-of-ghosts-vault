@@ -53,44 +53,29 @@ views:
 
 ### Businesses
 
-| Location                                                                                                                   | Type         | Owner/Manager                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------- |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Eternal Blaze Ironworks.md\|Eternal Blaze Ironworks]]                 | Ironworks    | [[1. World Almanac/NPCs/Willowshore Citizens/Yong Wu-Xiu.md\|Yong Wu-Xiu]]                         |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Fisheries.md\|Fisheries]]                                             | Fishery      | [[1. World Almanac/NPCs/Willowshore Citizens/Zataku.md\|Zataku]]                                   |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Graveside Manners.md\|Graveside Manners]]                             | Cemetery     | [[1. World Almanac/NPCs/Willowshore Citizens/You So-Jin.md\|You So-Jin]]                           |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Milling Houses.md\|Milling Houses]]                                   | Mill         | [[1. World Almanac/NPCs/Willowshore Citizens/Choe Chung-hu.md\|Choe Chung-hu]]                     |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Mother's Coil.md\|Mother's Coil]]                                     | Shop         | [[1. World Almanac/NPCs/Willowshore Citizens/Igawa Jubei.md\|Igawa Jubei]]                         |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Second Best.md\|Second Best]]                                         | Shop         | [[1. World Almanac/NPCs/Willowshore Citizens/Huo Tian-Zhe.md\|Huo Tian-Zhe]]                       |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Seven-Coloured Songbird Theatre.md\|Seven-Coloured Songbird Theatre]] | Theatre      | [[1. World Almanac/NPCs/Willowshore Citizens/Kazuma Oono.md\|Kazuma Oono]]                         |
-| [[1. World Almanac/Locations/Settlements/Willowshore/The Ceiba-Duyue Exchange.md\|The Ceiba-Duyue Exchange]]               | Trade Office | [[1. World Almanac/NPCs/Willowshore Citizens/Kim Gu-won.md\|Kim Gu-won]]                           |
-| [[1. World Almanac/Locations/Settlements/Willowshore/The Cerulean Teahouse.md\|The Cerulean Teahouse]]                     | Teahouse     | -                                                                                                 |
-| [[1. World Almanac/Locations/Settlements/Willowshore/The Hand of Spring.md\|The Hand of Spring]]                           | Herbalist    | [[1. World Almanac/NPCs/Willowshore Citizens/Damihansig Mababangloob.md\|Damihansig Mababangloob]] |
-| [[1. World Almanac/Locations/Settlements/Willowshore/The Leshy's Saloon.md\|The Leshy's Saloon]]                           | Teahouse     | [[1. World Almanac/NPCs/Willowshore Citizens/Mountain Summit Grass.md\|Mountain Summit Grass]]     |
-| [[1. World Almanac/Locations/Settlements/Willowshore/The Mushroom House.md\|The Mushroom House]]                           | Black Market | [[1. World Almanac/NPCs/Willowshore Citizens/Luda Bama.md\|Luda Bama]]                             |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Thrice Blessed Inn.md\|Thrice Blessed Inn]]                           | Inn          | [[1. World Almanac/NPCs/Willowshore Citizens/Mother Otis.md\|Mother Otis]]                         |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore Dock.md\|Willowshore Dock]]                               | Dock         | [[1. World Almanac/NPCs/Willowshore Citizens/Rajul Samudra.md\|Rajul Samudra]]                     |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore Stables.md\|Willowshore Stables]]                         | Stable       | [[1. World Almanac/NPCs/Willowshore Citizens/Kum Soon-chong.md\|Kum Soon-chong]]                   |
+```dataview
+TABLE WITHOUT ID
+file.link AS "Location", buildingtype AS "Type", owner AS "Owner/Manager"
+FROM "1. World Almanac/Locations"
+WHERE contains(tags, "shop") OR contains(tags, "inn") OR contains(tags, "teahouse") OR contains(tags, "mill") OR contains(tags, "herbalist") OR contains(tags, "fishery") OR contains(tags, "dock") OR contains(tags, "theatre") OR buildingtype = "Trade Office"
+SORT file.name ASC
+```
 
 ### Temples & Shrines
 
-| Location                                                                                                 | Type      | Caretaker/Priest                                                                   |
-| -------------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------- |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Abadar Shrine.md\|Abadar Shrine]]                   | Shrine    | -                                                                                 |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Bones of the Forgotten.md\|Bones of the Forgotten]] | Cemetery  | -                                                                                 |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Graveside Manners.md\|Graveside Manners]]           | Cemetery  | [[1. World Almanac/NPCs/Willowshore Citizens/You So-Jin.md\|You So-Jin]]           |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Lady of Souls.md\|Lady of Souls]]                   | Church    | [[1. World Almanac/NPCs/Willowshore Citizens/Elizeth Candora.md\|Elizeth Candora]] |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Nine Ear Shrine.md\|Nine Ear Shrine]]               | Shrine    | [[1. World Almanac/NPCs/Willowshore Citizens/Ba-Ming Ouh.md\|Ba-Ming Ouh]]         |
-| [[1. World Almanac/Locations/Tan Sugi Monastery.md\|Tan Sugi Monastery]]                                 | Monastery | -                                                                                 |
-| [[1. World Almanac/Locations/Settlements/Willowshore/The Great Willow.md\|The Great Willow]]             | Landmark  | -                                                                                 |
+```dataview
+TABLE WITHOUT ID file.link AS "Location", choice(buildingtype, buildingtype, type) AS "Type", owner AS "Caretaker/Priest" FROM "1. World Almanac/Locations" WHERE contains(tags, "shrine") OR contains(tags, "church") OR contains(tags, "cemetery") OR type = "Monastery" OR buildingtype = "Shrine" OR buildingtype = "Church" OR buildingtype = "Cemetery" SORT file.name ASC
+```
 
 ### Homes
 
-| Location                                                                                       | Owner                                                                       |
-| ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Amaya's House.md\|Amaya's House]]         | [[1. World Almanac/PCs/Otonashi Amaya.md\|Otonashi Amaya]]                  |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Dion's House.md\|Dion's House]]           | Dion                                                                        |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Matsuki Estate.md\|Matsuki Estate]]       | [[1. World Almanac/NPCs/Willowshore Citizens/Matsuki Shou.md\|Old Matsuki]] |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Silvermist Lodges.md\|Silvermist Lodges]] | -                                                                          |
+```dataview
+TABLE WITHOUT ID
+file.link AS "Location", owner AS "Owner"
+FROM "1. World Almanac/Locations"
+WHERE buildingtype = "Residential"
+SORT file.name ASC
+```
 
 ---
 

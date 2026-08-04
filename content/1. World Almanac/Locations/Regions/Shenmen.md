@@ -2,17 +2,16 @@
 aliases: []
 tags:
   - location/region
-aliases: []
 parentregion: Tian Xia
 dangerlevel: High
 banner: Shenmen Banner.webp
 ---
 
 > [!info]+ Regional Data
-> **Broader Region:** Tian Xia
-> **Danger:** High
+> **Broader Region:** `=this.parentregion`
+> **Danger:** `=this.dangerlevel`
 
-![[z_assets/Icons/Shenmen Flag.webp|300]]
+![[Shenmen Flag.webp|300]]
 
 ## Geography & Weather
 

@@ -34,6 +34,8 @@ type ComponentResources = {
   componentCssStrings: Set<string>
 }
 
+const scriptBundleCache = new Map<string, Promise<string>>()
+
 function getComponentResources(ctx: BuildCtx): ComponentResources {
   const allComponents: Set<QuartzComponent> = new Set()
 
@@ -70,15 +72,27 @@ function getComponentResources(ctx: BuildCtx): ComponentResources {
 }
 
 async function joinScripts(scripts: string[]): Promise<string> {
-  // wrap with iife to prevent scope collision
-  const script = scripts.map((script) => `(function () {${script}})();`).join("\n")
+  if (scripts.length === 0) return ""
 
-  // minify with esbuild
-  const res = await transpile(script, {
-    minify: true,
-  })
+  const cacheKey = scripts.join("\n")
+  const cached = scriptBundleCache.get(cacheKey)
+  if (cached) return cached
 
-  return res.code
+  const bundlePromise = (async () => {
+    // wrap with iife to prevent scope collision
+    const script = scripts.map((script) => `(function () {${script}})();`).join("\n")
+    if (!script.trim()) return ""
+
+    // minify with esbuild
+    const res = await transpile(script, {
+      minify: true,
+    })
+
+    return res.code
+  })()
+
+  scriptBundleCache.set(cacheKey, bundlePromise)
+  return bundlePromise
 }
 
 function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentResources) {

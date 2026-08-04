@@ -3,7 +3,6 @@ aliases: []
 tags:
   - location/building
   - residential
-aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Matsuki Shou|Old Matsuki]]"
 buildingtype: Residential
@@ -15,9 +14,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Matsuki Shou.md|Old Matsuki]]
-> **Type:** Residential
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 

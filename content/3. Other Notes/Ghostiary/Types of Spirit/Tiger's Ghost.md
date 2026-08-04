@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Tiger's Ghost
 aliases:
   - Ma Trành
 tags:
@@ -13,10 +13,10 @@ ghost_category: Bound Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** Ma Trành
-> - **Cultural Origin(s):** Vietnamese
-> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Bound Ghosts.md|Bound Ghosts]]
-> - **Danger:** High
+> - **Other Names:** `=this.aliases`
+> - **Cultural Origin(s):** `=this.cultural_origin`
+> - **Category** `=link(this.ghost_category)`
+> - **Danger:** `=this.danger`
 
 ---
 
@@ -39,3 +39,5 @@ Ma Trành are the spirits of those killed by tigers and other predators. The gho
 ## Exorcism and Resolution
 
 - Dealing with these ghosts is simple enough, as you simply need to kill the creature they are bound to
+
+### See also

@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Egg Ghost
 aliases:
   - Dalgyal Gwisin
 tags:
@@ -13,16 +13,16 @@ ghost_category: Wandering Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** Dalgyal Gwisin
-> - **Cultural Origin(s):** Korean
-> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
-> - **Danger:** Very High
+> - **Other Names:** `=this.aliases`
+> - **Cultural Origin(s):** `=this.cultural_origin`
+> - **Category** `=link(this.ghost_category)`
+> - **Danger:** `=this.danger`
 
 ---
 
 ## Overview
 
-![[z_assets/Creatures/Ghost Types/Egg Ghost.webp|float-left|300]]These faceless ghosts have entirely smooth heads with no eyes, nose, or mouth. They are created when a person dies with no friends, family, or loved ones.
+![[Egg Ghost.webp|float-left|300]]These faceless ghosts have entirely smooth heads with no eyes, nose, or mouth. They are created when a person dies with no friends, family, or loved ones.
 
 ## Behaviour and Haunts
 
@@ -39,3 +39,5 @@ ghost_category: Wandering Ghosts
 ## Exorcism and Resolution
 
 - As the ghosts are formed due to a lack of descendants or relatives to hold an ancestor memorial service for them, performing one of these can help the spirit to move on.
+
+### See also

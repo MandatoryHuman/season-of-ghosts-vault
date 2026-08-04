@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Krasue
 aliases:
   - Ahp
   - Penanggal
@@ -17,16 +17,16 @@ ghost_category: Wandering Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** Ahp,Penanggal,Kuyang,Palasik,Capculacay
-> - **Cultural Origin(s):** Thai
-> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
-> - **Danger:** Very High
+> - **Other Names:** `=this.aliases`
+> - **Cultural Origin(s):** `=this.cultural_origin`
+> - **Category** `=link(this.ghost_category)`
+> - **Danger:** `=this.danger`
 
 ---
 
 ## Overview
 
-![[z_assets/Creatures/Ghost Types/Krasue.webp|float-left|300]]A Krasue is believed to be a spirit of a person who committed sins that included fraudulent conduct during their life. As punishment for these sins, the spirit is reborn as a being that has to live off wasted, uncooked, and rotten food.
+![[Krasue.webp|float-left|300]]A Krasue is believed to be a spirit of a person who committed sins that included fraudulent conduct during their life. As punishment for these sins, the spirit is reborn as a being that has to live off wasted, uncooked, and rotten food.
 
 ## Behaviour and Haunts
 
@@ -46,3 +46,5 @@ ghost_category: Wandering Ghosts
 - If you are able to find the Krasue in daytime, you may be able to kill them while they are at their weakest.
 - Some say that if a Krasue's floating head is unable to return to its body by dawn, they will die in terrible pain.
   - To exploit this weakness, some houses surround themselves with barbed wire or thorny bamboo fences, hoping that any Krasue would get their trailing organs trapped in the thorns and become stuck until morning.
+
+### See also

@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Hungry Ghost
 aliases:
   - È Guǐ
 tags:
@@ -14,16 +14,16 @@ ghost_category: Wandering Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** È Guǐ
-> - **Cultural Origin(s):** Chinese,Tibetan
-> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
-> - **Danger:** Low
+> - **Other Names:** `=this.aliases`
+> - **Cultural Origin(s):** `=this.cultural_origin`
+> - **Category** `=link(this.ghost_category)`
+> - **Danger:** `=this.danger`
 
 ---
 
 ## Overview
 
-![[z_assets/Creatures/Ghost Types/Hungry Ghost.webp|float-left|400]]These spirits are those who lived in extreme greed and refused to help others. They are cursed with insatiable appetites, bloated bellies, and thin necks. Food they attempt to eat bursts into flames or turns to ash.
+![[Hungry Ghost.webp|float-left|400]]These spirits are those who lived in extreme greed and refused to help others. They are cursed with insatiable appetites, bloated bellies, and thin necks. Food they attempt to eat bursts into flames or turns to ash.
 
 ## Behaviour and Haunts
 
@@ -43,3 +43,5 @@ ghost_category: Wandering Ghosts
 - Burning of "Hell Money" or Joss paper can calm them.
 - Monks and priests can chant and pray for the ghosts. The good karma generated from these chants can allow the ghost to move on.
 - Some communities put on theatrical shows, leaving the front row empty in hopes that the ghosts will enjoy the entertainment and be satisfied.
+
+### See also

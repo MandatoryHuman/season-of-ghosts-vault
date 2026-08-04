@@ -3,7 +3,6 @@ aliases: []
 tags:
   - location/building
   - office
-aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Kim Gu-won]]"
 buildingtype: Trade Office
@@ -15,9 +14,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Kim Gu-won.md|Kim Gu-won]]
-> **Type:** Trade Office
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 

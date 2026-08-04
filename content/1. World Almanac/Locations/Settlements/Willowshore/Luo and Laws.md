@@ -3,7 +3,6 @@ aliases: []
 tags:
   - location/building
   - office
-aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Luo Xi Yang]]"
 buildingtype: Law office
@@ -15,9 +14,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Luo Xi Yang.md|Luo Xi Yang]]
-> **Type:** Law office
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 

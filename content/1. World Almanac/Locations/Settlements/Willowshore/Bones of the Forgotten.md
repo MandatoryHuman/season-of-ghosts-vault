@@ -3,7 +3,6 @@ aliases: []
 tags:
   - location/building
   - cemetery
-aliases: []
 settlement: "[[Willowshore]]"
 owner:
 buildingtype: Cemetery
@@ -15,9 +14,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:**
-> **Type:** Cemetery
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 

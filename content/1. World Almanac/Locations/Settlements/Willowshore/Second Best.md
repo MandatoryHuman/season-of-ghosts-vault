@@ -3,7 +3,6 @@ aliases: []
 tags:
   - location/building
   - shop
-aliases: []
 settlement:
 owner: "[[Huo Tian-Zhe]]"
 buildingtype: Shop
@@ -15,9 +14,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:**
-> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Huo Tian-Zhe.md|Huo Tian-Zhe]]
-> **Type:** Shop
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 

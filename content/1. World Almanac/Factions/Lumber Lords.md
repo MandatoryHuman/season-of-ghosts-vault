@@ -2,15 +2,14 @@
 aliases: []
 tags:
   - faction
-aliases: []
 leader: "[[Lung Wa]]"
 alignment:
 factiontype: Work Bosses
 ---
 
 > [!info]+ Faction Details
-> **Type:** Work Bosses
-> **Leader:** [[1. World Almanac/Factions/Lung Wa.md|Lung Wa]]
+> **Type:** `=this.factiontype`
+> **Leader:** `=this.leader`
 
 ## Details
 

@@ -2,7 +2,6 @@
 aliases: []
 tags:
   - npc
-aliases: []
 status: Alive
 location:
 faction:
@@ -13,11 +12,11 @@ npcimage:
 ---
 
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:**
-> **Ancestry:**
-> **Profession:**
-> **Faction:**
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 

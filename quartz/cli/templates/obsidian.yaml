@@ -266,11 +266,7 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-<<<<<<< HEAD
-  - source: github:quartz-community/obsidian-plugin-excalidraw
-=======
   - source: "@quartz-community/obsidian-plugin-excalidraw"
->>>>>>> 754058ad54665fe80de8bcaaaa1626e1d0fcf118
     enabled: true
     options:
       enableInteraction: true

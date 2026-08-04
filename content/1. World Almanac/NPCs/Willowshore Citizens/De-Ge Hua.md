@@ -2,7 +2,6 @@
 aliases: []
 tags:
   - npc
-aliases: []
 status: Alive
 location: "[[Downtown Willowshore|Downtown Willowshore]]"
 faction:
@@ -14,15 +13,15 @@ npcimage: "[[De-Ge Hua.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Downtown Willowshore.md|Downtown Willowshore]]
-> **Ancestry:** [[1. World Almanac/Creatures/Halfling.md|Halfling]]
-> **Profession:** Bathhouse Owner
-> **Faction:**
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 
-![[z_assets/NPCs/De-Ge Hua.webp|400]]
+![[De-Ge Hua.webp|400]]
 
 ## Bio
 

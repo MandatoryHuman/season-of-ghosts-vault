@@ -17,7 +17,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header:  Crimson Pro
+      header: Crimson Pro
       body: Inter
       code: Fira Code
     colors:

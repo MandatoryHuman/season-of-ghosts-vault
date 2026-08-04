@@ -1,2 +1,2 @@
-import rfdc from "rfdc";
-export const clone = rfdc();
+import rfdc from "rfdc"
+export const clone = rfdc()
