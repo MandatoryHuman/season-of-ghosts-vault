@@ -2,14 +2,15 @@
 aliases: []
 tags:
   - faction
+aliases: []
 leader: Various emperors
 alignment:
 factiontype: Empire
 ---
 
 > [!info]+ Faction Details
-> **Type:** `=this.factiontype`
-> **Leader:** `=this.leader`
+> **Type:** Empire
+> **Leader:** Various emperors
 
 ## Details
 
