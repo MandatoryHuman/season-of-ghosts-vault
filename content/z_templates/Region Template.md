@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:05.368Z
+modified: 2026-07-14T20:28:03.573Z
+published: 2026-07-14T20:28:03.573Z
 tags:
   - location/region
 aliases: []

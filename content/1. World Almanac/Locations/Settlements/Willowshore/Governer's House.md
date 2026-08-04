@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:04.993Z
+modified: 2026-07-20T12:40:46.226Z
+published: 2026-07-20T12:40:46.226Z
 tags:
   - location/building
   - residential

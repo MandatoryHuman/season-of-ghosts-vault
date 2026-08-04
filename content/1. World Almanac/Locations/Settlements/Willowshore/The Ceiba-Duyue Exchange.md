@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:05.018Z
+modified: 2026-07-14T18:32:13.324Z
+published: 2026-07-14T18:32:13.324Z
 tags:
   - location/building
   - office

@@ -4,6 +4,10 @@ aliases:
   - Shuǐ Guǐ
   - Mul Gwisin
   - Ma Da
+title: Water Ghost
+created: 2026-08-04T11:05:05.179Z
+modified: 2026-07-26T09:59:52.534Z
+published: 2026-07-26T09:59:52.534Z
 tags:
   - ghost-type
   - creature

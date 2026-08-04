@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:05.031Z
+modified: 2026-07-20T16:09:19.207Z
+published: 2026-07-20T16:09:19.207Z
 tags:
   - location/building
   - dock

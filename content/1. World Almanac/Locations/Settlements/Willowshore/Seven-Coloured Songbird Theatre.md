@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:05.013Z
+modified: 2026-07-20T12:45:09.210Z
+published: 2026-07-20T12:45:09.210Z
 tags:
   - location/building
   - theatre

@@ -1,6 +1,10 @@
 ---
+publish: true
 aliases:
   - Cerulean Teahouse
+created: 2026-08-04T11:05:05.020Z
+modified: 2026-07-31T13:26:57.739Z
+published: 2026-07-31T13:26:57.739Z
 tags:
   - location/building
   - teahouse

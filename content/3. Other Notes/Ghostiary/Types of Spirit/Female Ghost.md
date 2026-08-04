@@ -2,6 +2,10 @@
 publish: true
 aliases:
   - Nǚ guǐ
+title: Female Ghost
+created: 2026-08-04T11:05:05.152Z
+modified: 2026-07-31T15:50:13.239Z
+published: 2026-07-31T15:50:13.239Z
 tags:
   - ghost-type
   - creature
@@ -26,6 +30,7 @@ ghost_category: Vengeful Ghosts
 While less common in literature, nán guǐ or "Male Ghosts" have also been reported.
 
 ## Behaviour and Haunts
+
 - A Nǚ guǐ will normally seek revenge on those who wronged her in life.
 - Some Nǚ guǐ have been known to act in a way similar to a succubus; seducing men to suck their essence or even kill them.
 

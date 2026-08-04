@@ -2,6 +2,9 @@
 publish: true
 aliases:
   - Governor
+created: 2026-08-04T11:05:05.055Z
+modified: 2026-07-20T12:35:45.943Z
+published: 2026-07-20T12:35:45.943Z
 tags:
   - npc
 status: Alive

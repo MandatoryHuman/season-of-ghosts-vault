@@ -2,6 +2,9 @@
 publish: true
 aliases:
   - Old Matsuki
+created: 2026-08-04T11:05:05.073Z
+modified: 2026-07-16T20:27:31.094Z
+published: 2026-07-16T20:27:31.094Z
 tags:
   - npc
 status: Alive

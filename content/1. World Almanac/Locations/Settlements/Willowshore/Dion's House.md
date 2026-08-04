@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:04.984Z
+modified: 2026-07-20T00:34:04.736Z
+published: 2026-07-20T00:34:04.736Z
 tags:
   - location/building
 aliases: []

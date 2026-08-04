@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:04.949Z
+modified: 2026-07-26T14:12:17.474Z
+published: 2026-07-26T14:12:17.474Z
 tags:
   - faction
 aliases: []
@@ -26,4 +29,5 @@ Northridgers are open to the rule of the [[Jorogumo]], focusing on pragmatism an
 - **Favours Owed:** None
 
 ## Known Members
+
 - [[Hu Ban-niang|Granny Hu]]

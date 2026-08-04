@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:04.979Z
+modified: 2026-07-14T18:12:44.925Z
+published: 2026-07-14T18:12:44.925Z
 tags:
   - location/building
   - cemetery

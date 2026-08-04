@@ -1,15 +1,14 @@
 ---
+publish: true
+created: 2026-08-04T11:05:05.135Z
+modified: 2026-07-31T22:08:47.841Z
+published: 2026-07-31T22:08:47.841Z
 aliases: []
 tags: []
 ---
 
-```dataview
-TABLE WITHOUT ID
-  file.link AS Ghost,
-  aliases AS "Other Names",
-  danger AS "Danger Level", 
-  cultural_origin AS "Cultural Origin"
-FROM "3. Other Notes/Ghostiary/Types of Spirit"
-WHERE ghost_category = "Possessive Ghosts"
-SORT file.name ASC
-```
+| Ghost                                                                      | Other Names                       | Danger Level | Cultural Origin            |
+| -------------------------------------------------------------------------- | --------------------------------- | ------------ | -------------------------- |
+| [[3. Other Notes/Ghostiary/Types of Spirit/Death Spirit.md\|Death Spirit]] | <ul><li>Shinigami</li></ul>       | High         | <ul><li>Japanese</li></ul> |
+| [[3. Other Notes/Ghostiary/Types of Spirit/Phi Pop.md\|Phi Pop]]           | <ul><li>Phi Pob</li></ul>         | High         | <ul><li>Thai</li></ul>     |
+| [[3. Other Notes/Ghostiary/Types of Spirit/Turtle Ghost.md\|Turtle Ghost]] | <ul><li>Suppon no yūrei</li></ul> |              |                            |

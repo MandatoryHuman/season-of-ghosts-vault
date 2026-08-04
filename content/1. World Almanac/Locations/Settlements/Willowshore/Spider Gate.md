@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:05.016Z
+modified: 2026-07-20T12:47:25.804Z
+published: 2026-07-20T12:47:25.804Z
 tags:
   - location/building
   - gate

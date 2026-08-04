@@ -1,7 +1,11 @@
 ---
-title: Sudden Ghost
+publish: true
 aliases:
   - Phi Tai Hong
+title: Sudden Ghost
+created: 2026-08-04T11:05:05.173Z
+modified: 2026-07-31T09:41:05.046Z
+published: 2026-07-31T09:41:05.046Z
 tags:
   - ghost-type
   - creature

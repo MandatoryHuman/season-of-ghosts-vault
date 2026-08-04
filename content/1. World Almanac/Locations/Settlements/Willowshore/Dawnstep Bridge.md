@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T11:05:04.982Z
+modified: 2026-07-15T20:13:01.861Z
+published: 2026-07-15T20:13:01.861Z
 tags:
   - location/building
   - bridge
