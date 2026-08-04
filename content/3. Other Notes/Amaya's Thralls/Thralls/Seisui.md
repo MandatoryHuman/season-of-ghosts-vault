@@ -8,7 +8,7 @@ tags: []
 npcimage: "[[Seisui Square.webp]]"
 ---
 
-![[Seisui.webp|float-left|400]]Seisui is a benevolent [[Changed Cat|Bakeneko]] who remained bound to the mortal realm out of pure devotion, peacefully guarding the ruined hearth of its long-deceased master. Amaya encountered the slumbering spirit whilst seeking shelter in an abandoned merchant's estate on the outskirts of Willowshore, hoping to find a safe, quiet place to camp for the night. The air in the ruined merchant's estate was thick with the scent of damp timber and decay, but as Amaya stepped into the old hearth room, the atmosphere instantly became calm.
+![[z_assets/Creatures/Thralls/Seisui.webp|float-left|400]]Seisui is a benevolent [[Changed Cat|Bakeneko]] who remained bound to the mortal realm out of pure devotion, peacefully guarding the ruined hearth of its long-deceased master. Amaya encountered the slumbering spirit whilst seeking shelter in an abandoned merchant's estate on the outskirts of Willowshore, hoping to find a safe, quiet place to camp for the night. The air in the ruined merchant's estate was thick with the scent of damp timber and decay, but as Amaya stepped into the old hearth room, the atmosphere instantly became calm.
 
 Curled in the centre of the room, floating just above the ash-choked fireplace, was a spectral feline. Its fur was a wispy, pale green, drifting like mist against a faint backdrop of starry luminescence that seemed to emanate from the spirit itself. Its long, intertwined split tails twitched lazily in its slumber. It was a Nekomata, but completely devoid of the malice typical of its kind.
 

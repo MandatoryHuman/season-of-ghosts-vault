@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.013Z
+created: 2026-08-04T12:06:58.410Z
 modified: 2026-07-20T12:45:09.210Z
 published: 2026-07-20T12:45:09.210Z
 tags:
   - location/building
   - theatre
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Kazuma Oono]]"
 buildingtype: Theatre
@@ -16,9 +17,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Kazuma Oono.md|Kazuma Oono]]
+> **Type:** Theatre
 
 ## Description
 

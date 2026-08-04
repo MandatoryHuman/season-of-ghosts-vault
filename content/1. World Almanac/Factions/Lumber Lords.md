@@ -1,18 +1,19 @@
 ---
 publish: true
-created: 2026-08-04T11:05:04.946Z
+created: 2026-08-04T12:06:58.345Z
 modified: 2026-07-15T15:12:17.864Z
 published: 2026-07-15T15:12:17.864Z
 tags:
   - faction
+aliases: []
 leader: "[[Lung Wa]]"
 alignment:
 factiontype: Work Bosses
 ---
 
 > [!info]+ Faction Details
-> **Type:** `=this.factiontype`
-> **Leader:** `=this.leader`
+> **Type:** Work Bosses
+> **Leader:** [[1. World Almanac/Factions/Lung Wa.md|Lung Wa]]
 
 ## Details
 

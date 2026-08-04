@@ -1,7 +1,8 @@
 ---
+publish: true
 aliases:
   - Anjal of Thulsadus
-created: 2026-08-04T11:05:05.045Z
+created: 2026-08-04T12:06:58.443Z
 modified: 2026-07-18T08:28:10.863Z
 published: 2026-07-18T08:28:10.863Z
 tags:
@@ -17,11 +18,11 @@ npcimage:
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Dead
+> **Location:**
+> **Ancestry:** [[1. World Almanac/Creatures/Nagaji.md|Nagaji]]
+> **Profession:** Wizard
+> **Faction:**
 
 ## Appearance
 

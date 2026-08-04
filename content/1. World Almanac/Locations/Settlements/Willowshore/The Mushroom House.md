@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.026Z
+created: 2026-08-04T12:06:58.423Z
 modified: 2026-07-14T20:16:38.963Z
 published: 2026-07-14T20:16:38.963Z
 tags:
   - location/building
   - shop
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Luda Bama]]"
 buildingtype: Black Market
@@ -17,9 +18,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Luda Bama.md|Luda Bama]]
+> **Type:** Black Market
 
 ## Description
 

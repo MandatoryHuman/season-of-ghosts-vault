@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Ubume
 title: Maternal Ghost
-created: 2026-08-04T11:05:05.163Z
+created: 2026-08-04T12:06:58.560Z
 modified: 2026-08-04T11:33:13.964Z
 published: 2026-08-04T11:33:13.964Z
 tags:
@@ -17,16 +17,16 @@ ghost_category: Wandering Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** `=this.aliases`
-> - **Cultural Origin(s):** `=this.cultural_origin`
-> - **Category** `=link(this.ghost_category)`
-> - **Danger:** `=this.danger`
+> - **Other Names:** Ubume
+> - **Cultural Origin(s):** Japanese
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
+> - **Danger:** Moderate
 
 ---
 
 ## Overview
 
-![[Maternal Ghost.webp|float-left|300]]The spirit of a woman who died in childbirth or leaving a new-born behind. She is not typically malicious, but are still dangerous.
+![[z_assets/Creatures/Ghost Types/Maternal Ghost.webp|float-left|300]]The spirit of a woman who died in childbirth or leaving a new-born behind. She is not typically malicious, but are still dangerous.
 
 ## Behaviour and Haunts
 

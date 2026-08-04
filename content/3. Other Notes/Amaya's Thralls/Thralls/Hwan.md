@@ -8,7 +8,7 @@ tags: []
 npcimage: "[[Hwan Square.webp]]"
 ---
 
-![[Hwan.webp|float-left|400]]Hwan is a [[Ship Ghost|Funa-yūrei]] that found himself bound in the [[Sea of Ghosts]] after his crew mutinied, chaining him up and tossing him overboard - spearing him through for good measure. After [[Otonashi Amaya|Amaya]] heard reports of an otherworldly light appearing in the Sea at night, she asked [[Otonashi Shio|Shio]] to borrow his fishing boat, and set off in search of the source.
+![[z_assets/Creatures/Thralls/Hwan.webp|float-left|400]]Hwan is a [[Ship Ghost|Funa-yūrei]] that found himself bound in the [[Sea of Ghosts]] after his crew mutinied, chaining him up and tossing him overboard - spearing him through for good measure. After [[Otonashi Amaya|Amaya]] heard reports of an otherworldly light appearing in the Sea at night, she asked [[Otonashi Shio|Shio]] to borrow his fishing boat, and set off in search of the source.
 
 Dropping anchor where the pale blue glow was strongest, Amaya cast a water-breathing spell from the wand [[Igawa Jubei|Jubei]] sold her and slipped into the freezing depths. She found Hwan suspended just above the dark seabed. Heavy iron chains anchored his wrists, a rotting sack obscured his face, and three glowing spectral arrows pierced his back.
 

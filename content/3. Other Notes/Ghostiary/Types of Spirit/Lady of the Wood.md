@@ -5,7 +5,7 @@ aliases:
   - Phi Tani
   - Phrai Tani
 title: Nature Spirit
-created: 2026-08-04T11:05:05.162Z
+created: 2026-08-04T12:06:58.559Z
 modified: 2026-08-04T11:33:12.788Z
 published: 2026-08-04T11:33:12.788Z
 tags:
@@ -20,16 +20,16 @@ ghost_category: Wandering Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** `=this.aliases`
-> - **Cultural Origin(s):** `=this.cultural_origin`
-> - **Category** `=link(this.ghost_category)`
-> - **Danger:** `=this.danger`
+> - **Other Names:** Nang Tani,Phi Tani,Phrai Tani
+> - **Cultural Origin(s):** Thai,Cambodian
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
+> - **Danger:** Low
 
 ---
 
 ## Overview
 
-![[Nang Tani.webp|float-left|300]]These nymph-like beings reside in wild banana trees and a generally benevolent and passive, though they can still be dangerous if provoked. These spirits are most active on full moons
+![[z_assets/Creatures/Ghost Types/Nang Tani.webp|float-left|300]]These nymph-like beings reside in wild banana trees and a generally benevolent and passive, though they can still be dangerous if provoked. These spirits are most active on full moons
 
 ## Behaviour and Haunts
 

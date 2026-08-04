@@ -2,7 +2,7 @@
 publish: true
 aliases:
   - Crimson
-created: 2026-08-04T11:05:05.099Z
+created: 2026-08-04T12:06:58.496Z
 modified: 2026-07-30T19:41:26.179Z
 published: 2026-07-30T19:41:26.179Z
 tags:
@@ -16,10 +16,10 @@ npcimage: "[[Crimson Rosoideae Square.webp]]"
 ---
 
 > [!info]+ Character Details
-> **Player:** `=this.player_name`
-> **Ancestry & Heritage:** `=this.ancestry`
-> **Class:** `=this.class`
-> **Primary Role:** `=this.partyrole`
+> **Player:** Amren
+> **Ancestry & Heritage:** [[1. World Almanac/Creatures/Leshy.md|Leshy]]
+> **Class:** Wizard
+> **Primary Role:** Splasher
 
 ## Appearance
 

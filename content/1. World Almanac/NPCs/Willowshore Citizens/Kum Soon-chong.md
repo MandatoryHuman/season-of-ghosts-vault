@@ -1,10 +1,11 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.068Z
+created: 2026-08-04T12:06:58.465Z
 modified: 2026-07-20T01:18:03.929Z
 published: 2026-07-20T01:18:03.929Z
 tags:
   - npc
+aliases: []
 status: Alive
 location: "[[Willowshore Stables]]"
 faction:
@@ -16,15 +17,15 @@ npcimage: "[[Kum Soon-chong.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore Stables.md|Willowshore Stables]]
+> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
+> **Profession:** Veterinarian
+> **Faction:**
 
 ## Appearance
 
-![[Kum Soon-chong.webp|400]]
+![[z_assets/NPCs/Kum Soon-chong.webp|400]]
 
 ## Bio
 

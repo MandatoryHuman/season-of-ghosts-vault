@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.003Z
+created: 2026-08-04T12:06:58.401Z
 modified: 2026-07-15T20:15:19.244Z
 published: 2026-07-15T20:15:19.244Z
 tags:
   - location/building
   - residential
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Matsuki Shou|Old Matsuki]]"
 buildingtype: Residential
@@ -17,9 +18,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Matsuki Shou.md|Old Matsuki]]
+> **Type:** Residential
 
 ## Description
 

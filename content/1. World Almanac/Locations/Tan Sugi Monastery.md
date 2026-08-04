@@ -1,7 +1,11 @@
 ---
-aliases: []
+publish: true
+created: 2026-07-26T14:05:50.494Z
+modified: 2026-07-20T16:16:12.513Z
+published: 2026-07-20T16:16:12.513Z
 tags:
   - location
+aliases: []
 region: "[[Willowshore]]"
 type: Monastery
 ---

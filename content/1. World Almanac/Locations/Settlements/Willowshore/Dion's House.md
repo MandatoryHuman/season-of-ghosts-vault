@@ -1,10 +1,11 @@
 ---
 publish: true
-created: 2026-08-04T11:05:04.984Z
+created: 2026-08-04T12:06:58.383Z
 modified: 2026-07-20T00:34:04.736Z
 published: 2026-07-20T00:34:04.736Z
 tags:
   - location/building
+aliases: []
 settlement: "[[Willowshore]]"
 owner: Dion
 buildingtype: Residential
@@ -16,9 +17,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** Dion
+> **Type:** Residential
 
 ## Description
 

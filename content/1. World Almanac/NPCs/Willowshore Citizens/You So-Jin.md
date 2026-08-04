@@ -1,10 +1,11 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.088Z
+created: 2026-08-04T12:06:58.487Z
 modified: 2026-07-21T20:34:30.437Z
 published: 2026-07-21T20:34:30.437Z
 tags:
   - npc
+aliases: []
 status: Alive
 location: "[[Graveside Manners|Graveside Manners]]"
 faction:
@@ -16,15 +17,15 @@ npcimage: "[[You So-Jin.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Graveside Manners.md|Graveside Manners]]
+> **Ancestry:** [[1. World Almanac/Creatures/Elf.md|Elf]]
+> **Profession:** Herbalist
+> **Faction:**
 
 ## Appearance
 
-![[You So-Jin.webp|400]]
+![[z_assets/NPCs/You So-Jin.webp|400]]
 
 ## Bio
 

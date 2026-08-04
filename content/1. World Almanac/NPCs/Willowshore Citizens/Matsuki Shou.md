@@ -1,7 +1,8 @@
 ---
+publish: true
 aliases:
   - Old Matsuki
-created: 2026-08-04T11:05:05.073Z
+created: 2026-08-04T12:06:58.471Z
 modified: 2026-07-16T20:27:31.094Z
 published: 2026-07-16T20:27:31.094Z
 tags:
@@ -18,11 +19,11 @@ npcimage: "[[Old Matsuki.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]],Tian-shu
+> **Profession:** Carpenter
+> **Faction:** [[1. World Almanac/Factions/Southbankers.md|Southbankers]]
 
 ## Appearance
 

@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.015Z
+created: 2026-08-04T12:06:58.412Z
 modified: 2026-07-16T23:18:51.920Z
 published: 2026-07-16T23:18:51.920Z
 tags:
   - location/building
   - residential
+aliases: []
 settlement: "[[Willowshore]]"
 owner:
 buildingtype: Residential
@@ -21,9 +22,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:**
+> **Type:** Residential
 
 ## Description
 

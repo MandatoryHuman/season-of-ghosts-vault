@@ -1,10 +1,11 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.081Z
+created: 2026-08-04T12:06:58.480Z
 modified: 2026-07-30T19:15:27.213Z
 published: 2026-07-30T19:15:27.213Z
 tags:
   - npc
+aliases: []
 status: Alive
 location: "[[Willowshore]]"
 faction:
@@ -17,19 +18,19 @@ spouse: "[[Otonashi Kairi]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Ancestry:** [[1. World Almanac/Creatures/Elf.md|Elf]]
+> **Profession:** Diver
+> **Faction:**
 
 ## Appearance
 
-![[Otonashi Nagi.webp|400]]
+![[z_assets/NPCs/Otonashi Nagi.webp|400]]
 
 ## Bio
 
-Nagi is the mother of the twins [[Otonashi Amaya]] and [[Otonashi Shio]]. In her youth, Nagi lived in the city [[Sze]], working as an [Ama](<https://en.wikipedia.org/wiki/Ama_(diving)>) Diver. She made her living collecting seaweed and oysters from the [[Sea of Ghosts]] - a dangerous job, but reasonably profitable for those who were skilled enough to brave the depths.
+Nagi is the mother of the twins [[Otonashi Amaya]] and [[Otonashi Shio]]. In her youth, Nagi lived in the city [[Sze]], working as an [Ama](https://en.wikipedia.org/wiki/Ama_\(diving\)) Diver. She made her living collecting seaweed and oysters from the [[Sea of Ghosts]] - a dangerous job, but reasonably profitable for those who were skilled enough to brave the depths.
 
 Nagi met [[Otonashi Kairi]] via her work; the latter was a pearl carver to whom she sold her finest discoveries. The pair were quickly smitten with one another, but the courtship between them was an excruciating period. For over two years, Nagi would bring her highest-quality pearls exclusively to Kairi, and in return, Kairi would drastically overpay her - a stubborn habit that nearly cost him his apprenticeship on more than one occasion.
 
@@ -39,7 +40,7 @@ After sharing six decades of life together in Sze, Nagi fell pregnant with the t
 
 For many years, Nagi dedicated herself entirely to raising Amaya and Shio. Now that the twins have grown and established lives of their own, she finally has time to herself again. She has rekindled an old passion for writing poetry, whilst still finding practical use for her diving skills at the local docks - most often retrieving tools, dropped cargo, and valuables that some oaf or another has fumbled into the waters.
 
-![[Pearl Earring.webp|float-left|200]]On her daughter's 40th birthday, Nagi gifted her daughter something special; the very same carved pearl that her husband had gifted her when he asked to form their "partnership". She told her daughter that the pearl had bought her 100 years of luck, and that she hoped it'd do the same for Amaya.
+![[z_assets/Items/Pearl Earring.webp|float-left|200]]On her daughter's 40th birthday, Nagi gifted her daughter something special; the very same carved pearl that her husband had gifted her when he asked to form their "partnership". She told her daughter that the pearl had bought her 100 years of luck, and that she hoped it'd do the same for Amaya.
 
 ## Relationship to Party
 

@@ -1,18 +1,19 @@
 ---
 publish: true
-created: 2026-08-04T11:05:04.948Z
+created: 2026-08-04T12:06:58.347Z
 modified: 2026-07-21T08:55:33.295Z
 published: 2026-07-21T08:55:33.295Z
 tags:
   - faction
+aliases: []
 leader: Various emperors
 alignment:
 factiontype: Empire
 ---
 
 > [!info]+ Faction Details
-> **Type:** `=this.factiontype`
-> **Leader:** `=this.leader`
+> **Type:** Empire
+> **Leader:** Various emperors
 
 ## Details
 

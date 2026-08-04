@@ -1,10 +1,11 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.047Z
+created: 2026-08-04T12:06:58.445Z
 modified: 2026-07-21T20:34:30.101Z
 published: 2026-07-21T20:34:30.101Z
 tags:
   - npc
+aliases: []
 status: Alive
 location: "[[Nine Ear Shrine|Nine Ear Shrine]]"
 faction:
@@ -16,15 +17,15 @@ npcimage: "[[Ba-Ming Ouh.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Nine Ear Shrine.md|Nine Ear Shrine]]
+> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
+> **Profession:** Priest
+> **Faction:**
 
 ## Appearance
 
-![[Ba-Ming Ouh.webp|400]]
+![[z_assets/NPCs/Ba-Ming Ouh.webp|400]]
 
 ## Bio
 

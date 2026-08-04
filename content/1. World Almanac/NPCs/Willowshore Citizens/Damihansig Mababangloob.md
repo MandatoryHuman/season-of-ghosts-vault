@@ -1,7 +1,8 @@
 ---
+publish: true
 aliases:
   - Dami
-created: 2026-08-04T11:05:05.050Z
+created: 2026-08-04T12:06:58.449Z
 modified: 2026-07-21T20:34:30.355Z
 published: 2026-07-21T20:34:30.355Z
 tags:
@@ -17,11 +18,11 @@ npcimage: "[[Dami.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/The Hand of Spring.md|The Hand of Spring]]
+> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
+> **Profession:** Doctor
+> **Faction:**
 
 ## Appearance
 

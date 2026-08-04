@@ -1,7 +1,11 @@
 ---
-aliases: []
+publish: true
+created: 2026-07-26T14:05:50.518Z
+modified: 2026-07-15T13:54:26.497Z
+published: 2026-07-15T13:54:26.497Z
 tags:
   - location
+aliases: []
 region: "[[Willowshore]]"
 type: River
 marker:

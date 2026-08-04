@@ -1,11 +1,11 @@
 ---
-title: Water Ghost
+publish: true
 aliases:
   - Shuǐ Guǐ
   - Mul Gwisin
   - Ma Da
 title: Water Ghost
-created: 2026-08-04T11:05:05.179Z
+created: 2026-08-04T12:06:58.579Z
 modified: 2026-08-04T11:33:42.060Z
 published: 2026-08-04T11:33:42.060Z
 tags:
@@ -22,16 +22,16 @@ ghost_category: Bound Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** `=this.aliases`
-> - **Cultural Origin(s):** `=this.cultural_origin`
-> - **Category** `=link(this.ghost_category)`
-> - **Danger:** `=this.danger`
+> - **Other Names:** Shuǐ Guǐ,Mul Gwisin,Ma Da
+> - **Cultural Origin(s):** Chinese,Singaporean,Korean,Vietnamese
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Bound Ghosts.md|Bound Ghosts]]
+> - **Danger:** Very High
 
 ---
 
 ## Overview
 
-![[Water Ghost.webp|float-left|400]]Shuǐ Guǐ are spirits of people who have drowned either through accident or suicide. Unable to reincarnate, the spirit instead lingers at the site of its death.
+![[z_assets/Creatures/Ghost Types/Water Ghost.webp|float-left|400]]Shuǐ Guǐ are spirits of people who have drowned either through accident or suicide. Unable to reincarnate, the spirit instead lingers at the site of its death.
 
 ## Behaviour and Haunts
 

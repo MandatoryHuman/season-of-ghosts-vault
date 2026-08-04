@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.007Z
+created: 2026-08-04T12:06:58.404Z
 modified: 2026-07-14T20:16:18.188Z
 published: 2026-07-14T20:16:18.188Z
 tags:
   - location/building
   - mill
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Choe Chung-hu]]"
 buildingtype: Mill
@@ -17,9 +18,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Choe Chung-hu.md|Choe Chung-hu]]
+> **Type:** Mill
 
 ## Description
 

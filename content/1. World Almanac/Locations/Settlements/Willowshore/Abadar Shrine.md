@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 2026-08-04T11:05:04.974Z
+created: 2026-08-04T12:06:58.375Z
 modified: 2026-07-14T23:11:48.213Z
 published: 2026-07-14T23:11:48.213Z
 tags:
   - location/building
   - shrine
+aliases: []
 settlement: "[[Willowshore]]"
 owner:
 buildingtype: Shrine
@@ -17,9 +18,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:**
+> **Type:** Shrine
 
 ## Description
 

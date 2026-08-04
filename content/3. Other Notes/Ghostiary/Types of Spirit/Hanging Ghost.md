@@ -1,9 +1,9 @@
 ---
-title: Hanged Ghost
+publish: true
 aliases:
   - Diào Sǐ Guǐ
 title: Hanged Ghost
-created: 2026-08-04T11:05:05.156Z
+created: 2026-08-04T12:06:58.553Z
 modified: 2026-08-04T11:33:02.227Z
 published: 2026-08-04T11:33:02.227Z
 tags:
@@ -17,16 +17,16 @@ ghost_category: Bound Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** `=this.aliases`
-> - **Cultural Origin(s):** `=this.cultural_origin`
-> - **Category** `=link(this.ghost_category)`
-> - **Danger:** `=this.danger`
+> - **Other Names:** Diào Sǐ Guǐ
+> - **Cultural Origin(s):** Chinese
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Bound Ghosts.md|Bound Ghosts]]
+> - **Danger:** High
 
 ---
 
 ## Overview
 
-![[Hanged Ghost.webp|float-left|300]]Diào Sǐ Guǐ are the spirits left behind after someone dies by hanging (either by suicide or execution). They are bound to the site of their death and unable to be reincarnated or move on to the afterlife.
+![[z_assets/Creatures/Ghost Types/Hanged Ghost.webp|float-left|300]]Diào Sǐ Guǐ are the spirits left behind after someone dies by hanging (either by suicide or execution). They are bound to the site of their death and unable to be reincarnated or move on to the afterlife.
 
 ## Behaviour and Haunts
 

@@ -1,10 +1,11 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.365Z
+created: 2026-08-04T12:06:58.778Z
 modified: 2026-07-14T20:27:52.429Z
 published: 2026-07-14T20:27:52.429Z
 tags:
   - npc
+aliases: []
 status: Alive
 location:
 faction:
@@ -15,11 +16,11 @@ npcimage:
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:**
+> **Ancestry:**
+> **Profession:**
+> **Faction:**
 
 ## Appearance
 

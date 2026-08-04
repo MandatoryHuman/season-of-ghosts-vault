@@ -1,18 +1,19 @@
 ---
 publish: true
-created: 2026-08-04T11:05:04.949Z
+created: 2026-08-04T12:06:58.349Z
 modified: 2026-07-26T14:12:17.474Z
 published: 2026-07-26T14:12:17.474Z
 tags:
   - faction
+aliases: []
 leader: "[[Hu Ban-niang]]"
 alignment:
 factiontype: Political Ideology
 ---
 
 > [!info]+ Faction Details
-> **Type:** `=this.factiontype`
-> **Leader:** `=this.leader`
+> **Type:** Political Ideology
+> **Leader:** [[1. World Almanac/NPCs/Willowshore Citizens/Hu Ban-niang.md|Hu Ban-niang]]
 
 ## Details
 

@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.012Z
+created: 2026-08-04T12:06:58.409Z
 modified: 2026-07-14T20:16:24.906Z
 published: 2026-07-14T20:16:24.906Z
 tags:
   - location/building
   - shop
+aliases: []
 settlement:
 owner: "[[Huo Tian-Zhe]]"
 buildingtype: Shop
@@ -17,9 +18,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:**
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Huo Tian-Zhe.md|Huo Tian-Zhe]]
+> **Type:** Shop
 
 ## Description
 

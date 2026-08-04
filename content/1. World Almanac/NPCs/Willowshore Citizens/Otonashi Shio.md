@@ -2,7 +2,7 @@
 publish: true
 aliases:
   - Shio
-created: 2026-08-04T11:05:05.082Z
+created: 2026-08-04T12:06:58.481Z
 modified: 2026-07-31T16:09:42.545Z
 published: 2026-07-31T16:09:42.545Z
 tags:
@@ -19,15 +19,15 @@ parent: Otonashi Nagi, Otonashi Kairi
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Ancestry:** [[1. World Almanac/Creatures/Elf.md|Elf]]
+> **Profession:** Fisherman
+> **Faction:**
 
 ## Appearance
 
-![[Otonashi Shio.webp|600]]
+![[z_assets/NPCs/Otonashi Shio.webp|600]]
 
 ## Bio
 

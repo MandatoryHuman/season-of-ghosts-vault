@@ -1,18 +1,19 @@
 ---
 publish: true
-created: 2026-08-04T11:05:04.951Z
+created: 2026-08-04T12:06:58.350Z
 modified: 2026-07-15T15:27:02.064Z
 published: 2026-07-15T15:27:02.064Z
 tags:
   - faction
+aliases: []
 leader: "[[Matsuki Shou]]"
 alignment:
 factiontype: Political Ideology
 ---
 
 > [!info]+ Faction Details
-> **Type:** `=this.factiontype`
-> **Leader:** `=this.leader`
+> **Type:** Political Ideology
+> **Leader:** [[1. World Almanac/NPCs/Willowshore Citizens/Matsuki Shou.md|Matsuki Shou]]
 
 ## Details
 

@@ -1,20 +1,21 @@
 ---
 publish: true
-created: 2026-08-04T11:05:04.964Z
+created: 2026-08-04T12:06:58.364Z
 modified: 2026-07-20T16:36:44.623Z
 published: 2026-07-20T16:36:44.623Z
 tags:
   - location/region
+aliases: []
 parentregion: Tian Xia
 dangerlevel: High
 banner: Shenmen Banner.webp
 ---
 
 > [!info]+ Regional Data
-> **Broader Region:** `=this.parentregion`
-> **Danger:** `=this.dangerlevel`
+> **Broader Region:** Tian Xia
+> **Danger:** High
 
-![[Shenmen Flag.webp|300]]
+![[z_assets/Icons/Shenmen Flag.webp|300]]
 
 ## Geography & Weather
 

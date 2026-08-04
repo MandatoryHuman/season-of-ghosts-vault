@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.016Z
+created: 2026-08-04T12:06:58.413Z
 modified: 2026-07-20T12:47:25.804Z
 published: 2026-07-20T12:47:25.804Z
 tags:
   - location/building
   - gate
+aliases: []
 settlement: "[[Willowshore]]"
 owner:
 buildingtype: Gate
@@ -17,9 +18,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:**
+> **Type:** Gate
 
 ## Description
 

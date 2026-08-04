@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.018Z
+created: 2026-08-04T12:06:58.415Z
 modified: 2026-07-14T18:32:13.324Z
 published: 2026-07-14T18:32:13.324Z
 tags:
   - location/building
   - office
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Kim Gu-won]]"
 buildingtype: Trade Office
@@ -17,9 +18,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Kim Gu-won.md|Kim Gu-won]]
+> **Type:** Trade Office
 
 ## Description
 

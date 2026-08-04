@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Suppon no yūrei
 title: Turtle Ghost
-created: 2026-08-04T11:05:05.177Z
+created: 2026-08-04T12:06:58.576Z
 modified: 2026-08-04T11:33:36.965Z
 published: 2026-08-04T11:33:36.965Z
 tags:
@@ -16,16 +16,16 @@ ghost_category: Possessive Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** `=this.aliases`
-> - **Cultural Origin(s):** `=this.cultural_origin`
-> - **Category** `=link(this.ghost_category)`
-> - **Danger:** `=this.danger`
+> - **Other Names:** Suppon no yūrei
+> - **Cultural Origin(s):**
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Possessive Ghosts.md|Possessive Ghosts]]
+> - **Danger:**
 
 ---
 
 ## Overview
 
-![[Turtle Ghost.webp|float-left|400]]Suppon no yūrei are the spirits of softshell turtles, a delicacy that is highly sought after. Their spirits linger after being eaten to seek revenge on those who ate them.
+![[z_assets/Creatures/Ghost Types/Turtle Ghost.webp|float-left|400]]Suppon no yūrei are the spirits of softshell turtles, a delicacy that is highly sought after. Their spirits linger after being eaten to seek revenge on those who ate them.
 
 ## Behaviour and Haunts
 

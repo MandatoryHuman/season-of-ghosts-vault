@@ -1,5 +1,5 @@
 ---
-title: Krasue
+publish: true
 aliases:
   - Ahp
   - Penanggal
@@ -7,7 +7,7 @@ aliases:
   - Palasik
   - Capculacay
 title: Krasue
-created: 2026-08-04T11:05:05.160Z
+created: 2026-08-04T12:06:58.557Z
 modified: 2026-08-04T11:33:10.492Z
 published: 2026-08-04T11:33:10.492Z
 tags:
@@ -21,16 +21,16 @@ ghost_category: Wandering Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** `=this.aliases`
-> - **Cultural Origin(s):** `=this.cultural_origin`
-> - **Category** `=link(this.ghost_category)`
-> - **Danger:** `=this.danger`
+> - **Other Names:** Ahp,Penanggal,Kuyang,Palasik,Capculacay
+> - **Cultural Origin(s):** Thai
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
+> - **Danger:** Very High
 
 ---
 
 ## Overview
 
-![[Krasue.webp|float-left|300]]A Krasue is believed to be a spirit of a person who committed sins that included fraudulent conduct during their life. As punishment for these sins, the spirit is reborn as a being that has to live off wasted, uncooked, and rotten food.
+![[z_assets/Creatures/Ghost Types/Krasue.webp|float-left|300]]A Krasue is believed to be a spirit of a person who committed sins that included fraudulent conduct during their life. As punishment for these sins, the spirit is reborn as a being that has to live off wasted, uncooked, and rotten food.
 
 ## Behaviour and Haunts
 

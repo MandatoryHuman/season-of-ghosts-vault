@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.028Z
+created: 2026-08-04T12:06:58.424Z
 modified: 2026-07-17T16:09:30.049Z
 published: 2026-07-17T16:09:30.049Z
 tags:
   - location/building
   - inn
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Mother Otis]]"
 buildingtype: Inn
@@ -16,9 +17,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Mother Otis.md|Mother Otis]]
+> **Type:** Inn
 
 ## Description
 

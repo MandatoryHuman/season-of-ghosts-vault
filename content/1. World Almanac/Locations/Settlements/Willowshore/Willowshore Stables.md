@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.033Z
+created: 2026-08-04T12:06:58.429Z
 modified: 2026-07-20T01:12:58.398Z
 published: 2026-07-20T01:12:58.398Z
 tags:
   - location/building
   - shop
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Kum Soon-chong]]"
 buildingtype: Stable
@@ -17,9 +18,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Kum Soon-chong.md|Kum Soon-chong]]
+> **Type:** Stable
 
 ## Description
 

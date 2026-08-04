@@ -1,12 +1,13 @@
 ---
 publish: true
-created: 2026-08-04T11:05:04.993Z
+created: 2026-08-04T12:06:58.391Z
 modified: 2026-07-20T12:40:46.226Z
 published: 2026-07-20T12:40:46.226Z
 tags:
   - location/building
   - residential
   - office
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Heh Shan-Bao]]"
 buildingtype: Office
@@ -18,9 +19,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Heh Shan-Bao.md|Heh Shan-Bao]]
+> **Type:** Office
 
 ## Description
 

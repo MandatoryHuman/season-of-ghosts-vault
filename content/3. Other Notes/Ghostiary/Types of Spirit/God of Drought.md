@@ -4,7 +4,7 @@ aliases:
   - Hiderigami
   - Hanba
 title: God of Drought
-created: 2026-08-04T11:05:05.154Z
+created: 2026-08-04T12:06:58.551Z
 modified: 2026-08-04T11:32:59.815Z
 published: 2026-08-04T11:32:59.815Z
 tags:
@@ -19,16 +19,16 @@ ghost_category: Wandering Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** `=this.aliases`
-> - **Cultural Origin(s):** `=this.cultural_origin`
-> - **Category** `=link(this.ghost_category)`
-> - **Danger:** `=this.danger`
+> - **Other Names:** Hiderigami,Hanba
+> - **Cultural Origin(s):** Japanese,Chinese
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
+> - **Danger:** High
 
 ---
 
 ## Overview
 
-Tales say that the Hiderigami is a spirit cursed to bring drought wherever they go. Some communities have been known to worship the Hiderigami as a god, offering food and prayer to drive it away, hence its name. Over time, this depiction has shifted, from god, to ghost, to monster.
+Tales say that the Hiderigami is a spirit cursed to bring drought wherever they go. Some communities have been known to worship the Hiderigami as a god, offering food and prayer to drive it away, hence its name.  Over time, this depiction has shifted, from god, to ghost, to monster.
 
 ## Behaviour and Haunts
 

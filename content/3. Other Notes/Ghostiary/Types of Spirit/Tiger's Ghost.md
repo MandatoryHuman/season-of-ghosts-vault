@@ -1,9 +1,9 @@
 ---
-title: Tiger's Ghost
+publish: true
 aliases:
   - Ma Trành
 title: Tiger's Ghost
-created: 2026-08-04T11:05:05.175Z
+created: 2026-08-04T12:06:58.575Z
 modified: 2026-08-04T11:33:33.677Z
 published: 2026-08-04T11:33:33.677Z
 tags:
@@ -17,10 +17,10 @@ ghost_category: Bound Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** `=this.aliases`
-> - **Cultural Origin(s):** `=this.cultural_origin`
-> - **Category** `=link(this.ghost_category)`
-> - **Danger:** `=this.danger`
+> - **Other Names:** Ma Trành
+> - **Cultural Origin(s):** Vietnamese
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Bound Ghosts.md|Bound Ghosts]]
+> - **Danger:** High
 
 ---
 

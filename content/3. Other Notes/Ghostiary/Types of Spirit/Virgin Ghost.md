@@ -1,9 +1,9 @@
 ---
-title: Virgin Ghost
+publish: true
 aliases:
   - Cheonyeo Gwisin
 title: Virgin Ghost
-created: 2026-08-04T11:05:05.178Z
+created: 2026-08-04T12:06:58.578Z
 modified: 2026-08-04T11:33:39.317Z
 published: 2026-08-04T11:33:39.317Z
 tags:
@@ -17,10 +17,10 @@ ghost_category: Wandering Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** `=this.aliases`
-> - **Cultural Origin(s):** `=this.cultural_origin`
-> - **Category** `=link(this.ghost_category)`
-> - **Danger:** `=this.danger`
+> - **Other Names:** Cheonyeo Gwisin
+> - **Cultural Origin(s):** Korean
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
+> - **Danger:** Moderate
 
 ---
 

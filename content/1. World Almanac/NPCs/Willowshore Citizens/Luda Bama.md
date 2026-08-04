@@ -1,10 +1,11 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.069Z
+created: 2026-08-04T12:06:58.468Z
 modified: 2026-07-21T20:34:30.401Z
 published: 2026-07-21T20:34:30.401Z
 tags:
   - npc
+aliases: []
 status: Alive
 location: "[[The Mushroom House|The Mushroom House]]"
 faction:
@@ -16,15 +17,15 @@ npcimage: "[[Luda Bama.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/The Mushroom House.md|The Mushroom House]]
+> **Ancestry:** [[1. World Almanac/Creatures/Halfling.md|Halfling]]
+> **Profession:** Smuggler
+> **Faction:**
 
 ## Appearance
 
-![[Luda Bama.webp|400]]
+![[z_assets/NPCs/Luda Bama.webp|400]]
 
 ## Bio
 

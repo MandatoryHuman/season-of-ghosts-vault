@@ -1,9 +1,9 @@
 ---
-title: Hatred Spirits
+publish: true
 aliases:
   - Onryō
 title: Hatred Spirits
-created: 2026-08-04T11:05:05.158Z
+created: 2026-08-04T12:06:58.554Z
 modified: 2026-08-04T11:33:05.089Z
 published: 2026-08-04T11:33:05.089Z
 tags:
@@ -17,16 +17,16 @@ ghost_category: Vengeful Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** `=this.aliases`
-> - **Cultural Origin(s):** `=this.cultural_origin`
-> - **Category** `=link(this.ghost_category)`
-> - **Danger:** `=this.danger`
+> - **Other Names:** Onryō
+> - **Cultural Origin(s):** Japanese
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Vengeful Ghosts.md|Vengeful Ghosts]]
+> - **Danger:** Very High
 
 ---
 
 ## Overview
 
-![[Onryo.webp|float-left|300]]Onryō are the spirits of those who were wronged in life. Often female, these ghosts are capable of causing grievous harm to the living.
+![[z_assets/Creatures/Ghost Types/Onryo.webp|float-left|300]]Onryō are the spirits of those who were wronged in life. Often female, these ghosts are capable of causing grievous harm to the living.
 
 ## Behaviour and Haunts
 

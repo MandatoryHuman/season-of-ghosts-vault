@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 2026-08-04T11:05:04.994Z
+created: 2026-08-04T12:06:58.393Z
 modified: 2026-07-14T18:13:44.233Z
 published: 2026-07-14T18:13:44.233Z
 tags:
   - location/building
   - shop
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[You So-Jin]]"
 buildingtype: Cemetery
@@ -17,9 +18,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/You So-Jin.md|You So-Jin]]
+> **Type:** Cemetery
 
 ## Description
 

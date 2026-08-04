@@ -4,7 +4,7 @@ aliases:
   - Gashadokuro
   - Odokuro
 title: Rattling Skeleton
-created: 2026-08-04T11:05:05.169Z
+created: 2026-08-04T12:06:58.566Z
 modified: 2026-08-04T11:33:21.939Z
 published: 2026-08-04T11:33:21.939Z
 tags:
@@ -18,16 +18,16 @@ ghost_category: Wandering Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** `=this.aliases`
-> - **Cultural Origin(s):** `=this.cultural_origin`
-> - **Category** `=link(this.ghost_category)`
-> - **Danger:** `=this.danger`
+> - **Other Names:** Gashadokuro,Odokuro
+> - **Cultural Origin(s):** Japanese
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
+> - **Danger:** Very High
 
 ---
 
 ## Overview
 
-![[Gashadokuro.webp|float-left|400]]The Gashadokuro is a huge being made up of the skulls of those who died on the battlefield, or of starvation. While the souls of these people may pass along or become other types of spirit - especially [[God of Drought|Hiderigami]] - their bodies join to form a single huge skeleton.
+![[z_assets/Creatures/Ghost Types/Gashadokuro.webp|float-left|400]]The Gashadokuro is a huge being made up of the skulls of those who died on the battlefield, or of starvation. While the souls of these people may pass along or become other types of spirit - especially [[God of Drought|Hiderigami]] - their bodies join to form a single huge skeleton.
 
 ## Behaviour and Haunts
 

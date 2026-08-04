@@ -1,17 +1,18 @@
 ---
 publish: true
-created: 2026-08-04T11:05:04.966Z
+created: 2026-08-04T12:06:58.365Z
 modified: 2026-07-15T17:19:08.580Z
 published: 2026-07-15T17:19:08.580Z
 tags:
   - location/region
+aliases: []
 parentregion: "[[Shenmen]]"
 dangerlevel: High
 ---
 
 > [!info]+ Regional Data
-> **Broader Region:** `=this.parentregion`
-> **Danger:** `=this.dangerlevel`
+> **Broader Region:** [[1. World Almanac/Locations/Regions/Shenmen.md|Shenmen]]
+> **Danger:** High
 
 ## Geography & Weather
 

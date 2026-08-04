@@ -1,10 +1,11 @@
 ---
 publish: true
-created: 2026-08-04T11:05:04.996Z
+created: 2026-08-04T12:06:58.394Z
 modified: 2026-07-20T12:41:44.128Z
 published: 2026-07-20T12:41:44.128Z
 tags:
   - location/building
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Zheng Peng]]"
 buildingtype: barracks
@@ -16,9 +17,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Zheng Peng.md|Zheng Peng]]
+> **Type:** barracks
 
 ## Description
 

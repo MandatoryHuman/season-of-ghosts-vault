@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 2026-08-04T11:05:04.991Z
+created: 2026-08-04T12:06:58.390Z
 modified: 2026-07-14T20:16:03.847Z
 published: 2026-07-14T20:16:03.847Z
 tags:
   - location/building
   - fishery
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Zataku]]"
 buildingtype: Fishery
@@ -17,9 +18,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Zataku.md|Zataku]]
+> **Type:** Fishery
 
 ## Description
 

@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 2026-08-04T11:05:05.009Z
+created: 2026-08-04T12:06:58.406Z
 modified: 2026-07-18T08:28:10.844Z
 published: 2026-07-18T08:28:10.844Z
 tags:
   - location/building
   - shop
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Igawa Jubei]]"
 buildingtype: Shop
@@ -17,9 +18,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Igawa Jubei.md|Igawa Jubei]]
+> **Type:** Shop
 
 ## Description
 

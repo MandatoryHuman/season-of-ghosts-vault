@@ -1,9 +1,9 @@
 ---
-title: Corner Spirit
+publish: true
 aliases:
   - Ma Xó
 title: Corner Spirit
-created: 2026-08-04T11:05:05.146Z
+created: 2026-08-04T12:06:58.541Z
 modified: 2026-08-04T11:32:45.965Z
 published: 2026-08-04T11:32:45.965Z
 tags:
@@ -17,10 +17,10 @@ ghost_category: Bound Ghosts
 
 > [!info]+ Details
 >
-> - **Other Names:** `=this.aliases`
-> - **Cultural Origin(s):** `=this.cultural_origin`
-> - **Category** `=link(this.ghost_category)`
-> - **Danger:** `=this.danger`
+> - **Other Names:** Ma Xó
+> - **Cultural Origin(s):** Vietnamese
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Bound Ghosts.md|Bound Ghosts]]
+> - **Danger:** Moderate
 
 ---
 
