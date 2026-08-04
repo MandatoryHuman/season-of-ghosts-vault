@@ -4,8 +4,8 @@ aliases:
   - Shinigami
 title: Death Spirit
 created: 2026-08-04T11:05:05.148Z
-modified: 2026-07-31T22:07:49.427Z
-published: 2026-07-31T22:07:49.427Z
+modified: 2026-08-04T11:32:47.180Z
+published: 2026-08-04T11:32:47.180Z
 tags:
   - ghost-type
   - creature
@@ -44,3 +44,5 @@ Shinigami is a broad category of spirit who are associated with death in a numbe
 ## Exorcism and Resolution
 
 - As Shinigami are able to latch on to people and follow them around, it's important to not only cleanse the site of the death, but the entire surrounding area.
+
+### See also

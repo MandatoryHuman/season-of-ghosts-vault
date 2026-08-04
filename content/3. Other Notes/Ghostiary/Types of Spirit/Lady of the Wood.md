@@ -6,8 +6,8 @@ aliases:
   - Phrai Tani
 title: Nature Spirit
 created: 2026-08-04T11:05:05.162Z
-modified: 2026-07-27T14:03:29.329Z
-published: 2026-07-27T14:03:29.329Z
+modified: 2026-08-04T11:33:12.788Z
+published: 2026-08-04T11:33:12.788Z
 tags:
   - ghost-type
   - creature
@@ -46,3 +46,5 @@ ghost_category: Wandering Ghosts
 ## Exorcism and Resolution
 
 -
+
+### See also

@@ -5,8 +5,8 @@ aliases:
   - Hanba
 title: God of Drought
 created: 2026-08-04T11:05:05.154Z
-modified: 2026-07-31T10:19:36.656Z
-published: 2026-07-31T10:19:36.656Z
+modified: 2026-08-04T11:32:59.815Z
+published: 2026-08-04T11:32:59.815Z
 tags:
   - ghost-type
   - creature
@@ -46,3 +46,5 @@ Tales say that the Hiderigami is a spirit cursed to bring drought wherever they 
 
 - Prayer and offerings have been reported to be effective, but it's hard to know to what extent this is survivorship bias.
 - Very specific written records claim that if you throw a Hiderigami into a toilet, it will instantly perish.
+
+### See also

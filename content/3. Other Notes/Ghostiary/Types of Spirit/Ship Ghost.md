@@ -4,8 +4,8 @@ aliases:
   - Funa-yūrei
 title: Ship Ghosts
 created: 2026-08-04T11:05:05.170Z
-modified: 2026-07-26T10:16:38.235Z
-published: 2026-07-26T10:16:38.235Z
+modified: 2026-08-04T11:33:24.712Z
+published: 2026-08-04T11:33:24.712Z
 tags:
   - ghost-type
   - creature
@@ -44,3 +44,5 @@ ghost_category: Bound Ghosts
 ## Exorcism and Resolution
 
 - A popular trick to be left alone by a Funa-yūrei is to give them a ladle with a whole in the bottom. They will attempt to sink you, but fail with the useless tool, giving you a chance to leave.
+
+### See also

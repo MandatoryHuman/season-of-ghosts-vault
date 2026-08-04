@@ -8,8 +8,8 @@ aliases:
   - Capculacay
 title: Krasue
 created: 2026-08-04T11:05:05.160Z
-modified: 2026-07-26T08:35:08.489Z
-published: 2026-07-26T08:35:08.489Z
+modified: 2026-08-04T11:33:10.492Z
+published: 2026-08-04T11:33:10.492Z
 tags:
   - ghost-type
   - creature
@@ -50,3 +50,5 @@ ghost_category: Wandering Ghosts
 - If you are able to find the Krasue in daytime, you may be able to kill them while they are at their weakest.
 - Some say that if a Krasue's floating head is unable to return to its body by dawn, they will die in terrible pain.
   - To exploit this weakness, some houses surround themselves with barbed wire or thorny bamboo fences, hoping that any Krasue would get their trailing organs trapped in the thorns and become stuck until morning.
+
+### See also

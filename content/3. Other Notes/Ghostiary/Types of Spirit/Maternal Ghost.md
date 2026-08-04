@@ -4,8 +4,8 @@ aliases:
   - Ubume
 title: Maternal Ghost
 created: 2026-08-04T11:05:05.163Z
-modified: 2026-07-21T23:33:29.228Z
-published: 2026-07-21T23:33:29.228Z
+modified: 2026-08-04T11:33:13.964Z
+published: 2026-08-04T11:33:13.964Z
 tags:
   - ghost-type
   - creature
@@ -43,3 +43,5 @@ ghost_category: Wandering Ghosts
 ## Exorcism and Resolution
 
 - If one is strong enough to accept the Ubume's child and survive, it can aid the ghost in passing on to the other side.
+
+### See also

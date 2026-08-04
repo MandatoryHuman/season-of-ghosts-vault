@@ -4,8 +4,8 @@ aliases:
   - Orang Minyak
 title: Oily Man
 created: 2026-08-04T11:05:05.165Z
-modified: 2026-07-27T14:15:53.536Z
-published: 2026-07-27T14:15:53.536Z
+modified: 2026-08-04T11:33:16.860Z
+published: 2026-08-04T11:33:16.860Z
 tags:
   - ghost-type
   - creature
@@ -43,3 +43,5 @@ ghost_category: Wandering Ghosts
 ## Exorcism and Resolution
 
 - A popular folk-remedy to avoid abduction by the Orang Minyak is to wear sweaty clothing when you go to bed, hoping that this will convince the spirit that you are not a virgin, and therefore dissuading him from abducting you.
+
+### See also

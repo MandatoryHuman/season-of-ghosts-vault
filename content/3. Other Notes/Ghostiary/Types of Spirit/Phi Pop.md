@@ -4,8 +4,8 @@ aliases:
   - Phi Pob
 title: Phi Pop
 created: 2026-08-04T11:05:05.166Z
-modified: 2026-07-26T09:53:46.084Z
-published: 2026-07-26T09:53:46.084Z
+modified: 2026-08-04T11:33:18.191Z
+published: 2026-08-04T11:33:18.191Z
 tags:
   - ghost-type
   - creature
@@ -47,3 +47,5 @@ A Pop or Pob is a cannibalistic spirit that enjoys consuming human intestines an
 ## Exorcism and Resolution
 
 - Exorcisms have been noted to be effective, especially those using holy water.
+
+### See also

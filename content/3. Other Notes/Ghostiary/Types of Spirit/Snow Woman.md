@@ -4,8 +4,8 @@ aliases:
   - Yuki-onna
 title: Snow Woman
 created: 2026-08-04T11:05:05.172Z
-modified: 2026-07-31T10:56:40.089Z
-published: 2026-07-31T10:56:40.089Z
+modified: 2026-08-04T11:33:30.554Z
+published: 2026-08-04T11:33:30.554Z
 tags:
   - ghost-type
   - creature
@@ -46,3 +46,5 @@ ghost_category:
 
 - Many communities known to be home to Yuki-onna simply warn their children not to go out to play on snowy days, and to avoid strangers.
 - Stories do tell of Yuki-onna rewarding those who treat them with kindness. These rewards range from simply being allowed to live, to being given piles of gold.
+
+### See also

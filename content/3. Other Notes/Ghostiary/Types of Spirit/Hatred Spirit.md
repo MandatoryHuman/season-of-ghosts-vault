@@ -4,8 +4,8 @@ aliases:
   - Onryō
 title: Hatred Spirits
 created: 2026-08-04T11:05:05.158Z
-modified: 2026-07-26T10:16:54.085Z
-published: 2026-07-26T10:16:54.085Z
+modified: 2026-08-04T11:33:05.089Z
+published: 2026-08-04T11:33:05.089Z
 tags:
   - ghost-type
   - creature
@@ -44,3 +44,5 @@ ghost_category: Vengeful Ghosts
 
 - Onryō can be appeased by righting the wrongs that were done to them in life, and by showing them respect and reverence in death.
 - The rage of an Onryō is too great for a traditional exorcism; instead a shrine must be built for them in order to deify the spirit and turn them into a [[Kami]].
+
+### See also

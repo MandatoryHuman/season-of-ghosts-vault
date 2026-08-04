@@ -5,8 +5,8 @@ aliases:
   - Odokuro
 title: Rattling Skeleton
 created: 2026-08-04T11:05:05.169Z
-modified: 2026-07-31T10:10:45.612Z
-published: 2026-07-31T10:10:45.612Z
+modified: 2026-08-04T11:33:21.939Z
+published: 2026-08-04T11:33:21.939Z
 tags:
   - ghost-type
   - creature
@@ -48,3 +48,5 @@ ghost_category: Wandering Ghosts
 ## Exorcism and Resolution
 
 - The Gashadokuro can be incredibly difficult to combat, owing to its immense strength and durability, alas they are not often open to dialogue, meaning violence is often the only solution.
+
+### See also

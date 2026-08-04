@@ -4,8 +4,8 @@ aliases:
   - Jibakurei
 title: Earthbound Spirit
 created: 2026-08-04T11:05:05.149Z
-modified: 2026-07-31T13:05:23.304Z
-published: 2026-07-31T13:05:23.304Z
+modified: 2026-08-04T11:32:49.912Z
+published: 2026-08-04T11:32:49.912Z
 tags:
   - ghost-type
   - creature
@@ -43,3 +43,5 @@ Jibakurei are the spirits of the deceased who passed while still having unfinish
 ## Exorcism and Resolution
 
 - While an exorcism can be effective in banishing a Jibakurei, it is often easier to simply find out what their unfinished business is, and to help them complete it.
+
+### See also

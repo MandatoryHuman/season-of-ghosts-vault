@@ -4,8 +4,8 @@ aliases:
   - È Guǐ
 title: Hungry Ghost
 created: 2026-08-04T11:05:05.159Z
-modified: 2026-07-25T23:06:46.370Z
-published: 2026-07-25T23:06:46.370Z
+modified: 2026-08-04T11:33:08.108Z
+published: 2026-08-04T11:33:08.108Z
 tags:
   - ghost-type
   - creature
@@ -47,3 +47,5 @@ ghost_category: Wandering Ghosts
 - Burning of "Hell Money" or Joss paper can calm them.
 - Monks and priests can chant and pray for the ghosts. The good karma generated from these chants can allow the ghost to move on.
 - Some communities put on theatrical shows, leaving the front row empty in hopes that the ghosts will enjoy the entertainment and be satisfied.
+
+### See also

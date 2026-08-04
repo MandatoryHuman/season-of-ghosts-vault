@@ -4,8 +4,8 @@ aliases:
   - Bakeneko
 title: Changed Cat
 created: 2026-08-04T11:05:05.145Z
-modified: 2026-07-31T16:45:52.999Z
-published: 2026-07-31T16:45:52.999Z
+modified: 2026-08-04T11:32:43.892Z
+published: 2026-08-04T11:32:43.892Z
 tags:
   - ghost-type
   - creature
@@ -47,3 +47,5 @@ ghost_category: Wandering Ghosts
 ## Exorcism and Resolution
 
 - If a bakeneko becomes too troublesome, it can be killed to cause it to reincarnate as a regular housecat. This is an action that's likely to draw the ire of both the cat itself, as well as any other bakeneko who hear about it.
+
+### See also

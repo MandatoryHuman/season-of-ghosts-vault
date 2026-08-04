@@ -4,8 +4,8 @@ aliases:
   - Phi Tai Hong
 title: Sudden Ghost
 created: 2026-08-04T11:05:05.173Z
-modified: 2026-07-31T09:41:05.046Z
-published: 2026-07-31T09:41:05.046Z
+modified: 2026-08-04T11:33:32.460Z
+published: 2026-08-04T11:33:32.460Z
 tags:
   - ghost-type
   - creature
@@ -43,3 +43,5 @@ Phi Tai Hong are spirits of those who died sudden and violent deaths. This means
 ## Exorcism and Resolution
 
 - Because these spirits actively haunt the area it died, untrained people are advised to stay clear. Only the best trained priests should approach to perform exorcisms.
+
+### See also

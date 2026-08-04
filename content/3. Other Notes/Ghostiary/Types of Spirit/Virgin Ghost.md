@@ -4,8 +4,8 @@ aliases:
   - Cheonyeo Gwisin
 title: Virgin Ghost
 created: 2026-08-04T11:05:05.178Z
-modified: 2026-07-21T23:48:02.021Z
-published: 2026-07-21T23:48:02.021Z
+modified: 2026-08-04T11:33:39.317Z
+published: 2026-08-04T11:33:39.317Z
 tags:
   - ghost-type
   - creature
@@ -47,3 +47,5 @@ In certain regions and time periods, a woman who died without marrying and produ
 
 - It is thought that burying a body with a doll emphasizing the male genitalia, or erecting a phallic statue in their name may prevent a spirit returning as a Cheonyeo Gwisin.
 - Alternatively, a posthumourous wedding between a Vigin and Bachelor ghost can be performed to allow both to pass to the afterlife.
+
+### See also

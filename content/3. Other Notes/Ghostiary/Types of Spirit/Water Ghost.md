@@ -6,8 +6,8 @@ aliases:
   - Ma Da
 title: Water Ghost
 created: 2026-08-04T11:05:05.179Z
-modified: 2026-07-26T09:59:52.534Z
-published: 2026-07-26T09:59:52.534Z
+modified: 2026-08-04T11:33:42.060Z
+published: 2026-08-04T11:33:42.060Z
 tags:
   - ghost-type
   - creature
@@ -49,3 +49,5 @@ ghost_category: Bound Ghosts
 
 - To exorcise these spirits, their physical remains must be dragged from the river or lake they are bound to. This breaks the binding and allows them to enter the afterlife.
 - Alternatively, a priest can perform a ritual to prevent the spirit from interacting with the mortal world, or to guide them to the afterlife.
+
+### See also

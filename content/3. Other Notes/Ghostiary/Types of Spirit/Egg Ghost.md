@@ -4,8 +4,8 @@ aliases:
   - Dalgyal Gwisin
 title: Egg Ghost
 created: 2026-08-04T11:05:05.150Z
-modified: 2026-07-21T23:42:27.255Z
-published: 2026-07-21T23:42:27.255Z
+modified: 2026-08-04T11:32:52.271Z
+published: 2026-08-04T11:32:52.271Z
 tags:
   - ghost-type
   - creature
@@ -43,3 +43,5 @@ ghost_category: Wandering Ghosts
 ## Exorcism and Resolution
 
 - As the ghosts are formed due to a lack of descendants or relatives to hold an ancestor memorial service for them, performing one of these can help the spirit to move on.
+
+### See also

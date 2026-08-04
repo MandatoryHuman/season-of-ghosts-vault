@@ -4,8 +4,8 @@ aliases:
   - Nǚ guǐ
 title: Female Ghost
 created: 2026-08-04T11:05:05.152Z
-modified: 2026-07-31T15:50:13.239Z
-published: 2026-07-31T15:50:13.239Z
+modified: 2026-08-04T11:32:54.468Z
+published: 2026-08-04T11:32:54.468Z
 tags:
   - ghost-type
   - creature
@@ -47,3 +47,5 @@ While less common in literature, nán guǐ or "Male Ghosts" have also been repor
 - The most permanent resolution for a Nǚ guǐ is to investigate and expose the injustice that they are seeking revenge for. This is not always realistic, however.
 - In leu of this, proper burial rites may help the spirit move on.
 - As a last resort, a priest may attempt to banish or destroy the soul via exorcism.
+
+### See also

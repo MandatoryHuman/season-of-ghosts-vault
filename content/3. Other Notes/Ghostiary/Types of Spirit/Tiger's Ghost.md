@@ -4,8 +4,8 @@ aliases:
   - Ma Trành
 title: Tiger's Ghost
 created: 2026-08-04T11:05:05.175Z
-modified: 2026-07-26T10:05:08.980Z
-published: 2026-07-26T10:05:08.980Z
+modified: 2026-08-04T11:33:33.677Z
+published: 2026-08-04T11:33:33.677Z
 tags:
   - ghost-type
   - creature
@@ -43,3 +43,5 @@ Ma Trành are the spirits of those killed by tigers and other predators. The gho
 ## Exorcism and Resolution
 
 - Dealing with these ghosts is simple enough, as you simply need to kill the creature they are bound to
+
+### See also

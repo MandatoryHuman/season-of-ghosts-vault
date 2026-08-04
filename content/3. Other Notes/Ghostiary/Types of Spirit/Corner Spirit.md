@@ -4,8 +4,8 @@ aliases:
   - Ma Xó
 title: Corner Spirit
 created: 2026-08-04T11:05:05.146Z
-modified: 2026-07-26T10:15:50.440Z
-published: 2026-07-26T10:15:50.440Z
+modified: 2026-08-04T11:32:45.965Z
+published: 2026-08-04T11:32:45.965Z
 tags:
   - ghost-type
   - creature
@@ -45,3 +45,5 @@ These spirits are bound to the dark corners of a house in order to bring wealth 
 ## Exorcism and Resolution
 
 - The easiest way to deal with a Ma Xó is to never bind them to your house in the first place, or keep them appeased once they are bound. Failing that, a shaman will be needed to un-bind them from the house, using dog's blood to chase them out.
+
+### See also
