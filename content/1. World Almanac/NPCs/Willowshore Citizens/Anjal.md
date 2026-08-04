@@ -1,12 +1,6 @@
 ---
 aliases:
   - Anjal of Thulsadus
-<<<<<<< HEAD
-=======
-created: 2026-07-26T14:48:43.410+01:00
-modified: 2026-07-18T09:28:10.863+01:00
-published: 2026-07-18T09:28:10.863+01:00
->>>>>>> 015ead5368073e847509fafbe90684253bff9fbe
 tags:
   - npc
 status: Dead

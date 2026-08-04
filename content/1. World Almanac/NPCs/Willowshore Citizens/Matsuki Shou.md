@@ -1,12 +1,6 @@
 ---
 aliases:
   - Old Matsuki
-<<<<<<< HEAD
-=======
-created: 2026-07-26T14:48:43.436+01:00
-modified: 2026-07-16T21:27:31.094+01:00
-published: 2026-07-16T21:27:31.094+01:00
->>>>>>> 015ead5368073e847509fafbe90684253bff9fbe
 tags:
   - npc
 status: Alive

@@ -1,12 +1,6 @@
 ---
-<<<<<<< HEAD
-aliases: []
-=======
-publish: true
-created: 2026-07-26T14:48:43.446+01:00
-modified: 2026-07-20T13:47:59.022+01:00
-published: 2026-07-20T13:47:59.022+01:00
->>>>>>> 015ead5368073e847509fafbe90684253bff9fbe
+aliases:
+  - Shio
 tags:
   - npc
 status: Alive

@@ -1,12 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-07-26T14:48:43.445+01:00
-modified: 2026-07-21T19:38:53.367+01:00
-published: 2026-07-21T19:38:53.367+01:00
->>>>>>> 015ead5368073e847509fafbe90684253bff9fbe
 tags:
   - npc
 status: Alive
@@ -16,7 +9,7 @@ ancestry:
   - "[[Elf]]"
 class: Diver
 level:
-npcimage: "[[Otonashi Nagi.webp]]"
+npcimage: "[[Otonashi Nagi Square.webp]]"
 spouse: "[[Otonashi Kairi]]"
 ---
 > [!info]+ Biographical Data

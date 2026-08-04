@@ -1,12 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-07-26T14:48:43.363+01:00
-modified: 2026-07-14T21:16:11.806+01:00
-published: 2026-07-14T21:16:11.806+01:00
->>>>>>> 015ead5368073e847509fafbe90684253bff9fbe
 tags:
   - location/building
   - office

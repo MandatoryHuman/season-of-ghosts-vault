@@ -269,7 +269,10 @@ export async function loadQuartzConfig(
       if (gitSpec.npmPackage) {
         continue
       }
-      const result = await installPlugin(gitSpec, { verbose: false })
+      const result = await installPlugin(gitSpec, {
+        verbose: false,
+        acceptCachedInstall: true,
+      })
       if (result.nativeDeps.size > 0) {
         allNativeDeps.set(gitSpec.name, result.nativeDeps)
       }

@@ -428,7 +428,7 @@ interface PluginInstallResult {
  */
 export async function installPlugin(
   spec: GitPluginSpec,
-  options: { verbose?: boolean; force?: boolean } = {},
+  options: { verbose?: boolean; force?: boolean; acceptCachedInstall?: boolean } = {},
 ): Promise<PluginInstallResult> {
   const pluginDir = path.join(PLUGINS_CACHE_DIR, spec.name)
 
@@ -483,6 +483,16 @@ export async function installPlugin(
   }
 
   // Git source: clone
+  if (!options.force && options.acceptCachedInstall && fs.existsSync(pluginDir)) {
+    const pkgPath = path.join(pluginDir, "package.json")
+    if (fs.existsSync(pkgPath)) {
+      if (options.verbose) {
+        console.log(styleText("cyan", `→`), `Plugin ${spec.name} already installed`)
+      }
+      return { pluginDir, nativeDeps: collectNativeDeps(pluginDir) }
+    }
+  }
+
   // Check if already installed
   if (!options.force && fs.existsSync(pluginDir)) {
     // For subdir installs, the .git directory is removed after extraction,

@@ -1,12 +1,6 @@
 ---
-<<<<<<< HEAD
-aliases: []
-=======
-publish: true
-created: 2026-07-26T14:48:43.460+01:00
-modified: 2026-07-21T01:36:19.510+01:00
-published: 2026-07-21T01:36:19.510+01:00
->>>>>>> 015ead5368073e847509fafbe90684253bff9fbe
+aliases:
+  - Crimson
 tags:
   - pc
 player_name: Amren
@@ -14,7 +8,7 @@ ancestry:
   - "[[Leshy]]"
 class: Wizard
 partyrole: Splasher
-npcimage: "[[Crimson Rosoideae.jpg]]"
+npcimage: "[[Crimson Rosoideae Square.webp]]"
 ---
 > [!info]+ Character Details
 > **Player:** `=this.player_name`
@@ -24,7 +18,7 @@ npcimage: "[[Crimson Rosoideae.jpg]]"
 
 ## Appearance
 
-![[Crimson Rosoideae.jpg|400]]
+![[Crimson Rosoideae.webp|400]]
 
 ## Backstory
 Crimson was born and raised in [[Willowshore]] as a child of [[The Leshy's Saloon]] but found that there was nowhere worthy of developing their magical talents. Because of this, Crimson left town to study in a distant Magic Academy studying Unified Magical Theory, the night before their final exam Crimson pushed themselves to pull an all-nighter, mere hours before the exam however they passed out and reformed into a solitary rose.
