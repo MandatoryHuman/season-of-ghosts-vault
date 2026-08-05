@@ -2,11 +2,11 @@
 publish: true
 title: <% tp.file.title %>
 created: 2026-08-04T12:06:58.787Z
-modified: 2026-07-21T18:21:59.015Z
-published: 2026-07-21T18:21:59.015Z
+modified: 2026-08-05T12:05:42.165Z
+published: 2026-08-05T12:05:42.165Z
 tags:
-  - ghost-type
-  - creature
+  - "#ghost-type"
+  - "#creature"
 aliases: []
 cultural_origin: ""
 danger: ""
@@ -39,3 +39,5 @@ ghost_category:
 ## Exorcism and Resolution
 
 -
+
+### See also
