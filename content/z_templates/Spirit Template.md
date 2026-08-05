@@ -5,8 +5,8 @@ created: 2026-08-04T12:06:58.787Z
 modified: 2026-08-05T12:05:42.165Z
 published: 2026-08-05T12:05:42.165Z
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 aliases: []
 cultural_origin: ""
 danger: ""

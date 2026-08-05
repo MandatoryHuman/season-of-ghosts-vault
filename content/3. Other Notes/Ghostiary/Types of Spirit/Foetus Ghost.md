@@ -5,22 +5,22 @@ aliases:
   - Tuyul
 title: Fetus Ghost
 created: 2026-08-05T11:59:38.439Z
-modified: 2026-08-05T12:23:40.936Z
-published: 2026-08-05T12:23:40.936Z
+modified: 2026-08-05T12:29:52.203Z
+published: 2026-08-05T12:29:52.203Z
 tags:
   - "#ghost-type"
   - "#creature"
 cultural_origin:
   - Indonesian
 danger: Moderate
-ghost_category:
+ghost_category: Summoned Ghosts
 ---
 
 > [!info]+ Details
 >
 > - **Other Names:** Toyol,Tuyul
 > - **Cultural Origin(s):** Indonesian
-> - **Category**
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Summoned Ghosts.md|Summoned Ghosts]]
 > - **Danger:** Moderate
 
 ---

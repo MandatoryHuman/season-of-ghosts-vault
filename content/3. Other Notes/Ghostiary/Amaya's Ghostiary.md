@@ -17,5 +17,6 @@ Ghosts have been categorised based on their behaviour:
 | ---------------------------------------------------------------------------------------- |
 | [[3. Other Notes/Ghostiary/Categories of Ghost/Bound Ghosts.md\|Bound Ghosts]]           |
 | [[3. Other Notes/Ghostiary/Categories of Ghost/Possessive Ghosts.md\|Possessive Ghosts]] |
+| [[3. Other Notes/Ghostiary/Categories of Ghost/Summoned Ghosts.md\|Summoned Ghosts]]     |
 | [[3. Other Notes/Ghostiary/Categories of Ghost/Vengeful Ghosts.md\|Vengeful Ghosts]]     |
 | [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md\|Wandering Ghosts]]   |

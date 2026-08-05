@@ -9,7 +9,6 @@ tags: []
 
 | Ghost                                                                                | Other Names                                                 | Danger Level | Cultural Origin                                                                 |
 | ------------------------------------------------------------------------------------ | ----------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------- |
-| [[3. Other Notes/Ghostiary/Types of Spirit/Corner Spirit.md\|Corner Spirit]]         | <ul><li>Ma Xó</li></ul>                                     | Moderate     | <ul><li>Vietnamese</li></ul>                                                    |
 | [[3. Other Notes/Ghostiary/Types of Spirit/Earthbound Spirit.md\|Earthbound Spirit]] | <ul><li>Jibakurei</li></ul>                                 | Moderate     | <ul><li>Japanese</li></ul>                                                      |
 | [[3. Other Notes/Ghostiary/Types of Spirit/Hanging Ghost.md\|Hanging Ghost]]         | <ul><li>Diào Sǐ Guǐ</li></ul>                               | High         | <ul><li>Chinese</li></ul>                                                       |
 | [[3. Other Notes/Ghostiary/Types of Spirit/Ship Ghost.md\|Ship Ghost]]               | <ul><li>Funa-yūrei</li></ul>                                | High         | <ul><li>Japanese</li></ul>                                                      |

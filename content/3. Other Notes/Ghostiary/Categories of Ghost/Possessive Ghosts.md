@@ -11,4 +11,4 @@ tags: []
 | -------------------------------------------------------------------------- | --------------------------------- | ------------ | -------------------------- |
 | [[3. Other Notes/Ghostiary/Types of Spirit/Death Spirit.md\|Death Spirit]] | <ul><li>Shinigami</li></ul>       | High         | <ul><li>Japanese</li></ul> |
 | [[3. Other Notes/Ghostiary/Types of Spirit/Phi Pop.md\|Phi Pop]]           | <ul><li>Phi Pob</li></ul>         | High         | <ul><li>Thai</li></ul>     |
-| [[3. Other Notes/Ghostiary/Types of Spirit/Turtle Ghost.md\|Turtle Ghost]] | <ul><li>Suppon no yūrei</li></ul> |              |                            |
+| [[3. Other Notes/Ghostiary/Types of Spirit/Turtle Ghost.md\|Turtle Ghost]] | <ul><li>Suppon no yūrei</li></ul> | Moderate     | <ul><li>Japanese</li></ul> |

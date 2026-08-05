@@ -4,29 +4,29 @@ aliases:
   - Ma Xó
 title: Corner Spirit
 created: 2026-08-04T12:06:58.541Z
-modified: 2026-08-04T11:32:45.965Z
-published: 2026-08-04T11:32:45.965Z
+modified: 2026-08-05T12:30:55.034Z
+published: 2026-08-05T12:30:55.034Z
 tags:
-  - ghost-type
-  - creature
+  - "#ghost-type"
+  - "#creature"
 cultural_origin:
   - Vietnamese
 danger: Moderate
-ghost_category: Bound Ghosts
+ghost_category: Summoned Ghosts
 ---
 
 > [!info]+ Details
 >
 > - **Other Names:** Ma Xó
 > - **Cultural Origin(s):** Vietnamese
-> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Bound Ghosts.md|Bound Ghosts]]
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Summoned Ghosts.md|Summoned Ghosts]]
 > - **Danger:** Moderate
 
 ---
 
 ## Overview
 
-These spirits are bound to the dark corners of a house in order to bring wealth to the family who live within. They can be bound by shamans or dark magicians.
+These spirits are conjured and bound to the dark corners of a house in order to bring wealth to the family who live within. They can be summoned by shamans or dark magicians.
 
 ## Behaviour and Haunts
 

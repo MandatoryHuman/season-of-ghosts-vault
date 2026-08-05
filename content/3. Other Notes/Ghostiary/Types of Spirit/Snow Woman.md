@@ -4,22 +4,22 @@ aliases:
   - Yuki-onna
 title: Snow Woman
 created: 2026-08-04T12:06:58.571Z
-modified: 2026-08-04T11:33:30.554Z
-published: 2026-08-04T11:33:30.554Z
+modified: 2026-08-05T12:31:35.085Z
+published: 2026-08-05T12:31:35.085Z
 tags:
-  - ghost-type
-  - creature
+  - "#ghost-type"
+  - "#creature"
 cultural_origin:
   - Japanese
 danger: Moderate
-ghost_category:
+ghost_category: Wandering Ghosts
 ---
 
 > [!info]+ Details
 >
 > - **Other Names:** Yuki-onna
 > - **Cultural Origin(s):** Japanese
-> - **Category**
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
 > - **Danger:** Moderate
 
 ---

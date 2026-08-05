@@ -4,22 +4,23 @@ aliases:
   - Suppon no yūrei
 title: Turtle Ghost
 created: 2026-08-04T12:06:58.576Z
-modified: 2026-08-04T11:33:36.965Z
-published: 2026-08-04T11:33:36.965Z
+modified: 2026-08-05T12:31:49.195Z
+published: 2026-08-05T12:31:49.195Z
 tags:
-  - ghost-type
-  - creature
-cultural_origin: ""
-danger: ""
+  - "#ghost-type"
+  - "#creature"
+cultural_origin:
+  - Japanese
+danger: Moderate
 ghost_category: Possessive Ghosts
 ---
 
 > [!info]+ Details
 >
 > - **Other Names:** Suppon no yūrei
-> - **Cultural Origin(s):**
+> - **Cultural Origin(s):** Japanese
 > - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Possessive Ghosts.md|Possessive Ghosts]]
-> - **Danger:**
+> - **Danger:** Moderate
 
 ---
 
