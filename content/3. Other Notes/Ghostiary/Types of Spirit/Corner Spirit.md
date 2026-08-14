@@ -7,8 +7,8 @@ created: 2026-08-04T12:06:58.541Z
 modified: 2026-08-05T12:30:55.034Z
 published: 2026-08-05T12:30:55.034Z
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 cultural_origin:
   - Vietnamese
 danger: Moderate

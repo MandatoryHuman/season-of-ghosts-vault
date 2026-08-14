@@ -7,8 +7,8 @@ created: 2026-08-05T12:32:58.502Z
 modified: 2026-08-05T12:41:02.477Z
 published: 2026-08-05T12:41:02.477Z
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 cultural_origin:
   - Thai
 danger: High

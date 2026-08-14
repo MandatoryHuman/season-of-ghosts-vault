@@ -7,8 +7,8 @@ created: 2026-08-04T12:06:58.571Z
 modified: 2026-08-05T12:31:35.085Z
 published: 2026-08-05T12:31:35.085Z
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 cultural_origin:
   - Japanese
 danger: Moderate

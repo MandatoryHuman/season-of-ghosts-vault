@@ -11,3 +11,4 @@ tags: []
 | ---------------------------------------------------------------------------- | ------------------------------------- | ------------ | ---------------------------- |
 | [[3. Other Notes/Ghostiary/Types of Spirit/Corner Spirit.md\|Corner Spirit]] | <ul><li>Ma Xó</li></ul>               | Moderate     | <ul><li>Vietnamese</li></ul> |
 | [[3. Other Notes/Ghostiary/Types of Spirit/Foetus Ghost.md\|Foetus Ghost]]   | <ul><li>Toyol</li><li>Tuyul</li></ul> | Moderate     | <ul><li>Indonesian</li></ul> |
+| [[3. Other Notes/Ghostiary/Types of Spirit/Long Ghost.md\|Long Ghost]]       | <ul><li>Begu Ganjang</li></ul>        | Moderate     | <ul><li>Indonesian</li></ul> |
