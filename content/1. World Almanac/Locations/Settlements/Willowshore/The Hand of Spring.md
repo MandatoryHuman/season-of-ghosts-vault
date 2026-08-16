@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-04T12:06:58.420Z
-modified: 2026-07-14T20:16:35.753Z
-published: 2026-07-14T20:16:35.753Z
+modified: 2026-08-16T08:39:10.062Z
+published: 2026-08-16T08:39:10.062Z
 tags:
-  - location/building
-  - herbalist
+  - "#location/building"
+  - "#herbalist"
+  - "#business"
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Damihansig Mababangloob]]"

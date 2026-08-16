@@ -1,16 +1,22 @@
 ---
 publish: true
 created: 2026-08-04T12:06:58.528Z
-modified: 2026-08-02T14:07:53.394Z
-published: 2026-08-02T14:07:53.394Z
+modified: 2026-08-16T08:14:46.423Z
+published: 2026-08-16T08:14:46.423Z
 aliases: []
 tags: []
 ---
 
-| Ghost                                                                                | Other Names                                                 | Danger Level | Cultural Origin                                                                 |
-| ------------------------------------------------------------------------------------ | ----------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------- |
-| [[3. Other Notes/Ghostiary/Types of Spirit/Earthbound Spirit.md\|Earthbound Spirit]] | <ul><li>Jibakurei</li></ul>                                 | Moderate     | <ul><li>Japanese</li></ul>                                                      |
-| [[3. Other Notes/Ghostiary/Types of Spirit/Hanging Ghost.md\|Hanging Ghost]]         | <ul><li>Diào Sǐ Guǐ</li></ul>                               | High         | <ul><li>Chinese</li></ul>                                                       |
-| [[3. Other Notes/Ghostiary/Types of Spirit/Ship Ghost.md\|Ship Ghost]]               | <ul><li>Funa-yūrei</li></ul>                                | High         | <ul><li>Japanese</li></ul>                                                      |
-| [[3. Other Notes/Ghostiary/Types of Spirit/Tiger's Ghost.md\|Tiger's Ghost]]         | <ul><li>Ma Trành</li></ul>                                  | High         | <ul><li>Vietnamese</li></ul>                                                    |
-| [[3. Other Notes/Ghostiary/Types of Spirit/Water Ghost.md\|Water Ghost]]             | <ul><li>Shuǐ Guǐ</li><li>Mul Gwisin</li><li>Ma Da</li></ul> | Very High    | <ul><li>Chinese</li><li>Singaporean</li><li>Korean</li><li>Vietnamese</li></ul> |
+```base
+views:
+  - type: table
+    name: Bound Ghosts
+    filters:
+      and:
+        - ghost_category == "Bound Ghosts"
+    order:
+      - file.name
+      - aliases
+      - danger
+
+```

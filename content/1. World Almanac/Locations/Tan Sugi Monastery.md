@@ -1,10 +1,12 @@
 ---
 publish: true
-created: 2026-07-26T14:05:50.494Z
-modified: 2026-07-20T16:16:12.513Z
-published: 2026-07-20T16:16:12.513Z
+created: 2026-08-04T12:06:58.361Z
+modified: 2026-08-16T08:41:19.260Z
+published: 2026-08-16T08:41:19.260Z
 tags:
-  - location
+  - "#location"
+  - "#monastery"
+  - "#shrine"
 aliases: []
 region: "[[Willowshore]]"
 type: Monastery

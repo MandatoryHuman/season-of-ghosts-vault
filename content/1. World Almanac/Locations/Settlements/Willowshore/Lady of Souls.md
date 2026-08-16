@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-04T12:06:58.397Z
-modified: 2026-07-14T18:14:02.057Z
-published: 2026-07-14T18:14:02.057Z
+modified: 2026-08-16T08:41:23.182Z
+published: 2026-08-16T08:41:23.182Z
 tags:
-  - location/building
-  - church
+  - "#location/building"
+  - "#church"
+  - "#shrine"
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Elizeth Candora]]"

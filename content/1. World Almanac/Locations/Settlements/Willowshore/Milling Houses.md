@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-04T12:06:58.404Z
-modified: 2026-07-14T20:16:18.188Z
-published: 2026-07-14T20:16:18.188Z
+modified: 2026-08-16T08:36:56.682Z
+published: 2026-08-16T08:36:56.682Z
 tags:
   - location/building
   - mill
+  - business
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Choe Chung-hu]]"

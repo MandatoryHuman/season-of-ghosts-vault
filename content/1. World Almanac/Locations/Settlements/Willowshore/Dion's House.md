@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-08-04T12:06:58.383Z
-modified: 2026-07-20T00:34:04.736Z
-published: 2026-07-20T00:34:04.736Z
+modified: 2026-08-16T08:43:55.287Z
+published: 2026-08-16T08:43:55.287Z
 tags:
-  - location/building
+  - "#location/building"
+  - "#residential"
 aliases: []
 settlement: "[[Willowshore]]"
 owner: Dion

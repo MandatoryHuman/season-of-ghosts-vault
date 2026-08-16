@@ -65,6 +65,7 @@ views:
 | [[1. World Almanac/Locations/Settlements/Willowshore/The Leshy's Saloon.md\|The Leshy's Saloon]]                           | Teahouse     | [[1. World Almanac/NPCs/Willowshore Citizens/Mountain Summit Grass.md\|Mountain Summit Grass]]     |
 | [[1. World Almanac/Locations/Settlements/Willowshore/The Mushroom House.md\|The Mushroom House]]                           | Black Market | [[1. World Almanac/NPCs/Willowshore Citizens/Luda Bama.md\|Luda Bama]]                             |
 | [[1. World Almanac/Locations/Settlements/Willowshore/Thrice Blessed Inn.md\|Thrice Blessed Inn]]                           | Inn          | [[1. World Almanac/NPCs/Willowshore Citizens/Mother Otis.md\|Mother Otis]]                         |
+| [[1. World Almanac/Locations/Settlements/Willowshore/Treesparrow's Rest.md\|Treesparrow's Rest]]                           | Shop         | [[1. World Almanac/NPCs/Willowshore Citizens/Nadoya Sanmi.md\|Nadoya Sanmi]]                       |
 | [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore Dock.md\|Willowshore Dock]]                               | Dock         | [[1. World Almanac/NPCs/Willowshore Citizens/Rajul Samudra.md\|Rajul Samudra]]                     |
 | [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore Stables.md\|Willowshore Stables]]                         | Stable       | [[1. World Almanac/NPCs/Willowshore Citizens/Kum Soon-chong.md\|Kum Soon-chong]]                   |
 

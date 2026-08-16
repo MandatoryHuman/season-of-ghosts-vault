@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-04T12:06:58.421Z
-modified: 2026-07-14T20:16:37.509Z
-published: 2026-07-14T20:16:37.509Z
+modified: 2026-08-16T08:39:25.472Z
+published: 2026-08-16T08:39:25.472Z
 tags:
-  - location/building
-  - teahouse
+  - "#location/building"
+  - "#teahouse"
+  - "#business"
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Mountain Summit Grass]]"

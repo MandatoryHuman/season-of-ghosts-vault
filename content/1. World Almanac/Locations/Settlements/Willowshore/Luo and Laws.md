@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-04T12:06:58.399Z
-modified: 2026-07-14T20:16:11.806Z
-published: 2026-07-14T20:16:11.806Z
+modified: 2026-08-16T08:36:51.828Z
+published: 2026-08-16T08:36:51.828Z
 tags:
   - location/building
   - office
+  - business
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Luo Xi Yang]]"

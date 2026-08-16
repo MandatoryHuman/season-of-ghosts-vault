@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-04T12:06:58.406Z
-modified: 2026-07-18T08:28:10.844Z
-published: 2026-07-18T08:28:10.844Z
+modified: 2026-08-16T08:37:01.309Z
+published: 2026-08-16T08:37:01.309Z
 tags:
   - location/building
   - shop
+  - business
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Igawa Jubei]]"

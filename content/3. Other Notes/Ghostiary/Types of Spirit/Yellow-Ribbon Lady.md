@@ -7,8 +7,8 @@ created: 2026-08-14T13:47:04.674Z
 modified: 2026-08-14T13:53:56.477Z
 published: 2026-08-14T13:53:56.477Z
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 cultural_origin:
   - Burmese
 danger: Low

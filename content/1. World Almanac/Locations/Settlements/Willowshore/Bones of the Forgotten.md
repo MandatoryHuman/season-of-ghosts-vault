@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-04T12:06:58.378Z
-modified: 2026-07-14T18:12:44.925Z
-published: 2026-07-14T18:12:44.925Z
+modified: 2026-08-16T08:41:54.819Z
+published: 2026-08-16T08:41:54.819Z
 tags:
-  - location/building
-  - cemetery
+  - "#location/building"
+  - "#cemetery"
+  - "#shrine"
 aliases: []
 settlement: "[[Willowshore]]"
 owner:

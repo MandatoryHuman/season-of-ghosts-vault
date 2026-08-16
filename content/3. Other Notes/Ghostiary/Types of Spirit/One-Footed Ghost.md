@@ -7,8 +7,8 @@ created: 2026-08-14T13:08:43.637Z
 modified: 2026-08-14T13:28:31.314Z
 published: 2026-08-14T13:28:31.314Z
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 cultural_origin:
   - Thai
   - Lao

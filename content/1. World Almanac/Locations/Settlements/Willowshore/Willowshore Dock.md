@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-04T12:06:58.428Z
-modified: 2026-07-20T16:09:19.207Z
-published: 2026-07-20T16:09:19.207Z
+modified: 2026-08-16T08:40:01.193Z
+published: 2026-08-16T08:40:01.193Z
 tags:
-  - location/building
-  - dock
+  - "#location/building"
+  - "#dock"
+  - "#business"
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Rajul Samudra]]"

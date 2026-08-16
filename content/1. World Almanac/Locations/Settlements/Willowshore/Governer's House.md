@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-08-04T12:06:58.391Z
-modified: 2026-07-20T12:40:46.226Z
-published: 2026-07-20T12:40:46.226Z
+modified: 2026-08-16T08:36:41.112Z
+published: 2026-08-16T08:36:41.112Z
 tags:
   - location/building
   - residential
   - office
+  - business
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Heh Shan-Bao]]"
@@ -14,7 +15,7 @@ buildingtype: Office
 marker:
   - coordinates: 2709, 3006
     icon: lucide-landmark
-    colour: "#f16623"
+    colour: "#e48873"
     minZoom: -1.5
 ---
 

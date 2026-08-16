@@ -7,8 +7,8 @@ created: 2026-08-14T13:29:05.192Z
 modified: 2026-08-14T13:46:24.780Z
 published: 2026-08-14T13:46:24.780Z
 tags:
-  - "#ghost-type"
-  - "#creature"
+  - ghost-type
+  - creature
 cultural_origin:
   - Indonesian
 danger: Moderate

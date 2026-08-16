@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-04T12:06:58.390Z
-modified: 2026-07-14T20:16:03.847Z
-published: 2026-07-14T20:16:03.847Z
+modified: 2026-08-16T08:36:35.107Z
+published: 2026-08-16T08:36:35.107Z
 tags:
   - location/building
   - fishery
+  - business
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Zataku]]"

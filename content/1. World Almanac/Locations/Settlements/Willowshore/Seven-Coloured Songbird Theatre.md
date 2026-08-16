@@ -1,11 +1,12 @@
 ---
 publish: true
 created: 2026-08-04T12:06:58.410Z
-modified: 2026-07-20T12:45:09.210Z
-published: 2026-07-20T12:45:09.210Z
+modified: 2026-08-16T08:37:09.733Z
+published: 2026-08-16T08:37:09.733Z
 tags:
   - location/building
   - theatre
+  - business
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Kazuma Oono]]"
