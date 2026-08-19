@@ -4,9 +4,9 @@ created: 2026-08-04T12:06:58.415Z
 modified: 2026-08-16T08:38:20.557Z
 published: 2026-08-16T08:38:20.557Z
 tags:
-  - "#location/building"
-  - "#office"
-  - "#business"
+  - location/building
+  - office
+  - business
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Kim Gu-won]]"

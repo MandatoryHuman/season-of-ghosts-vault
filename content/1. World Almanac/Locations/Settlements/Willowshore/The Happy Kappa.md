@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-08-16T08:30:31.899Z
-modified: 2026-08-16T08:39:20.784Z
-published: 2026-08-16T08:39:20.784Z
+modified: 2026-08-19T09:07:30.940Z
+published: 2026-08-19T09:07:30.940Z
 tags:
-  - "#location/building"
-  - "#bathhouse"
-  - "#business"
+  - location/building
+  - bathhouse
+  - business
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[De-Ge Hua]]"
@@ -15,7 +15,7 @@ marker:
   - coordinates: 2435, 2869
     icon: pinhead:person-in-water-with-steam
     colour: "#f16623"
-    minZoom: -2.5
+    minZoom: -1.5
 ---
 
 > [!info]+ Establishment Details

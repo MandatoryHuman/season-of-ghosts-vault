@@ -2,8 +2,8 @@
 publish: true
 title: Season of Ghosts Vault
 created: 2026-08-04T12:06:55.453Z
-modified: 2026-08-16T08:45:56.976Z
-published: 2026-08-16T08:45:56.976Z
+modified: 2026-08-19T09:19:47.253Z
+published: 2026-08-19T09:19:47.253Z
 banner: "[[SoG Banner.webp]]"
 ---
 
@@ -39,8 +39,6 @@ views:
 
 ```base
 views:
-  - type: table
-    name: Table
   - type: cards
     name: PCs
     filters:
@@ -52,9 +50,16 @@ views:
 
 ### Factions and Organisations
 
-- [[Lung Wa|The Lung Wa Empire]]
-- [[Northridgers]]
-- [[Southbankers]]
+```base
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "1. World Almanac/Factions"
+    order:
+      - file.name
+```
 
 ### Ghost Guide
 
@@ -74,6 +79,8 @@ views:
       and:
         - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
         - file.tags.contains("business")
+    order:
+      - file.name
 
 ```
 
@@ -87,7 +94,8 @@ views:
       and:
         - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
         - file.tags.contains("shrine")
-
+    order:
+      - file.name
 ```
 
 ### Houses
@@ -100,7 +108,8 @@ views:
       and:
         - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
         - file.tags.contains("residential")
-
+    order:
+      - file.name
 ```
 
 ---

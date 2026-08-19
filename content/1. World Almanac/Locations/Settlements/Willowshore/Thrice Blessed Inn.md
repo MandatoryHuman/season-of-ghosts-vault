@@ -4,9 +4,9 @@ created: 2026-08-04T12:06:58.424Z
 modified: 2026-08-16T08:39:47.980Z
 published: 2026-08-16T08:39:47.980Z
 tags:
-  - "#location/building"
-  - "#inn"
-  - "#business"
+  - location/building
+  - inn
+  - business
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Mother Otis]]"

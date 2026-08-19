@@ -4,10 +4,10 @@ created: 2026-08-04T12:06:58.393Z
 modified: 2026-08-16T08:41:51.637Z
 published: 2026-08-16T08:41:51.637Z
 tags:
-  - "#location/building"
-  - "#shop"
-  - "#business"
-  - "#shrine"
+  - location/building
+  - shop
+  - business
+  - shrine
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[You So-Jin]]"

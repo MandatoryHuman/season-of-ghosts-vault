@@ -4,9 +4,9 @@ created: 2026-08-16T08:22:35.429Z
 modified: 2026-08-16T08:39:55.742Z
 published: 2026-08-16T08:39:55.742Z
 tags:
-  - "#location/building"
-  - "#shop"
-  - "#business"
+  - location/building
+  - shop
+  - business
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Nadoya Sanmi]]"

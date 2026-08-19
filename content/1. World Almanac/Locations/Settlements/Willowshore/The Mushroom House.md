@@ -4,9 +4,9 @@ created: 2026-08-04T12:06:58.423Z
 modified: 2026-08-16T08:39:43.263Z
 published: 2026-08-16T08:39:43.263Z
 tags:
-  - "#location/building"
-  - "#shop"
-  - "#business"
+  - location/building
+  - shop
+  - business
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Luda Bama]]"
