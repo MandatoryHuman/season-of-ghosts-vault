@@ -2,8 +2,8 @@
 publish: true
 title: Season of Ghosts Vault
 created: 2026-08-04T12:06:55.453Z
-modified: 2026-08-19T09:19:47.253Z
-published: 2026-08-19T09:19:47.253Z
+modified: 2026-08-19T09:27:44.975Z
+published: 2026-08-19T09:27:44.975Z
 banner: "[[SoG Banner.webp]]"
 ---
 
@@ -83,6 +83,8 @@ views:
       - file.name
 
 ```
+
+![[Willowshore Locations.base]]
 
 ### Temples & Shrines
 

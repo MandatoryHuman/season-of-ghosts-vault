@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
+views:
+  - type: table
+    name: All Locations
+  - type: table
+    name: Buisinesses
+    filters:
+      and:
+        - file.hasTag("business")
+  - type: table
+    name: Temples & Shrines
+    filters:
+      and:
+        - file.hasTag("shrine")
+  - type: table
+    name: Residential
+    filters:
+      and:
+        - file.hasTag("residential")
