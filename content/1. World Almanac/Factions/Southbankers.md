@@ -2,14 +2,13 @@
 aliases: []
 tags:
   - faction
-aliases: []
 leader: "[[Matsuki Shou]]"
 alignment:
 factiontype: Political Ideology
 ---
 > [!info]+ Faction Details
-> **Type:** Political Ideology
-> **Leader:** [[1. World Almanac/NPCs/Willowshore Citizens/Matsuki Shou.md|Matsuki Shou]]
+> **Type:** `=this.factiontype`
+> **Leader:** `=this.leader`
 
 ## Details
 A traditionalist group led by those descended from the original settlers of Willowshore who either worked on the [[Tan Sugi Monastery]], or were paid to settle there to support it.

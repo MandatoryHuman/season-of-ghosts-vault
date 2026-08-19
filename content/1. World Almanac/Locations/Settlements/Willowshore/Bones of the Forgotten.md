@@ -14,9 +14,9 @@ marker:
     minZoom: -3
 ---
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:**
-> **Type:** Cemetery
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 [[Willowshore]], like many remote villages, has its own set of laws. Grievous crimes were punished with exile unless the individual’s skill or knowledge was needed— the punishment was then permanent imprisonment. Executions were rare, as being exiled into [[Specterwood]] was often a death sentence in itself. 

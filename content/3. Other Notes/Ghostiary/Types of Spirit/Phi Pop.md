@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Phi Pop
 aliases:
   - Phi Pob
 tags:

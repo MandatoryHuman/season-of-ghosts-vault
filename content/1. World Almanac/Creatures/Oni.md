@@ -1,16 +1,12 @@
 ---
-publish: true
-created: 2026-07-26T14:05:50.466Z
-modified: 2026-07-14T20:43:00.919Z
-published: 2026-07-14T20:43:00.919Z
+aliases: []
 tags:
   - creature
   - lore
-aliases: []
 ---
 Not all divine creations are meant to live as mortals. Some spirits are created as guardians instead, tasked as protectors of elements of nature that cannot protect themselves. When these spirits accept their divine place in the metacosmos and take on such charges, they become [[Kami]]. But some of these spirits are willful, obstinate, or simply rotten, railing against such demands from the gods and becoming bodiless and unable to interact with the world they can torturously still observe. Others receive such punishment simply for failing at their duty, and their despair at their condition twists them like those that began with a seed of darkness. When these spirits look upon mortal lives and become overcome with envy of the flesh and pleasure that humanoids can revel in, they form surrogate bodies of their own and become monsters known collectively as oni. 
 
-![[z_assets/Creatures/Ancestries/Oni.webp|400]]
+![[Oni.webp|400]]
 
 When an oni manifests, they always do so in a form that parodies a specific humanoid ancestry closely associated with the oni’s obsessions and envies. Giants’ over-the-top personalities and sizes are likely the reason why these humanoids are the most common incarnations chosen by oni; such oni are known collectively as yai oni. Yet there exist oni associated with almost every kind of humanoid. Most oni are capable of supernaturally disguising themselves as their associated humanoid type and use this ability to infiltrate societies and seize control from within. Once established, oni typically reveal their true form and revel in dominating those they view as lesser beings fit only to serve their whims. 
 

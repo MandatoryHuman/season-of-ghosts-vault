@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Hungry Ghost
 aliases:
   - È Guǐ
 tags:

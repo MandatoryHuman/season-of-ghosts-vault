@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Egg Ghost
 aliases:
   - Dalgyal Gwisin
 tags:

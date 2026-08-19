@@ -1,16 +1,12 @@
 ---
-publish: true
-created: 2026-07-26T14:05:50.457Z
-modified: 2026-07-15T16:12:19.515Z
-published: 2026-07-15T16:12:19.515Z
+aliases: []
 tags:
   - creature
   - ancestry
-aliases: []
 ---
 Humans are everywhere. They thrive throughout Tian Xia, reaching every corner of the continent and making up the majority of most nations’ populations. Humans are so populous and diverse that it can be hard to pin down shared cultural values, customs, or universal traditions. They’ve spread so far and been the dominant force in so many projects of statecraft that they essentially have no remaining shared ancestral identity. Nonetheless, their influence can be felt in powerful ways throughout Tian Xia. 
 
-![[z_assets/Creatures/Ancestries/Tian-Shu Human.webp|400]]
+![[Tian-Shu Human.webp|400]]
 
 Beyond culture, values, and rituals, the needs and capacities of the human body have shaped the flow of all civilization on the continent as surely as mountains divert rivers. Time in a day is measured around when humans wake and sleep, calendars are built around human food crops and human-habitable biomes, and practically all languages on Tian Xia have been constructed such that humans can speak and write them. Every road, every door, and every tool is built to fit or diverge from the universal fulcrum of human hands, human feet, human eyes and ears and teeth. The one major exception to this continental hegemony can be found in the south. Nagajor historically barred humans from its borders for thousands of years, and the Valashmai Jungle is, to this day, almost completely untouched by human hands. 
 

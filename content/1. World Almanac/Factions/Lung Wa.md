@@ -1,16 +1,16 @@
 ---
-aliases: []
+aliases:
+  - The Lung Wa Empire
 tags:
   - faction
-aliases: []
 leader: Various emperors
 alignment:
 factiontype: Empire
 ---
 
 > [!info]+ Faction Details
-> **Type:** Empire
-> **Leader:** Various emperors
+> **Type:** `=this.factiontype`
+> **Leader:** `=this.leader`
 
 ## Details
 

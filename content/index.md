@@ -45,62 +45,29 @@ views:
 ```base
 views:
   - type: table
-    name: Table
+    name: Factions
     filters:
       and:
         - file.folder == "1. World Almanac/Factions"
     order:
       - file.name
-```
+      - leader
+    markers: none
 
-### Ghost Guide
-![[Amaya's Ghostiary]]
+```
 
 ---
 
 # Locations in Willowshore
 
 ### Businesses 
-```base
-views:
-  - type: table
-    name: Businesses
-    filters:
-      and:
-        - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
-        - file.tags.contains("business")
-    order:
-      - file.name
-
-```
-
-![[Willowshore Locations.base]]
+![[Willowshore Locations.base#buisinesses]]
 
 ### Temples & Shrines
-```base
-views:
-  - type: table
-    name: Shrines
-    filters:
-      and:
-        - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
-        - file.tags.contains("shrine")
-    order:
-      - file.name
-```
+![[Willowshore Locations.base#temples-and-shrines]]
 
 ### Houses
-```base
-views:
-  - type: table
-    name: Houses
-    filters:
-      and:
-        - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
-        - file.tags.contains("residential")
-    order:
-      - file.name
-```
+![[Willowshore Locations.base#residential]]
 
 ---
 

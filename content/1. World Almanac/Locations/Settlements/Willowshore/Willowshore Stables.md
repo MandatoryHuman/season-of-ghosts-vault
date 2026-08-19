@@ -14,9 +14,9 @@ marker:
     minZoom: -3
 ---
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Kum Soon-chong.md|Kum Soon-chong]]
-> **Type:** Stable
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 Willowshore Stables is the town’s veterinary facility for household animals, pets, and livestock. Incidentally, Willowshore Stables’ use of livestock as beasts of burden influenced the village’s food culture, causing many households to avoid the consumption of beef. The owner, [[Kum Soon-chong]], and his teenage son, [[Kum Meng-sung]], are well-known for their affable attitudes and compassion for all kinds of animals.

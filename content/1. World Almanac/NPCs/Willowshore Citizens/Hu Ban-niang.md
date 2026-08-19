@@ -1,5 +1,4 @@
 ---
-publish: true
 aliases:
   - Granny Hu
 tags:
@@ -15,11 +14,11 @@ npcimage: "[[Granny Hu.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
-> **Profession:** Guard Captain (Retired)
-> **Faction:** [[1. World Almanac/Factions/Northridgers.md|Northridgers]]
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 

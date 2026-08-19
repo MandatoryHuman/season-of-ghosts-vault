@@ -2,7 +2,6 @@
 aliases: []
 tags:
   - npc
-aliases: []
 status: Alive
 location: "[[Second Best|Second Best]]"
 faction:
@@ -14,15 +13,15 @@ npcimage: "[[Huo Tian-Zhe.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Second Best.md|Second Best]]
-> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
-> **Profession:** Inventor
-> **Faction:**
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 
-![[z_assets/NPCs/Huo Tian-Zhe.webp|400]]
+![[Huo Tian-Zhe.webp|400]]
 
 ## Bio
 Huo Tian-Zhe arrived in [[Willowshore]] with his blacksmith father from [[Karahai]] about five years ago to assist in the maintainace of [[Willowshore Dam]]. At the time he thought he was about to show the "second-rated smiths of the countryside” how to get things done. Quickly, Tian-Zhe realized his own skills were subpar to even the youngest apprentice of the [[Eternal Blaze Ironworks]] and that his fancily-designed farm gadgets were more akin to toys than machines of marvels. Humbled, Tian-Zhe asked his father to stay in Willowshore so he could learn to be a “smith of use.” Begrudgingly accepting the abrupt request, Tian-Zhe’s father nevertheless gave his son a handful of gold to order a new shop sign. As a reminder to himself, Tian-Zhe boldly named his workshop “Second Best.”

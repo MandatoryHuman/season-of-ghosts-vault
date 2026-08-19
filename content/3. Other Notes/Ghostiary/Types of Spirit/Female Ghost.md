@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Female Ghost
 aliases:
   - Nǚ guǐ
 tags:

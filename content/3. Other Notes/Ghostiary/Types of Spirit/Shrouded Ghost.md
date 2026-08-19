@@ -1,11 +1,7 @@
 ---
-publish: true
+title: Shrouded Ghost
 aliases:
   - Pocong
-title: Shrouded Ghost
-created: 2026-08-04T12:06:58.570Z
-modified: 2026-08-04T11:33:27.884Z
-published: 2026-08-04T11:33:27.884Z
 tags:
   - ghost-type
   - creature

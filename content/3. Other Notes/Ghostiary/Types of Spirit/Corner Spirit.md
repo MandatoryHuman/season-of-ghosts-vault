@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Corner Spirit
 aliases:
   - Ma Xó
 tags:

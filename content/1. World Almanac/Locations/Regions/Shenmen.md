@@ -2,16 +2,15 @@
 aliases: []
 tags:
   - location/region
-aliases: []
 parentregion: Tian Xia
 dangerlevel: High
 banner: Shenmen Banner.webp
 ---
 > [!info]+ Regional Data
-> **Broader Region:** Tian Xia
-> **Danger:** High
+> **Broader Region:** `=this.parentregion`
+> **Danger:** `=this.dangerlevel`
 
-![[z_assets/Icons/Shenmen Flag.webp|300]]
+![[Shenmen Flag.webp|300]]
 
 ## Geography & Weather
 Shenmen is a damp and gloomy land perpetually shadowed by heavy rain clouds. Violent storms frequently lash Shenmen’s dense forests, and even calm days possess a grey melancholy, soaked through with drizzling mist. Few roads snake through its forbidding woods and steep mountains, for this land has resisted most attempts to tame it, with only a handful of isolated settlements clinging to existence against constant hostility and oppression.

@@ -1,11 +1,9 @@
 ---
-publish: true
 title: <% tp.file.title %>
 aliases: []
 tags:
   - ghost-type
   - creature
-aliases: []
 cultural_origin: ""
 danger: ""
 ghost_category:

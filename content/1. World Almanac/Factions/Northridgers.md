@@ -2,14 +2,13 @@
 aliases: []
 tags:
   - faction
-aliases: []
 leader: "[[Hu Ban-niang]]"
 alignment:
 factiontype: Political Ideology
 ---
 > [!info]+ Faction Details
-> **Type:** Political Ideology
-> **Leader:** [[1. World Almanac/NPCs/Willowshore Citizens/Hu Ban-niang.md|Hu Ban-niang]]
+> **Type:** `=this.factiontype`
+> **Leader:** `=this.leader`
 
 ## Details
 A progressive group led by those who arrived in [[Willowshore]] after Lung Wa took control. This includes those who moved to work under the [[Lumber Lords]], as well as the businesses and imperial guards that arrived with them.

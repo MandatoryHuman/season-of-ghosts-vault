@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Krasue
 aliases:
   - Ahp
   - Penanggal

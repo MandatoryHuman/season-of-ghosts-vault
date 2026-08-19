@@ -1,12 +1,8 @@
 ---
-publish: true
-created: 2026-07-26T14:05:50.562Z
-modified: 2026-07-14T18:33:46.034Z
-published: 2026-07-14T18:33:46.034Z
+aliases: []
 tags:
   - location
   - lake
-aliases: []
 region: "[[Willowshore]]"
 type: Lake
 marker:

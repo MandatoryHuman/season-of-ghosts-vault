@@ -2,7 +2,6 @@
 aliases: []
 tags:
   - session
-aliases: []
 realdate: <% tp.file.creation_date("YYYY-MM-DD") %>
 ingamedate: <% await tp.system.prompt("What is the in-game date?") %>
 ---

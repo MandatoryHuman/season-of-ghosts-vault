@@ -3,7 +3,6 @@ aliases: []
 tags:
   - location/building
   - gate
-aliases: []
 settlement: "[[Willowshore]]"
 owner: 
 buildingtype: Gate
@@ -15,9 +14,9 @@ marker:
 ---
 
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:**
-> **Type:** Gate
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 After the [[Night of Broken Blades]], [[Willowshore]]’s [[Heh Shan-Bao|Governor]] caved to the demand for a new lantern at the entrance of the town to augment the protection afforded by the [[Eternal Lantern]] at the town’s heart. While the original plan was for the carpenters of Willowshore to build a [tori gate](https://en.wikipedia.org/wiki/Torii) or Tian-shu gateway on which lanterns could be hung, a [[Lung Wa]] aristocrat offered a free stone guardian spider from his garden since it no longer fit in with the garden’s decorations.

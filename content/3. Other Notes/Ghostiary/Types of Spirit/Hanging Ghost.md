@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Hanged Ghost
 aliases:
   - Diào Sǐ Guǐ
 tags:

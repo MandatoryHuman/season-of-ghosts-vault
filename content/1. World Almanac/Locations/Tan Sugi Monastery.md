@@ -1,8 +1,5 @@
 ---
-publish: true
-created: 2026-08-04T12:06:58.361Z
-modified: 2026-08-16T08:41:19.260Z
-published: 2026-08-16T08:41:19.260Z
+aliases: []
 tags:
   - location
   - monastery

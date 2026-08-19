@@ -3,17 +3,16 @@ aliases: []
 tags:
   - location/settlement
   - town
-aliases: []
 region: "[[Shenmen]]"
 ruler: "[[Heh Shan-Bao]]"
 population: "225"
 settlementtype: Town
 ---
 > [!info]+ Settlement Details
-> **Type:** Town
-> **Region:** [[1. World Almanac/Locations/Regions/Shenmen.md|Shenmen]]
-> **Leadership:** [[1. World Almanac/NPCs/Willowshore Citizens/Heh Shan-Bao.md|Heh Shan-Bao]]
-> **Population:** 225
+> **Type:** `=this.settlementtype`
+> **Region:** `=this.region`
+> **Leadership:** `=this.ruler`
+> **Population:** `=this.population`
 
 ## Description
 

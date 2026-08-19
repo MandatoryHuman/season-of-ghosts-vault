@@ -2,7 +2,6 @@
 aliases: []
 tags:
   - npc
-aliases: []
 status: Alive
 location:
 faction:
@@ -13,15 +12,15 @@ level:
 npcimage: "[[Otonashi Kairi Square.webp]]"
 ---
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:**
-> **Ancestry:** [[1. World Almanac/Creatures/Elf.md|Elf]]
-> **Profession:** Craftsman
-> **Faction:**
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 
-![[z_assets/NPCs/Otonashi Kairi.webp|400]]
+![[Otonashi Kairi.webp|400]]
 
 ## Bio
 Otonashi Kairi is the father of the twins, [[Otonashi Amaya|Amaya]] and [[Otonashi Shio|Shio]], and the devoted husband of [[Otonashi Nagi|Nagi]]. Born in the bustling metropolis of [[Sze]], Kairi is a silent, patient, and deeply observant man. He found his calling early in life as an apprentice pearl carver, spending his days in a quiet workshop, meticulously transforming raw and uncut pearls from the Sea of Ghosts into breathtaking works of art.

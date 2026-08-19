@@ -11,10 +11,10 @@ partyrole: Splasher
 npcimage: "[[Crimson Rosoideae Square.webp]]"
 ---
 > [!info]+ Character Details
-> **Player:** Amren
-> **Ancestry & Heritage:** [[1. World Almanac/Creatures/Leshy.md|Leshy]]
-> **Class:** Wizard
-> **Primary Role:** Splasher
+> **Player:** `=this.player_name`
+> **Ancestry & Heritage:** `=this.ancestry`
+> **Class:** `=this.class`
+> **Primary Role:** `=this.partyrole`
 
 ## Appearance
 

@@ -15,9 +15,9 @@ marker:
     colour: "#646464"
 ---
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:**
-> **Type:** Teahouse
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 [[Willowshore]]’s lumber bosses thought very highly of themselves, and the idea of mingling with the “common folk” rankled them. Aristocrat Qing Mai-Lai’s solution was the establishment of this fine structure, close to the lumber lords’ estates. 

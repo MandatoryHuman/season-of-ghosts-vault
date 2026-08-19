@@ -14,9 +14,9 @@ marker:
     minZoom: -2.5
 ---
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Igawa Jubei.md|Igawa Jubei]]
-> **Type:** Shop
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 Magic was traditionally seen in [[Willowshore]] as either a manifestation of divine blessing, one’s connection to the spirit world, or just a trick of the hand and mind. Most folks didn’t quite understand it as a topic to be studied and learned until the arrival of [[Anjal]] of Thulsadus, an old nagaji wizard. Arriving about 15 years ago, Anjal found the weather of Willowshore to be gentle on their dryscale condition and thus bought a plot of land from a farmer looking to relocate to the city of Sze. Overnight, a Nagajor-styled tower of dark basalt appeared, much to the awe of the villagers. 

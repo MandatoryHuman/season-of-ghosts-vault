@@ -14,9 +14,9 @@ marker:
     minZoom: -2.5
 ---
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Zataku.md|Zataku]]
-> **Type:** Fishery
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.buildingtype`
 
 ## Description
 Fish is an important food source for Willowshore. Locals traditionally capture entire schools of fish, preserve those above a certain size, and raise small ones in their backyard ponds. Today, this practice has been expanded, though the fishers have yet to reach a point where the fishery ponds here can be maintained indefinitely. 

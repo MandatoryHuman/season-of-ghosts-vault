@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Tiger's Ghost
 aliases:
   - Ma Trành
 tags:

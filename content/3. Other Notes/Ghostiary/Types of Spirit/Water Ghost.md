@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Water Ghost
 aliases:
   - Shuǐ Guǐ
   - Mul Gwisin

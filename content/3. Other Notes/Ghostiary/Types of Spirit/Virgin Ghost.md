@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Virgin Ghost
 aliases:
   - Cheonyeo Gwisin
 tags:

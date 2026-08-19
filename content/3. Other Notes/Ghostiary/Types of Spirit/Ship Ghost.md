@@ -1,5 +1,5 @@
 ---
-publish: true
+title: Ship Ghosts
 aliases:
   - Funa-yūrei
 tags:

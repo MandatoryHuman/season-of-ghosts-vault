@@ -2,7 +2,6 @@
 aliases: []
 tags:
   - npc
-aliases: []
 status: Alive
 location: "[[Lady of Souls|Lady of Souls]]"
 faction:
@@ -15,11 +14,11 @@ npcimage: "[[Elizeth Candora.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Lady of Souls.md|Lady of Souls]]
-> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]],Taldan
-> **Profession:** Cleric
-> **Faction:**
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 
