@@ -1,13 +1,8 @@
 ---
-publish: true
-created: 2026-07-31T13:20:29.275Z
-modified: 2026-07-31T13:47:33.638Z
-published: 2026-07-31T13:47:33.638Z
 aliases: []
 tags: []
 npcimage: "[[Ruten Square.webp]]"
 ---
-
 ![[Ruten.webp|float-left|400]]Ruten is a spirit [[Otonashi Amaya|Amaya]] encountered after hearing reports of a spirt lingering around the abandoned [[The Cerulean Teahouse|Cerulean Teahouse]].  As Amaya stepped into the overgrown courtyard of the forgotten estate, her eyes landed upon a murky water garden. She approached and the air grew cold and still.
 
 Ruten floated just above the dark water. His blue robes drifted in an unseen current, and a wide woven hat hid his face. He held an ancient lantern glowing with a pale blue flame. Spectral koi in pearl and red swam through the air around him, leaving soft, glowing trails.

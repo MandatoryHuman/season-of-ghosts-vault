@@ -4,8 +4,7 @@ tags:
   - creature
   - ancestry
 ---
-
-The dokkaebi goblins native to Tian Xia, found especially in Hwanggot, are an idiosyncratic people as strange as the creatures of old ghost stories, yet simultaneously so common you could buy dinner from one. Dokkaebi have an intrinsic affinity for illusion-based magic, but use most of their talents to prank others.
+The dokkaebi goblins native to Tian Xia, found especially in Hwanggot, are an idiosyncratic people as strange as the creatures of old ghost stories, yet simultaneously so common you could buy dinner from one. Dokkaebi have an intrinsic affinity for illusion-based magic, but use most of their talents to prank others. 
 
 ![[Dokkaebi.webp|400]]
 

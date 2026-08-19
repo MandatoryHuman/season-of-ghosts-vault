@@ -1,15 +1,11 @@
 ---
-publish: true
-created: 2026-08-04T11:05:05.361Z
-modified: 2026-07-14T20:27:19.195Z
-published: 2026-07-14T20:27:19.195Z
+aliases: []
 tags:
   - faction
 leader:
 alignment:
 factiontype:
 ---
-
 > [!info]+ Faction Details
 > **Type:** `=this.factiontype`
 > **Leader:** `=this.leader`
@@ -18,8 +14,8 @@ factiontype:
 
 ## Goals & Motivations
 
-## Standing with Party
 
+## Standing with Party
 - **Current Reputation:** Neutral
 - **Favours Owed:** None
 

@@ -1,11 +1,9 @@
 ---
-publish: true
-created: 2026-08-04T11:05:05.031Z
-modified: 2026-07-20T16:09:19.207Z
-published: 2026-07-20T16:09:19.207Z
+aliases: []
 tags:
   - location/building
   - dock
+  - business
 settlement: "[[Willowshore]]"
 owner: "[[Rajul Samudra]]"
 buildingtype: Dock
@@ -15,20 +13,16 @@ marker:
     colour: "#04adff"
     minZoom: -3
 ---
-
 > [!info]+ Establishment Details
 > **Settlement:** `=this.settlement`
 > **Owner:** `=this.owner`
 > **Type:** `=this.buildingtype`
 
 ## Description
-
 After the construction of the dam, Willowshore’s old dock was blocked off, thus requiring the construction of a new dock at the mouth of the Ceiba River. The new dock is operated and managed by [[Rajul Samudra]], who was hired by [[The Ceiba-Duyue Exchange]] specifically for his boatbuilding skills.
 
 ## Goods, Services & Rumours
-
 - River boat rentals and sales
 
 ## Associated NPCs
-
 - [[Rajul Samudra]]

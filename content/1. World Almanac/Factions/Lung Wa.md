@@ -1,8 +1,5 @@
 ---
-publish: true
-created: 2026-08-04T11:05:04.948Z
-modified: 2026-07-21T08:55:33.295Z
-published: 2026-07-21T08:55:33.295Z
+aliases: []
 tags:
   - faction
 leader: Various emperors

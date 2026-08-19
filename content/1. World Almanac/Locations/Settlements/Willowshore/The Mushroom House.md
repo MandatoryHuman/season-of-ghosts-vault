@@ -1,11 +1,9 @@
 ---
-publish: true
-created: 2026-08-04T11:05:05.026Z
-modified: 2026-07-14T20:16:38.963Z
-published: 2026-07-14T20:16:38.963Z
+aliases: []
 tags:
   - location/building
   - shop
+  - business
 settlement: "[[Willowshore]]"
 owner: "[[Luda Bama]]"
 buildingtype: Black Market
@@ -15,21 +13,17 @@ marker:
     icon: pinhead:dollar
     minZoom: -2.5
 ---
-
 > [!info]+ Establishment Details
 > **Settlement:** `=this.settlement`
 > **Owner:** `=this.owner`
 > **Type:** `=this.buildingtype`
 
 ## Description
-
 This remote brick farmhouse smells of decay and manure. Everyone knows that mushrooms aren’t the only things growing in the farmhouse, though. For the right price, the Mushroom House can grow almost anything. [[Luda Bama]], a spry, elderly halfling woman, is the head of this illicit market, which she runs with the explicit permission of [[Hu Ban-niang|Granny Hu]]
 
 ## Goods, Services & Rumours
-
 - Adventuring gear, drugs, poisons, tattoos
 
 ## Associated NPCs
-
 - [[Luda Bama]]
 - [[Hu Ban-niang]]

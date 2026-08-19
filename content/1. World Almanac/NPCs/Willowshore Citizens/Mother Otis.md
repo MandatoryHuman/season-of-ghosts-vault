@@ -1,8 +1,5 @@
 ---
-publish: true
-created: 2026-08-04T11:05:05.074Z
-modified: 2026-07-21T20:34:30.410Z
-published: 2026-07-21T20:34:30.410Z
+aliases: []
 tags:
   - npc
 status: Alive
@@ -27,14 +24,11 @@ npcimage: "[[Mother Otis.webp]]"
 ![[Mother Otis.webp|400]]
 
 ## Bio
-
 Long time owner of the [[Thrice Blessed Inn]], even going back to its days as a brothel.
 
 ## Relationship to Party
-
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-
--
+- 

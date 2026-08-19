@@ -4,7 +4,6 @@ tags:
   - creature
   - lore
 ---
-
 Kami are divine nature spirits native to the lands of Tian Xia. They serve as guardians of natural objects and places they protect—their “wards”—and are ancient enemies of the [[Oni]].
 
 ![[Kami.webp|400]]

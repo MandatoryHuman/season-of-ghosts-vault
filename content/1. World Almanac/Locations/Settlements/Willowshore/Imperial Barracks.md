@@ -1,8 +1,5 @@
 ---
-publish: true
-created: 2026-08-04T11:05:04.996Z
-modified: 2026-07-20T12:41:44.128Z
-published: 2026-07-20T12:41:44.128Z
+aliases: []
 tags:
   - location/building
 settlement: "[[Willowshore]]"
@@ -14,20 +11,16 @@ marker:
     colour: "#e48873"
     minZoom: -1.5
 ---
-
 > [!info]+ Establishment Details
 > **Settlement:** `=this.settlement`
 > **Owner:** `=this.owner`
 > **Type:** `=this.buildingtype`
 
 ## Description
-
 The Imperial Barracks, as established by the [[Lung Wa]], run by [[Zheng Peng]].
 
 ## Goods, Services & Rumours
-
--
+- 
 
 ## Associated NPCs
-
--
+- 

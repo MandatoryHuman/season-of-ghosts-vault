@@ -1,11 +1,9 @@
 ---
-publish: true
-created: 2026-08-04T11:05:04.990Z
-modified: 2026-07-14T18:13:28.614Z
-published: 2026-07-14T18:13:28.614Z
+aliases: []
 tags:
   - location/building
   - shop
+  - business
 settlement: "[[Willowshore]]"
 owner: "[[Yong Wu-Xiu]]"
 buildingtype: Ironworks
@@ -15,20 +13,16 @@ marker:
     colour: "#f16623"
     minZoom: -3
 ---
-
 > [!info]+ Establishment Details
 > **Settlement:** `=this.settlement`
 > **Owner:** `=this.owner`
 > **Type:** `=this.buildingtype`
 
 ## Description
-
 In the days of the monastery’s construction, the Eternal Blaze Ironworks was responsible for creating metal items from cookware, woodworking tools, and small metal parts, such as hinges, locks, and keys for chests. Yong Wu-Xiu (female kitsune blacksmith) inherited the business from her father about a decade ago.
 
 ## Goods, Services & Rumours
-
 - Sells metalworks and adventuring gear, as well as metal armour, weapons and shield
 
 ## Associated NPCs
-
 - [[Yong Wu-Xiu]]

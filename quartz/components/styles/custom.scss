@@ -1,0 +1,17 @@
+/* Prevent base view tables from causing horizontal scroll */
+.table-container, table {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+table {
+  width: 100%;
+  table-layout: auto;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* Ensure any necessary scrolling on mobile doesn't trigger on desktop for tiny overflows */
+.table-container {
+  overflow-x: auto;
+}

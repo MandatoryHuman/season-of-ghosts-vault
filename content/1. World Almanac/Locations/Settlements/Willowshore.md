@@ -1,8 +1,5 @@
 ---
-publish: true
-created: 2026-08-04T11:05:04.972Z
-modified: 2026-07-25T14:01:29.295Z
-published: 2026-07-25T14:01:29.295Z
+aliases: []
 tags:
   - location/settlement
   - town
@@ -11,7 +8,6 @@ ruler: "[[Heh Shan-Bao]]"
 population: "225"
 settlementtype: Town
 ---
-
 > [!info]+ Settlement Details
 > **Type:** `=this.settlementtype`
 > **Region:** `=this.region`
@@ -47,8 +43,7 @@ views:
 
 # Locations in Willowshore
 
-### Businesses
-
+### Businesses 
 ```dataview
 TABLE WITHOUT ID
 link("/" + file.path, file.name) AS "Location", buildingtype AS "Type", owner AS "Owner/Manager"
@@ -58,32 +53,29 @@ SORT file.name ASC
 ```
 
 ### Temples & Shrines
-
-```dataview
-TABLE WITHOUT ID
+```dataview 
+TABLE WITHOUT ID 
 link("/" + file.path, file.name) AS "Location", choice(buildingtype, buildingtype, type) AS "Type", owner AS "Caretaker/Priest" FROM "1. World Almanac/Locations" WHERE contains(tags, "shrine") OR contains(tags, "church") OR contains(tags, "cemetery") OR type = "Monastery" OR buildingtype = "Shrine" OR buildingtype = "Church" OR buildingtype = "Cemetery" SORT file.name ASC
 ```
 
 ### Homes
-
-```dataview
-TABLE WITHOUT ID
-link("/" + file.path, file.name) AS "Location", owner AS "Owner"
-FROM "1. World Almanac/Locations"
-WHERE buildingtype = "Residential"
-SORT file.name ASC
+```dataview 
+TABLE WITHOUT ID 
+link("/" + file.path, file.name) AS "Location", owner AS "Owner" 
+FROM "1. World Almanac/Locations" 
+WHERE buildingtype = "Residential" 
+SORT file.name ASC 
 ```
 
 ---
 
-> [!tip] The Eight Practices
-> The people of Willowshore follow these eight bits of advice during the first several weeks of summer—the season of ghosts. These beliefs are primarily local superstitions, and their capacity to actually help in an encounter with any sort of malicious spirit is hotly debated.
->
-> 1.  Do not call a ghost a ghost.
-> 2.  Do not pat people on the head or shoulders.
-> 3.  Avoid entering bodies of water when a ghost is nearby.
-> 4.  Do not eat food that has two stick-like objects protruding from it.
-> 5.  Do not lean against walls during the day.
-> 6.  Do not whistle at night.
-> 7.  Do not leave laundry out at night.
-> 8.  If you hear someone call your name from behind you at night, do not turn around.
+>[!tip] The Eight Practices
+>The people of Willowshore follow these eight bits of advice during the first several weeks of summer—the season of ghosts. These beliefs are primarily local superstitions, and their capacity to actually help in an encounter with any sort of malicious spirit is hotly debated. 
+>1. Do not call a ghost a ghost. 
+>2. Do not pat people on the head or shoulders. 
+>3. Avoid entering bodies of water when a ghost is nearby. 
+>4. Do not eat food that has two stick-like objects protruding from it. 
+>5. Do not lean against walls during the day. 
+>6. Do not whistle at night. 
+>7. Do not leave laundry out at night. 
+>8. If you hear someone call your name from behind you at night, do not turn around.

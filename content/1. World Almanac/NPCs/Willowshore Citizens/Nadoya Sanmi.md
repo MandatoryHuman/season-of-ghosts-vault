@@ -1,8 +1,5 @@
 ---
-publish: true
-created: 2026-08-04T11:05:05.078Z
-modified: 2026-07-21T20:34:30.420Z
-published: 2026-07-21T20:34:30.420Z
+aliases: []
 tags:
   - npc
 status: Alive
@@ -27,14 +24,11 @@ npcimage: "[[Nadoya Sanmi.webp]]"
 ![[Nadoya Sanmi.webp|400]]
 
 ## Bio
-
-Owner of the family-owned Treesparrow's grocery store.
+Owner of the family-owned [[Treesparrow's Rest|Treesparrow's]] grocery store.
 
 ## Relationship to Party
-
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-
--
+- 

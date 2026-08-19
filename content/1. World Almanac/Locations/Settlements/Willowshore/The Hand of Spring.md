@@ -1,11 +1,9 @@
 ---
-publish: true
-created: 2026-08-04T11:05:05.023Z
-modified: 2026-07-14T20:16:35.753Z
-published: 2026-07-14T20:16:35.753Z
+aliases: []
 tags:
   - location/building
   - herbalist
+  - business
 settlement: "[[Willowshore]]"
 owner: "[[Damihansig Mababangloob]]"
 buildingtype: Herbalist
@@ -15,20 +13,16 @@ marker:
     colour: "#f16623"
     minZoom: -2.5
 ---
-
 > [!info]+ Establishment Details
 > **Settlement:** `=this.settlement`
 > **Owner:** `=this.owner`
 > **Type:** `=this.buildingtype`
 
 ## Description
-
 Willowshore relied heavily on home remedies, herbal droughts, and traveling priests for medical care until the arrival of Doctor [[Damihansig Mababangloob]], whom everyone calls Dami for short. Dami uses a mix of acupuncture, purified chemicals, and surgery to provide care. Though his treatments aren’t what Willowshore is used to, Dami has developed quite a reputation for being a charitable doctor who cares more about his patients than monetary gain.
 
 ## Goods, Services & Rumours
-
 - Alchemical healing items, healer’s kit supplies, nonmagical healing items
 
 ## Associated NPCs
-
 - [[Damihansig Mababangloob]]

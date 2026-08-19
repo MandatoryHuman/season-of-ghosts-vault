@@ -1,9 +1,6 @@
 ---
 aliases:
   - Dami
-created: 2026-08-04T11:05:05.050Z
-modified: 2026-07-21T20:34:30.355Z
-published: 2026-07-21T20:34:30.355Z
 tags:
   - npc
 status: Alive
@@ -28,7 +25,6 @@ npcimage: "[[Dami.webp]]"
 ![[z_assets/NPCs/Dami.webp]]
 
 ## Bio
-
 As the resident doctor of [[Willowshore]], Dami uses a mix of acupuncture, purified chemicals, and surgery to care for its citizens. Dami has developed a reputation for being a charitable man who cares more for his patient's wellbeing than monetary gain.
 
 ## Relationship to Party

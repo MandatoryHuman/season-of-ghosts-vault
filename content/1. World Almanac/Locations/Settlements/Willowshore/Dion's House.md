@@ -1,10 +1,8 @@
 ---
-publish: true
-created: 2026-08-04T11:05:04.984Z
-modified: 2026-07-20T00:34:04.736Z
-published: 2026-07-20T00:34:04.736Z
+aliases: []
 tags:
   - location/building
+  - residential
 settlement: "[[Willowshore]]"
 owner: Dion
 buildingtype: Residential
@@ -14,7 +12,6 @@ marker:
     colour: "#039c4b"
     minZoom: -2.5
 ---
-
 > [!info]+ Establishment Details
 > **Settlement:** `=this.settlement`
 > **Owner:** `=this.owner`
@@ -22,10 +19,9 @@ marker:
 
 ## Description
 
-## Goods, Services & Rumours
 
--
+## Goods, Services & Rumours
+- 
 
 ## Associated NPCs
-
--
+- 
