@@ -1,6 +1,12 @@
 ---
 aliases:
   - Crimson
+<<<<<<< HEAD
+=======
+created: 2026-08-04T12:06:58.496Z
+modified: 2026-07-30T19:41:26.179Z
+published: 2026-07-30T19:41:26.179Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - pc
 player_name: Amren
@@ -11,10 +17,10 @@ partyrole: Splasher
 npcimage: "[[Crimson Rosoideae Square.webp]]"
 ---
 > [!info]+ Character Details
-> **Player:** `=this.player_name`
-> **Ancestry & Heritage:** `=this.ancestry`
-> **Class:** `=this.class`
-> **Primary Role:** `=this.partyrole`
+> **Player:** Amren
+> **Ancestry & Heritage:** [[1. World Almanac/Creatures/Leshy.md|Leshy]]
+> **Class:** Wizard
+> **Primary Role:** Splasher
 
 ## Appearance
 

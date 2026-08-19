@@ -1,9 +1,19 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-04T12:06:58.361Z
+modified: 2026-08-16T08:41:19.260Z
+published: 2026-08-16T08:41:19.260Z
 tags:
+<<<<<<< HEAD
   - location
   - monastery
   - shrine
+=======
+  - "#location"
+  - "#monastery"
+  - "#shrine"
+aliases: []
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 region: "[[Willowshore]]"
 type: Monastery
 ---

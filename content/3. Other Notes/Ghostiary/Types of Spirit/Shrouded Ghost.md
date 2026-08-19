@@ -1,7 +1,11 @@
 ---
-title: Shrouded Ghost
+publish: true
 aliases:
   - Pocong
+title: Shrouded Ghost
+created: 2026-08-04T12:06:58.570Z
+modified: 2026-08-04T11:33:27.884Z
+published: 2026-08-04T11:33:27.884Z
 tags:
   - ghost-type
   - creature
@@ -11,14 +15,27 @@ danger: Moderate
 ghost_category: Wandering Ghosts
 ---
 > [!info]+ Details
+<<<<<<< HEAD
 > * **Other Names:** `=this.aliases`
 > * **Cultural Origin(s):** `=this.cultural_origin`
 > * **Category** `=link(this.ghost_category)`
 > * **Danger:** `=this.danger`
+=======
+>
+> - **Other Names:** Pocong
+> - **Cultural Origin(s):** Indonesian
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
+> - **Danger:** Moderate
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ---
 ## Overview
+<<<<<<< HEAD
 Pocongs are a ghost that are the lingering spirit  of 
+=======
+
+Pocongs are a ghost that are the lingering spirit  of
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ## Behaviour and Haunts
 - While some Pocongs are passive, only manifesting to relay messages from beyond or ask for prayer, others take pleasure in frightening the living with their appearance.
@@ -36,6 +53,7 @@ Pocongs are a ghost that are the lingering spirit  of
 - As with many spirits, Pocongs often have some form of unfullfilled desire or goal that must be resolved in order for them to pass to the afterlife.
 
 ### See also
+<<<<<<< HEAD
 ```cardlink
 url: https://www.bbc.co.uk/news/world-asia-52269607
 title: "Coronavirus: Indonesian village uses 'ghosts' for distancing patrols"
@@ -44,3 +62,7 @@ host: www.bbc.co.uk
 favicon: https://static.files.bbci.co.uk/core/website/assets/static/icons/touch/news/touch-icon-36.413a37b227.png
 image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11EDD/production/_111773437_061042411.jpg
 ```
+=======
+
+<div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://www.bbc.co.uk/news/world-asia-52269607" class="auto-card-link-card external-link"><div class="auto-card-link-main"><div class="auto-card-link-title">Coronavirus: Indonesian village uses 'ghosts' for distancing patrols</div><div class="auto-card-link-description">Mysterious and ghoulish volunteers began appearing in Kepuh village last month, local reports say.</div><div class="auto-card-link-host"><span>www.bbc.co.uk</span></div></div><img draggable="false" src="https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11EDD/production/_111773437_061042411.jpg" class="auto-card-link-thumbnail" /></a></div>
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9

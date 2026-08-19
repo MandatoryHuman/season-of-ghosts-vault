@@ -1,9 +1,20 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-08-04T12:06:58.397Z
+modified: 2026-08-16T08:41:23.182Z
+published: 2026-08-16T08:41:23.182Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - location/building
   - church
   - shrine
+<<<<<<< HEAD
+=======
+aliases: []
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 settlement: "[[Willowshore]]"
 owner: "[[Elizeth Candora]]"
 buildingtype: Church
@@ -14,9 +25,9 @@ marker:
     icon: lucide-church
 ---
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Elizeth Candora.md|Elizeth Candora]]
+> **Type:** Church
 
 ## Description
 One of Lung Wa’s chief concerns when they first expanded into Willowshore was to reduce the likelihood of an undead uprising. They solved it by building a cathedral to Pharasma. [[Elizeth Candora]], a second-generation Taldan from [Goka](https://pathfinderwiki.com/wiki/Goka), is the current priestess here. Having once visited Willowshore and the Tan Sugi monastery as a child, Elizeth never imagined that becoming a cleric of Pharasma would lead to an opportunity for her to permanently return to the village she vividly recalls. She sees the coincidence as fate arranged by Pharasma’s hands and therefore serves dutifully and diligently. She’s fond of spending time alone in the graveyard with her flute and often plays the instrument there to help soothe the spirits of those recently buried therein.

@@ -1,6 +1,12 @@
 ---
 aliases:
   - Shio
+<<<<<<< HEAD
+=======
+created: 2026-08-04T12:06:58.481Z
+modified: 2026-07-31T16:09:42.545Z
+published: 2026-07-31T16:09:42.545Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - npc
 status: Alive
@@ -14,15 +20,15 @@ npcimage: "[[Otonashi Shio.webp]]"
 parent: Otonashi Nagi, Otonashi Kairi
 ---
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Ancestry:** [[1. World Almanac/Creatures/Elf.md|Elf]]
+> **Profession:** Fisherman
+> **Faction:**
 
 ## Appearance
 
-![[Otonashi Shio.webp|600]]
+![[z_assets/NPCs/Otonashi Shio.webp|600]]
 
 ## Bio
 Otonashi Shio is the twin brother of [[Otonashi Amaya|Amaya]] and the son of [[Otonashi Nagi|Nagi]] and [[Otonashi Kairi|Kairi]]. Born shortly after his parents traded the relentless city of [[Sze]] for the quiet mists of [[Willowshore]], Shio grew up steeped in his family's deep connection to the water. He is a man of profound patience, steady habits, and a grounded, unyielding strength.

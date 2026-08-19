@@ -1,7 +1,15 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-08-04T12:06:58.464Z
+modified: 2026-07-20T01:17:55.810Z
+published: 2026-07-20T01:17:55.810Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - npc
+aliases: []
 status: Alive
 location: "[[Willowshore Stables]]"
 faction:
@@ -14,15 +22,15 @@ parent: "[[Kum Soon-chong]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore Stables.md|Willowshore Stables]]
+> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
+> **Profession:** Veterinarian
+> **Faction:**
 
 ## Appearance
 
-![[Kum Meng-sung.webp|400]]
+![[z_assets/NPCs/Kum Meng-sung.webp|400]]
 
 ## Bio
 Veterinarian at the [[Willowshore Stables]] and teenage son to the owner, [[Kum Soon-chong]].

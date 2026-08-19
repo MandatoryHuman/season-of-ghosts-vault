@@ -1,6 +1,12 @@
 ---
 publish: true
 title: Season of Ghosts Vault
+<<<<<<< HEAD
+=======
+created: 2026-08-04T12:06:55.453Z
+modified: 2026-08-19T09:27:44.975Z
+published: 2026-08-19T09:27:44.975Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 banner: "[[SoG Banner.webp]]"
 ---
 # Map of [[Willowshore]]
@@ -39,9 +45,25 @@ views:
         - file.folder == "1. World Almanac/PCs"
     image: note.npcimage
 
+<<<<<<< HEAD
 ```
 
 ### Factions and Organisations
+=======
+```base
+views:
+  - type: cards
+    name: PCs
+    filters:
+      and:
+        - file.folder == "1. World Almanac/PCs"
+    image: note.npcimage
+
+```
+
+### Factions and Organisations
+
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 ```base
 views:
   - type: table
@@ -72,11 +94,29 @@ views:
     order:
       - file.name
 
+<<<<<<< HEAD
+=======
+```base
+views:
+  - type: table
+    name: Businesses
+    filters:
+      and:
+        - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
+        - file.tags.contains("business")
+    order:
+      - file.name
+
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 ```
 
 ![[Willowshore Locations.base]]
 
 ### Temples & Shrines
+<<<<<<< HEAD
+=======
+
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 ```base
 views:
   - type: table
@@ -90,6 +130,10 @@ views:
 ```
 
 ### Houses
+<<<<<<< HEAD
+=======
+
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 ```base
 views:
   - type: table

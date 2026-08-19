@@ -1,8 +1,16 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-08-04T12:06:58.408Z
+modified: 2026-07-14T20:16:22.372Z
+published: 2026-07-14T20:16:22.372Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - location/building
   - shrine
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Ba-Ming Ouh]]"
 buildingtype: Shrine
@@ -13,9 +21,9 @@ marker:
     minZoom: -2.5
 ---
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Ba-Ming Ouh.md|Ba-Ming Ouh]]
+> **Type:** Shrine
 
 ## Description
 This mud-wall hut looks like a grain storage hut from the outside. Its interior descends 10 feet underground into an enclosed space lined with stone, in the middle of which sits a 15-foot-tall marble statue of a nine-tailed fox. A large spiritual rope made of hay hangs off its neck. The walls of the basement are decorated with painted carvings that depict stories of [Daikitsu](https://pathfinderwiki.com/wiki/Daikitsu).

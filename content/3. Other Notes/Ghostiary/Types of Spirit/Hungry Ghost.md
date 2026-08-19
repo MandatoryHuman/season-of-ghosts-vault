@@ -1,7 +1,14 @@
 ---
-title: Hungry Ghost
+publish: true
 aliases:
   - È Guǐ
+<<<<<<< HEAD
+=======
+title: Hungry Ghost
+created: 2026-08-04T12:06:58.556Z
+modified: 2026-08-04T11:33:08.108Z
+published: 2026-08-04T11:33:08.108Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - ghost-type
   - creature
@@ -12,14 +19,27 @@ danger: Low
 ghost_category: Wandering Ghosts
 ---
 > [!info]+ Details
+<<<<<<< HEAD
 >* **Other Names:** `=this.aliases`
 >* **Cultural Origin(s):** `=this.cultural_origin`
 >* **Category** `=link(this.ghost_category)`
 >* **Danger:** `=this.danger`
+=======
+>
+> - **Other Names:** È Guǐ
+> - **Cultural Origin(s):** Chinese,Tibetan
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
+> - **Danger:** Low
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ---
 ## Overview
+<<<<<<< HEAD
 ![[Hungry Ghost.webp|float-left|400]]These spirits are those who lived in extreme greed and refused to help others. They are cursed with insatiable appetites, bloated bellies, and thin necks. Food they attempt to eat bursts into flames or turns to ash.
+=======
+
+![[z_assets/Creatures/Ghost Types/Hungry Ghost.webp|float-left|400]]These spirits are those who lived in extreme greed and refused to help others. They are cursed with insatiable appetites, bloated bellies, and thin necks. Food they attempt to eat bursts into flames or turns to ash.
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ## Behaviour and Haunts
 - 

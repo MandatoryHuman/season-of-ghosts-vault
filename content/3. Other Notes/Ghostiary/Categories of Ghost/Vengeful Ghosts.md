@@ -1,4 +1,11 @@
 ---
+<<<<<<< HEAD
+=======
+publish: true
+created: 2026-08-04T12:06:58.531Z
+modified: 2026-08-16T08:15:49.646Z
+published: 2026-08-16T08:15:49.646Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 aliases: []
 tags: []
 ---

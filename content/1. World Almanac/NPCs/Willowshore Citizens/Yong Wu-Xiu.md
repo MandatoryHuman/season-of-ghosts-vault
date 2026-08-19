@@ -1,7 +1,15 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-08-04T12:06:58.485Z
+modified: 2026-07-21T20:34:30.430Z
+published: 2026-07-21T20:34:30.430Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - npc
+aliases: []
 status: Alive
 location: "[[Eternal Blaze Ironworks|Eternal Blaze Ironworks]]"
 faction:
@@ -13,11 +21,11 @@ npcimage:
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Eternal Blaze Ironworks.md|Eternal Blaze Ironworks]]
+> **Ancestry:** [[1. World Almanac/Creatures/Kitsune.md|Kitsune]]
+> **Profession:** Blacksmith
+> **Faction:**
 
 ## Appearance
 

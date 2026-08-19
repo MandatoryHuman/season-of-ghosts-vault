@@ -1,8 +1,19 @@
 ---
+<<<<<<< HEAD
 aliases: []
 tags:
   - location/building
   - residential
+=======
+publish: true
+created: 2026-08-04T12:06:58.377Z
+modified: 2026-08-16T08:43:45.875Z
+published: 2026-08-16T08:43:45.875Z
+tags:
+  - location/building
+  - residential
+aliases: []
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 settlement: "[[Willowshore]]"
 owner: "[[Otonashi Amaya]]"
 buildingtype: Residential
@@ -13,8 +24,8 @@ marker:
     minZoom: -2.5
 ---
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/PCs/Otonashi Amaya.md|Otonashi Amaya]]
+> **Type:** Residential
 
 ## Description

@@ -1,7 +1,15 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-08-04T12:06:58.459Z
+modified: 2026-07-21T20:34:30.384Z
+published: 2026-07-21T20:34:30.384Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - npc
+aliases: []
 status: Alive
 location: "[[Industrial District|Industrial District]]"
 faction:
@@ -13,15 +21,15 @@ npcimage: "[[Kawaka.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Industrial District.md|Industrial District]]
+> **Ancestry:** [[1. World Almanac/Creatures/Tengu.md|Tengu]]
+> **Profession:** Guild leader
+> **Faction:**
 
 ## Appearance
 
-![[Kawaka.webp|400]]
+![[z_assets/NPCs/Kawaka.webp|400]]
 
 ## Bio
 A bookmaker working at the Cloud Paper House, and guild leader among those working in the [[Industrial District]].

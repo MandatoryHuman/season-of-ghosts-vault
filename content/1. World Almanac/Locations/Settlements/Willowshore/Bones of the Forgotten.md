@@ -1,9 +1,20 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-08-04T12:06:58.378Z
+modified: 2026-08-16T08:41:54.819Z
+published: 2026-08-16T08:41:54.819Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - location/building
   - cemetery
   - shrine
+<<<<<<< HEAD
+=======
+aliases: []
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 settlement: "[[Willowshore]]"
 owner:
 buildingtype: Cemetery
@@ -14,9 +25,9 @@ marker:
     minZoom: -3
 ---
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:**
+> **Type:** Cemetery
 
 ## Description
 [[Willowshore]], like many remote villages, has its own set of laws. Grievous crimes were punished with exile unless the individual’s skill or knowledge was needed— the punishment was then permanent imprisonment. Executions were rare, as being exiled into [[Specterwood]] was often a death sentence in itself. 

@@ -1,8 +1,16 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-08-04T12:06:58.426Z
+modified: 2026-07-14T20:16:43.809Z
+published: 2026-07-14T20:16:43.809Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - location/building
   - dam
+aliases: []
 settlement: "[[Willowshore]]"
 owner:
 buildingtype: Dam
@@ -13,9 +21,9 @@ marker:
     minZoom: -2.5
 ---
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:**
+> **Type:** Dam
 
 ## Description
 Willowshore’s dam is a minor engineering marvel. Its main body is constructed out of immense, precisely fitted slabs of dark-gray marble, carved with a carefully calculated curvature. The dam has two giant wooden gates that can be closed or opened to lower the level of the lake. Turning the wheel that controls the gates automatically causes a bell to ring, signaling anyone downriver to move away to safety.

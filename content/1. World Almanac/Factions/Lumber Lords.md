@@ -1,14 +1,22 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-08-04T12:06:58.345Z
+modified: 2026-07-15T15:12:17.864Z
+published: 2026-07-15T15:12:17.864Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - faction
+aliases: []
 leader: "[[Lung Wa]]"
 alignment:
 factiontype: Work Bosses
 ---
 > [!info]+ Faction Details
-> **Type:** `=this.factiontype`
-> **Leader:** `=this.leader`
+> **Type:** Work Bosses
+> **Leader:** [[1. World Almanac/Factions/Lung Wa.md|Lung Wa]]
 
 ## Details
 A group of wealthy work bosses who moved to [[Willowshore]] at the orders of [[Lung Wa]] to establish and expand various lumber camps. The bosses were known for their exploitation of Willowshore’s ascetic past. Worse, they began to present the settlement as a “getaway” for Lung Wa aristocrats to hunt for sport and indulge in food and drinks forcefully seized in the empire’s name.

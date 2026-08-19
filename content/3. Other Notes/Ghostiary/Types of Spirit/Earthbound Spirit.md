@@ -2,6 +2,13 @@
 title: Earthbound Spirit
 aliases:
   - Jibakurei
+<<<<<<< HEAD
+=======
+title: Earthbound Spirit
+created: 2026-08-04T12:06:58.544Z
+modified: 2026-08-04T11:32:49.912Z
+published: 2026-08-04T11:32:49.912Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - ghost-type
   - creature
@@ -11,10 +18,18 @@ danger: Moderate
 ghost_category: Bound Ghosts
 ---
 > [!info]+ Details
+<<<<<<< HEAD
 > * **Other Names:** `=this.aliases`
 > * **Cultural Origin(s):** `=this.cultural_origin`
 > * **Category** `=link(this.ghost_category)`
 > * **Danger:** `=this.danger`
+=======
+>
+> - **Other Names:** Jibakurei
+> - **Cultural Origin(s):** Japanese
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Bound Ghosts.md|Bound Ghosts]]
+> - **Danger:** Moderate
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ---
 ## Overview

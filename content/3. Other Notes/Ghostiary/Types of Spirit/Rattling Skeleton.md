@@ -3,6 +3,13 @@ title: Rattling Skeleton
 aliases:
   - Gashadokuro
   - Odokuro
+<<<<<<< HEAD
+=======
+title: Rattling Skeleton
+created: 2026-08-04T12:06:58.566Z
+modified: 2026-08-04T11:33:21.939Z
+published: 2026-08-04T11:33:21.939Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - ghost-type
   - creature
@@ -12,14 +19,27 @@ danger: Very High
 ghost_category: Wandering Ghosts
 ---
 > [!info]+ Details
+<<<<<<< HEAD
 > * **Other Names:** `=this.aliases`
 > * **Cultural Origin(s):** `=this.cultural_origin`
 > * **Category** `=link(this.ghost_category)`
 > * **Danger:** `=this.danger`
+=======
+>
+> - **Other Names:** Gashadokuro,Odokuro
+> - **Cultural Origin(s):** Japanese
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
+> - **Danger:** Very High
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ---
 ## Overview
+<<<<<<< HEAD
 ![[Gashadokuro.webp|float-left|400]]The Gashadokuro is a huge being made up of the skulls of those who died on the battlefield, or of starvation. While the souls of these people may pass along or become other types of spirit - especially [[God of Drought|Hiderigami]] - their bodies join to form a single huge skeleton.
+=======
+
+![[z_assets/Creatures/Ghost Types/Gashadokuro.webp|float-left|400]]The Gashadokuro is a huge being made up of the skulls of those who died on the battlefield, or of starvation. While the souls of these people may pass along or become other types of spirit - especially [[God of Drought|Hiderigami]] - their bodies join to form a single huge skeleton.
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ## Behaviour and Haunts
 - The Gashadokuro is active at night; normally around 2am.

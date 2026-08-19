@@ -1,9 +1,20 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-08-04T12:06:58.404Z
+modified: 2026-08-16T08:36:56.682Z
+published: 2026-08-16T08:36:56.682Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - location/building
   - mill
   - business
+<<<<<<< HEAD
+=======
+aliases: []
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 settlement: "[[Willowshore]]"
 owner: "[[Choe Chung-hu]]"
 buildingtype: Mill
@@ -14,9 +25,9 @@ marker:
     minZoom: -2.5
 ---
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Choe Chung-hu.md|Choe Chung-hu]]
+> **Type:** Mill
 
 ## Description
 Willowshore has numerous millhouses, including two powered by water, three by wind, and ten powered by people or draft animals. The abundance ensures that losing one or two mills to routine maintenance or malfunction never jeopardizes the village’s needs. Work at the mills is intense, and the hours can be irregular due to the demand each day. 

@@ -2,6 +2,13 @@
 title: Changed Cat
 aliases:
   - Bakeneko
+<<<<<<< HEAD
+=======
+title: Changed Cat
+created: 2026-08-04T12:06:58.540Z
+modified: 2026-08-04T11:32:43.892Z
+published: 2026-08-04T11:32:43.892Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - ghost-type
   - creature
@@ -11,14 +18,27 @@ danger: Low
 ghost_category: Wandering Ghosts
 ---
 > [!info]+ Details
+<<<<<<< HEAD
 > * **Other Names:** `=this.aliases`
 > * **Cultural Origin(s):** `=this.cultural_origin`
 > * **Category** `=link(this.ghost_category)`
 > * **Danger:** `=this.danger`
+=======
+>
+> - **Other Names:** Bakeneko
+> - **Cultural Origin(s):** Japanese
+> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
+> - **Danger:** Low
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ---
 ## Overview
+<<<<<<< HEAD
 ![[Changed Cat.webp|float-left|400]]The bakeneko is a type of cat-like spirit. Over the years bakeneko have been associated with many different things; from being well-known thieves, to their links to prostitutes, who often use images of bakeneko as a subtle identifier of their profession.
+=======
+
+![[z_assets/Creatures/Ghost Types/Changed Cat.webp|float-left|400]]The bakeneko is a type of cat-like spirit. Over the years bakeneko have been associated with many different things; from being well-known thieves, to their links to prostitutes, who often use images of bakeneko as a subtle identifier of their profession.
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ## Behaviour and Haunts
 - Most bakeneko are harmless - at worst you'll find a few possessions going missing every now and then.

@@ -1,18 +1,26 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-08-04T12:06:58.370Z
+modified: 2026-07-16T23:24:53.506Z
+published: 2026-07-16T23:24:53.506Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - location/settlement
   - town
+aliases: []
 region: "[[Shenmen]]"
 ruler:
 population:
 settlement_type: Town
 ---
 > [!info]+ Settlement Details
-> **Type:** `=this.settlement_type`
-> **Region:** `=this.region`
-> **Leadership:** `=this.ruler`
-> **Population:** `=this.population`
+> **Type:** Town
+> **Region:** [[1. World Almanac/Locations/Regions/Shenmen.md|Shenmen]]
+> **Leadership:**
+> **Population:**
 
 ## Description
 A coastal fortress and [[Willowshore]]'s closest neighbour, roughly a day's ride to the East.

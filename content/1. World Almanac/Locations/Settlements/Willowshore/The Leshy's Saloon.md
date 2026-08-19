@@ -1,9 +1,20 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-08-04T12:06:58.421Z
+modified: 2026-08-16T08:39:25.472Z
+published: 2026-08-16T08:39:25.472Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - location/building
   - teahouse
   - business
+<<<<<<< HEAD
+=======
+aliases: []
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 settlement: "[[Willowshore]]"
 owner: "[[Mountain Summit Grass]]"
 buildingtype: Teahouse
@@ -13,9 +24,9 @@ marker:
     minZoom: -2.5
 ---
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Mountain Summit Grass.md|Mountain Summit Grass]]
+> **Type:** Teahouse
 
 ## Description
 The local leshies don’t recall when they came to the region, just that it was long before [[Willowshore]] was founded. They didn’t officially join Willowshore until the expansion of the settlement made it inevitable. With allied families keeping the greedy lumber lords away, the leshies built their own tea farm business, taking to the roads with brewed tea and teaware stashed in rectangular bamboo backpacks. Some would shout slogans, while others used a simple temple block to inform customers of their arrival. These traveling merchants soon became an attraction and staple of Willowshore life. Ever since the Cerulean Teahouse closed, [[Mountain Summit Grass]], the leader of this band of leshies, has been increasingly focusing on creating bespoke blends of tea for individual local customers they favour.

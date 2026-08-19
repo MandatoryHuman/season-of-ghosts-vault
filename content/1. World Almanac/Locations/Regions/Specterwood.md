@@ -1,13 +1,21 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-08-04T12:06:58.365Z
+modified: 2026-07-15T17:19:08.580Z
+published: 2026-07-15T17:19:08.580Z
+>>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - location/region
+aliases: []
 parentregion: "[[Shenmen]]"
 dangerlevel: High
 ---
 > [!info]+ Regional Data
-> **Broader Region:** `=this.parentregion`
-> **Danger:** `=this.dangerlevel`
+> **Broader Region:** [[1. World Almanac/Locations/Regions/Shenmen.md|Shenmen]]
+> **Danger:** High
 
 ## Geography & Weather
 The Specterwood is a huge forest that dominates much of the northernmost reaches of the kingdom of [[Shenmen]]. Before the fall of Imperial [[Lung Wa]], the Specterwood was one of the most valuable assets of Shenmen: the officials of Lung Wa cared little for what happened within Shenmen just as long as the lumber from the Specterwood continued to flow.
