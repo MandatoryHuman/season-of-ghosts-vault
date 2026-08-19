@@ -1,20 +1,9 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-08-04T12:06:58.399Z
-modified: 2026-08-16T08:36:51.828Z
-published: 2026-08-16T08:36:51.828Z
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - location/building
   - office
   - business
-<<<<<<< HEAD
-=======
-aliases: []
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 settlement: "[[Willowshore]]"
 owner: "[[Luo Xi Yang]]"
 buildingtype: Law office

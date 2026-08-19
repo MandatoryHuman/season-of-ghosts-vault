@@ -1,12 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-08-04T12:06:58.480Z
-modified: 2026-07-30T19:15:27.213Z
-published: 2026-07-30T19:15:27.213Z
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - npc
 aliases: []
@@ -34,13 +27,7 @@ spouse: "[[Otonashi Kairi]]"
 ## Bio
 Nagi is the mother of the twins [[Otonashi Amaya]] and [[Otonashi Shio]]. In her youth, Nagi lived in the city [[Sze]], working as an [Ama](https://en.wikipedia.org/wiki/Ama_(diving)) Diver. She made her living collecting seaweed and oysters from the [[Sea of Ghosts]] - a dangerous job, but reasonably profitable for those who were skilled enough to brave the depths.
 
-<<<<<<< HEAD
 Nagi met [[Otonashi Kairi]] via her work; the latter was a pearl carver to whom she sold her finest discoveries. The pair were quickly smitten with one another, but the courtship between them was an excruciating period. For over two years, Nagi would bring her highest-quality pearls exclusively to Kairi, and in return, Kairi would drastically overpay her - a stubborn habit that nearly cost him his apprenticeship on more than one occasion. 
-=======
-Nagi is the mother of the twins [[Otonashi Amaya]] and [[Otonashi Shio]]. In her youth, Nagi lived in the city [[Sze]], working as an [Ama](https://en.wikipedia.org/wiki/Ama_\(diving\)) Diver. She made her living collecting seaweed and oysters from the [[Sea of Ghosts]] - a dangerous job, but reasonably profitable for those who were skilled enough to brave the depths.
-
-Nagi met [[Otonashi Kairi]] via her work; the latter was a pearl carver to whom she sold her finest discoveries. The pair were quickly smitten with one another, but the courtship between them was an excruciating period. For over two years, Nagi would bring her highest-quality pearls exclusively to Kairi, and in return, Kairi would drastically overpay her - a stubborn habit that nearly cost him his apprenticeship on more than one occasion.
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 Eventually, Kairi could contain his feelings no longer. On the day he finally graduated to become a master artisan in his own right, he presented Nagi with a stunning necklace carved from one of her own pearls. Feigning practicality, he suggested they form a "business partnership". This thinly veiled proposition almost immediately blossomed into a true romance, and the pair were married within the year.
 

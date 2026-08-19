@@ -2,13 +2,6 @@
 title: Oily Man
 aliases:
   - Orang Minyak
-<<<<<<< HEAD
-=======
-title: Oily Man
-created: 2026-08-04T12:06:58.562Z
-modified: 2026-08-04T11:33:16.860Z
-published: 2026-08-04T11:33:16.860Z
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - ghost-type
   - creature
@@ -18,27 +11,14 @@ danger: High
 ghost_category: Wandering Ghosts
 ---
 > [!info]+ Details
-<<<<<<< HEAD
 > * **Other Names:** `=this.aliases`
 > * **Cultural Origin(s):** `=this.cultural_origin`
 > * **Category** `=link(this.ghost_category)`
 > * **Danger:** `=this.danger`
-=======
->
-> - **Other Names:** Orang Minyak
-> - **Cultural Origin(s):** Malaysian 
-> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
-> - **Danger:** High
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ---
 ## Overview
-<<<<<<< HEAD
 ![[Orang Minyak.webp|float-left|400]]An Orang Minyak is a spirit known for abducting women at night. He appears naked, with his body is covered in a shiny black grease, which is reported to be made up of coconut oil, hair oil, and soot.
-=======
-
-![[z_assets/Creatures/Ghost Types/Orang Minyak.webp|float-left|400]]An Orang Minyak is a spirit known for abducting women at night. He appears naked, with his body is covered in a shiny black grease, which is reported to be made up of coconut oil, hair oil, and soot.
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ## Behaviour and Haunts
 - The Orang Minyak is said to break into homes during the night and abduct women sleeping within, all while leaving a trail of the black oil his body is coated in. It's said that he targets virgins in particular.

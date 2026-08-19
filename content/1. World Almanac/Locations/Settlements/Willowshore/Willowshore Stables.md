@@ -1,20 +1,9 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-08-04T12:06:58.429Z
-modified: 2026-08-16T08:40:04.444Z
-published: 2026-08-16T08:40:04.444Z
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - location/building
   - shop
   - business
-<<<<<<< HEAD
-=======
-aliases: []
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 settlement: "[[Willowshore]]"
 owner: "[[Kum Soon-chong]]"
 buildingtype: Stable

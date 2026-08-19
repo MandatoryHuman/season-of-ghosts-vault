@@ -1,21 +1,10 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-08-04T12:06:58.393Z
-modified: 2026-08-16T08:41:51.637Z
-published: 2026-08-16T08:41:51.637Z
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - location/building
   - shop
   - business
   - shrine
-<<<<<<< HEAD
-=======
-aliases: []
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 settlement: "[[Willowshore]]"
 owner: "[[You So-Jin]]"
 buildingtype: Cemetery
@@ -31,10 +20,6 @@ marker:
 > **Type:** Cemetery
 
 ## Description
-<<<<<<< HEAD
-=======
-
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 Willowshore’s residents practiced cremation in its early days to prevent undeath. The tombs in this old cemetery house the urns of many of those early settlers. Today, only a few families use Graveside Manners as a burial ground. The headstones remain free of lichen and moss thanks to the graveyard’s keeper, [[You So-Jin]]. Once a pilgrim who frequented the [[Tan Sugi Monastery]], So-Jin settled in Willowshore after the monastery’s collapse and maintains an herbalist shop - the primary reason anyone visits Graveside Manners today.
 
 ## Goods, Services & Rumours

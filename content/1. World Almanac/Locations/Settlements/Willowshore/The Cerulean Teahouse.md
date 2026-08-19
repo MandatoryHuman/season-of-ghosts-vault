@@ -1,12 +1,6 @@
 ---
 aliases:
   - Cerulean Teahouse
-<<<<<<< HEAD
-=======
-created: 2026-08-04T12:06:58.417Z
-modified: 2026-08-16T08:38:32.314Z
-published: 2026-08-16T08:38:32.314Z
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - location/building
   - teahouse

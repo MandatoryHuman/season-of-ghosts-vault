@@ -1,11 +1,4 @@
 ---
-<<<<<<< HEAD
-=======
-publish: true
-created: 2026-08-04T12:06:58.525Z
-modified: 2026-08-16T08:16:53.856Z
-published: 2026-08-16T08:16:53.856Z
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 aliases: []
 tags: []
 ---
@@ -24,17 +17,4 @@ views:
     order:
       - file.name
 
-<<<<<<< HEAD
-=======
-```base
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - file.folder == "3. Other Notes/Ghostiary/Categories of Ghost"
-    order:
-      - file.name
-
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 ```

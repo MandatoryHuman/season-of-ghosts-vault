@@ -1,12 +1,6 @@
 ---
 aliases:
   - Amaya
-<<<<<<< HEAD
-=======
-created: 2026-08-04T12:06:58.497Z
-modified: 2026-07-30T19:41:21.933Z
-published: 2026-07-30T19:41:21.933Z
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - pc
 player_name: Alfie

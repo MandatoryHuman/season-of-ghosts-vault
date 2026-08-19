@@ -1,20 +1,9 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-08-04T12:06:58.390Z
-modified: 2026-08-16T08:36:35.107Z
-published: 2026-08-16T08:36:35.107Z
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - location/building
   - fishery
   - business
-<<<<<<< HEAD
-=======
-aliases: []
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 settlement: "[[Willowshore]]"
 owner: "[[Zataku]]"
 buildingtype: Fishery

@@ -1,12 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-08-04T12:06:58.349Z
-modified: 2026-07-26T14:12:17.474Z
-published: 2026-07-26T14:12:17.474Z
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - faction
 aliases: []

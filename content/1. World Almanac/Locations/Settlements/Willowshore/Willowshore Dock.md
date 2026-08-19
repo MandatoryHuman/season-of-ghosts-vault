@@ -1,20 +1,9 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-08-04T12:06:58.428Z
-modified: 2026-08-16T08:40:01.193Z
-published: 2026-08-16T08:40:01.193Z
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - location/building
   - dock
   - business
-<<<<<<< HEAD
-=======
-aliases: []
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 settlement: "[[Willowshore]]"
 owner: "[[Rajul Samudra]]"
 buildingtype: Dock

@@ -3,13 +3,6 @@ title: Pregnant Ghost
 aliases:
   - Kuntilanak
   - Pontianak
-<<<<<<< HEAD
-=======
-title: Pregnant Ghost
-created: 2026-08-04T12:06:58.565Z
-modified: 2026-08-04T11:33:20.506Z
-published: 2026-08-04T11:33:20.506Z
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - ghost-type
   - creature
@@ -20,18 +13,10 @@ danger: Very High
 ghost_category: Vengeful Ghosts
 ---
 > [!info]+ Details
-<<<<<<< HEAD
 > * **Other Names:** `=this.aliases`
 > * **Cultural Origin(s):** `=this.cultural_origin`
 > * **Category** `=link(this.ghost_category)`
 > * **Danger:** `=this.danger`
-=======
->
-> - **Other Names:** Kuntilanak,Pontianak
-> - **Cultural Origin(s):** Indonesian,Malaysian 
-> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Vengeful Ghosts.md|Vengeful Ghosts]]
-> - **Danger:** Very High
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ---
 ## Overview

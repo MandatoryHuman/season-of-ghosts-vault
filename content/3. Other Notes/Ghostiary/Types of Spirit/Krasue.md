@@ -6,13 +6,6 @@ aliases:
   - Kuyang
   - Palasik
   - Capculacay
-<<<<<<< HEAD
-=======
-title: Krasue
-created: 2026-08-04T12:06:58.557Z
-modified: 2026-08-04T11:33:10.492Z
-published: 2026-08-04T11:33:10.492Z
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - ghost-type
   - creature
@@ -22,27 +15,14 @@ danger: Very High
 ghost_category: Wandering Ghosts
 ---
 > [!info]+ Details
-<<<<<<< HEAD
 > * **Other Names:** `=this.aliases`
 > * **Cultural Origin(s):** `=this.cultural_origin`
 > * **Category** `=link(this.ghost_category)`
 > * **Danger:** `=this.danger`
-=======
->
-> - **Other Names:** Ahp,Penanggal,Kuyang,Palasik,Capculacay
-> - **Cultural Origin(s):** Thai
-> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Wandering Ghosts.md|Wandering Ghosts]]
-> - **Danger:** Very High
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ---
 ## Overview
-<<<<<<< HEAD
 ![[Krasue.webp|float-left|300]]A Krasue is believed to be a spirit of a person who committed sins that included fraudulent conduct during their life. As punishment for these sins, the spirit is reborn as a being that has to live off wasted, uncooked, and rotten food. 
-=======
-
-![[z_assets/Creatures/Ghost Types/Krasue.webp|float-left|300]]A Krasue is believed to be a spirit of a person who committed sins that included fraudulent conduct during their life. As punishment for these sins, the spirit is reborn as a being that has to live off wasted, uncooked, and rotten food.
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ## Behaviour and Haunts
 - Krasue are known primarily for haunting pregnant women, attempting to consume the placenta or foetus, but in reality they will kill any who cross their path.

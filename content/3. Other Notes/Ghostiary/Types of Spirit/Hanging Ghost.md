@@ -2,13 +2,6 @@
 publish: true
 aliases:
   - Diào Sǐ Guǐ
-<<<<<<< HEAD
-=======
-title: Hanged Ghost
-created: 2026-08-04T12:06:58.553Z
-modified: 2026-08-04T11:33:02.227Z
-published: 2026-08-04T11:33:02.227Z
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - ghost-type
   - creature
@@ -18,27 +11,14 @@ danger: High
 ghost_category: Bound Ghosts
 ---
 > [!info]+ Details
-<<<<<<< HEAD
 > * **Other Names:** `=this.aliases`
 > * **Cultural Origin(s):** `=this.cultural_origin`
 > * **Category** `=link(this.ghost_category)`
 > * **Danger:** `=this.danger`
-=======
->
-> - **Other Names:** Diào Sǐ Guǐ
-> - **Cultural Origin(s):** Chinese
-> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Bound Ghosts.md|Bound Ghosts]]
-> - **Danger:** High
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ---
 ## Overview
-<<<<<<< HEAD
 ![[Hanged Ghost.webp|float-left|300]]Diào Sǐ Guǐ are the spirits left behind after someone dies by hanging (either by suicide or execution). They are bound to the site of their death and unable to be reincarnated or move on to the afterlife.
-=======
-
-![[z_assets/Creatures/Ghost Types/Hanged Ghost.webp|float-left|300]]Diào Sǐ Guǐ are the spirits left behind after someone dies by hanging (either by suicide or execution). They are bound to the site of their death and unable to be reincarnated or move on to the afterlife.
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ## Behaviour and Haunts
 - Diào Sǐ Guǐ are known to participate in Tì Shēn - a process where they attempt to make living peoples to die by the same method they did in the same location. If successful, the ghost can steal the victim's body. In the case, of Hanging Ghosts that means either convincing a person to commit suicide by hanging, or forcibly strangling them with a noose.

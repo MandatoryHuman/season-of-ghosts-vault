@@ -1,20 +1,9 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-08-04T12:06:58.409Z
-modified: 2026-08-16T08:37:05.600Z
-published: 2026-08-16T08:37:05.600Z
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - location/building
   - shop
   - business
-<<<<<<< HEAD
-=======
-aliases: []
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 settlement:
 owner: "[[Huo Tian-Zhe]]"
 buildingtype: Shop

@@ -2,13 +2,6 @@
 title: Sudden Ghost
 aliases:
   - Phi Tai Hong
-<<<<<<< HEAD
-=======
-title: Sudden Ghost
-created: 2026-08-04T12:06:58.572Z
-modified: 2026-08-04T11:33:32.460Z
-published: 2026-08-04T11:33:32.460Z
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 tags:
   - ghost-type
   - creature
@@ -18,18 +11,10 @@ danger: Very High
 ghost_category: Vengeful Ghosts
 ---
 > [!info]+ Details
-<<<<<<< HEAD
 > * **Other Names:** `=this.aliases`
 > * **Cultural Origin(s):** `=this.cultural_origin`
 > * **Category** `=link(this.ghost_category)`
 > * **Danger:** `=this.danger`
-=======
->
-> - **Other Names:** Phi Tai Hong
-> - **Cultural Origin(s):** Thai
-> - **Category** [[3. Other Notes/Ghostiary/Categories of Ghost/Vengeful Ghosts.md|Vengeful Ghosts]]
-> - **Danger:** Very High
->>>>>>> f95e0a8e9051c3cab07339fe7d3240843ef781a9
 
 ---
 ## Overview
