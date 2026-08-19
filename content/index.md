@@ -2,8 +2,8 @@
 publish: true
 title: Season of Ghosts Vault
 created: 2026-08-19T09:34:54.824Z
-modified: 2026-08-19T09:36:45.975Z
-published: 2026-08-19T09:36:45.975Z
+modified: 2026-08-19T09:58:20.643Z
+published: 2026-08-19T09:58:20.643Z
 banner: "[[SoG Banner.webp]]"
 ---
 
@@ -63,10 +63,6 @@ views:
     markers: none
 
 ```
-
-### Ghost Guide
-
-![[Amaya's Ghostiary]]
 
 ---
 
