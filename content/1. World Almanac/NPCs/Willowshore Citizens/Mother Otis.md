@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-19T09:34:55.588Z
+modified: 2026-07-21T20:34:30.410Z
+published: 2026-07-21T20:34:30.410Z
 tags:
   - npc
 aliases: []
@@ -25,11 +28,14 @@ npcimage: "[[Mother Otis.webp]]"
 ![[z_assets/NPCs/Mother Otis.webp|400]]
 
 ## Bio
+
 Long time owner of the [[Thrice Blessed Inn]], even going back to its days as a brothel.
 
 ## Relationship to Party
+
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-- 
+
+-

@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-19T09:34:55.887Z
+modified: 2026-07-14T20:27:56.495Z
+published: 2026-07-14T20:27:56.495Z
 tags:
   - pc
 aliases: []
@@ -8,6 +11,7 @@ ancestry:
 class:
 partyrole:
 ---
+
 > [!info]+ Character Details
 > **Player:** <% await tp.system.prompt("Who is the player?") %>
 > **Ancestry & Heritage:**
@@ -16,9 +20,10 @@ partyrole:
 
 ## Appearance
 
-
 ## Backstory
-- 
+
+-
 
 ## Current Personal Goals
-- 
+
+-

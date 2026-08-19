@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-19T09:34:55.583Z
+modified: 2026-07-20T01:18:03.929Z
+published: 2026-07-20T01:18:03.929Z
 tags:
   - npc
 aliases: []
@@ -12,6 +15,7 @@ class: Veterinarian
 level:
 npcimage: "[[Kum Soon-chong.webp]]"
 ---
+
 > [!info]+ Biographical Data
 > **Status:** Alive
 > **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore Stables.md|Willowshore Stables]]
@@ -24,6 +28,7 @@ npcimage: "[[Kum Soon-chong.webp]]"
 ![[z_assets/NPCs/Kum Soon-chong.webp|400]]
 
 ## Bio
+
 A vet and owner of the [[Willowshore Stables]] along with his teenage son [[Kum Meng-sung]].
 
 ## Relationship to Party
@@ -32,4 +37,5 @@ A vet and owner of the [[Willowshore Stables]] along with his teenage son [[Kum 
 - **Favours Owed:** None
 
 ## Notes
-- 
+
+-

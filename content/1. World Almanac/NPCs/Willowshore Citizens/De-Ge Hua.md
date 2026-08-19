@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-19T09:34:55.569Z
+modified: 2026-07-21T20:34:30.363Z
+published: 2026-07-21T20:34:30.363Z
 tags:
   - npc
 aliases: []
@@ -25,6 +28,7 @@ npcimage: "[[De-Ge Hua.webp]]"
 ![[z_assets/NPCs/De-Ge Hua.webp|400]]
 
 ## Bio
+
 De-Ge runs [[Willowshore]]'s only bathhouse, the Happy Kappa. He's well known around town for his obsession with cleanliness.
 
 ## Relationship to Party

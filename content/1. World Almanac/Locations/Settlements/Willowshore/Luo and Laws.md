@@ -1,9 +1,13 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-19T09:34:55.518Z
+modified: 2026-08-16T08:36:51.828Z
+published: 2026-08-16T08:36:51.828Z
 tags:
   - location/building
   - office
   - business
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Luo Xi Yang]]"
 buildingtype: Law office
@@ -13,16 +17,20 @@ marker:
     icon: pinhead:three-books-stacked
     minZoom: -2.5
 ---
+
 > [!info]+ Establishment Details
 > **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
 > **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Luo Xi Yang.md|Luo Xi Yang]]
 > **Type:** Law office
 
 ## Description
+
 [[Lung Wa]]’s laws, after being revised time and time again by self-serving rulers, are a bag of contradictions allowing independent lawyers, such as [[Luo Xi Yang]], to make a decent living attempting to make sense of them. Promised by the [[Lumber Lords]] who invited her here that rural life would be less stressful, Xi Yang arrived with only the essential 10-volume Imperial Compendium. Quickly, the lawyer discovered that Willowshore’s legal issues were as complicated, if not more so, than what she’d previously encountered in the city of Sze, and thus her library grew to a size that doubled the one in her former home.
 
 ## Goods, Services & Rumours
+
 - Legal advice
 
 ## Associated NPCs
+
 - [[Luo Xi Yang]]

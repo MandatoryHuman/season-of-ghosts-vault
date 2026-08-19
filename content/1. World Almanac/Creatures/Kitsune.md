@@ -8,6 +8,7 @@ tags:
   - ancestry
 aliases: []
 ---
+
 Kitsune have a long history of marginalization and oppression by various empires throughout Tian Xia's history. Much of this stems from stigma around their shape-changing abilities, which leads to a self-perpetuating cycle. The more they hide, the more they're treated as outsiders; the more they're ostracized, the more they hide their true forms.
 
 ![[z_assets/Creatures/Ancestries/Kitsune.webp|400]]

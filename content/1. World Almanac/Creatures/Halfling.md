@@ -8,7 +8,8 @@ tags:
   - ancestry
 aliases: []
 ---
-Halflings are surprisingly rare in Tian Xia compared to Golarion’s other continents, ever since the legendary Ruby Phoenix Hao Jin sequestered many away in her personal demiplane. Despite this, small populations of halflings exist throughout the continent, especially foreign halflings in cities with access to the rest of Golarion. They’re found happily integrated into city centres and hinterlands, eternally adaptive and enmeshed in vast support networks of friends adopted into found families. 
+
+Halflings are surprisingly rare in Tian Xia compared to Golarion’s other continents, ever since the legendary Ruby Phoenix Hao Jin sequestered many away in her personal demiplane. Despite this, small populations of halflings exist throughout the continent, especially foreign halflings in cities with access to the rest of Golarion. They’re found happily integrated into city centres and hinterlands, eternally adaptive and enmeshed in vast support networks of friends adopted into found families.
 
 ![[z_assets/Creatures/Ancestries/Halfling.webp|400]]
 

@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-19T09:34:55.577Z
+modified: 2026-07-21T20:34:30.384Z
+published: 2026-07-21T20:34:30.384Z
 tags:
   - npc
 aliases: []
@@ -25,11 +28,14 @@ npcimage: "[[Kawaka.webp]]"
 ![[z_assets/NPCs/Kawaka.webp|400]]
 
 ## Bio
+
 A bookmaker working at the Cloud Paper House, and guild leader among those working in the [[Industrial District]].
 
 ## Relationship to Party
+
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-- 
+
+-

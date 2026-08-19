@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-19T09:34:55.880Z
+modified: 2026-07-14T20:27:15.285Z
+published: 2026-07-14T20:27:15.285Z
 tags:
   - location/building
 aliases: []
@@ -7,16 +10,18 @@ settlement:
 owner:
 buildingtype: <% await tp.system.prompt("What kind of building? (e.g., Tavern, Smithy, Residence)") %>
 ---
+
 > [!info]+ Establishment Details
 > **Settlement:**
 > **Owner:**
-> **Type:** <% await tp.system.prompt("What kind of building? (e.g., Tavern, Smithy, Residence)") %>
+> **Type:**
 
 ## Description
 
-
 ## Goods, Services & Rumours
-- 
+
+-
 
 ## Associated NPCs
-- 
+
+-

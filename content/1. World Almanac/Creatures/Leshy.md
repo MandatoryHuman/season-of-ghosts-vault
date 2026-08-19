@@ -8,7 +8,8 @@ tags:
   - ancestry
 aliases: []
 ---
-Unlike other leshies, Tian leshies often spontaneously emerge from the natural vessel they were born in, whether it be a bamboo stalk or a peach fruit, and then dance across the world with traits very similar to humans. 
+
+Unlike other leshies, Tian leshies often spontaneously emerge from the natural vessel they were born in, whether it be a bamboo stalk or a peach fruit, and then dance across the world with traits very similar to humans.
 
 ![[z_assets/Creatures/Ancestries/Leshy.webp|400]]
 

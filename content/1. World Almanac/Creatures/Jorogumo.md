@@ -8,7 +8,8 @@ tags:
   - ancestry
 aliases: []
 ---
-The Jorogumo are a race of part-humanoid, part-spider creatures who live mainly underground. 
+
+The Jorogumo are a race of part-humanoid, part-spider creatures who live mainly underground.
 
 ![[z_assets/Creatures/Ancestries/Jorogumo.webp]]
 

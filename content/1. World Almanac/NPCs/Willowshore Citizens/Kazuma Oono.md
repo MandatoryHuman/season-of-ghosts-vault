@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-19T09:34:55.578Z
+modified: 2026-07-21T20:34:30.389Z
+published: 2026-07-21T20:34:30.389Z
 tags:
   - npc
 aliases: []
@@ -25,6 +28,7 @@ npcimage: "[[Kazuma Oono.webp]]"
 ![[z_assets/NPCs/Kazuma Oono.webp|400]]
 
 ## Bio
+
 Owner and director of the Seven-Coloured Songbird theatre.
 
 ## Relationship to Party

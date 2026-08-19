@@ -1,8 +1,12 @@
 ---
-aliases: []
+publish: true
+aliases:
+  - The Lung Wa Empire
+created: 2026-08-19T09:34:55.470Z
+modified: 2026-08-19T09:37:01.895Z
+published: 2026-08-19T09:37:01.895Z
 tags:
   - faction
-aliases: []
 leader: Various emperors
 alignment:
 factiontype: Empire

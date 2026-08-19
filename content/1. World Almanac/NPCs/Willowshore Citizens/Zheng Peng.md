@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-19T09:34:55.604Z
+modified: 2026-07-21T20:34:30.454Z
+published: 2026-07-21T20:34:30.454Z
 tags:
   - npc
 aliases: []
@@ -25,6 +28,7 @@ npcimage: "[[Zheng Peng.webp]]"
 ![[z_assets/NPCs/Zheng Peng.webp]]
 
 ## Bio
+
 Commander of [[Willowshore]]'s town guard, headquartered in the barracks in [[Downtown Willowshore]].
 
 ## Relationship to Party
