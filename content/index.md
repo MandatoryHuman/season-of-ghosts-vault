@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Season of Ghosts Vault
-created: 2026-08-19T09:34:54.824Z
-modified: 2026-08-19T10:08:56.936Z
-published: 2026-08-19T10:08:56.936Z
+created: 2026-08-19T10:18:10.362Z
+modified: 2026-08-19T10:36:29.608Z
+published: 2026-08-19T10:36:29.608Z
 banner: "[[SoG Banner.webp]]"
 ---
 
@@ -70,15 +70,53 @@ views:
 
 ### Businesses
 
-![[Willowshore Locations.base#buisinesses]]
+```base
+filters:
+  and:
+    - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
+    - file.tags.contains("business")
+views:
+  - type: table
+    name: Businesses
+    order:
+      - file.name
+      - buildingtype
+      - owner
+
+```
 
 ### Temples & Shrines
 
-![[Willowshore Locations.base#temples-and-shrines]]
+```base
+filters:
+  and:
+    - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
+    - file.tags.contains("shrine")
+views:
+  - type: table
+    name: Temples & Shrines
+    order:
+      - file.name
+      - buildingtype
+      - owner
+
+```
 
 ### Houses
 
-![[Willowshore Locations.base#residential]]
+```base
+filters:
+  and:
+    - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
+    - file.tags.contains("residential")
+views:
+  - type: table
+    name: Residential
+    order:
+      - file.name
+      - owner
+
+```
 
 ---
 
