@@ -2,8 +2,8 @@
 publish: true
 title: Season of Ghosts Vault
 created: 2026-08-19T09:34:54.824Z
-modified: 2026-08-19T09:58:20.643Z
-published: 2026-08-19T09:58:20.643Z
+modified: 2026-08-19T10:08:56.936Z
+published: 2026-08-19T10:08:56.936Z
 banner: "[[SoG Banner.webp]]"
 ---
 
@@ -70,15 +70,15 @@ views:
 
 ### Businesses
 
-![[Willowshore Locations.base#Buisinesses]]
+![[Willowshore Locations.base#buisinesses]]
 
 ### Temples & Shrines
 
-![[Willowshore Locations.base#Temples & Shrines]]
+![[Willowshore Locations.base#temples-and-shrines]]
 
 ### Houses
 
-![[Willowshore Locations.base#Residential]]
+![[Willowshore Locations.base#residential]]
 
 ---
 
