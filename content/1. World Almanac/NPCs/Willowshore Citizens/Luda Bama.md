@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-19T09:34:55.585Z
+modified: 2026-07-21T20:34:30.401Z
+published: 2026-07-21T20:34:30.401Z
 tags:
   - npc
 status: Alive
@@ -24,11 +27,14 @@ npcimage: "[[Luda Bama.webp]]"
 ![[Luda Bama.webp|400]]
 
 ## Bio
+
 A spry, elderly halfling woman, and head of [[The Mushroom House]], an illicit market which she runs with the explicit permission of [[Hu Ban-niang|Granny Hu]].
 
 ## Relationship to Party
+
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-- 
+
+-

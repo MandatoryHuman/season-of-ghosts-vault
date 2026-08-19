@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-19T09:34:55.886Z
+modified: 2026-07-14T20:27:52.429Z
+published: 2026-07-14T20:27:52.429Z
 tags:
   - npc
 status: Alive
@@ -10,6 +13,7 @@ class:
 level:
 npcimage:
 ---
+
 > [!info]+ Biographical Data
 > **Status:** `=this.status`
 > **Location:** `=this.location`
@@ -23,10 +27,11 @@ npcimage:
 
 ## Bio
 
-
 ## Relationship to Party
+
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-- 
+
+-

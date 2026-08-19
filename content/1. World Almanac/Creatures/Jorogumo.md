@@ -4,7 +4,8 @@ tags:
   - creature
   - ancestry
 ---
-The Jorogumo are a race of part-humanoid, part-spider creatures who live mainly underground. 
+
+The Jorogumo are a race of part-humanoid, part-spider creatures who live mainly underground.
 
 ![[Jorogumo.webp]]
 

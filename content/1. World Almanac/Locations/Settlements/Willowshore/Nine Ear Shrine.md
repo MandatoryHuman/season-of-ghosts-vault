@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-19T09:34:55.526Z
+modified: 2026-07-14T20:16:22.372Z
+published: 2026-07-14T20:16:22.372Z
 tags:
   - location/building
   - shrine
@@ -12,12 +15,14 @@ marker:
     colour: "#e2c505"
     minZoom: -2.5
 ---
+
 > [!info]+ Establishment Details
 > **Settlement:** `=this.settlement`
 > **Owner:** `=this.owner`
 > **Type:** `=this.buildingtype`
 
 ## Description
+
 This mud-wall hut looks like a grain storage hut from the outside. Its interior descends 10 feet underground into an enclosed space lined with stone, in the middle of which sits a 15-foot-tall marble statue of a nine-tailed fox. A large spiritual rope made of hay hangs off its neck. The walls of the basement are decorated with painted carvings that depict stories of [Daikitsu](https://pathfinderwiki.com/wiki/Daikitsu).
 
 Fifteen years ago, a desperate mother of the Ouh family hid her baby here as the family was rounded up for execution by a corrupt guard. By the time the guards learned about the missing offspring, a large skulk of foxes had surrounded the temple. Unwilling to tempt divine wrath, the guards retreated. Allies of the family soon arrived to rescue the baby, at which point the foxes vanished.
@@ -25,7 +30,9 @@ Fifteen years ago, a desperate mother of the Ouh family hid her baby here as the
 That baby, [[Ba-Ming Ouh]], grew up under the care of distant relatives. While she shows signs of the Ouh family’s inclinations toward the veneration of nature, Ba-Ming wishes to return her life debt by serving [Daikitsu](https://pathfinderwiki.com/wiki/Daikitsu). While some question her intentions, most Willowshorers support her dedication.
 
 ## Goods, Services & Rumours
+
 - Sells fulus, scrolls, and talismans
 
 ## Associated NPCs
+
 - [[Ba-Ming Ouh]]

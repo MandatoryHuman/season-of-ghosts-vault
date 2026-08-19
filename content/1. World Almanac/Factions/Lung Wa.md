@@ -1,6 +1,15 @@
 ---
+<<<<<<< HEAD
 aliases:
   - The Lung Wa Empire
+=======
+publish: true
+aliases:
+  - The Lung Wa Empire
+created: 2026-08-19T09:34:55.470Z
+modified: 2026-08-19T09:37:01.895Z
+published: 2026-08-19T09:37:01.895Z
+>>>>>>> c0476197b36a818bceae30cd7483b56e7e703bd1
 tags:
   - faction
 leader: Various emperors

@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-19T09:34:55.599Z
+modified: 2026-07-21T20:34:30.430Z
+published: 2026-07-21T20:34:30.430Z
 tags:
   - npc
 status: Alive
@@ -24,11 +27,14 @@ npcimage:
 (Image)
 
 ## Bio
+
 Blacksmith and owner of the [[Eternal Blaze Ironworks]].
 
 ## Relationship to Party
+
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-- 
+
+-

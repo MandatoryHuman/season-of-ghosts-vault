@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-19T09:34:55.598Z
+modified: 2026-07-25T13:52:43.917Z
+published: 2026-07-25T13:52:43.917Z
 tags:
   - npc
 status: Alive
@@ -24,11 +27,14 @@ npcimage: "[[Rajul Samudra.webp]]"
 ![[Rajul Samudra.webp|400]]
 
 ## Bio
+
 Manager of the [[Willowshore]] [[Willowshore Dock]], as hired by [[The Ceiba-Duyue Exchange]] due to his great skill in boatbuilding.
 
 ## Relationship to Party
+
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-- 
+
+-

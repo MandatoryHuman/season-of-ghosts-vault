@@ -1,6 +1,10 @@
 ---
+publish: true
 aliases:
   - Amaya
+created: 2026-08-19T09:34:55.611Z
+modified: 2026-07-30T19:41:21.933Z
+published: 2026-07-30T19:41:21.933Z
 tags:
   - pc
 player_name: Alfie
@@ -14,6 +18,7 @@ ally: "[[Crimson Rosoideae]]"
 parent: Otonashi Nagi, Otonashi Kairi
 family: "[[Otonashi Shio]]"
 ---
+
 > [!info]+ Character Details
 > **Player:** `=this.player_name`
 > **Ancestry & Heritage:** `=this.ancestry`
@@ -25,6 +30,7 @@ family: "[[Otonashi Shio]]"
 ![[Otonashi Amaya.webp|400]]
 
 ## Backstory
+
 Amaya is a staunch follower of the teachings of the River of Life, otherwise known as Sangpotshi. She believes that when a person passes, their essence trickles back into the River of Souls, flowing through the afterlife before cascading down the final waterfall to be born anew. Over these repeated journeys, a spirit accumulates merit through virtuous deeds, slowly earning its ultimate release from the endless cycle to find its final resting place in the Great Beyond.
 
 Since childhood, Amaya has had a strong sensitivity to this spiritual veil, able to sense, understand, and speak with lingering spirits when others fail. Driven in equal measure by a sense of solemn duty and of earnest curiosity, Amaya has devoted countless hours to honing these abilities to bridge the gap between herself and the departed.
@@ -38,4 +44,5 @@ Amaya spends much of her days accompanying [[Elizeth Candora|Elizeth]] in tendin
 For the last three years running Amaya has been unable to participate in the annual [[Reenactment Festival]], called away at the last moment for work and family commitments, so she is ecstatic to finally get her chance this year to experience it first-hand.
 
 ## Current Personal Goals
+
 - Participate in the [[Reenactment Festival]]

@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-19T09:34:55.600Z
+modified: 2026-07-21T20:34:30.437Z
+published: 2026-07-21T20:34:30.437Z
 tags:
   - npc
 status: Alive
@@ -24,11 +27,14 @@ npcimage: "[[You So-Jin.webp]]"
 ![[You So-Jin.webp|400]]
 
 ## Bio
-Graveyard keeper at [[Graveside Manners]] and a once-pilgrim who made many journeys to the [[Tan Sugi Monastery]] before settling in [[Willowshore]] after its collapse. He also runs a herbalist shop from the same location. 
+
+Graveyard keeper at [[Graveside Manners]] and a once-pilgrim who made many journeys to the [[Tan Sugi Monastery]] before settling in [[Willowshore]] after its collapse. He also runs a herbalist shop from the same location.
 
 ## Relationship to Party
+
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-- 
+
+-

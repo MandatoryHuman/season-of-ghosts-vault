@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-19T09:34:55.582Z
+modified: 2026-07-20T01:17:55.810Z
+published: 2026-07-20T01:17:55.810Z
 tags:
   - npc
 status: Alive
@@ -25,11 +28,14 @@ parent: "[[Kum Soon-chong]]"
 ![[Kum Meng-sung.webp|400]]
 
 ## Bio
+
 Veterinarian at the [[Willowshore Stables]] and teenage son to the owner, [[Kum Soon-chong]].
 
 ## Relationship to Party
+
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-- 
+
+-
