@@ -1,5 +1,12 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-08-21T09:22:45.982Z
+modified: 2026-07-26T14:12:17.474Z
+published: 2026-07-26T14:12:17.474Z
+>>>>>>> d031c42ce88cdbe53cbf40b34bd17730301da986
 tags:
   - faction
 leader: "[[Hu Ban-niang]]"

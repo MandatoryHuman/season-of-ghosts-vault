@@ -2,6 +2,13 @@
 title: Jungle Ghost
 aliases:
   - Phi Kong Koi
+<<<<<<< HEAD
+=======
+title: Jungle Ghost
+created: 2026-08-21T09:22:46.240Z
+modified: 2026-08-14T13:28:31.314Z
+published: 2026-08-14T13:28:31.314Z
+>>>>>>> d031c42ce88cdbe53cbf40b34bd17730301da986
 tags:
   - ghost-type
   - creature

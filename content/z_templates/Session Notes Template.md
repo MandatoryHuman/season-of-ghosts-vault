@@ -1,5 +1,12 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-08-21T09:22:46.496Z
+modified: 2026-07-14T20:28:07.792Z
+published: 2026-07-14T20:28:07.792Z
+>>>>>>> d031c42ce88cdbe53cbf40b34bd17730301da986
 tags:
   - session
 realdate: <% tp.file.creation_date("YYYY-MM-DD") %>

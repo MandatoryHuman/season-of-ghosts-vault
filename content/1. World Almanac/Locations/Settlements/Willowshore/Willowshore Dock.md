@@ -1,5 +1,12 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-08-21T09:22:46.082Z
+modified: 2026-08-16T08:40:01.193Z
+published: 2026-08-16T08:40:01.193Z
+>>>>>>> d031c42ce88cdbe53cbf40b34bd17730301da986
 tags:
   - location/building
   - dock

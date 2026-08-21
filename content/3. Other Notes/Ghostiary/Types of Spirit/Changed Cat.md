@@ -2,6 +2,13 @@
 title: Changed Cat
 aliases:
   - Bakeneko
+<<<<<<< HEAD
+=======
+title: Changed Cat
+created: 2026-08-21T09:22:46.209Z
+modified: 2026-08-04T11:32:43.892Z
+published: 2026-08-04T11:32:43.892Z
+>>>>>>> d031c42ce88cdbe53cbf40b34bd17730301da986
 tags:
   - ghost-type
   - creature
