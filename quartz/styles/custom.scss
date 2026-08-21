@@ -28,3 +28,28 @@ img[alt*="float-left"] {
   clear: left;
   margin: 0.5rem 1.5rem 1rem 0;
 }
+
+.table-container {
+  /* Ensures the container itself respects the page width */
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-x: hidden; /* Hides the scrollbar if the overflow is purely cosmetic */
+  
+  table {
+    width: 100%;
+    max-width: 100%;
+    /* Forces the table to lock strictly to the container width */
+    table-layout: fixed; 
+    
+    th, td {
+      /* Ensures internal padding doesn't inflate the column width */
+      box-sizing: border-box;
+      overflow-wrap: break-word;
+    }
+
+    /* Allows the pill-shaped links to wrap if they ever need to */
+    a.internal {
+      white-space: normal;
+    }
+  }
+}

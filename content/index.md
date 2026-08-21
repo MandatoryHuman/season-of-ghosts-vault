@@ -61,13 +61,52 @@ views:
 # Locations in Willowshore
 
 ### Businesses 
-![[Willowshore Locations.base#Buisinesses]]
+```base
+filters:
+  and:
+    - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
+    - file.tags.contains("business")
+views:
+  - type: table
+    name: Businesses
+    order:
+      - file.name
+      - buildingtype
+      - owner
+
+```
+
 
 ### Temples & Shrines
-![[Willowshore Locations.base#Temples & Shrines]]
+```base
+filters:
+  and:
+    - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
+    - file.tags.contains("shrine")
+views:
+  - type: table
+    name: Temples & Shrines
+    order:
+      - file.name
+      - buildingtype
+      - owner
+
+```
 
 ### Houses
-![[Willowshore Locations.base#Residential]]
+```base
+filters:
+  and:
+    - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
+    - file.tags.contains("residential")
+views:
+  - type: table
+    name: Residential
+    order:
+      - file.name
+      - owner
+
+```
 
 ---
 
