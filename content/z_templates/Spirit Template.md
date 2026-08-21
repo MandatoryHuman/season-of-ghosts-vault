@@ -1,43 +1,33 @@
 ---
-publish: true
 title: <% tp.file.title %>
-created: 2026-08-19T10:18:11.486Z
-modified: 2026-08-05T12:05:42.165Z
-published: 2026-08-05T12:05:42.165Z
+aliases: []
 tags:
   - ghost-type
   - creature
-aliases: []
 cultural_origin: ""
 danger: ""
 ghost_category:
 ---
-
 > [!info]+ Details
->
-> - **Other Names:**
-> - **Cultural Origin(s):**
-> - **Category**
-> - **Danger:**
+> * **Other Names:** `=this.aliases`
+> * **Cultural Origin(s):** `=this.cultural_origin`
+> * **Category** `=link(this.ghost_category)`
+> * **Danger:** `=this.danger`
 
 ---
-
 ## Overview
 
-## Behaviour and Haunts
 
--
+## Behaviour and Haunts
+- 
 
 ### Recognition Guide
-
--
+- 
 
 ### Associated Hazards
-
--
+- 
 
 ## Exorcism and Resolution
-
--
+- 
 
 ### See also

@@ -1,11 +1,7 @@
 ---
-publish: true
-created: 2026-08-19T10:18:11.478Z
-modified: 2026-07-14T20:27:52.429Z
-published: 2026-07-14T20:27:52.429Z
+aliases: []
 tags:
   - npc
-aliases: []
 status: Alive
 location:
 faction:
@@ -14,13 +10,12 @@ class:
 level:
 npcimage:
 ---
-
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:**
-> **Ancestry:**
-> **Profession:**
-> **Faction:**
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 
@@ -28,11 +23,10 @@ npcimage:
 
 ## Bio
 
-## Relationship to Party
 
+## Relationship to Party
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-
--
+- 

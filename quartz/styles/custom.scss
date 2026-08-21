@@ -30,24 +30,29 @@ img[alt*="float-left"] {
 }
 
 .table-container {
-  /* Ensures the container itself respects the page width */
+  /* Resets any default negative margins pushing the container outward */
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  
+  width: 100%;
   max-width: 100%;
   box-sizing: border-box;
-  overflow-x: hidden; /* Hides the scrollbar if the overflow is purely cosmetic */
+  
+  /* Restoring auto allows for scrolling on mobile screens where it's genuinely needed */
+  overflow-x: auto; 
   
   table {
     width: 100%;
     max-width: 100%;
-    /* Forces the table to lock strictly to the container width */
     table-layout: fixed; 
+    border-collapse: collapse; /* Ensures borders don't add extra width */
     
     th, td {
-      /* Ensures internal padding doesn't inflate the column width */
       box-sizing: border-box;
+      word-wrap: break-word;
       overflow-wrap: break-word;
     }
 
-    /* Allows the pill-shaped links to wrap if they ever need to */
     a.internal {
       white-space: normal;
     }
