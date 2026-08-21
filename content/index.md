@@ -1,9 +1,9 @@
 ---
 publish: true
 title: Season of Ghosts Vault
-created: 2026-08-19T10:18:10.362Z
-modified: 2026-08-19T10:36:29.608Z
-published: 2026-08-19T10:36:29.608Z
+created: 2026-08-21T11:43:41.619Z
+modified: 2026-08-21T11:47:13.579Z
+published: 2026-08-21T11:47:13.579Z
 banner: "[[SoG Banner.webp]]"
 ---
 
@@ -19,7 +19,7 @@ views:
     mapName: Willowshore-Map
     image: z_assets/Maps/Willowshore.webp
     height: 400
-    minZoom: -4
+    minZoom: -3.5
     maxZoom: 2
     defaultZoom: -3
     zoomDelta: 1
