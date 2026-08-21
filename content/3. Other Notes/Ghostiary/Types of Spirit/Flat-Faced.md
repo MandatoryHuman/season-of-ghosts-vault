@@ -2,13 +2,6 @@
 title: Flat-Faced
 aliases:
   - Noppera-bō
-<<<<<<< HEAD
-=======
-title: Flat-Faced
-created: 2026-08-21T09:22:46.221Z
-modified: 2026-08-04T11:32:57.896Z
-published: 2026-08-04T11:32:57.896Z
->>>>>>> d031c42ce88cdbe53cbf40b34bd17730301da986
 tags:
   - ghost-type
   - creature

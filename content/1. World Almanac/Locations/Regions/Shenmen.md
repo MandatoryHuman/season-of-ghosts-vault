@@ -1,12 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-08-21T09:22:45.999Z
-modified: 2026-07-20T16:36:44.623Z
-published: 2026-07-20T16:36:44.623Z
->>>>>>> d031c42ce88cdbe53cbf40b34bd17730301da986
 tags:
   - location/region
 parentregion: Tian Xia

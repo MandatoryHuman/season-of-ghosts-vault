@@ -1,12 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-08-21T09:22:46.494Z
-modified: 2026-07-14T20:28:03.573Z
-published: 2026-07-14T20:28:03.573Z
->>>>>>> d031c42ce88cdbe53cbf40b34bd17730301da986
 tags:
   - location/region
 parentregion:

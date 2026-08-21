@@ -1,12 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-08-21T09:22:46.115Z
-modified: 2026-07-20T12:31:43.292Z
-published: 2026-07-20T12:31:43.292Z
->>>>>>> d031c42ce88cdbe53cbf40b34bd17730301da986
 tags:
   - npc
 status: Alive

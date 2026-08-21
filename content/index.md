@@ -60,12 +60,7 @@ views:
 
 # Locations in Willowshore
 
-<<<<<<< HEAD
 ### Businesses 
-=======
-### Businesses
-
->>>>>>> d031c42ce88cdbe53cbf40b34bd17730301da986
 ```base
 filters:
   and:
@@ -81,13 +76,8 @@ views:
 
 ```
 
-<<<<<<< HEAD
 
 ### Temples & Shrines
-=======
-### Temples & Shrines
-
->>>>>>> d031c42ce88cdbe53cbf40b34bd17730301da986
 ```base
 filters:
   and:
@@ -104,10 +94,6 @@ views:
 ```
 
 ### Houses
-<<<<<<< HEAD
-=======
-
->>>>>>> d031c42ce88cdbe53cbf40b34bd17730301da986
 ```base
 filters:
   and:

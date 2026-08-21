@@ -1,12 +1,6 @@
 ---
 aliases:
   - Crimson
-<<<<<<< HEAD
-=======
-created: 2026-08-21T09:22:46.157Z
-modified: 2026-07-30T19:41:26.179Z
-published: 2026-07-30T19:41:26.179Z
->>>>>>> d031c42ce88cdbe53cbf40b34bd17730301da986
 tags:
   - pc
 player_name: Amren

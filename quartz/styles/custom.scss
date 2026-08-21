@@ -30,31 +30,97 @@ img[alt*="float-left"] {
 }
 
 .table-container {
-  /* Resets any default negative margins pushing the container outward */
+  /* Lock the container perfectly to the text column */
+  width: 100% !important;
+  max-width: 100% !important;
   margin-left: 0 !important;
   margin-right: 0 !important;
   
-  width: 100%;
-  max-width: 100%;
-  box-sizing: border-box;
-  
-  /* Restoring auto allows for scrolling on mobile screens where it's genuinely needed */
-  overflow-x: auto; 
-  
+  /* Strictly enforce no scrollbars */
+  overflow-x: hidden !important; 
+
   table {
-    width: 100%;
-    max-width: 100%;
-    table-layout: fixed; 
-    border-collapse: collapse; /* Ensures borders don't add extra width */
+    /* Override Quartz if it tries to render the table as a block element */
+    display: table !important; 
     
+    width: 100% !important;
+    max-width: 100% !important;
+    
+    /* Force columns to divide equally and lock in place */
+    table-layout: fixed !important; 
+    border-collapse: collapse !important;
+
     th, td {
-      box-sizing: border-box;
-      word-wrap: break-word;
-      overflow-wrap: break-word;
+      /* Aggressively force text wrapping */
+      white-space: normal !important;
+      word-wrap: break-word !important;
+      overflow-wrap: break-word !important;
+      word-break: break-word !important; 
+      
+      /* Ensure internal padding doesn't inflate the column width */
+      box-sizing: border-box !important;
     }
 
+    /* Ensure those pill-shaped internal links also wrap */
     a.internal {
-      white-space: normal;
+      white-space: normal !important;
+      display: inline-block !important;
+      max-width: 100%;
+    }
+  }
+}
+
+// Interactive Hovers for Internal Links
+.page article a.internal {
+  display: inline-block; // Required for translateY to work on text links
+  transition: transform 0.2s ease-in-out, text-shadow 0.2s ease-in-out, color 0.2s ease;
+  text-decoration-color: transparent; // Hides the default underline for a cleaner look
+
+  &:hover {
+    transform: translateY(-2px);
+    text-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); // A subtle, atmospheric shadow
+    color: var(--tertiary); 
+  }
+}
+
+// Styled Tags (Pill shapes)
+a.tag {
+  border-radius: 12px;
+  padding: 0.2rem 0.65rem;
+  background-color: var(--highlight);
+  color: var(--secondary);
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.2s ease, transform 0.2s ease, color 0.2s ease;
+
+  // General hover state for all tags
+  &:hover {
+    background-color: var(--tertiary);
+    color: var(--light);
+    transform: translateY(-1px);
+  }
+
+  // Thematic Category Colours (Targeted by the tag's href attribute)
+  
+  // Ethereal/Spirit styling
+  &[href$="ghost"], &[href$="spirit"], &[href$="yokai"] {
+    background-color: rgba(43, 58, 66, 0.8); // Muted dark spectral blue
+    color: #a8d5e2; 
+    
+    &:hover {
+      background-color: #a8d5e2;
+      color: #1a2429;
+    }
+  }
+
+  // Magic/Hazard styling
+  &[href$="ritual"], &[href$="hazard"] {
+    background-color: rgba(74, 43, 43, 0.8); // Deep crimson
+    color: #e2a8a8;
+    
+    &:hover {
+      background-color: #e2a8a8;
+      color: #2b1919;
     }
   }
 }
