@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Bakeneko
 title: Changed Cat
-created: 2026-08-19T10:18:11.229Z
+created: 2026-08-21T09:22:46.209Z
 modified: 2026-08-04T11:32:43.892Z
 published: 2026-08-04T11:32:43.892Z
 tags:

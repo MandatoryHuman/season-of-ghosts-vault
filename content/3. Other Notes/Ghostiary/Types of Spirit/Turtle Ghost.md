@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Suppon no yūrei
 title: Turtle Ghost
-created: 2026-08-19T10:18:11.268Z
+created: 2026-08-21T09:22:46.259Z
 modified: 2026-08-05T12:31:49.195Z
 published: 2026-08-05T12:31:49.195Z
 tags:

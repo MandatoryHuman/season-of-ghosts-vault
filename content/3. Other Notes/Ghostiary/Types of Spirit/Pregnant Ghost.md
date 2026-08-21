@@ -4,7 +4,7 @@ aliases:
   - Kuntilanak
   - Pontianak
 title: Pregnant Ghost
-created: 2026-08-19T10:18:11.257Z
+created: 2026-08-21T09:22:46.244Z
 modified: 2026-08-04T11:33:20.506Z
 published: 2026-08-04T11:33:20.506Z
 tags:

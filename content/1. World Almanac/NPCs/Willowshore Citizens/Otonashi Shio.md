@@ -2,7 +2,7 @@
 publish: true
 aliases:
   - Shio
-created: 2026-08-19T10:18:11.169Z
+created: 2026-08-21T09:22:46.140Z
 modified: 2026-07-31T16:09:42.545Z
 published: 2026-07-31T16:09:42.545Z
 tags:

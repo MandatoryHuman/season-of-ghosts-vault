@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Dalgyal Gwisin
 title: Egg Ghost
-created: 2026-08-19T10:18:11.235Z
+created: 2026-08-21T09:22:46.217Z
 modified: 2026-08-04T11:32:52.271Z
 published: 2026-08-04T11:32:52.271Z
 tags:

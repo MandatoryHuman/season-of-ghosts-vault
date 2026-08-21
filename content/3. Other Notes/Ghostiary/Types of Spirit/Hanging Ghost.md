@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Diào Sǐ Guǐ
 title: Hanged Ghost
-created: 2026-08-19T10:18:11.242Z
+created: 2026-08-21T09:22:46.226Z
 modified: 2026-08-04T11:33:02.227Z
 published: 2026-08-04T11:33:02.227Z
 tags:

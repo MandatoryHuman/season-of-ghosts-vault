@@ -4,7 +4,7 @@ aliases:
   - Hiderigami
   - Hanba
 title: God of Drought
-created: 2026-08-19T10:18:11.241Z
+created: 2026-08-21T09:22:46.224Z
 modified: 2026-08-04T11:32:59.815Z
 published: 2026-08-04T11:32:59.815Z
 tags:

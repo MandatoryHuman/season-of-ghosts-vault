@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Orang Minyak
 title: Oily Man
-created: 2026-08-19T10:18:11.253Z
+created: 2026-08-21T09:22:46.239Z
 modified: 2026-08-04T11:33:16.860Z
 published: 2026-08-04T11:33:16.860Z
 tags:

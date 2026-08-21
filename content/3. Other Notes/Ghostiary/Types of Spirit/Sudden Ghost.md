@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Phi Tai Hong
 title: Sudden Ghost
-created: 2026-08-19T10:18:11.265Z
+created: 2026-08-21T09:22:46.255Z
 modified: 2026-08-04T11:33:32.460Z
 published: 2026-08-04T11:33:32.460Z
 tags:

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Ma Phae Wah
 title: Yellow-Ribbon Lady
-created: 2026-08-19T10:18:11.273Z
+created: 2026-08-21T09:22:46.265Z
 modified: 2026-08-14T13:53:56.477Z
 published: 2026-08-14T13:53:56.477Z
 tags:

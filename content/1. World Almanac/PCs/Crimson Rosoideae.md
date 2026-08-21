@@ -2,7 +2,7 @@
 publish: true
 aliases:
   - Crimson
-created: 2026-08-19T10:18:11.184Z
+created: 2026-08-21T09:22:46.157Z
 modified: 2026-07-30T19:41:26.179Z
 published: 2026-07-30T19:41:26.179Z
 tags:

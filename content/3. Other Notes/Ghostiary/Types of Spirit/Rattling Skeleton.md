@@ -4,7 +4,7 @@ aliases:
   - Gashadokuro
   - Odokuro
 title: Rattling Skeleton
-created: 2026-08-19T10:18:11.258Z
+created: 2026-08-21T09:22:46.246Z
 modified: 2026-08-04T11:33:21.939Z
 published: 2026-08-04T11:33:21.939Z
 tags:

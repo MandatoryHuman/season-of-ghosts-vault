@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Phi Kong Koi
 title: Jungle Ghost
-created: 2026-08-19T10:18:11.254Z
+created: 2026-08-21T09:22:46.240Z
 modified: 2026-08-14T13:28:31.314Z
 published: 2026-08-14T13:28:31.314Z
 tags:

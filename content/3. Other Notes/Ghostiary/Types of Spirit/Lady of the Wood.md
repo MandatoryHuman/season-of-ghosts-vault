@@ -5,7 +5,7 @@ aliases:
   - Phi Tani
   - Phrai Tani
 title: Nature Spirit
-created: 2026-08-19T10:18:11.249Z
+created: 2026-08-21T09:22:46.233Z
 modified: 2026-08-04T11:33:12.788Z
 published: 2026-08-04T11:33:12.788Z
 tags:
