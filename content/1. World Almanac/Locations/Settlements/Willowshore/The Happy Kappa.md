@@ -1,9 +1,17 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-08-21T10:27:28.518Z
+modified: 2026-08-19T09:07:30.940Z
+published: 2026-08-19T09:07:30.940Z
+>>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - location/building
   - bathhouse
   - business
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[De-Ge Hua]]"
 buildingtype: Bathhouse
@@ -13,16 +21,20 @@ marker:
     colour: "#f16623"
     minZoom: -1.5
 ---
+
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.buildingtype`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/De-Ge Hua.md|De-Ge Hua]]
+> **Type:** Bathhouse
 
 ## Description
+
 The town's only bathhouse, ran by [[De-Ge Hua]], who is obsessed with cleanliness.
 
 ## Goods, Services & Rumours
-- 
+
+-
 
 ## Associated NPCs
+
 - [[De-Ge Hua]]

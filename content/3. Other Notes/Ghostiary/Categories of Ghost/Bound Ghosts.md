@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2026-08-04T12:06:58.528Z
+modified: 2026-08-16T08:14:46.423Z
+published: 2026-08-16T08:14:46.423Z
 aliases: []
 tags: []
 ---
