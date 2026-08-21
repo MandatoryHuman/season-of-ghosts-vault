@@ -2,13 +2,10 @@
 publish: true
 aliases:
   - Shinigami
-<<<<<<< HEAD
-=======
 title: Death Spirit
-created: 2026-08-21T10:27:28.856Z
+created: 2026-08-21T11:43:45.572Z
 modified: 2026-08-04T11:32:47.180Z
 published: 2026-08-04T11:32:47.180Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - ghost-type
   - creature

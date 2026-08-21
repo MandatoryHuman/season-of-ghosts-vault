@@ -1,12 +1,8 @@
 ---
-<<<<<<< HEAD
-aliases: []
-=======
 publish: true
-created: 2026-08-21T10:27:28.455Z
+created: 2026-08-21T11:43:45.358Z
 modified: 2026-08-16T08:36:35.107Z
 published: 2026-08-16T08:36:35.107Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - location/building
   - fishery

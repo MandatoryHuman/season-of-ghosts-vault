@@ -1,12 +1,8 @@
 ---
-<<<<<<< HEAD
-aliases: []
-=======
 publish: true
-created: 2026-08-21T10:27:28.517Z
+created: 2026-08-21T11:43:45.397Z
 modified: 2026-08-16T08:39:10.062Z
 published: 2026-08-16T08:39:10.062Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - location/building
   - herbalist

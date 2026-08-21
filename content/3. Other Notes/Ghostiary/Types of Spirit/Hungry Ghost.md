@@ -2,13 +2,10 @@
 publish: true
 aliases:
   - È Guǐ
-<<<<<<< HEAD
-=======
 title: Hungry Ghost
-created: 2026-08-21T10:27:28.912Z
+created: 2026-08-21T11:43:45.592Z
 modified: 2026-08-04T11:33:08.108Z
 published: 2026-08-04T11:33:08.108Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - ghost-type
   - creature

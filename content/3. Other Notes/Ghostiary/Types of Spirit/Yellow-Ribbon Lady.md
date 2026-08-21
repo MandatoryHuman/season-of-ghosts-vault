@@ -2,13 +2,10 @@
 publish: true
 aliases:
   - Ma Phae Wah
-<<<<<<< HEAD
-=======
 title: Yellow-Ribbon Lady
-created: 2026-08-21T10:27:28.978Z
+created: 2026-08-21T11:43:45.631Z
 modified: 2026-08-14T13:53:56.477Z
 published: 2026-08-14T13:53:56.477Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - ghost-type
   - creature

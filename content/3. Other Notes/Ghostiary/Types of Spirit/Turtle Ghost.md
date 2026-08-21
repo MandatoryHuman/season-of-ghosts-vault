@@ -2,13 +2,10 @@
 publish: true
 aliases:
   - Suppon no yūrei
-<<<<<<< HEAD
-=======
 title: Turtle Ghost
-created: 2026-08-21T10:27:28.969Z
+created: 2026-08-21T11:43:45.624Z
 modified: 2026-08-05T12:31:49.195Z
 published: 2026-08-05T12:31:49.195Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - ghost-type
   - creature

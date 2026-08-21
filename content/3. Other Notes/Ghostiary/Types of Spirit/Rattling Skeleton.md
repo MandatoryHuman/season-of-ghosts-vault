@@ -3,13 +3,10 @@ publish: true
 aliases:
   - Gashadokuro
   - Odokuro
-<<<<<<< HEAD
-=======
 title: Rattling Skeleton
-created: 2026-08-21T10:27:28.934Z
+created: 2026-08-21T11:43:45.610Z
 modified: 2026-08-04T11:33:21.939Z
 published: 2026-08-04T11:33:21.939Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - ghost-type
   - creature

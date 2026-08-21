@@ -3,13 +3,10 @@ publish: true
 aliases:
   - Hiderigami
   - Hanba
-<<<<<<< HEAD
-=======
 title: God of Drought
-created: 2026-08-21T10:27:28.904Z
+created: 2026-08-21T11:43:45.585Z
 modified: 2026-08-04T11:32:59.815Z
 published: 2026-08-04T11:32:59.815Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - ghost-type
   - creature

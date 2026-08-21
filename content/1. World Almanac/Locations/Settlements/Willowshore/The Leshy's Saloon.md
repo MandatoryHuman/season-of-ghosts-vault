@@ -1,12 +1,8 @@
 ---
-<<<<<<< HEAD
-aliases: []
-=======
 publish: true
-created: 2026-08-21T10:27:28.521Z
+created: 2026-08-21T11:43:45.403Z
 modified: 2026-08-16T08:39:25.472Z
 published: 2026-08-16T08:39:25.472Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - location/building
   - teahouse

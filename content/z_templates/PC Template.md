@@ -1,12 +1,8 @@
 ---
-<<<<<<< HEAD
-aliases: []
-=======
 publish: true
-created: 2026-08-21T10:27:29.452Z
+created: 2026-08-21T11:43:45.897Z
 modified: 2026-07-14T20:27:56.495Z
 published: 2026-07-14T20:27:56.495Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - pc
 aliases: []

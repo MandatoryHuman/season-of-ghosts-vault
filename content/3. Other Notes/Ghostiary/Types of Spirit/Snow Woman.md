@@ -2,13 +2,10 @@
 publish: true
 aliases:
   - Yuki-onna
-<<<<<<< HEAD
-=======
 title: Snow Woman
-created: 2026-08-21T10:27:28.962Z
+created: 2026-08-21T11:43:45.618Z
 modified: 2026-08-05T12:31:35.085Z
 published: 2026-08-05T12:31:35.085Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - ghost-type
   - creature

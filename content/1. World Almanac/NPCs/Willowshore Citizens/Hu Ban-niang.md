@@ -2,12 +2,9 @@
 publish: true
 aliases:
   - Granny Hu
-<<<<<<< HEAD
-=======
-created: 2026-08-21T10:27:28.609Z
+created: 2026-08-21T11:43:45.451Z
 modified: 2026-07-21T20:34:31.004Z
 published: 2026-07-21T20:34:31.004Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - npc
 status: Alive

@@ -1,12 +1,8 @@
 ---
-<<<<<<< HEAD
-aliases: []
-=======
 publish: true
-created: 2026-08-21T10:27:28.508Z
+created: 2026-08-21T11:43:45.388Z
 modified: 2026-07-20T12:47:25.804Z
 published: 2026-07-20T12:47:25.804Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - location/building
   - gate

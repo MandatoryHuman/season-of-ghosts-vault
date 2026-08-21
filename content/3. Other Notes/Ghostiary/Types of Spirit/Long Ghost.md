@@ -2,13 +2,10 @@
 publish: true
 aliases:
   - Begu Ganjang
-<<<<<<< HEAD
-=======
 title: Begu Ganjang
-created: 2026-08-21T10:27:28.919Z
+created: 2026-08-21T11:43:45.599Z
 modified: 2026-08-14T13:46:24.780Z
 published: 2026-08-14T13:46:24.780Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - ghost-type
   - creature

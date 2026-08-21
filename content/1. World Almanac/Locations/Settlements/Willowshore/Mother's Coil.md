@@ -1,12 +1,8 @@
 ---
-<<<<<<< HEAD
-aliases: []
-=======
 publish: true
-created: 2026-08-21T10:27:28.479Z
+created: 2026-08-21T11:43:45.378Z
 modified: 2026-08-16T08:37:01.309Z
 published: 2026-08-16T08:37:01.309Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - location/building
   - shop

@@ -1,12 +1,8 @@
 ---
-<<<<<<< HEAD
-aliases: []
-=======
 publish: true
-created: 2026-08-21T10:27:29.462Z
+created: 2026-08-21T11:43:45.904Z
 modified: 2026-07-14T20:28:25.291Z
 published: 2026-07-14T20:28:25.291Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - location/settlement
 aliases: []

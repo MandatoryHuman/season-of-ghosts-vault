@@ -1,6 +1,6 @@
 ---
 publish: true
-created: 2026-08-21T10:27:28.404Z
+created: 2026-08-21T11:43:45.334Z
 modified: 2026-07-16T23:24:53.506Z
 published: 2026-07-16T23:24:53.506Z
 tags:

@@ -2,13 +2,10 @@
 publish: true
 aliases:
   - Jibakurei
-<<<<<<< HEAD
-=======
 title: Earthbound Spirit
-created: 2026-08-21T10:27:28.890Z
+created: 2026-08-21T11:43:45.574Z
 modified: 2026-08-04T11:32:49.912Z
 published: 2026-08-04T11:32:49.912Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - ghost-type
   - creature

@@ -1,12 +1,8 @@
 ---
-<<<<<<< HEAD
-aliases: []
-=======
 publish: true
-created: 2026-08-21T10:27:28.547Z
+created: 2026-08-21T11:43:45.411Z
 modified: 2026-07-14T20:16:43.809Z
 published: 2026-07-14T20:16:43.809Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - location/building
   - dam

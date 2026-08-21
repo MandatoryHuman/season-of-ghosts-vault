@@ -2,12 +2,9 @@
 publish: true
 aliases:
   - Shio
-<<<<<<< HEAD
-=======
-created: 2026-08-21T10:27:28.650Z
+created: 2026-08-21T11:43:45.487Z
 modified: 2026-07-31T16:09:42.545Z
 published: 2026-07-31T16:09:42.545Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - npc
 status: Alive

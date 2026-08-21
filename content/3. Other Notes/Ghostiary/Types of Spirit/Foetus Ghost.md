@@ -3,13 +3,10 @@ publish: true
 aliases:
   - Toyol
   - Tuyul
-<<<<<<< HEAD
-=======
 title: Fetus Ghost
-created: 2026-08-21T10:27:28.902Z
+created: 2026-08-21T11:43:45.583Z
 modified: 2026-08-05T12:29:52.203Z
 published: 2026-08-05T12:29:52.203Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - ghost-type
   - creature

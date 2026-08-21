@@ -1,13 +1,9 @@
 ---
 publish: true
 title: <% tp.file.title %>
-<<<<<<< HEAD
-aliases: []
-=======
-created: 2026-08-21T10:27:29.464Z
+created: 2026-08-21T11:43:45.907Z
 modified: 2026-08-05T12:05:42.165Z
 published: 2026-08-05T12:05:42.165Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - ghost-type
   - creature

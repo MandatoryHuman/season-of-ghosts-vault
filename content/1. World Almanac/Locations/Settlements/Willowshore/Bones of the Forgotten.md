@@ -1,12 +1,8 @@
 ---
-<<<<<<< HEAD
-aliases: []
-=======
 publish: true
-created: 2026-08-21T10:27:28.417Z
+created: 2026-08-21T11:43:45.344Z
 modified: 2026-08-16T08:41:54.819Z
 published: 2026-08-16T08:41:54.819Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - location/building
   - cemetery

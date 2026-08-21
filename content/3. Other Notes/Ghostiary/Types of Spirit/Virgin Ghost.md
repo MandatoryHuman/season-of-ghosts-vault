@@ -2,13 +2,10 @@
 publish: true
 aliases:
   - Cheonyeo Gwisin
-<<<<<<< HEAD
-=======
 title: Virgin Ghost
-created: 2026-08-21T10:27:28.972Z
+created: 2026-08-21T11:43:45.627Z
 modified: 2026-08-04T11:33:39.317Z
 published: 2026-08-04T11:33:39.317Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - ghost-type
   - creature

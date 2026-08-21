@@ -2,13 +2,10 @@
 publish: true
 aliases:
   - Phi Pob
-<<<<<<< HEAD
-=======
 title: Phi Pop
-created: 2026-08-21T10:27:28.929Z
+created: 2026-08-21T11:43:45.606Z
 modified: 2026-08-04T11:33:18.191Z
 published: 2026-08-04T11:33:18.191Z
->>>>>>> 57dbb9f5ead183a2bbba4194094829a145b85565
 tags:
   - ghost-type
   - creature
