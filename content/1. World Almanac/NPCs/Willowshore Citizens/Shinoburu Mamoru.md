@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Mamoru
 created: 2026-08-27T14:10:54.364Z
-modified: 2026-08-27T14:17:25.484Z
-published: 2026-08-27T14:17:25.484Z
+modified: 2026-08-27T14:31:07.001Z
+published: 2026-08-27T14:31:07.001Z
 tags:
   - "#npc"
 status: Alive
