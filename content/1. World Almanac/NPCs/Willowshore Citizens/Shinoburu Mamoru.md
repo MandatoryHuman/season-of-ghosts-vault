@@ -6,7 +6,7 @@ created: 2026-08-27T14:10:54.364Z
 modified: 2026-08-27T14:31:07.001Z
 published: 2026-08-27T14:31:07.001Z
 tags:
-  - "#npc"
+  - npc
 status: Alive
 location: "[[Willowshore]]"
 faction:
