@@ -129,6 +129,7 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+    options: {}
   - source: github:quartz-community/alias-redirects
     enabled: true
   - source: github:quartz-community/content-index
@@ -212,7 +213,7 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
       options: {}
