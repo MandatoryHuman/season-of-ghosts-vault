@@ -216,7 +216,11 @@ plugins:
     enabled: true
     options:
       provider: giscus
-      options: {}
+      repo: MandatoryHuman/season-of-ghosts-vault
+      repoId: R_kgDOTXZ7dA
+      category: General
+      categoryId: DIC_kwDOTXZ7dM4DEXxy
+      mapping: pathname
     layout:
       position: afterBody
       priority: 10
