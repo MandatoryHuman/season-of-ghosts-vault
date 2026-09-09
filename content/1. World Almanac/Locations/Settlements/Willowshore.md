@@ -83,12 +83,12 @@ views:
 
 ### Homes
 
-| Location                                                                                       | Owner                                                                       |
-| ---------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Amaya's House.md\|Amaya's House]]         | [[1. World Almanac/PCs/Otonashi Amaya.md\|Otonashi Amaya]]                  |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Dion's House.md\|Dion's House]]           | Dion                                                                        |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Matsuki Estate.md\|Matsuki Estate]]       | [[1. World Almanac/NPCs/Willowshore Citizens/Matsuki Shou.md\|Old Matsuki]] |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Silvermist Lodges.md\|Silvermist Lodges]] | -                                                                          |
+| Location                                                                                                       | Owner                                                                       |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [[1. World Almanac/Locations/Settlements/Willowshore/Amaya's House.md\|Amaya's House]]                         | [[1. World Almanac/PCs/Otonashi Amaya.md\|Otonashi Amaya]]                  |
+| [[1. World Almanac/Locations/Settlements/Willowshore/Matsuki Estate.md\|Matsuki Estate]]                       | [[1. World Almanac/NPCs/Willowshore Citizens/Matsuki Shou.md\|Old Matsuki]] |
+| [[1. World Almanac/Locations/Settlements/Willowshore/Shinoburu Jinmada's House.md\|Shinoburu Jinmada's House]] | [[1. World Almanac/PCs/Shinoburu Jinmada.md\|Shinoburu Jinmada]]            |
+| [[1. World Almanac/Locations/Settlements/Willowshore/Silvermist Lodges.md\|Silvermist Lodges]]                 | -                                                                          |
 
 ---
 
