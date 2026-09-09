@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-26T14:05:50.797Z
-modified: 2026-07-14T20:27:30.712Z
-published: 2026-07-14T20:27:30.712Z
+created: 2026-08-21T11:43:45.893Z
+modified: 2026-09-09T08:04:41.356Z
+published: 2026-09-09T08:04:41.356Z
 tags:
   - location
 aliases: []
