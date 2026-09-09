@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-21T11:43:45.388Z
-modified: 2026-07-20T12:47:25.804Z
-published: 2026-07-20T12:47:25.804Z
+modified: 2026-09-09T08:04:41.605Z
+published: 2026-09-09T08:04:41.605Z
 tags:
   - location/building
   - gate
