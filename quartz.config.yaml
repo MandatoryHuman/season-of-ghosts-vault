@@ -216,11 +216,18 @@ plugins:
     enabled: true
     options:
       provider: giscus
-      repo: MandatoryHuman/season-of-ghosts-vault
-      repoId: R_kgDOTXZ7dA
-      category: General
-      categoryId: DIC_kwDOTXZ7dM4DEXxy
-      mapping: pathname
+      options:
+        repo: MandatoryHuman/season-of-ghosts-vault
+        repoId: R_kgDOTXZ7dA
+        category: General
+        categoryId: DIC_kwDOTXZ7dM4DEXxy
+        mapping: pathname
+        strict: false
+        reactionsEnabled: true
+        emitMetadata: false
+        inputPosition: bottom
+        theme: preferred_color_scheme
+        lang: en
     layout:
       position: afterBody
       priority: 10
