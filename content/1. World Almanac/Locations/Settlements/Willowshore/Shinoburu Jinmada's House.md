@@ -4,8 +4,8 @@ created: 2026-08-21T11:43:45.350Z
 modified: 2026-09-09T11:42:34.538Z
 published: 2026-09-09T11:42:34.538Z
 tags:
-  - "#location/building"
-  - "#residential"
+  - location/building
+  - residential
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Shinoburu Jinmada]]"
