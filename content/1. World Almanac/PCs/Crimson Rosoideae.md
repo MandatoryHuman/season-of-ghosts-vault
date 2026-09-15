@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Crimson
 created: 2026-08-21T11:43:45.507Z
-modified: 2026-07-30T19:41:26.179Z
-published: 2026-07-30T19:41:26.179Z
+modified: 2026-09-15T13:08:23.069Z
+published: 2026-09-15T13:08:23.069Z
 tags:
   - pc
 player_name: Amren

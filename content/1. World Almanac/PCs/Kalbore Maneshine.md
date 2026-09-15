@@ -1,16 +1,17 @@
 ---
 publish: true
 created: 2026-09-15T09:02:40.425Z
-modified: 2026-09-15T09:31:45.074Z
-published: 2026-09-15T09:31:45.074Z
+modified: 2026-09-15T13:08:56.409Z
+published: 2026-09-15T13:08:56.409Z
 tags:
-  - "#pc"
+  - pc
 aliases: []
 player_name: Alex
 ancestry:
   - "[[Catfolk]]"
 class: Monk
 partyrole: Martial
+npcimage: "[[Kalbor.jpg]]"
 ---
 
 > [!info]+ Character Details
@@ -21,7 +22,7 @@ partyrole: Martial
 
 ## Appearance
 
-Unc status confirmed.
+![[z_assets/PCs/Kalbor.jpg|400]]
 
 ## Backstory
 

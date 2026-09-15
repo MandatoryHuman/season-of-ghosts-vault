@@ -3,10 +3,10 @@ publish: true
 aliases:
   - Amaya
 created: 2026-08-21T11:43:45.509Z
-modified: 2026-09-15T09:32:31.991Z
-published: 2026-09-15T09:32:31.991Z
+modified: 2026-09-15T13:09:18.567Z
+published: 2026-09-15T13:09:18.567Z
 tags:
-  - "#pc"
+  - pc
 player_name: Alfie
 ancestry:
   - "[[Elf]]"
@@ -14,7 +14,6 @@ class: Necromancer
 partyrole: Controller
 friend: "[[Elizeth Candora]]"
 npcimage: "[[Otonashi Amaya Square.webp]]"
-ally: "[[Crimson Rosoideae]]"
 parent: Otonashi Nagi, Otonashi Kairi
 family: "[[Otonashi Shio]]"
 ---
