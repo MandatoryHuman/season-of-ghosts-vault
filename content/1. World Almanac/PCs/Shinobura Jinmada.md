@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Jinmada
 created: 2026-08-27T14:07:12.292Z
-modified: 2026-09-16T13:17:57.862Z
-published: 2026-09-16T13:17:57.862Z
+modified: 2026-09-16T22:06:03.064Z
+published: 2026-09-16T22:06:03.064Z
 tags:
   - pc
 player_name: Dion
@@ -25,7 +25,7 @@ friend: "[[Otonashi Amaya]]"
 
 ## Appearance
 
-![[z_assets/PCs/Jinmada_Full.webp|400]]
+![[z_assets/PCs/JinmadaFull.webp|400]]
 
 ## Backstory
 

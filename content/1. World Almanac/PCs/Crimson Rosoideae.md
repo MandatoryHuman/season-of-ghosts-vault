@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Crimson
 created: 2026-08-21T11:43:45.507Z
-modified: 2026-09-16T13:17:44.934Z
-published: 2026-09-16T13:17:44.934Z
+modified: 2026-09-16T22:05:54.045Z
+published: 2026-09-16T22:05:54.045Z
 tags:
   - pc
 player_name: Amren
@@ -12,7 +12,7 @@ ancestry:
   - "[[Leshy]]"
 class: Wizard
 partyrole: Splasher
-npcimage: "[[Crimson_Rosoideae_Square.webp]]"
+npcimage: "[[CrimsonRosoideaeSquare.webp]]"
 ---
 
 > [!info]+ Character Details
@@ -23,7 +23,7 @@ npcimage: "[[Crimson_Rosoideae_Square.webp]]"
 
 ## Appearance
 
-![[z_assets/PCs/Crimson_Rosoideae.webp|400]]
+![[z_assets/PCs/CrimsonRosoideae.webp|400]]
 
 ## Backstory
 
