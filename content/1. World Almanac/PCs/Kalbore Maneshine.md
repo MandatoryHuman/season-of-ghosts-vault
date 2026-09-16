@@ -4,7 +4,7 @@ created: 2026-09-15T09:02:40.425Z
 modified: 2026-09-15T13:08:56.409Z
 published: 2026-09-15T13:08:56.409Z
 tags:
-  - pc
+  - "#pc"
 aliases: []
 player_name: Alex
 ancestry:

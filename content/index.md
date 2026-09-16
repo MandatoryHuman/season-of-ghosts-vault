@@ -2,8 +2,8 @@
 publish: true
 title: Season of Ghosts Vault
 created: 2026-08-21T11:43:41.619Z
-modified: 2026-08-21T11:47:13.579Z
-published: 2026-08-21T11:47:13.579Z
+modified: 2026-09-16T13:19:44.441Z
+published: 2026-09-16T13:19:44.441Z
 banner: "[[SoG Banner.webp]]"
 ---
 
@@ -31,8 +31,6 @@ views:
 
 ![[History of Willowshore.canvas]]
 
----
-
 # Important Pages
 
 ### Heroes of Willowshore
@@ -45,6 +43,7 @@ views:
       and:
         - file.folder == "1. World Almanac/PCs"
     image: note.npcimage
+    cardSize: 200
 
 ```
 
