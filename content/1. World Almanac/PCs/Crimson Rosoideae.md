@@ -6,7 +6,7 @@ created: 2026-08-21T11:43:45.507Z
 modified: 2026-09-16T13:17:44.934Z
 published: 2026-09-16T13:17:44.934Z
 tags:
-  - "#pc"
+  - pc
 player_name: Amren
 ancestry:
   - "[[Leshy]]"

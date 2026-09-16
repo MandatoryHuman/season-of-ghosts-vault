@@ -6,7 +6,7 @@ created: 2026-08-21T11:43:45.509Z
 modified: 2026-09-16T13:18:10.875Z
 published: 2026-09-16T13:18:10.875Z
 tags:
-  - "#pc"
+  - pc
 player_name: Alfie
 ancestry:
   - "[[Elf]]"
