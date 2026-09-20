@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Crimson
 created: 2026-08-21T11:43:45.507Z
-modified: 2026-09-20T22:11:56.784Z
-published: 2026-09-20T22:11:56.784Z
+modified: 2026-09-20T22:27:39.389Z
+published: 2026-09-20T22:27:39.389Z
 tags:
   - pc
 player_name: Amren
@@ -23,7 +23,7 @@ partyrole: Splasher
 
 ## Appearance
 
-![[z_assets/PCs/CrimsonRosoideae.webp|400]]
+![[z_assets/PCs/CrimsonRosoideaeSquare.webp|500]]
 
 ## Backstory
 

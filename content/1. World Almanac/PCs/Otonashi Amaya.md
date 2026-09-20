@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Amaya
 created: 2026-08-21T11:43:45.509Z
-modified: 2026-09-20T22:11:35.214Z
-published: 2026-09-20T22:11:35.214Z
+modified: 2026-09-20T22:27:48.883Z
+published: 2026-09-20T22:27:48.883Z
 tags:
   - pc
 player_name: Alfie
@@ -26,7 +26,7 @@ npcimage: "[[OtonashiAmayaSquare.webp]]"
 
 ## Appearance
 
-![[z_assets/PCs/OtonashiAmaya.webp|400]]
+![[z_assets/PCs/OtonashiAmayaSquare.webp|500]]
 
 ## Backstory
 
