@@ -1,10 +1,14 @@
 ---
 publish: true
 title: Season of Ghosts Vault
+created: 2026-08-21T11:43:41.619Z
+modified: 2026-09-21T22:23:52.584Z
+published: 2026-09-21T22:23:52.584Z
 banner: "[[SoG Banner.webp]]"
 ---
 
 # Map of [[Willowshore]]
+
 ```base
 filters:
   and:
@@ -24,11 +28,13 @@ views:
 ```
 
 # Timeline
+
 ![[History of Willowshore.canvas]]
 
 # Important Pages
 
 ### Heroes of Willowshore
+
 ```base
 views:
   - type: cards
@@ -42,6 +48,7 @@ views:
 ```
 
 ### Factions and Organisations
+
 ```base
 views:
   - type: table
@@ -61,6 +68,7 @@ views:
 # Willowshore Locations
 
 ### Temples & Shrines
+
 ```base
 filters:
   and:
@@ -74,7 +82,8 @@ views:
 
 ```
 
-### Businesses 
+### Businesses
+
 ```base
 filters:
   and:
@@ -91,6 +100,7 @@ views:
 ```
 
 ### Houses
+
 ```base
 filters:
   and:
