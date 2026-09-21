@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-21T23:12:59.980Z
-modified: 2026-09-21T11:46:40.786Z
-published: 2026-09-21T11:46:40.786Z
+modified: 2026-09-21T23:29:27.266Z
+published: 2026-09-21T23:29:27.266Z
 tags:
   - location/settlement
   - town
@@ -28,22 +28,19 @@ The town's calendar revolves around these protective traditions, the most famous
 ```base
 filters:
   and:
-    - file.path.startsWith("1. World Almanac/Locations/Settlements/Willowshore Locations")
+    - file.path.startsWith("1. World Almanac/Locations/Settlements/Willowshore")
 views:
   - type: leaflet-map
     name: Willowshore-Map
-    mapName: test
+    mapName: Willowshore-Map
     image: z_assets/Maps/Willowshore.webp
     height: 400
-    minZoom: -4
+    minZoom: -3.5
     maxZoom: 2
     defaultZoom: -3
     zoomDelta: 1
     scale: "1.5"
     unit: feet
-  - type: table
-    name: List
-
 ```
 
 # Locations in Willowshore
@@ -103,3 +100,5 @@ views:
 > 6. Do not whistle at night.
 > 7. Do not leave laundry out at night.
 > 8. If you hear someone call your name from behind you at night, do not turn around.
+
+![[z_assets/Maps/Willowshore.webp]]
