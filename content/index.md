@@ -2,8 +2,8 @@
 publish: true
 title: Season of Ghosts Vault
 created: 2026-08-21T11:43:41.619Z
-modified: 2026-09-16T21:46:52.327Z
-published: 2026-09-16T21:46:52.327Z
+modified: 2026-09-21T11:21:38.521Z
+published: 2026-09-21T11:21:38.521Z
 banner: "[[SoG Banner.webp]]"
 ---
 
@@ -67,6 +67,21 @@ views:
 
 # Locations in Willowshore
 
+### Temples & Shrines
+
+```base
+filters:
+  and:
+    - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
+    - file.tags.contains("shrine")
+views:
+  - type: cards
+    name: Grid
+    image: note.symbol
+    imageFit: contain
+
+```
+
 ### Businesses
 
 ```base
@@ -77,23 +92,6 @@ filters:
 views:
   - type: table
     name: Businesses
-    order:
-      - file.name
-      - buildingtype
-      - owner
-
-```
-
-### Temples & Shrines
-
-```base
-filters:
-  and:
-    - file.folder == "1. World Almanac/Locations/Settlements/Willowshore"
-    - file.tags.contains("shrine")
-views:
-  - type: table
-    name: Temples & Shrines
     order:
       - file.name
       - buildingtype

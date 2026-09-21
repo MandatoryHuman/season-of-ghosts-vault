@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-08-21T11:43:45.344Z
-modified: 2026-08-16T08:41:54.819Z
-published: 2026-08-16T08:41:54.819Z
+modified: 2026-09-21T11:20:57.782Z
+published: 2026-09-21T11:20:57.782Z
 tags:
-  - location/building
-  - cemetery
-  - shrine
+  - "#location/building"
+  - "#cemetery"
+  - "#shrine"
 aliases: []
 settlement: "[[Willowshore]]"
 owner:
@@ -16,6 +16,7 @@ marker:
     icon: lucide-skull
     colour: "#e48873"
     minZoom: -3
+symbol: "[[Pile of Bones.png]]"
 ---
 
 > [!info]+ Establishment Details
@@ -25,7 +26,7 @@ marker:
 
 ## Description
 
-[[Willowshore]], like many remote villages, has its own set of laws. Grievous crimes were punished with exile unless the individual’s skill or knowledge was needed— the punishment was then permanent imprisonment. Executions were rare, as being exiled into [[Specterwood]] was often a death sentence in itself.
+![[z_assets/Icons/Pile of Bones.png|float-left|300]][[Willowshore]], like many remote villages, has its own set of laws. Grievous crimes were punished with exile unless the individual’s skill or knowledge was needed— the punishment was then permanent imprisonment. Executions were rare, as being exiled into [[Specterwood]] was often a death sentence in itself.
 
 Particularly vile criminals had a Mark of Crime tattooed onto their scalp, and after death, this tattoo was transferred to the bones through carving, meaning even in death and decomposition, the mark remained. Bodies with a Mark of Crime—be it from Willowshore, another village, or [[Lung Wa]]—can only be buried in this overgrown and unkept area.
 

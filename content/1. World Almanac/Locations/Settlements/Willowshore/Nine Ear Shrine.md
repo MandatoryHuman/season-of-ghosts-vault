@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-08-21T11:43:45.380Z
-modified: 2026-07-14T20:16:22.372Z
-published: 2026-07-14T20:16:22.372Z
+modified: 2026-09-21T11:15:06.016Z
+published: 2026-09-21T11:15:06.016Z
 tags:
-  - location/building
-  - shrine
+  - "#location/building"
+  - "#shrine"
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Ba-Ming Ouh]]"
@@ -15,6 +15,7 @@ marker:
     icon: pinhead:column-shrine
     colour: "#e2c505"
     minZoom: -2.5
+symbol: "[[Daikitsu Symbol.webp]]"
 ---
 
 > [!info]+ Establishment Details
@@ -24,7 +25,7 @@ marker:
 
 ## Description
 
-This mud-wall hut looks like a grain storage hut from the outside. Its interior descends 10 feet underground into an enclosed space lined with stone, in the middle of which sits a 15-foot-tall marble statue of a nine-tailed fox. A large spiritual rope made of hay hangs off its neck. The walls of the basement are decorated with painted carvings that depict stories of [Daikitsu](https://pathfinderwiki.com/wiki/Daikitsu).
+![[z_assets/Icons/Daikitsu Symbol.webp|float-left|300]]This mud-wall hut looks like a grain storage hut from the outside. Its interior descends 10 feet underground into an enclosed space lined with stone, in the middle of which sits a 15-foot-tall marble statue of a nine-tailed fox. A large spiritual rope made of hay hangs off its neck. The walls of the basement are decorated with painted carvings that depict stories of [Daikitsu](https://pathfinderwiki.com/wiki/Daikitsu).
 
 Fifteen years ago, a desperate mother of the Ouh family hid her baby here as the family was rounded up for execution by a corrupt guard. By the time the guards learned about the missing offspring, a large skulk of foxes had surrounded the temple. Unwilling to tempt divine wrath, the guards retreated. Allies of the family soon arrived to rescue the baby, at which point the foxes vanished.
 

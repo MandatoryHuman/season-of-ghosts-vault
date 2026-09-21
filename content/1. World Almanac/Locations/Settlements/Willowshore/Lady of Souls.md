@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-08-21T11:43:45.368Z
-modified: 2026-08-16T08:41:23.182Z
-published: 2026-08-16T08:41:23.182Z
+modified: 2026-09-21T11:08:13.737Z
+published: 2026-09-21T11:08:13.737Z
 tags:
-  - location/building
-  - church
-  - shrine
+  - "#location/building"
+  - "#church"
+  - "#shrine"
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Elizeth Candora]]"
@@ -16,6 +16,7 @@ marker:
     minZoom: -3
     colour: "#e2c505"
     icon: lucide-church
+symbol: "[[Pharasma Symbol.png]]"
 ---
 
 > [!info]+ Establishment Details
@@ -25,7 +26,7 @@ marker:
 
 ## Description
 
-One of Lung Wa’s chief concerns when they first expanded into Willowshore was to reduce the likelihood of an undead uprising. They solved it by building a cathedral to Pharasma. [[Elizeth Candora]], a second-generation Taldan from [Goka](https://pathfinderwiki.com/wiki/Goka), is the current priestess here. Having once visited Willowshore and the Tan Sugi monastery as a child, Elizeth never imagined that becoming a cleric of Pharasma would lead to an opportunity for her to permanently return to the village she vividly recalls. She sees the coincidence as fate arranged by Pharasma’s hands and therefore serves dutifully and diligently. She’s fond of spending time alone in the graveyard with her flute and often plays the instrument there to help soothe the spirits of those recently buried therein.
+![[z_assets/Icons/Pharasma Symbol.png|float-left|300]]One of Lung Wa’s chief concerns when they first expanded into Willowshore was to reduce the likelihood of an undead uprising. They solved it by building a cathedral to Pharasma. [[Elizeth Candora]], a second-generation Taldan from [Goka](https://pathfinderwiki.com/wiki/Goka), is the current priestess here. Having once visited Willowshore and the Tan Sugi monastery as a child, Elizeth never imagined that becoming a cleric of Pharasma would lead to an opportunity for her to permanently return to the village she vividly recalls. She sees the coincidence as fate arranged by Pharasma’s hands and therefore serves dutifully and diligently. She’s fond of spending time alone in the graveyard with her flute and often plays the instrument there to help soothe the spirits of those recently buried therein.
 
 ## Goods, Services & Rumours
 
