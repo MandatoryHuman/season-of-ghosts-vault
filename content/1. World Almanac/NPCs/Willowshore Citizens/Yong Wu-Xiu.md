@@ -1,7 +1,11 @@
 ---
-aliases: []
+publish: true
+created: 2026-08-21T11:43:45.492Z
+modified: 2026-09-21T11:46:40.811Z
+published: 2026-09-21T11:46:40.811Z
 tags:
   - npc
+aliases: []
 status: Alive
 location: "[[Eternal Blaze Ironworks|Eternal Blaze Ironworks]]"
 faction:
@@ -13,22 +17,25 @@ npcimage:
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Eternal Blaze Ironworks.md|Eternal Blaze Ironworks]]
+> **Ancestry:** [[1. World Almanac/Creatures/Kitsune.md|Kitsune]]
+> **Profession:** Blacksmith
+> **Faction:**
 
 ## Appearance
 
 (Image)
 
 ## Bio
+
 Blacksmith and owner of the [[Eternal Blaze Ironworks]].
 
 ## Relationship to Party
+
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-- 
+
+-
