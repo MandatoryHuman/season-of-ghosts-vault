@@ -129,6 +129,7 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+    options: {}
   - source: github:quartz-community/alias-redirects
     enabled: true
   - source: github:quartz-community/content-index
@@ -212,10 +213,21 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: MandatoryHuman/season-of-ghosts-vault
+        repoId: R_kgDOTXZ7dA
+        category: General
+        categoryId: DIC_kwDOTXZ7dM4DEXxy
+        mapping: pathname
+        strict: false
+        reactionsEnabled: true
+        emitMetadata: false
+        inputPosition: bottom
+        theme: preferred_color_scheme
+        lang: en
     layout:
       position: afterBody
       priority: 10
