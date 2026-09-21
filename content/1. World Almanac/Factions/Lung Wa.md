@@ -2,7 +2,7 @@
 publish: true
 aliases:
   - The Lung Wa Empire
-created: 2026-08-21T11:43:45.306Z
+created: 2026-09-21T23:12:59.955Z
 modified: 2026-09-21T11:46:40.784Z
 published: 2026-09-21T11:46:40.784Z
 tags:

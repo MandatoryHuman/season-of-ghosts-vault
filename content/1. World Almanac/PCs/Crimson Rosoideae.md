@@ -2,7 +2,7 @@
 publish: true
 aliases:
   - Crimson
-created: 2026-08-21T11:43:45.507Z
+created: 2026-09-21T23:13:00.160Z
 modified: 2026-09-21T18:27:34.863Z
 published: 2026-09-21T18:27:34.863Z
 tags:
@@ -23,7 +23,7 @@ partyrole: Splasher
 
 ## Appearance
 
-![[CrimsonRosoideaeSquare.webp]]
+![[z_assets/PCs/CrimsonRosoideaeSquare.webp]]
 
 ## Backstory
 

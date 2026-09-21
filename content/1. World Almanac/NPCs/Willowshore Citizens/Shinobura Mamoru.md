@@ -2,7 +2,7 @@
 publish: true
 aliases:
   - Mamoru
-created: 2026-08-27T14:10:54.364Z
+created: 2026-09-21T23:13:00.146Z
 modified: 2026-09-21T11:46:40.811Z
 published: 2026-09-21T11:46:40.811Z
 tags:

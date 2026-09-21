@@ -1,7 +1,7 @@
 ---
 publish: true
 title: <% tp.file.title %>
-created: 2026-08-21T11:43:45.907Z
+created: 2026-09-21T23:13:00.537Z
 modified: 2026-09-21T11:46:40.768Z
 published: 2026-09-21T11:46:40.768Z
 tags:
