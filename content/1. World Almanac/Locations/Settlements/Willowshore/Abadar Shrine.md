@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-21T11:43:45.339Z
-modified: 2026-09-21T11:46:40.786Z
-published: 2026-09-21T11:46:40.786Z
+modified: 2026-09-21T18:31:38.664Z
+published: 2026-09-21T18:31:38.664Z
 tags:
   - location/building
   - shrine
@@ -25,7 +25,7 @@ symbol: "[[Abadar Symbol.webp]]"
 
 ## Description
 
-![[z_assets/Icons/Abadar Symbol.webp|float-left]]This darkwood-trimmed shrine houses a 3-foot-tall limestone statue of [Abadar](https://pathfinderwiki.com/wiki/Abadar) that holds a shovel in one hand and a trowel in the other. The statue was reportedly taken to Goka first to ritualistically invite Abadar’s divine blessings at the Grand Bank before being ferried back to Willowshore.
+![[z_assets/Icons/Abadar Symbol.webp|float-left|300]]This darkwood-trimmed shrine houses a 3-foot-tall limestone statue of [Abadar](https://pathfinderwiki.com/wiki/Abadar) that holds a shovel in one hand and a trowel in the other. The statue was reportedly taken to Goka first to ritualistically invite Abadar’s divine blessings at the Grand Bank before being ferried back to Willowshore.
 
 ## Goods, Services & Rumours
 
