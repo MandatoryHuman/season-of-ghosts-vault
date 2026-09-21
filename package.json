@@ -24,7 +24,7 @@
   },
   "engines": {
     "npm": ">=10.9.2",
-    "node": ">=22"
+    "node": "22.x"
   },
   "keywords": [
     "site generator",
@@ -132,5 +132,8 @@
     "prettier": "^3.8.1",
     "tsx": "^4.23.12",
     "typescript": "^7.0.2"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true
   }
 }

@@ -1,14 +1,9 @@
 ---
-publish: true
-created: 2026-07-31T15:11:06.100Z
-modified: 2026-07-31T15:29:54.954Z
-published: 2026-07-31T15:29:54.954Z
 aliases: []
 tags: []
 npcimage: "[[En Square.webp]]"
 ---
-
-![[z_assets/Creatures/Thralls/En.webp|float-left|400]][[Otonashi Amaya|Amaya]] met En when she was investigating reports of strange goings on at [[Willowshore]]'s shrine to [Lady Nanbyo](https://pathfinderwiki.com/wiki/Lady_Nanbyo). Amaya visited the shrine late on a summer night. She intended to camp out the night, but it took less than an hour for her quarry to reveal itself.
+![[En.webp|float-left|400]][[Otonashi Amaya|Amaya]] met En when she was investigating reports of strange goings on at [[Willowshore]]'s shrine to [Lady Nanbyo](https://pathfinderwiki.com/wiki/Lady_Nanbyo). Amaya visited the shrine late on a summer night. She intended to camp out the night, but it took less than an hour for her quarry to reveal itself.
 
 The rhythmic, hollow chime of a brass bell echoed across the shrine's perfectly swept courtyard. Amaya readied her spell components as En drifted into the soft glow of the paper lanterns. The spirit hovered above the polished wooden decking. She wore a pristine white burial kimono and a triangular paper headband, her face twisted into a terrifying, bloody grin. Her thick, pitch-black hair cascaded to the floor, ending in a heavy brass bell that dragged behind her legless form.
 
