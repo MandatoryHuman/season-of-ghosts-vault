@@ -66,7 +66,7 @@ export const EightPractices = () => {
     }
 
     .eight-practices-content {
-      max-height: min(26rem, 45vh);
+      max-height: min(36rem, 65vh);
       overflow-y: auto;
       padding-right: 0.4rem;
     }
@@ -77,19 +77,6 @@ export const EightPractices = () => {
 
     .eight-practices-content ol {
       padding-left: 1.25rem;
-    }
-
-    .backlinks {
-      font-size: 0.8rem;
-    }
-
-    .backlinks h3 {
-      margin-bottom: 0.35rem;
-      font-size: 1rem;
-    }
-
-    .backlinks li {
-      margin: 0.15rem 0;
     }
   `
 
