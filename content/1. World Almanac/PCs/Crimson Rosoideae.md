@@ -1,6 +1,12 @@
 ---
 aliases:
   - Crimson
+<<<<<<< HEAD
+=======
+created: 2026-09-26T16:33:15.235Z
+modified: 2026-09-26T16:03:09.098Z
+published: 2026-09-26T16:03:09.098Z
+>>>>>>> 2ba89d6f6c830a6f39fe3bfa42a86acfbd5a90b4
 tags:
   - pc
 player_name: Amren
@@ -18,7 +24,7 @@ party_role: Splasher
 
 ## Appearance
 
-![[CrimsonRosoideaeSquare.webp]]
+![[z_assets/PCs/CrimsonRosoideaeSquare.webp]]
 
 ## Backstory
 Crimson was born and raised in [[Willowshore]] as a child of [[The Leshy's Saloon]] but found that there was nowhere worthy of developing their magical talents. Because of this, Crimson left town to study in a distant Magic Academy studying Unified Magical Theory, the night before their final exam Crimson pushed themselves to pull an all-nighter, mere hours before the exam however they passed out and reformed into a solitary rose.

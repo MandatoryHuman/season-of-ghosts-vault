@@ -2,6 +2,13 @@
 title: Begu Ganjang
 aliases:
   - Begu Ganjang
+<<<<<<< HEAD
+=======
+title: Begu Ganjang
+created: 2026-09-26T16:33:15.307Z
+modified: 2026-09-26T16:03:09.113Z
+published: 2026-09-26T16:03:09.113Z
+>>>>>>> 2ba89d6f6c830a6f39fe3bfa42a86acfbd5a90b4
 tags:
   - spirit/type
   - creature
