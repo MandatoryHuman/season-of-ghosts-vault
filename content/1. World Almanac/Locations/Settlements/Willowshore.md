@@ -1,6 +1,6 @@
 ---
 publish: true
-created: 2026-09-26T16:58:19.779Z
+created: 2026-09-26T17:27:30.548Z
 modified: 2026-09-26T16:33:31.799Z
 published: 2026-09-26T16:33:31.799Z
 tags:
@@ -90,8 +90,4 @@ views:
 
 ---
 
-<<<<<<< HEAD
-![[Willowshore.webp]]
-=======
 ![[z_assets/Maps/Willowshore.webp]]
->>>>>>> 69e810ad63ed00ee6b8e8b9bd3e329993d33dbc9

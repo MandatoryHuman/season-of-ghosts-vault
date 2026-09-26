@@ -1,15 +1,11 @@
 ---
 publish: true
-created: 2026-09-26T16:58:19.955Z
+created: 2026-09-26T17:27:30.690Z
 modified: 2026-09-26T16:03:09.101Z
 published: 2026-09-26T16:03:09.101Z
 aliases: []
 tags:
 npc_image: "[[Amiri.png]]"
 ---
-<<<<<<< HEAD
-![[Amiri.png|float-left|300]]What is a Kelid barbarian's ghost doing in Tian Xia? Haunting. How did she get to Tian Xia in the first place? Boat. Why? She's a member of the Pathfinder Society. How would she participate in Kingmaker if she's already dead before it chronologically starts? Magic. Wouldn't this make her over 100 years old? Yes. Further questions can be forwarded to my lawyer ([[Luo Xi Yang]]).
-=======
 
 ![[z_assets/Amiri.png|float-left|300]]What is a Kelid barbarian's ghost doing in Tian Xia? Haunting. How did she get to Tian Xia in the first place? Boat. Why? She's a member of the Pathfinder Society. How would she participate in Kingmaker if she's already dead before it chronologically starts? Magic. Wouldn't this make her over 100 years old? Yes. Further questions can be forwarded to my lawyer ([[Luo Xi Yang]]).
->>>>>>> 69e810ad63ed00ee6b8e8b9bd3e329993d33dbc9

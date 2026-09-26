@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Ma Xó
 title: Corner Spirit
-created: 2026-09-26T16:58:19.991Z
+created: 2026-09-26T17:27:30.724Z
 modified: 2026-09-26T16:03:09.107Z
 published: 2026-09-26T16:03:09.107Z
 tags:

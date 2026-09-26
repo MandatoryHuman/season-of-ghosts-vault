@@ -5,7 +5,7 @@ aliases:
   - Mul Gwisin
   - Ma Da
 title: Water Ghost
-created: 2026-09-26T16:58:20.033Z
+created: 2026-09-26T17:27:30.766Z
 modified: 2026-09-26T16:03:09.122Z
 published: 2026-09-26T16:03:09.122Z
 tags:

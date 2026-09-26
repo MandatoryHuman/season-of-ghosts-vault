@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Pocong
 title: Shrouded Ghost
-created: 2026-09-26T16:58:20.022Z
+created: 2026-09-26T17:27:30.755Z
 modified: 2026-09-26T16:03:09.119Z
 published: 2026-09-26T16:03:09.119Z
 tags:

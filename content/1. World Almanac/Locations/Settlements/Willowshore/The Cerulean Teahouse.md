@@ -2,7 +2,7 @@
 publish: true
 aliases:
   - Cerulean Teahouse
-created: 2026-09-26T16:58:19.823Z
+created: 2026-09-26T17:27:30.592Z
 modified: 2026-09-26T16:03:09.080Z
 published: 2026-09-26T16:03:09.080Z
 tags:

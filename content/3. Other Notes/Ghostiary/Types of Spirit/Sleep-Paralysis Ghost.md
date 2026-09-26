@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Phi Am
 title: Sleep-Paralysis Ghost
-created: 2026-09-26T16:58:20.023Z
+created: 2026-09-26T17:27:30.757Z
 modified: 2026-09-26T16:03:09.119Z
 published: 2026-09-26T16:03:09.119Z
 tags:

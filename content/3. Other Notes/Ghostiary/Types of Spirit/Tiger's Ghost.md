@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Ma Trành
 title: Tiger's Ghost
-created: 2026-09-26T16:58:20.028Z
+created: 2026-09-26T17:27:30.762Z
 modified: 2026-09-26T16:03:09.120Z
 published: 2026-09-26T16:03:09.120Z
 tags:
