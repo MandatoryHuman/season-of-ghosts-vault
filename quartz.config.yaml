@@ -83,6 +83,12 @@ plugins:
     layout:
       position: right
       priority: 30
+  - source: ./plugins/eight-practices
+    enabled: true
+    order: 51
+    layout:
+      position: right
+      priority: 40
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:

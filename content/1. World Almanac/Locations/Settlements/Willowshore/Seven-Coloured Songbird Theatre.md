@@ -1,35 +1,27 @@
 ---
-publish: true
-created: 2026-08-21T11:43:45.383Z
-modified: 2026-09-21T11:46:40.790Z
-published: 2026-09-21T11:46:40.790Z
+aliases: []
 tags:
   - location/building
   - theatre
-  - business
-aliases: []
+  - location/business
 settlement: "[[Willowshore]]"
 owner: "[[Kazuma Oono]]"
-buildingtype: Theatre
+building_type: Theatre
 marker:
   - coordinates: 2838, 2635
     icon: lucide-theater
     minZoom: -2.5
 ---
-
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Kazuma Oono.md|Kazuma Oono]]
-> **Type:** Theatre
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.building_type`
 
 ## Description
-
 This open air theatre stands to the North of the [[Downtown Willowshore]] crossroads and holds weekly [Shu Opera](https://en.wikipedia.org/wiki/Sichuan_opera) performances.
 
 ## Goods, Services & Rumours
-
--
+- 
 
 ## Associated NPCs
-
--
+- 

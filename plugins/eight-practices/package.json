@@ -1,0 +1,27 @@
+{
+  "name": "eight-practices",
+  "private": true,
+  "type": "module",
+  "main": "./index.js",
+  "exports": {
+    ".": "./index.js",
+    "./components": "./components.js"
+  },
+  "quartz": {
+    "name": "eight-practices",
+    "displayName": "The Eight Practices",
+    "description": "Sidebar widget for Willowshore's seasonal ghost-prevention practices.",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "defaultOrder": 51,
+    "defaultEnabled": true,
+    "components": {
+      "EightPractices": {
+        "displayName": "The Eight Practices",
+        "defaultPosition": "right",
+        "defaultPriority": 40
+      }
+    }
+  }
+}

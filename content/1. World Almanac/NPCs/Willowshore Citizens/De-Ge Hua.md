@@ -1,11 +1,7 @@
 ---
-publish: true
-created: 2026-08-21T11:43:45.444Z
-modified: 2026-09-21T11:46:40.810Z
-published: 2026-09-21T11:46:40.810Z
+aliases: []
 tags:
   - npc
-aliases: []
 status: Alive
 location: "[[Downtown Willowshore|Downtown Willowshore]]"
 faction:
@@ -13,22 +9,21 @@ ancestry:
   - "[[Halfling]]"
 class: Bathhouse Owner
 level:
-npcimage: "[[De-Ge Hua.webp]]"
+npc_image: "[[De-Ge Hua.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Downtown Willowshore.md|Downtown Willowshore]]
-> **Ancestry:** [[1. World Almanac/Creatures/Halfling.md|Halfling]]
-> **Profession:** Bathhouse Owner
-> **Faction:**
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 
-![[z_assets/NPCs/De-Ge Hua.webp|400]]
+![[De-Ge Hua.webp|400]]
 
 ## Bio
-
 De-Ge runs [[Willowshore]]'s only bathhouse, the Happy Kappa. He's well known around town for his obsession with cleanliness.
 
 ## Relationship to Party

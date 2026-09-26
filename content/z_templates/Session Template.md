@@ -2,7 +2,6 @@
 publish: true
 created: 2026-07-14T00:28:54.660+01:00
 modified: 2026-07-14T00:22:19.391+01:00
-published: 2026-07-14T17:45:30.955Z
 tags:
   - location/settlement
 ---

@@ -1,36 +1,28 @@
 ---
-publish: true
-created: 2026-08-21T11:43:45.408Z
-modified: 2026-09-21T11:46:40.806Z
-published: 2026-09-21T11:46:40.806Z
+aliases: []
 tags:
   - location/building
   - shop
-  - business
-aliases: []
+  - location/business
 settlement: "[[Willowshore]]"
 owner: "[[Nadoya Sanmi]]"
-buildingtype: Shop
+building_type: Shop
 marker:
   - coordinates: 2664, 3168
     icon: lucide-shopping-basket
     colour: "#f16623"
     minZoom: -2.5
 ---
-
 > [!info]+ Establishment Details
-> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Nadoya Sanmi.md|Nadoya Sanmi]]
-> **Type:** Shop
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.building_type`
 
 ## Description
-
 A family owned grocer, and one of [[Willowshore]]'s busiest stores.
 
 ## Goods, Services & Rumours
-
--
+- 
 
 ## Associated NPCs
-
 - [[Nadoya Sanmi]]

@@ -1,27 +1,21 @@
 ---
-publish: true
-created: 2026-08-21T11:43:45.888Z
-modified: 2026-09-21T11:46:40.768Z
-published: 2026-09-21T11:46:40.768Z
+aliases: []
 tags:
   - location/building
-aliases: []
 settlement:
 owner:
-buildingtype: <% await tp.system.prompt("What kind of building? (e.g., Tavern, Smithy, Residence)") %>
+building_type: <% await tp.system.prompt("What kind of building? (e.g., Tavern, Smithy, Residence)") %>
 ---
-
 > [!info]+ Establishment Details
-> **Settlement:**
-> **Owner:**
-> **Type:** <% await tp.system.prompt("What kind of building? (e.g., Tavern, Smithy, Residence)") %>
+> **Settlement:** `=this.settlement`
+> **Owner:** `=this.owner`
+> **Type:** `=this.building_type`
 
 ## Description
 
-## Goods, Services & Rumours
 
--
+## Goods, Services & Rumours
+- 
 
 ## Associated NPCs
-
--
+- 
