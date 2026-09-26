@@ -1,18 +1,12 @@
 ---
-publish: true
-created: 2026-09-26T16:15:54.714Z
-modified: 2026-09-21T11:46:40.751Z
-published: 2026-09-21T11:46:40.751Z
 aliases: []
 tags: []
 ---
-
 This guide is focused on listing different types of Spirits from real world folklore. Pathfinder sources have intentionally not been consulted, making the guide purposely mechanically inaccurate.
 
 Ghosts have been categorised based on their behaviour:
 
 # Categories of Ghosts
-
 ```base
 views:
   - type: table

@@ -1,11 +1,7 @@
 ---
-publish: true
-created: 2026-09-26T16:15:54.676Z
-modified: 2026-09-26T16:03:09.097Z
-published: 2026-09-26T16:03:09.097Z
+aliases: []
 tags:
   - npc
-aliases: []
 status: Alive
 location: "[[Fisheries|Fisheries]]"
 faction:
@@ -17,18 +13,17 @@ npc_image:
 ---
 
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Fisheries.md|Fisheries]]
-> **Ancestry:** [[1. World Almanac/Creatures/Ratfolk.md|Ratfolk]]
-> **Profession:** Fisher
-> **Faction:**
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 
 (Image)
 
 ## Bio
-
 The most skilled fish keeper at the [[Fisheries]], where her ability top sense changes in the weather is a potent advantage in her work.
 
 ## Relationship to Party

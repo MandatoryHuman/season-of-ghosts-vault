@@ -1,11 +1,7 @@
 ---
-publish: true
-created: 2026-09-26T16:15:54.651Z
-modified: 2026-09-26T16:03:09.090Z
-published: 2026-09-26T16:03:09.090Z
+aliases: []
 tags:
   - npc
-aliases: []
 status: Alive
 location: "[[The Ceiba-Duyue Exchange|The Ceiba-Duyue Exchange]]"
 faction:
@@ -17,18 +13,17 @@ npc_image: "[[Kim Gu-won.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/The Ceiba-Duyue Exchange.md|The Ceiba-Duyue Exchange]]
-> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
-> **Profession:** Cleric
-> **Faction:**
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 
-![[z_assets/NPCs/Kim Gu-won.webp|400]]
+![[Kim Gu-won.webp|400]]
 
 ## Bio
-
 Manager of [[The Ceiba-Duyue Exchange]]. Kim took the position under pressure from [[Hu Ban-niang]], knowing that she had more than enough dirt on him to force the issue.
 
 ## Relationship to Party

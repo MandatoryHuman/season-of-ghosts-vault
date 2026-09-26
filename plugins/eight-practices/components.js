@@ -21,11 +21,15 @@ export const EightPractices = () => {
       "details",
       { class: "eight-practices" },
       h("summary", null, h("h3", null, "The Eight Practices")),
-      h("p", null, "Advice followed during the first weeks of summer, the season of ghosts."),
       h(
-        "ol",
-        null,
-        practices.map((practice) => h("li", { key: practice }, practice)),
+        "div",
+        { class: "eight-practices-content" },
+        h("p", null, "Advice followed during the first weeks of summer, the season of ghosts."),
+        h(
+          "ol",
+          null,
+          practices.map((practice) => h("li", { key: practice }, practice)),
+        ),
       ),
     )
   }
@@ -61,12 +65,31 @@ export const EightPractices = () => {
       content: "⌃";
     }
 
-    .eight-practices p {
+    .eight-practices-content {
+      max-height: min(26rem, 45vh);
+      overflow-y: auto;
+      padding-right: 0.4rem;
+    }
+
+    .eight-practices-content p {
       margin-top: 0.75rem;
     }
 
-    .eight-practices ol {
+    .eight-practices-content ol {
       padding-left: 1.25rem;
+    }
+
+    .backlinks {
+      font-size: 0.8rem;
+    }
+
+    .backlinks h3 {
+      margin-bottom: 0.35rem;
+      font-size: 1rem;
+    }
+
+    .backlinks li {
+      margin: 0.15rem 0;
     }
   `
 

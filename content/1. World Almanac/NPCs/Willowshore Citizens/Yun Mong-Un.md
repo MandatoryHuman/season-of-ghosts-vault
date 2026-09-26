@@ -1,11 +1,7 @@
 ---
-publish: true
-created: 2026-09-26T16:15:54.673Z
-modified: 2026-09-26T16:03:09.097Z
-published: 2026-09-26T16:03:09.097Z
+aliases: []
 tags:
   - npc
-aliases: []
 status: Alive
 location: "[[Mercantile Street|Mercantile Street]]"
 faction:
@@ -17,25 +13,22 @@ npc_image: "[[Yun Mong-Un.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Mercantile Street.md|Mercantile Street]]
-> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
-> **Profession:** Woodcarver
-> **Faction:**
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
 
-![[z_assets/NPCs/Yun Mong-Un.webp|400]]
+![[Yun Mong-Un.webp|400]]
 
 ## Bio
-
 Guild leader of the Woodcarver's guild, a group created to ensure the [[Lumber Lords]] never favoured any individual. Though she is praised for her woodworking skill, she'd much rather spend her days painting or jewellery making.
 
 ## Relationship to Party
-
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-
--
+- 
