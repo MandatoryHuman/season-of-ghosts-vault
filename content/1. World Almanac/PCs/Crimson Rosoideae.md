@@ -18,7 +18,7 @@ party_role: Splasher
 
 ## Appearance
 
-![[CrimsonRosoideaeSquare.webp]]
+![[z_assets/PCs/CrimsonRosoideaeSquare.webp]]
 
 ## Backstory
 Crimson was born and raised in [[Willowshore]] as a child of [[The Leshy's Saloon]] but found that there was nowhere worthy of developing their magical talents. Because of this, Crimson left town to study in a distant Magic Academy studying Unified Magical Theory, the night before their final exam Crimson pushed themselves to pull an all-nighter, mere hours before the exam however they passed out and reformed into a solitary rose.

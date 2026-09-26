@@ -172,8 +172,8 @@
     "obsidian-plugin-excalidraw": {
       "source": "github:quartz-community/obsidian-plugin-excalidraw",
       "resolved": "https://github.com/quartz-community/obsidian-plugin-excalidraw.git",
-      "commit": "2ec57cdad9555dc0b04b51615fa36c01430dbd89",
-      "installedAt": "2026-07-26T13:01:06.202Z"
+      "commit": "997fc5f0bb0695a97c044fcb6838b5fbf0f9b854",
+      "installedAt": "2026-09-21T23:23:06.983Z"
     },
     "og-image": {
       "source": "github:quartz-community/og-image",
