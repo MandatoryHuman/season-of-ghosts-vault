@@ -1,8 +1,4 @@
 ---
-publish: true
-created: 2026-09-21T23:13:00.177Z
-modified: 2026-09-21T22:30:13.521Z
-published: 2026-09-21T22:30:13.521Z
 aliases: []
 tags:
 npc_image: "[[Amiri.png]]"

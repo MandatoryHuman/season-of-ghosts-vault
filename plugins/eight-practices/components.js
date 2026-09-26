@@ -18,9 +18,9 @@ export const EightPractices = () => {
     }
 
     return h(
-      "aside",
+      "details",
       { class: "eight-practices" },
-      h("h3", null, "The Eight Practices"),
+      h("summary", null, h("h3", null, "The Eight Practices")),
       h("p", null, "Advice followed during the first weeks of summer, the season of ghosts."),
       h(
         "ol",
@@ -36,8 +36,33 @@ export const EightPractices = () => {
       font-size: 0.9rem;
     }
 
-    .eight-practices h3 {
-      margin-bottom: 0.5rem;
+    .eight-practices summary {
+      cursor: pointer;
+      list-style: none;
+    }
+
+    .eight-practices summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .eight-practices summary h3 {
+      display: inline;
+      margin: 0;
+    }
+
+    .eight-practices summary::after {
+      content: "⌄";
+      float: right;
+      font-size: 1.1rem;
+      line-height: 1;
+    }
+
+    .eight-practices[open] summary::after {
+      content: "⌃";
+    }
+
+    .eight-practices p {
+      margin-top: 0.75rem;
     }
 
     .eight-practices ol {
