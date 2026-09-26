@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Phi Pob
 title: Phi Pop
-created: 2026-09-26T16:15:54.754Z
+created: 2026-09-26T16:33:15.314Z
 modified: 2026-09-26T16:03:09.115Z
 published: 2026-09-26T16:03:09.115Z
 tags:

@@ -4,7 +4,7 @@ aliases:
   - Toyol
   - Tuyul
 title: Fetus Ghost
-created: 2026-09-26T16:15:54.739Z
+created: 2026-09-26T16:33:15.298Z
 modified: 2026-09-26T16:03:09.110Z
 published: 2026-09-26T16:03:09.110Z
 tags:

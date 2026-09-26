@@ -2,7 +2,7 @@
 publish: true
 aliases:
   - Anjal of Thulsadus
-created: 2026-09-26T16:15:54.634Z
+created: 2026-09-26T16:33:15.181Z
 modified: 2026-09-26T16:03:09.085Z
 published: 2026-09-26T16:03:09.085Z
 tags:

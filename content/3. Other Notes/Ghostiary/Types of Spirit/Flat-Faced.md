@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Noppera-bō
 title: Flat-Faced
-created: 2026-09-26T16:15:54.737Z
+created: 2026-09-26T16:33:15.296Z
 modified: 2026-09-26T16:03:09.110Z
 published: 2026-09-26T16:03:09.110Z
 tags:

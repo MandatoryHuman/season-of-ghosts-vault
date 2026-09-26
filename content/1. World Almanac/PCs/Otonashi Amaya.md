@@ -2,7 +2,7 @@
 publish: true
 aliases:
   - Amaya
-created: 2026-09-26T16:15:54.684Z
+created: 2026-09-26T16:33:15.237Z
 modified: 2026-09-26T16:03:09.099Z
 published: 2026-09-26T16:03:09.099Z
 tags:

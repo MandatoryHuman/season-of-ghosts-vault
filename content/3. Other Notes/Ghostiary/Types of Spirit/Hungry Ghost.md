@@ -3,7 +3,7 @@ publish: true
 aliases:
   - È Guǐ
 title: Hungry Ghost
-created: 2026-09-26T16:15:54.744Z
+created: 2026-09-26T16:33:15.303Z
 modified: 2026-09-26T16:03:09.112Z
 published: 2026-09-26T16:03:09.112Z
 tags:

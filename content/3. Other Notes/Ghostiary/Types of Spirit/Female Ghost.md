@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Nǚ guǐ
 title: Female Ghost
-created: 2026-09-26T16:15:54.736Z
+created: 2026-09-26T16:33:15.295Z
 modified: 2026-09-26T16:03:09.109Z
 published: 2026-09-26T16:03:09.109Z
 tags:

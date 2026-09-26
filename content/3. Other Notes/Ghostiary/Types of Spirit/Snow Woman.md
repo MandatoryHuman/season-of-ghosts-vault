@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Yuki-onna
 title: Snow Woman
-created: 2026-09-26T16:15:54.762Z
+created: 2026-09-26T16:33:15.324Z
 modified: 2026-09-26T16:03:09.120Z
 published: 2026-09-26T16:03:09.120Z
 tags:

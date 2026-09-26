@@ -1,11 +1,11 @@
 ---
 publish: true
-created: 2026-09-26T16:15:54.568Z
-modified: 2026-09-26T16:14:15.942Z
-published: 2026-09-26T16:14:15.942Z
+created: 2026-09-26T16:33:15.106Z
+modified: 2026-09-26T16:33:31.799Z
+published: 2026-09-26T16:33:31.799Z
 tags:
-  - location/settlement
-  - location/settlement/town
+  - "#location/settlement"
+  - "#location/settlement/town"
 aliases: []
 region: "[[Shenmen]]"
 ruler: "[[Heh Shan-Bao]]"
@@ -90,20 +90,4 @@ views:
 
 ---
 
-> [!tip] The Eight Practices
-> The people of Willowshore follow these eight bits of advice during the first several weeks of summer—the season of ghosts. These beliefs are primarily local superstitions, and their capacity to actually help in an encounter with any sort of malicious spirit is hotly debated.
->
-> 1. Do not call a ghost a ghost.
-> 2. Do not pat people on the head or shoulders.
-> 3. Avoid entering bodies of water when a ghost is nearby.
-> 4. Do not eat food that has two stick-like objects protruding from it.
-> 5. Do not lean against walls during the day.
-> 6. Do not whistle at night.
-> 7. Do not leave laundry out at night.
-> 8. If you hear someone call your name from behind you at night, do not turn around.
-
-<<<<<<< HEAD
-![[Willowshore.webp]]
-=======
 ![[z_assets/Maps/Willowshore.webp]]
->>>>>>> d6b738b86b5500991a55cf86e7d4f34808295689

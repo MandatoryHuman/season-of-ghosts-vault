@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Shinigami
 title: Death Spirit
-created: 2026-09-26T16:15:54.732Z
+created: 2026-09-26T16:33:15.290Z
 modified: 2026-09-26T16:03:09.108Z
 published: 2026-09-26T16:03:09.108Z
 tags:
