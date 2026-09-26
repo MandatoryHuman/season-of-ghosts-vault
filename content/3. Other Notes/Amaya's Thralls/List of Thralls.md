@@ -1,7 +1,12 @@
 ---
+publish: true
+created: 2026-09-26T16:58:19.940Z
+modified: 2026-09-26T16:03:09.101Z
+published: 2026-09-26T16:03:09.101Z
 aliases: []
 tags: []
 ---
+
 ```base
 views:
   - type: cards
