@@ -1,12 +1,17 @@
 ---
-aliases: []
+publish: true
+created: 2026-09-26T16:15:54.525Z
+modified: 2026-09-21T11:46:40.768Z
+published: 2026-09-21T11:46:40.768Z
 tags:
   - creature
   - ancestry
+aliases: []
 ---
-The Jorogumo are a race of part-humanoid, part-spider creatures who live mainly underground. 
 
-![[Jorogumo.webp]]
+The Jorogumo are a race of part-humanoid, part-spider creatures who live mainly underground.
+
+![[z_assets/Creatures/Ancestries/Jorogumo.webp]]
 
 Stories tell of Jorogumo using their beaty, charm, and illusions to entice victims before they are used for food or as part of dark rituals. These rituals are used to bind spirits, with they use to do their bidding, including protecting their lands and their broods.
 

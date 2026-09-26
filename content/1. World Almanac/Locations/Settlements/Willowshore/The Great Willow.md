@@ -1,9 +1,13 @@
 ---
-aliases: []
+publish: true
+created: 2026-09-26T16:15:54.610Z
+modified: 2026-09-21T11:46:40.804Z
+published: 2026-09-21T11:46:40.804Z
 tags:
   - location
   - landmark
   - shrine
+aliases: []
 region: "[[Willowshore]]"
 type: Landmark
 marker:
@@ -13,11 +17,15 @@ marker:
     minZoom: -3
 symbol: "[[Kodama.png]]"
 ---
+
 ## Description
-![[Kodama.png|float-left|200]][[Willowshore]] rests at the foot of a mountainous region known geographically as the Trimountains, named due to the three major peaks in the area. In her memoir, Master [[Zhi Hui]] noted how she found an ancient willow tree of unusual size at the summit of the lowest of these mountains. After befriending the [kodama](https://pathfinderwiki.com/wiki/Kodama) [[Kami]] who protected the tree, Master [[Zhi Hui]] learned vital information that eventually led her to the [[Tan Sugi Grove]] to the west. For this knowledge, the kodama of the so-called “Great Willow” has received much reverence from both Willowshore and visiting pilgrims over the years.
+
+![[z_assets/Icons/Kodama.png|float-left|200]][[Willowshore]] rests at the foot of a mountainous region known geographically as the Trimountains, named due to the three major peaks in the area. In her memoir, Master [[Zhi Hui]] noted how she found an ancient willow tree of unusual size at the summit of the lowest of these mountains. After befriending the [kodama](https://pathfinderwiki.com/wiki/Kodama) [[Kami]] who protected the tree, Master [[Zhi Hui]] learned vital information that eventually led her to the [[Tan Sugi Grove]] to the west. For this knowledge, the kodama of the so-called “Great Willow” has received much reverence from both Willowshore and visiting pilgrims over the years.
 
 ## Points of Interest
-- 
+
+-
 
 ## Associated NPCs
-- 
+
+-
