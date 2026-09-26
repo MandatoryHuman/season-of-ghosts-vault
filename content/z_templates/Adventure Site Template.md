@@ -1,16 +1,21 @@
 ---
-aliases: []
+publish: true
+created: 2026-09-26T16:15:54.976Z
+modified: 2026-09-21T11:46:40.787Z
+published: 2026-09-21T11:46:40.787Z
 tags:
   - location/adventure_site
+aliases: []
 region: <% await tp.system.prompt("What region is this site in?") %>
 status: Unexplored
 ---
+
 > [!info]+ Site Status
-> **Region:** `=link(this.region)`
-> **Exploration Status:** `=this.status`
+> **Region:** [[<% await tp.system.prompt("What region is this site in?") %>|<% await tp.system.prompt("What region is this site in?") %>]]
+> **Exploration Status:** Unexplored
 
 ## Description
 
-
 ## Objectives & Mysteries
-- 
+
+-
