@@ -1,19 +1,8 @@
 ---
-<<<<<<< HEAD
 aliases: []
 tags:
   - location/settlement
   - location/settlement/town
-=======
-publish: true
-created: 2026-09-26T16:33:15.106Z
-modified: 2026-09-26T16:33:31.799Z
-published: 2026-09-26T16:33:31.799Z
-tags:
-  - "#location/settlement"
-  - "#location/settlement/town"
-aliases: []
->>>>>>> 2ba89d6f6c830a6f39fe3bfa42a86acfbd5a90b4
 region: "[[Shenmen]]"
 ruler: "[[Heh Shan-Bao]]"
 population: "225"
@@ -78,8 +67,4 @@ SORT file.name ASC
 
 ---
 
-<<<<<<< HEAD
 ![[Willowshore.webp]]
-=======
-![[z_assets/Maps/Willowshore.webp]]
->>>>>>> 2ba89d6f6c830a6f39fe3bfa42a86acfbd5a90b4
