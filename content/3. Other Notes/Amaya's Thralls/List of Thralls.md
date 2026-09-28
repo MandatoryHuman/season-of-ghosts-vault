@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-26T17:27:30.687Z
-modified: 2026-09-26T16:03:09.101Z
-published: 2026-09-26T16:03:09.101Z
+modified: 2026-09-28T13:23:36.017Z
+published: 2026-09-28T13:23:36.017Z
 aliases: []
 tags: []
 ---
@@ -15,5 +15,6 @@ views:
       and:
         - file.folder == "3. Other Notes/Amaya's Thralls/Thralls"
     image: note.npc_image
+    imageFit: contain
 
 ```
