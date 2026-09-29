@@ -36,8 +36,8 @@ export const EightPractices = () => {
 
   Component.css = `
     .eight-practices {
-      margin: 1.5rem 0;
-      font-size: 0.9rem;
+      margin: 1rem 0;
+      font-size: 0.8rem;
     }
 
     .eight-practices summary {
@@ -66,17 +66,18 @@ export const EightPractices = () => {
     }
 
     .eight-practices-content {
-      max-height: min(36rem, 65vh);
+      max-height: min(18rem, 32vh);
       overflow-y: auto;
       padding-right: 0.4rem;
     }
 
     .eight-practices-content p {
-      margin-top: 0.75rem;
+      margin: 0.6rem 0;
     }
 
     .eight-practices-content ol {
-      padding-left: 1.25rem;
+      margin: 0;
+      padding-left: 1.1rem;
     }
   `
 

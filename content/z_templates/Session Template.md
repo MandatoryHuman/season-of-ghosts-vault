@@ -1,20 +1,40 @@
 ---
-publish: true
-created: 2026-07-14T00:28:54.660+01:00
-modified: 2026-07-14T00:22:19.391+01:00
-published: 2026-07-14T17:45:30.955Z
+title: <% tp.file.title %>
+aliases: []
 tags:
-  - location/settlement
+  - session
+real_date: <% tp.file.creation_date("YYYY-MM-DD") %>
+in_game_date: <% await tp.system.prompt("What is the in-game date?") %>
+characters_present: <% await tp.system.prompt("Who is present?") %>
+location: <% await tp.system.prompt("Where does this session take place?") %>
+summary: <% await tp.system.prompt("Give a one-line summary of the session.") %>
+status: <% await tp.system.prompt("Status? (e.g., Played, Planned, Recap Needed)") %>
 ---
 
-> [!info]+ Settlement Details
-> **Type:** <% await tp.system.prompt("Type of settlement?)") %>
-> **Region:** <% await tp.system.prompt("What broader region is this in?") %>
-> **Leadership:**
-> **Population:**
+> [!info]+ Session Details
+> **Date Played:** `=this.real_date`
+> **In-Game Date:** `=this.in_game_date`
+> **Characters Present:** `=this.characters_present`
+> **Location:** `=this.location`
+> **Status:** `=this.status`
 
-## Description
+## Summary
+`=this.summary`
 
-## Key Establishments
+## Session Log
+- 
 
-## Notable Residents
+## Discoveries & Clues
+- 
+
+## NPCs, Factions & Locations
+- 
+
+## Loot & Rewards
+- 
+
+## Outstanding Threads / To-Dos
+- 
+
+## Next Session
+- 
