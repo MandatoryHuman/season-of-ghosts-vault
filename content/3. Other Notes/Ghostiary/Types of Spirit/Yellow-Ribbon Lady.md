@@ -2,13 +2,6 @@
 title: Yellow-Ribbon Lady
 aliases:
   - Ma Phae Wah
-<<<<<<< HEAD
-=======
-title: Yellow-Ribbon Lady
-created: 2026-09-26T17:27:30.768Z
-modified: 2026-09-26T16:03:09.122Z
-published: 2026-09-26T16:03:09.122Z
->>>>>>> 941ecbd79844372c98e2cbd61bb097f84494349f
 tags:
   - spirit/type
   - creature

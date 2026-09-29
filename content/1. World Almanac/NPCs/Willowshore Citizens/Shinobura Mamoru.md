@@ -1,12 +1,6 @@
 ---
 aliases:
   - Mamoru
-<<<<<<< HEAD
-=======
-created: 2026-09-26T17:27:30.659Z
-modified: 2026-09-26T16:03:09.096Z
-published: 2026-09-26T16:03:09.096Z
->>>>>>> 941ecbd79844372c98e2cbd61bb097f84494349f
 tags:
   - npc
 status: Alive

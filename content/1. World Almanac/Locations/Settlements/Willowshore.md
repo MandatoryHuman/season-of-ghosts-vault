@@ -1,12 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-09-26T17:27:30.548Z
-modified: 2026-09-26T16:33:31.799Z
-published: 2026-09-26T16:33:31.799Z
->>>>>>> 941ecbd79844372c98e2cbd61bb097f84494349f
 tags:
   - location/settlement
   - location/settlement/town
@@ -74,8 +67,4 @@ SORT file.name ASC
 
 ---
 
-<<<<<<< HEAD
 ![[Willowshore.webp]]
-=======
-![[z_assets/Maps/Willowshore.webp]]
->>>>>>> 941ecbd79844372c98e2cbd61bb097f84494349f

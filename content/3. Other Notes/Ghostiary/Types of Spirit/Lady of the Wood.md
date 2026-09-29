@@ -4,13 +4,6 @@ aliases:
   - Nang Tani
   - Phi Tani
   - Phrai Tani
-<<<<<<< HEAD
-=======
-title: Nature Spirit
-created: 2026-09-26T17:27:30.742Z
-modified: 2026-09-26T16:03:09.113Z
-published: 2026-09-26T16:03:09.113Z
->>>>>>> 941ecbd79844372c98e2cbd61bb097f84494349f
 tags:
   - spirit/type
   - creature
