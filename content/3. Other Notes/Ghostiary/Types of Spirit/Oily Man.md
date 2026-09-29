@@ -2,6 +2,13 @@
 title: Oily Man
 aliases:
   - Orang Minyak
+<<<<<<< HEAD
+=======
+title: Oily Man
+created: 2026-09-26T17:27:30.746Z
+modified: 2026-09-26T16:03:09.114Z
+published: 2026-09-26T16:03:09.114Z
+>>>>>>> 941ecbd79844372c98e2cbd61bb097f84494349f
 tags:
   - spirit/type
   - creature

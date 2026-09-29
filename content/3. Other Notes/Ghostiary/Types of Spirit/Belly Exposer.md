@@ -2,6 +2,13 @@
 title: Belly Exposer
 aliases:
   - Haradashi
+<<<<<<< HEAD
+=======
+title: Belly Exposer
+created: 2026-09-26T17:27:30.721Z
+modified: 2026-09-26T16:03:09.106Z
+published: 2026-09-26T16:03:09.106Z
+>>>>>>> 941ecbd79844372c98e2cbd61bb097f84494349f
 tags:
   - spirit/type
   - creature
