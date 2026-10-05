@@ -2,7 +2,7 @@
 publish: true
 aliases:
   - Ysoki
-created: 2026-09-29T15:34:33.205Z
+created: 2026-09-30T14:53:56.565Z
 modified: 2026-09-21T11:46:40.771Z
 published: 2026-09-21T11:46:40.771Z
 tags:

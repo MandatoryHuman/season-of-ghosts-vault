@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Jibakurei
 title: Earthbound Spirit
-created: 2026-09-29T15:34:33.417Z
+created: 2026-09-30T14:53:56.793Z
 modified: 2026-09-26T16:03:09.108Z
 published: 2026-09-26T16:03:09.108Z
 tags:
