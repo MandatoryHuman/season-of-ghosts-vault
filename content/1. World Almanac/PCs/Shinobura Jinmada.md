@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Jinmada
 created: 2026-09-30T14:53:56.740Z
-modified: 2026-09-26T16:03:09.101Z
-published: 2026-09-26T16:03:09.101Z
+modified: 2026-10-25T22:31:07.226Z
+published: 2026-10-25T22:31:07.226Z
 tags:
   - pc
 player_name: Dion
@@ -39,4 +39,4 @@ After Yuri's funeral, rumours that Jinmada was a bad omen only grew stronger. Ho
 
 ## Current Personal Goals
 
--
+- Get Amaya to stop calling him that.

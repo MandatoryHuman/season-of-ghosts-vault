@@ -1,10 +1,10 @@
 ---
 publish: true
 created: 2026-09-30T14:53:56.737Z
-modified: 2026-09-26T16:03:09.099Z
-published: 2026-09-26T16:03:09.099Z
+modified: 2026-10-25T22:28:36.635Z
+published: 2026-10-25T22:28:36.635Z
 tags:
-  - pc
+  - "#pc"
 aliases: []
 player_name: Alex
 ancestry:
@@ -33,6 +33,9 @@ Ten years passed and Kalbor fully integrated into the town. He was a different p
 Still, villagers couldn't help but notice an aura of despair about Kablor as he failed to find the purpose for which he was lead to Willowshore. The reason for this despair was let slip one day at [[The Leshy's Saloon]] - one of the only places that Kalbore was able to feel respite. He lamented to the owner of the establishment that the necklace he wears around his neck remains a heavy burden; that although the townsfolk have been nothing but welcoming to him, he still feels the crushing guilt of his past weighing on him.
 
 ## Current Personal Goals
+
+- Party hard
+- Level up racism skill
 
 ## See Also
 
