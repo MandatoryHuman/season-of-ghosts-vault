@@ -6,7 +6,7 @@ created: 2026-09-30T14:53:56.740Z
 modified: 2026-10-25T22:31:07.226Z
 published: 2026-10-25T22:31:07.226Z
 tags:
-  - "#pc"
+  - pc
 player_name: Dion
 ancestry:
   - "[[Kitsune]]"
