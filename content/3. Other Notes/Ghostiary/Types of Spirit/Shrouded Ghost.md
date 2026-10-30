@@ -26,7 +26,7 @@ ghost_category: Wandering Ghosts
 
 ## Overview
 
-Pocongs are a ghost that are the lingering spirit  of
+Pocongs are a ghost that are the lingering spirit of
 
 ## Behaviour and Haunts
 
