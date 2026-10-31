@@ -4,8 +4,8 @@ created: 2026-10-26T00:01:10.641Z
 modified: 2026-10-26T00:03:58.581Z
 published: 2026-10-26T00:03:58.581Z
 tags:
-  - "#location/building"
-  - "#residential"
+  - location/building
+  - residential
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Otonashi Kairi]] & [[Otonashi Nagi]]"

@@ -4,8 +4,8 @@ created: 2026-10-26T00:01:12.880Z
 modified: 2026-10-26T00:03:23.023Z
 published: 2026-10-26T00:03:23.023Z
 tags:
-  - "#location/building"
-  - "#residential"
+  - location/building
+  - residential
 aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Kalbore Maneshine]]"

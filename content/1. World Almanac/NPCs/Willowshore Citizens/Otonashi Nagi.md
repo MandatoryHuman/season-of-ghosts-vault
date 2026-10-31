@@ -30,7 +30,7 @@ spouse: "[[Otonashi Kairi]]"
 
 ## Bio
 
-Nagi is the mother of the twins [[Otonashi Amaya]] and [[Otonashi Shio]]. In her youth, Nagi lived in the city [[Sze]], working as an [Ama](<https://en.wikipedia.org/wiki/Ama_(diving)>) Diver. She made her living collecting seaweed and oysters from the [[Sea of Ghosts]] - a dangerous job, but reasonably profitable for those who were skilled enough to brave the depths.
+Nagi is the mother of the twins [[Otonashi Amaya]] and [[Otonashi Shio]]. In her youth, Nagi lived in the city [[Sze]], working as an [Ama](https://en.wikipedia.org/wiki/Ama_\(diving\)) Diver. She made her living collecting seaweed and oysters from the [[Sea of Ghosts]] - a dangerous job, but reasonably profitable for those who were skilled enough to brave the depths.
 
 Nagi met [[Otonashi Kairi]] via her work; the latter was a pearl carver to whom she sold her finest discoveries. The pair were quickly smitten with one another, but the courtship between them was an excruciating period. For over two years, Nagi would bring her highest-quality pearls exclusively to Kairi, and in return, Kairi would drastically overpay her - a stubborn habit that nearly cost him his apprenticeship on more than one occasion.
 

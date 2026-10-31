@@ -58,7 +58,7 @@ views:
 | [[1. World Almanac/Locations/Settlements/Willowshore/Second Best.md\|Second Best]]                                         | Shop         | [[1. World Almanac/NPCs/Willowshore Citizens/Huo Tian-Zhe.md\|Huo Tian-Zhe]]                       |
 | [[1. World Almanac/Locations/Settlements/Willowshore/Seven-Coloured Songbird Theatre.md\|Seven-Coloured Songbird Theatre]] | Theatre      | [[1. World Almanac/NPCs/Willowshore Citizens/Kazuma Oono.md\|Kazuma Oono]]                         |
 | [[1. World Almanac/Locations/Settlements/Willowshore/The Ceiba-Duyue Exchange.md\|The Ceiba-Duyue Exchange]]               | Trade Office | [[1. World Almanac/NPCs/Willowshore Citizens/Kim Gu-won.md\|Kim Gu-won]]                           |
-| [[1. World Almanac/Locations/Settlements/Willowshore/The Cerulean Teahouse.md\|The Cerulean Teahouse]]                     | Teahouse     | -                                                                                                  |
+| [[1. World Almanac/Locations/Settlements/Willowshore/The Cerulean Teahouse.md\|The Cerulean Teahouse]]                     | Teahouse     | -                                                                                                 |
 | [[1. World Almanac/Locations/Settlements/Willowshore/The Hand of Spring.md\|The Hand of Spring]]                           | Herbalist    | [[1. World Almanac/NPCs/Willowshore Citizens/Damihansig Mababangloob.md\|Damihansig Mababangloob]] |
 | [[1. World Almanac/Locations/Settlements/Willowshore/The Leshy's Saloon.md\|The Leshy's Saloon]]                           | Teahouse     | [[1. World Almanac/NPCs/Willowshore Citizens/Mountain Summit Grass.md\|Mountain Summit Grass]]     |
 | [[1. World Almanac/Locations/Settlements/Willowshore/The Mushroom House.md\|The Mushroom House]]                           | Black Market | [[1. World Almanac/NPCs/Willowshore Citizens/Luda Bama.md\|Luda Bama]]                             |
@@ -71,13 +71,13 @@ views:
 
 | Location                                                                                                 | Type      | Caretaker/Priest                                                                   |
 | -------------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------- |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Abadar Shrine.md\|Abadar Shrine]]                   | Shrine    | -                                                                                  |
-| [[1. World Almanac/Locations/Settlements/Willowshore/Bones of the Forgotten.md\|Bones of the Forgotten]] | Cemetery  | -                                                                                  |
+| [[1. World Almanac/Locations/Settlements/Willowshore/Abadar Shrine.md\|Abadar Shrine]]                   | Shrine    | -                                                                                 |
+| [[1. World Almanac/Locations/Settlements/Willowshore/Bones of the Forgotten.md\|Bones of the Forgotten]] | Cemetery  | -                                                                                 |
 | [[1. World Almanac/Locations/Settlements/Willowshore/Graveside Manners.md\|Graveside Manners]]           | Cemetery  | [[1. World Almanac/NPCs/Willowshore Citizens/You So-Jin.md\|You So-Jin]]           |
 | [[1. World Almanac/Locations/Settlements/Willowshore/Lady of Souls.md\|Lady of Souls]]                   | Church    | [[1. World Almanac/NPCs/Willowshore Citizens/Elizeth Candora.md\|Elizeth Candora]] |
 | [[1. World Almanac/Locations/Settlements/Willowshore/Nine Ear Shrine.md\|Nine Ear Shrine]]               | Shrine    | [[1. World Almanac/NPCs/Willowshore Citizens/Ba-Ming Ouh.md\|Ba-Ming Ouh]]         |
-| [[1. World Almanac/Locations/Tan Sugi Monastery.md\|Tan Sugi Monastery]]                                 | Monastery | -                                                                                  |
-| [[1. World Almanac/Locations/Settlements/Willowshore/The Great Willow.md\|The Great Willow]]             | Landmark  | -                                                                                  |
+| [[1. World Almanac/Locations/Tan Sugi Monastery.md\|Tan Sugi Monastery]]                                 | Monastery | -                                                                                 |
+| [[1. World Almanac/Locations/Settlements/Willowshore/The Great Willow.md\|The Great Willow]]             | Landmark  | -                                                                                 |
 
 ### Homes
 

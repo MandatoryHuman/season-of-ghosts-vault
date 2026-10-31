@@ -28,7 +28,7 @@ ghost_category: Wandering Ghosts
 
 ## Overview
 
-Tales say that the Hiderigami is a spirit cursed to bring drought wherever they go. Some communities have been known to worship the Hiderigami as a god, offering food and prayer to drive it away, hence its name. Over time, this depiction has shifted, from god, to ghost, to monster.
+Tales say that the Hiderigami is a spirit cursed to bring drought wherever they go. Some communities have been known to worship the Hiderigami as a god, offering food and prayer to drive it away, hence its name.  Over time, this depiction has shifted, from god, to ghost, to monster.
 
 ## Behaviour and Haunts
 
