@@ -1,11 +1,7 @@
 ---
-publish: true
-created: 2026-09-30T14:53:56.618Z
-modified: 2026-09-21T11:46:40.786Z
-published: 2026-09-21T11:46:40.786Z
+aliases: []
 tags:
   - location
-aliases: []
 region: "[[Willowshore]]"
 type: River
 marker:
@@ -14,15 +10,11 @@ marker:
     colour: "#04adff"
     minZoom: -3
 ---
-
 ## Description
-
 The largest waterway in the region with Willowshore founded on the [[Ceiba River]], one of its tributaries.
 
 ## Points of Interest
-
--
+- 
 
 ## Associated NPCs
-
--
+- 

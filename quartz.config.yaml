@@ -41,6 +41,11 @@ configuration:
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
+  links:
+    markdownLinkResolution: shortest
+  contentIndex:
+    enableSiteMap: true
+    enableRSS: true
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -89,11 +94,6 @@ plugins:
     layout:
       position: right
       priority: 40
-  - source: "@quartz-community/crawl-links"
-    enabled: true
-    options:
-      markdownLinkResolution: shortest
-    order: 60
   - source: "@quartz-community/description"
     enabled: true
     order: 70
@@ -117,8 +117,6 @@ plugins:
     options: {}
   - source: "@quartz-community/quartz-fonts"
     enabled: true
-  - source: "@quartz-community/remove-draft"
-    enabled: true
   - source: "@quartz-community/unlisted-pages"
     enabled: true
     options: {}
@@ -139,11 +137,6 @@ plugins:
     options: {}
   - source: "@quartz-community/alias-redirects"
     enabled: true
-  - source: "@quartz-community/content-index"
-    enabled: true
-    options:
-      enableSiteMap: true
-      enableRSS: true
   - source: "@quartz-community/favicon"
     enabled: true
   - source: "@quartz-community/og-image"
@@ -268,8 +261,6 @@ plugins:
         - aliases
       excludedProperties: []
       hidePropertiesView: false
-      delimiters: ---
-      language: yaml
     order: 5
     layout:
       position: beforeBody
