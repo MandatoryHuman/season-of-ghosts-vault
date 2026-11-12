@@ -1,5 +1,6 @@
 /* Prevent base view tables from causing horizontal scroll */
-.table-container, table {
+.table-container,
+table {
   max-width: 100%;
   box-sizing: border-box;
 }
