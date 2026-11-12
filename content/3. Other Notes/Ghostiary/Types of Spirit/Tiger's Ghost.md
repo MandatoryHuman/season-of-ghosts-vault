@@ -2,6 +2,13 @@
 title: Tiger's Ghost
 aliases:
   - Ma Trành
+<<<<<<< HEAD
+=======
+title: Tiger's Ghost
+created: 2026-11-12T17:24:37.344Z
+modified: 2026-09-26T16:03:09.120Z
+published: 2026-09-26T16:03:09.120Z
+>>>>>>> 547e8aa8f32463a58fac4d6373f66b5ea23adea0
 tags:
   - spirit/type
   - creature

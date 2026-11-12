@@ -1,5 +1,6 @@
 ---
 publish: true
+<<<<<<< HEAD
 title: Season of Ghosts Vault
 banner: "[[SoG Banner.webp]]"
 ---
@@ -25,9 +26,25 @@ views:
 
 # Timeline
 ![[History of Willowshore.canvas]]
+=======
+title: Eukoria
+created: 2026-11-12T17:24:16.914Z
+modified: 2026-10-07T09:41:41.489Z
+published: 2026-10-07T09:41:41.489Z
+---
 
-# Important Pages
+> [!quote] "Magic is not a force to be tamed but an equation written in the language of the four Essences. Follow the wheel and the universe will provide."
 
+Welcome to Eukoria, a realm defined by strict cosmological duality, complex divine hierarchies, and the pervasive, often volatile nature of magic. It is a world where faith, law, and arcane traditions are deeply intertwined, and where historical schisms continue to shape the lives of its inhabitants.
+
+# The Eukorian Calendar
+
+The end of the War of Laws is year 0. Dates before it use **BW** (Before the War), while dates after it use **AW** (After the War). The present day is 116 AW.
+>>>>>>> 547e8aa8f32463a58fac4d6373f66b5ea23adea0
+
+# The War of Laws
+
+<<<<<<< HEAD
 ### Heroes of Willowshore
 ```base
 views:
@@ -38,9 +55,15 @@ views:
         - file.folder == "1. World Almanac/PCs"
     image: note.npc_image
     cardSize: 200
+=======
+The heavens were torn apart by a cataclysmic celestial rebellion that ended in 0 AW. What began as a theological dispute over the rigid geometry of the divine hierarchy quickly devolved into a war of attrition that spilled directly onto mortal soil.
 
-```
+During the [[War of Laws]], Eukoria became the epicentre of divine collateral damage. The [[1. World Almanac/World/Gods & Divines/Greater Gods/Canonical Gods/index|Canonical Gods]] and the rebel forces of [[Lethos, God of Trickery]] clashed so violently here that their conflict boiled the oceans and permanently tore the physical fabric of the Universe.
+>>>>>>> 547e8aa8f32463a58fac4d6373f66b5ea23adea0
 
+When the dust settled, the world was forever changed. The Twins had rewritten cosmological law so that Non-Canonical Gods could exist, but legal existence did not create acceptance: many mortals and Canonical Gods still regard those deities as wrong and unlawful. The mortal world must also navigate dead-magic zones, warped landscapes, and volatile regions where the fundamental essences of reality still bleed into one another.
+
+<<<<<<< HEAD
 ### Factions and Organisations
 ```base
 views:
@@ -53,13 +76,22 @@ views:
       - file.name
       - leader
     markers: none
+=======
+# Directory
 
-```
+## Core Lore & Mechanics
+>>>>>>> 547e8aa8f32463a58fac4d6373f66b5ea23adea0
 
----
+- [[Fundamental Essences]] - The building blocks of reality (Life, Spirit, Mind, Matter).
+- [[Basic Essences]] - The absolute anchors of the void (Presence and Absence).
+- [[Traditions of Magic]] - The sanctioned, harmonious spellcasting traditions.
+- [[Traditions of Dismagic]] - The forbidden, volatile magic born of cosmic friction.
 
-# Willowshore Locations
+### [[1. World Almanac/World/Gods & Divines/Greater Gods/index|Greater Gods]]
 
+## Geography & Nations
+
+<<<<<<< HEAD
 ### Temples & Shrines
 ```base
 filters:
@@ -71,9 +103,16 @@ views:
     name: Grid
     image: note.symbol
     imageFit: contain
+=======
+### Continents
 
-```
+- [[Antora]] (West)
+- [[Cenora]] (East)
+>>>>>>> 547e8aa8f32463a58fac4d6373f66b5ea23adea0
 
+### Nations
+
+<<<<<<< HEAD
 ### Businesses 
 ```base
 filters:
@@ -91,9 +130,15 @@ views:
       - formula.Building Type
       - formula.Owner
     columnSize: {}
+=======
+![[1. World Almanac/World/Locations/Eukoria/States/List of States.base]]
 
-```
+### Notable Locations:
+>>>>>>> 547e8aa8f32463a58fac4d6373f66b5ea23adea0
 
+- [[God-Scar Strait]]: The treacherous, highly-trafficked choke-point between the continents.
+
+<<<<<<< HEAD
 ### Houses
 ```base
 filters:
@@ -123,3 +168,6 @@ views:
 >Elsewhere in the world, spirits are often insubstantial and thus remain out of mind for the average person. Those who know how to call to these strange entities can wield incredible power, but most will never see a spirit beyond a stray leshy or a summoned eidolon. In Tian Xia, [[Kami]] walk the forests, Anito teem in the jungles, and [[Yaksha|Yakshas]] help in the villages—tangible beings that feel very real. Offending the spirit of a river is much more serious when that river spirit might manifest as a dragon in response!
 >#### The dead are never truly gone
 >In many philosophies, a soul is judged by [Pharasma](https://pathfinderwiki.com/wiki/Pharasma), then moves on to its final reward. In Tian Xia, ancestors linger, watching their family and affecting their fortunes. Village heroes can straddle the line between ghost and god; sages who cultivate their spirit can even transcend mortality. The [Celestial Court](https://pathfinderwiki.com/wiki/Celestial_Court) of Tian Xia also offers a different path for those who choose it: reincarnation. Much like history, souls move around the universe in circles, and death isn’t always a permanent ending.
+=======
+### Characters & Factions
+>>>>>>> 547e8aa8f32463a58fac4d6373f66b5ea23adea0

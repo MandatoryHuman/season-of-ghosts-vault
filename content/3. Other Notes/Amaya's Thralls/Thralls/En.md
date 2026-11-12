@@ -1,4 +1,11 @@
 ---
+<<<<<<< HEAD
+=======
+publish: true
+created: 2026-11-12T17:24:37.261Z
+modified: 2026-09-26T16:03:09.103Z
+published: 2026-09-26T16:03:09.103Z
+>>>>>>> 547e8aa8f32463a58fac4d6373f66b5ea23adea0
 aliases: []
 tags: []
 npc_image: "[[En Square.webp]]"
