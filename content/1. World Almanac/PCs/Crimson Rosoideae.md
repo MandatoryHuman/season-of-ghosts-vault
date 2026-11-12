@@ -23,7 +23,7 @@ party_role: Splasher
 
 ## Appearance
 
-![[z_assets/PCs/CrimsonRosoideaeSquare.webp]]
+![[CrimsonRosoideaeSquare.webp]]
 
 ## Backstory
 

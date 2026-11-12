@@ -1,14 +1,9 @@
 ---
-publish: true
-created: 2026-09-30T14:53:56.763Z
-modified: 2026-10-18T15:15:24.545Z
-published: 2026-10-18T15:15:24.545Z
 aliases: []
 tags: []
 npc_image: "[[Liumeng Square.webp]]"
 ---
-
-![[z_assets/Creatures/Thralls/Liumeng.webp|float-left|400]]Liumeng is a [[Female Ghost|Nǚ guǐ]] who originally passed away due to Gu - a form of dark poisonous curse placed by none but the most deprived of casters.
+![[Liumeng.webp|float-left|400]]Liumeng is a [[Female Ghost|Nǚ guǐ]] who originally passed away due to Gu - a form of dark poisonous curse placed by none but the most deprived of casters.
 
 [[Otonashi Amaya|Amaya]] found Liumeng trapped in the sealed cellar of a ruined house. As Amaya broke the ward on the door and swung it open, a wave of unnatural heat rushed out, carrying a swarm of franticly fluttering white moths. Inside, Liumeng was crouched in the dark, her hands desperately clutching her head. Her skin was inflamed and her blindly glowing eyes darted in a fevered panic. A thick halo of pale moths swarmed around her head.
 
