@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Phi Am
 title: Sleep-Paralysis Ghost
-created: 2026-09-30T14:53:56.824Z
+created: 2026-11-12T17:24:37.338Z
 modified: 2026-09-26T16:03:09.119Z
 published: 2026-09-26T16:03:09.119Z
 tags:
@@ -47,4 +47,4 @@ Phi Am are spirits that haunt victims - mainly men - during the night.
 
 ### See also
 
-<div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://en.wikipedia.org/wiki/Batibat" class="auto-card-link-card external-link"><div class="auto-card-link-main"><div class="auto-card-link-title">Batibat - Wikipedia</div><div class="auto-card-link-host"><span>en.wikipedia.org</span></div></div></a></div>
+<div class="auto-card-link-container" data-auto-card-link-depth="-1"><a class="auto-card-link-card external-link" href="https://en.wikipedia.org/wiki/Batibat"><div class="auto-card-link-main"><div class="auto-card-link-title">Batibat - Wikipedia</div><div class="auto-card-link-host"><span>en.wikipedia.org</span></div></div></a></div>

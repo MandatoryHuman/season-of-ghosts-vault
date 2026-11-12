@@ -2,11 +2,11 @@
 publish: true
 aliases:
   - Mamoru
-created: 2026-09-30T14:53:56.720Z
+created: 2026-11-12T17:24:37.214Z
 modified: 2026-10-31T12:09:42.789Z
 published: 2026-10-31T12:09:42.789Z
 tags:
-  - "#npc"
+  - npc
 status: Alive
 location: "[[Willowshore]]"
 faction:

@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Begu Ganjang
 title: Begu Ganjang
-created: 2026-09-30T14:53:56.809Z
+created: 2026-11-12T17:24:37.321Z
 modified: 2026-09-26T16:03:09.113Z
 published: 2026-09-26T16:03:09.113Z
 tags:

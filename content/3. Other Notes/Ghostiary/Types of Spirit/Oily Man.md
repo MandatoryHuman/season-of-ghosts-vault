@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Orang Minyak
 title: Oily Man
-created: 2026-09-30T14:53:56.813Z
+created: 2026-11-12T17:24:37.325Z
 modified: 2026-09-26T16:03:09.114Z
 published: 2026-09-26T16:03:09.114Z
 tags:
@@ -46,4 +46,4 @@ ghost_category: Wandering Ghosts
 
 ### See also
 
-<div data-auto-card-link-depth="-1" class="auto-card-link-container"><a href="https://www.theguardian.com/uk-news/2023/oct/27/somerset-gimp-villagers-on-their-encounters?CMP=share_btn_url" class="auto-card-link-card external-link"><div class="auto-card-link-main"><div class="auto-card-link-title">Fear and sympathy: villagers on their encounters with the ‘Somerset gimp’</div><div class="auto-card-link-description">The latex-clad individual has caused much distress in the sleepy West Country area, though others say they ‘feel sorry for them’</div><div class="auto-card-link-host"><span>www.theguardian.com</span></div></div><img draggable="false" src="https://i.guim.co.uk/img/media/dc430611cb3c00ccda88aee5c892cf142a02a1c4/0_0_810_486/master/810.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&amp;enable=upscale&amp;s=743b9d2fb6e1d1d60425a6e4e2721f1e" class="auto-card-link-thumbnail" /></a></div>
+<div class="auto-card-link-container" data-auto-card-link-depth="-1"><a class="auto-card-link-card external-link" href="https://www.theguardian.com/uk-news/2023/oct/27/somerset-gimp-villagers-on-their-encounters?CMP=share_btn_url"><div class="auto-card-link-main"><div class="auto-card-link-title">Fear and sympathy: villagers on their encounters with the ‘Somerset gimp’</div><div class="auto-card-link-description">The latex-clad individual has caused much distress in the sleepy West Country area, though others say they ‘feel sorry for them’</div><div class="auto-card-link-host"><span>www.theguardian.com</span></div></div><img class="auto-card-link-thumbnail" src="https://i.guim.co.uk/img/media/dc430611cb3c00ccda88aee5c892cf142a02a1c4/0_0_810_486/master/810.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&amp;enable=upscale&amp;s=743b9d2fb6e1d1d60425a6e4e2721f1e" draggable="false" /></a></div>

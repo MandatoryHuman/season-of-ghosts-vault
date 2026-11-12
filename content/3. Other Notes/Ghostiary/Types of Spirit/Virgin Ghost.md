@@ -3,7 +3,7 @@ publish: true
 aliases:
   - Cheonyeo Gwisin
 title: Virgin Ghost
-created: 2026-09-30T14:53:56.832Z
+created: 2026-11-12T17:24:37.348Z
 modified: 2026-09-26T16:03:09.121Z
 published: 2026-09-26T16:03:09.121Z
 tags:
