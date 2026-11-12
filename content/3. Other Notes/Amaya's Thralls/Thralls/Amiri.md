@@ -1,6 +1,6 @@
 ---
 publish: true
-created: 2026-11-12T17:24:37.255Z
+created: 2026-11-12T18:08:58.132Z
 modified: 2026-09-28T13:23:25.741Z
 published: 2026-09-28T13:23:25.741Z
 aliases: []

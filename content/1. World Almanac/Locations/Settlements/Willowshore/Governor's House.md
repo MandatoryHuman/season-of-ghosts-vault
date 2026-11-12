@@ -1,6 +1,6 @@
 ---
 publish: true
-created: 2026-11-12T17:24:37.089Z
+created: 2026-11-12T18:08:57.982Z
 modified: 2026-09-26T16:03:09.071Z
 published: 2026-09-26T16:03:09.071Z
 tags:
@@ -8,6 +8,7 @@ tags:
   - residential
   - office
   - location/business
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Heh Shan-Bao]]"
 building_type: Office
@@ -17,16 +18,20 @@ marker:
     colour: "#e48873"
     minZoom: -1.5
 ---
+
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.building_type`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/NPCs/Willowshore Citizens/Heh Shan-Bao.md|Heh Shan-Bao]]
+> **Type:** Office
 
 ## Description
+
 As well as acting as the home for [[Heh Shan-Bao]], this building is also the village's bank and treasury.
 
 ## Goods, Services & Rumours
-- 
+
+-
 
 ## Associated NPCs
-- 
+
+-
