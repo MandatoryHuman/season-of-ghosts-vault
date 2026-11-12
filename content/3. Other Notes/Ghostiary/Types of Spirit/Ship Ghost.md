@@ -2,7 +2,6 @@
 title: Ship Ghosts
 aliases:
   - Funa-yūrei
-title: Ship Ghosts
 created: 2026-11-12T17:24:37.335Z
 modified: 2026-09-26T16:03:09.118Z
 published: 2026-09-26T16:03:09.118Z

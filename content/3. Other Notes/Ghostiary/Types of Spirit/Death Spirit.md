@@ -2,7 +2,6 @@
 title: Death Spirit
 aliases:
   - Shinigami
-title: Death Spirit
 created: 2026-11-12T17:24:37.299Z
 modified: 2026-09-26T16:03:09.108Z
 published: 2026-09-26T16:03:09.108Z

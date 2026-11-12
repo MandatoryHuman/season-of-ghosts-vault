@@ -2,7 +2,6 @@
 title: Oily Man
 aliases:
   - Orang Minyak
-title: Oily Man
 created: 2026-11-12T17:24:37.325Z
 modified: 2026-09-26T16:03:09.114Z
 published: 2026-09-26T16:03:09.114Z

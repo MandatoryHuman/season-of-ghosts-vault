@@ -2,7 +2,6 @@
 title: Maternal Ghost
 aliases:
   - Ubume
-title: Maternal Ghost
 created: 2026-11-12T17:24:37.322Z
 modified: 2026-09-26T16:03:09.114Z
 published: 2026-09-26T16:03:09.114Z
