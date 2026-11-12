@@ -2,13 +2,10 @@
 title: Shrouded Ghost
 aliases:
   - Pocong
-<<<<<<< HEAD
-=======
 title: Shrouded Ghost
 created: 2026-11-12T17:24:37.336Z
 modified: 2026-09-26T16:03:09.119Z
 published: 2026-09-26T16:03:09.119Z
->>>>>>> 547e8aa8f32463a58fac4d6373f66b5ea23adea0
 tags:
   - spirit/type
   - creature
@@ -43,16 +40,5 @@ Pocongs are a ghost that are the lingering spirit  of
 - As with many spirits, Pocongs often have some form of unfullfilled desire or goal that must be resolved in order for them to pass to the afterlife.
 
 ### See also
-<<<<<<< HEAD
-```cardlink
-url: https://www.bbc.co.uk/news/world-asia-52269607
-title: "Coronavirus: Indonesian village uses 'ghosts' for distancing patrols"
-description: "Mysterious and ghoulish volunteers began appearing in Kepuh village last month, local reports say."
-host: www.bbc.co.uk
-favicon: https://static.files.bbci.co.uk/core/website/assets/static/icons/touch/news/touch-icon-36.413a37b227.png
-image: https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11EDD/production/_111773437_061042411.jpg
-```
-=======
 
 <div class="auto-card-link-container" data-auto-card-link-depth="-1"><a class="auto-card-link-card external-link" href="https://www.bbc.co.uk/news/world-asia-52269607"><div class="auto-card-link-main"><div class="auto-card-link-title">Coronavirus: Indonesian village uses 'ghosts' for distancing patrols</div><div class="auto-card-link-description">Mysterious and ghoulish volunteers began appearing in Kepuh village last month, local reports say.</div><div class="auto-card-link-host"><span>www.bbc.co.uk</span></div></div><img class="auto-card-link-thumbnail" src="https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11EDD/production/_111773437_061042411.jpg" draggable="false" /></a></div>
->>>>>>> 547e8aa8f32463a58fac4d6373f66b5ea23adea0

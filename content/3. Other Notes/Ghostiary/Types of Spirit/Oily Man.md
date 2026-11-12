@@ -2,13 +2,10 @@
 title: Oily Man
 aliases:
   - Orang Minyak
-<<<<<<< HEAD
-=======
 title: Oily Man
 created: 2026-11-12T17:24:37.325Z
 modified: 2026-09-26T16:03:09.114Z
 published: 2026-09-26T16:03:09.114Z
->>>>>>> 547e8aa8f32463a58fac4d6373f66b5ea23adea0
 tags:
   - spirit/type
   - creature
@@ -40,16 +37,5 @@ ghost_category: Wandering Ghosts
 - A popular folk-remedy to avoid abduction by the Orang Minyak is to wear sweaty clothing when you go to bed, hoping that this will convince the spirit that you are not a virgin, and therefore dissuading him from abducting you.
 
 ### See also
-<<<<<<< HEAD
-```cardlink
-url: https://www.theguardian.com/uk-news/2023/oct/27/somerset-gimp-villagers-on-their-encounters?CMP=share_btn_url
-title: "Fear and sympathy: villagers on their encounters with the ‘Somerset gimp’"
-description: "The latex-clad individual has caused much distress in the sleepy West Country area, though others say they ‘feel sorry for them’"
-host: www.theguardian.com
-favicon: https://static.guim.co.uk/images/favicon-32x32.ico
-image: https://i.guim.co.uk/img/media/dc430611cb3c00ccda88aee5c892cf142a02a1c4/0_0_810_486/master/810.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&enable=upscale&s=743b9d2fb6e1d1d60425a6e4e2721f1e
-```
-=======
 
 <div class="auto-card-link-container" data-auto-card-link-depth="-1"><a class="auto-card-link-card external-link" href="https://www.theguardian.com/uk-news/2023/oct/27/somerset-gimp-villagers-on-their-encounters?CMP=share_btn_url"><div class="auto-card-link-main"><div class="auto-card-link-title">Fear and sympathy: villagers on their encounters with the ‘Somerset gimp’</div><div class="auto-card-link-description">The latex-clad individual has caused much distress in the sleepy West Country area, though others say they ‘feel sorry for them’</div><div class="auto-card-link-host"><span>www.theguardian.com</span></div></div><img class="auto-card-link-thumbnail" src="https://i.guim.co.uk/img/media/dc430611cb3c00ccda88aee5c892cf142a02a1c4/0_0_810_486/master/810.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;precrop=40:21,offset-x50,offset-y0&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMjMucG5n&amp;enable=upscale&amp;s=743b9d2fb6e1d1d60425a6e4e2721f1e" draggable="false" /></a></div>
->>>>>>> 547e8aa8f32463a58fac4d6373f66b5ea23adea0

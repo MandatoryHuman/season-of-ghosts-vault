@@ -1,12 +1,8 @@
 ---
 title: <% tp.file.title %>
-<<<<<<< HEAD
-aliases: []
-=======
 created: 2026-11-12T17:24:37.714Z
 modified: 2026-09-29T15:32:50.666Z
 published: 2026-09-29T15:32:50.666Z
->>>>>>> 547e8aa8f32463a58fac4d6373f66b5ea23adea0
 tags:
   - session
 real_date: <% tp.file.creation_date("YYYY-MM-DD") %>
