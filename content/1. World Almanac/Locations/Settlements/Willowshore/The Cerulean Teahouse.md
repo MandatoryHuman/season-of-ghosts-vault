@@ -3,14 +3,14 @@ publish: true
 aliases:
   - Cerulean Teahouse
 created: 2026-11-12T18:08:58.015Z
-modified: 2026-09-26T16:03:09.080Z
-published: 2026-09-26T16:03:09.080Z
+modified: 2026-11-16T18:33:30.967Z
+published: 2026-11-16T18:33:30.967Z
 tags:
   - location/building
   - teahouse
   - location/business
 settlement: "[[Willowshore]]"
-owner:
+owner: None
 building_type: Teahouse
 marker:
   - coordinates: 2625, 2683
@@ -21,7 +21,7 @@ marker:
 
 > [!info]+ Establishment Details
 > **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Owner:**
+> **Owner:** None
 > **Type:** Teahouse
 
 ## Description
