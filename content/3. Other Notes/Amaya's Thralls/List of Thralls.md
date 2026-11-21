@@ -7,6 +7,7 @@ published: 2026-09-28T13:23:36.017Z
 aliases: []
 tags: []
 ---
+
 ```base
 views:
   - type: cards

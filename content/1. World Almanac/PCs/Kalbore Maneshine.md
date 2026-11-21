@@ -1,7 +1,7 @@
 ---
 publish: true
 permalink: /1. World Almanac/PCs/Kalbore Maneshine.md
-created: 2026-11-21T13:28:56.526Z
+created: 2026-11-21T13:48:24.481Z
 modified: 2026-10-25T22:28:36.635Z
 published: 2026-10-25T22:28:36.635Z
 tags:
