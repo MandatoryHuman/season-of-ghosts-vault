@@ -1,8 +1,5 @@
 ---
-publish: true
-created: 2026-11-12T17:24:37.147Z
-modified: 2026-09-21T11:46:40.810Z
-published: 2026-09-21T11:46:40.810Z
+aliases: []
 tags:
   - location
   - lake

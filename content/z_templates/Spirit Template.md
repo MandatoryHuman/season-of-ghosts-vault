@@ -1,8 +1,6 @@
 ---
 title: <% tp.file.title %>
-created: 2026-11-12T17:24:37.719Z
-modified: 2026-09-26T16:03:09.125Z
-published: 2026-09-26T16:03:09.125Z
+aliases: []
 tags:
   - spirit/type
   - creature

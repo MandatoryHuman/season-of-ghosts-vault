@@ -1,8 +1,5 @@
 ---
-publish: true
-created: 2026-11-12T17:24:37.716Z
-modified: 2026-09-21T11:46:40.768Z
-published: 2026-09-21T11:46:40.768Z
+aliases: []
 tags:
   - location/settlement
 region: <% await tp.system.prompt("What broader region is this in?") %>

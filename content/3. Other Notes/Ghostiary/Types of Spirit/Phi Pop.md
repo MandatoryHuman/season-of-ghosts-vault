@@ -2,9 +2,6 @@
 title: Phi Pop
 aliases:
   - Phi Pob
-created: 2026-11-12T17:24:37.329Z
-modified: 2026-09-26T16:03:09.115Z
-published: 2026-09-26T16:03:09.115Z
 tags:
   - spirit/type
   - creature

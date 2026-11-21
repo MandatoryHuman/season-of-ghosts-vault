@@ -1,9 +1,6 @@
 ---
 aliases:
   - Dami
-created: 2026-11-12T17:24:37.168Z
-modified: 2026-09-26T16:03:09.086Z
-published: 2026-09-26T16:03:09.086Z
 tags:
   - npc
 status: Alive

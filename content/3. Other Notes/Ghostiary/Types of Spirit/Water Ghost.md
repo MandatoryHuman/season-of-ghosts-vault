@@ -4,9 +4,6 @@ aliases:
   - Shuǐ Guǐ
   - Mul Gwisin
   - Ma Da
-created: 2026-11-12T17:24:37.350Z
-modified: 2026-09-26T16:03:09.122Z
-published: 2026-09-26T16:03:09.122Z
 tags:
   - spirit/type
   - creature

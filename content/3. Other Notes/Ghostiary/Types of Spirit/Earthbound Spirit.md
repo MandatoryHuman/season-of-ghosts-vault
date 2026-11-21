@@ -2,9 +2,6 @@
 title: Earthbound Spirit
 aliases:
   - Jibakurei
-created: 2026-11-12T17:24:37.301Z
-modified: 2026-09-26T16:03:09.108Z
-published: 2026-09-26T16:03:09.108Z
 tags:
   - spirit/type
   - creature
