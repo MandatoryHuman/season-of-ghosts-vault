@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/Willowshore Dam.md
+created: 2026-11-21T13:28:56.457Z
+modified: 2026-09-26T16:03:09.083Z
+published: 2026-09-26T16:03:09.083Z
 tags:
   - location/building
   - dam

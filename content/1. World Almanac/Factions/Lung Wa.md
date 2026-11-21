@@ -1,6 +1,9 @@
 ---
 aliases:
   - The Lung Wa Empire
+created: 2026-11-21T13:28:56.375Z
+modified: 2026-09-21T11:46:40.784Z
+published: 2026-09-21T11:46:40.784Z
 tags:
   - faction
 leader: Various emperors

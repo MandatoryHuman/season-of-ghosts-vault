@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /z_templates/Location Template.md
+created: 2026-11-21T12:52:22.560Z
+modified: 2026-09-21T11:46:40.788Z
+published: 2026-09-21T11:46:40.788Z
 tags:
   - location
 region:

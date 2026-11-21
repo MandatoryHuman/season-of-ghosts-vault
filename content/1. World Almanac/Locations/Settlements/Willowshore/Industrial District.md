@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/Industrial District.md
+created: 2026-11-21T13:28:56.420Z
+modified: 2026-09-26T16:03:09.072Z
+published: 2026-09-26T16:03:09.072Z
 tags:
   - location/building
   - district
