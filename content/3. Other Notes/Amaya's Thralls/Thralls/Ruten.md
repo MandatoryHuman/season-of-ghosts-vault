@@ -1,4 +1,8 @@
 ---
+publish: true
+created: 2026-11-12T18:08:58.145Z
+modified: 2026-09-26T16:03:09.104Z
+published: 2026-09-26T16:03:09.104Z
 aliases: []
 tags: []
 npc_image: "[[Ruten Square.webp]]"

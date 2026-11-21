@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-11-12T18:08:57.920Z
+modified: 2026-09-21T11:46:40.769Z
+published: 2026-09-21T11:46:40.769Z
 tags:
   - creature
   - ancestry

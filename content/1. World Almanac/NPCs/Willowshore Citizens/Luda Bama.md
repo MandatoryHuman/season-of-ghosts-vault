@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-11-21T12:52:22.201Z
+modified: 2026-09-26T16:03:09.091Z
+published: 2026-09-26T16:03:09.091Z
 tags:
   - npc
 aliases: []

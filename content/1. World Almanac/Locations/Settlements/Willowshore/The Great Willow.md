@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-11-12T18:08:58.017Z
+modified: 2026-09-21T11:46:40.804Z
+published: 2026-09-21T11:46:40.804Z
 tags:
   - location
   - landmark

@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-11-21T12:52:22.096Z
+modified: 2026-09-26T16:03:09.066Z
+published: 2026-09-26T16:03:09.066Z
 tags:
   - location/settlement
   - location/settlement/town

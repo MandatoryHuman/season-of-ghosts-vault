@@ -1,5 +1,8 @@
 ---
-aliases: []
+publish: true
+created: 2026-11-21T12:52:22.554Z
+modified: 2026-09-21T11:46:40.787Z
+published: 2026-09-21T11:46:40.787Z
 tags:
   - location/adventure_site
 aliases: []
