@@ -3,8 +3,8 @@ publish: true
 permalink: /index.md
 title: Season of Ghosts Vault
 created: 2026-11-21T13:56:40.782Z
-modified: 2026-11-21T14:02:13.467Z
-published: 2026-11-21T14:02:13.467Z
+modified: 2026-11-21T14:06:34.211Z
+published: 2026-11-21T14:06:34.211Z
 socialImage: "[[SoG Banner.webp]]"
 cover: "[[SoG Banner.webp]]"
 ---
@@ -146,3 +146,5 @@ views:
 > #### The dead are never truly gone
 >
 > In many philosophies, a soul is judged by [Pharasma](https://pathfinderwiki.com/wiki/Pharasma), then moves on to its final reward. In Tian Xia, ancestors linger, watching their family and affecting their fortunes. Village heroes can straddle the line between ghost and god; sages who cultivate their spirit can even transcend mortality. The [Celestial Court](https://pathfinderwiki.com/wiki/Celestial_Court) of Tian Xia also offers a different path for those who choose it: reincarnation. Much like history, souls move around the universe in circles, and death isn’t always a permanent ending.
+
+![[z_assets/Banners/SoG Banner.webp]]
