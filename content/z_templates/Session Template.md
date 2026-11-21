@@ -1,13 +1,7 @@
 ---
 publish: true
 title: <% tp.file.title %>
-<<<<<<< HEAD
 aliases: []
-=======
-created: 2026-11-12T18:08:58.478Z
-modified: 2026-09-29T15:32:50.666Z
-published: 2026-09-29T15:32:50.666Z
->>>>>>> e53c10dad9e43696f43654316eadb0c3af1a2484
 tags:
   - session
 aliases: []

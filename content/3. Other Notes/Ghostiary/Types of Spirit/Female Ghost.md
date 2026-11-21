@@ -2,13 +2,6 @@
 publish: true
 aliases:
   - Nǚ guǐ
-<<<<<<< HEAD
-=======
-title: Female Ghost
-created: 2026-11-12T18:08:58.184Z
-modified: 2026-09-26T16:03:09.109Z
-published: 2026-09-26T16:03:09.109Z
->>>>>>> e53c10dad9e43696f43654316eadb0c3af1a2484
 tags:
   - spirit/type
   - creature

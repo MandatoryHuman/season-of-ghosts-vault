@@ -3,13 +3,6 @@ publish: true
 aliases:
   - Kuntilanak
   - Pontianak
-<<<<<<< HEAD
-=======
-title: Pregnant Ghost
-created: 2026-11-12T18:08:58.207Z
-modified: 2026-09-26T16:03:09.117Z
-published: 2026-09-26T16:03:09.117Z
->>>>>>> e53c10dad9e43696f43654316eadb0c3af1a2484
 tags:
   - spirit/type
   - creature

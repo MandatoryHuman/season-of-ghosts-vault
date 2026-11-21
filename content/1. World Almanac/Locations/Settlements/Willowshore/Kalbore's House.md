@@ -1,12 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-11-12T18:08:57.988Z
-modified: 2026-10-26T00:03:23.023Z
-published: 2026-10-26T00:03:23.023Z
->>>>>>> e53c10dad9e43696f43654316eadb0c3af1a2484
 tags:
   - location/building
   - residential

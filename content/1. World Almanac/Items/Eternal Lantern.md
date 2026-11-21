@@ -1,11 +1,5 @@
 ---
 publish: true
-<<<<<<< HEAD
-=======
-created: 2026-11-12T18:08:57.946Z
-modified: 2026-09-21T11:46:40.784Z
-published: 2026-09-21T11:46:40.784Z
->>>>>>> e53c10dad9e43696f43654316eadb0c3af1a2484
 tags:
   - item
 ---

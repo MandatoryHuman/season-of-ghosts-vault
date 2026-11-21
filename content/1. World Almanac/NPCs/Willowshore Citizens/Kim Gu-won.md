@@ -1,12 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-created: 2026-11-12T18:08:58.072Z
-modified: 2026-09-26T16:03:09.090Z
-published: 2026-09-26T16:03:09.090Z
->>>>>>> e53c10dad9e43696f43654316eadb0c3af1a2484
 tags:
   - npc
 aliases: []
