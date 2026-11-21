@@ -3,10 +3,10 @@ publish: true
 permalink: /index.md
 title: Season of Ghosts Vault
 created: 2026-11-21T13:56:40.782Z
-modified: 2026-11-21T14:39:25.797Z
-published: 2026-11-21T14:39:25.797Z
-socialImage: "[[SoG_Banner.webp]]"
-cover: "[[SoG_Banner.webp]]"
+modified: 2026-11-21T14:45:07.999Z
+published: 2026-11-21T14:45:07.999Z
+socialImage: z_assets/banners/sog_banner.webp
+cover: z_assets/banners/sog_banner.webp
 ---
 
 # Map of [[Willowshore]]
