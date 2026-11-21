@@ -2,15 +2,15 @@
 publish: true
 permalink: /1. World Almanac/Locations/Regions/Shenmen.md
 created: 2026-11-21T13:56:44.635Z
-modified: 2026-11-21T14:26:40.821Z
-published: 2026-11-21T14:26:40.821Z
+modified: 2026-11-21T14:39:31.983Z
+published: 2026-11-21T14:39:31.983Z
 tags:
   - location/region
-socialImage: Shenmen_Banner.webp
+socialImage: "[[Shenmen_Banner.webp]]"
 aliases: []
 parentregion: Tian Xia
 dangerlevel: High
-cover: Shenmen_Banner.webp
+cover: "[[Shenmen_Banner.webp]]"
 ---
 
 > [!info]+ Regional Data
