@@ -1,8 +1,17 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/Mercantile Street.md
+created: 2026-11-21T13:14:51.395Z
+modified: 2026-09-26T16:03:09.075Z
+published: 2026-09-26T16:03:09.075Z
+>>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - location/building
   - district
+aliases: []
 settlement: "[[Willowshore]]"
 owner:
 building_type: District
@@ -12,16 +21,20 @@ marker:
     colour: "#f16623"
     minZoom: -2.5
 ---
+
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.building_type`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:**
+> **Type:** District
 
 ## Description
+
 Willowshore’s newer businesses, particularly those associated with woodcarving, are mostly found in one of the two-storied red-brick buildings along Mercantile Street. To ensure the [[Lumber Lords]] would never favor anyone, the woodcarvers came together to form a guild, through which young apprentices have the opportunity to intern at different shops during their apprenticeship. [[Yun Mong-Un]], the woodcarver’s current elected guild leader, is a product of such training. Though heaped with praise for her work, Mong-Un would rather be a painter or jewellery maker.
 
 ## Goods, Services & Rumours
+
 - artwork, wood items, wooden religious symbols
 
 ## Associated NPCs
+
 - [[Yun Mong-Un]]

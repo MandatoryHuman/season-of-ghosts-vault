@@ -1,8 +1,17 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/Shinobura Jinmada's House.md
+created: 2026-11-21T13:14:51.407Z
+modified: 2026-09-26T16:03:09.078Z
+published: 2026-09-26T16:03:09.078Z
+>>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - location/building
   - residential
+aliases: []
 settlement: "[[Willowshore]]"
 owner: "[[Shinobura Jinmada]]"
 building_type: Residential
@@ -12,17 +21,21 @@ marker:
     colour: "#039c4b"
     minZoom: -2.5
 ---
+
 > [!info]+ Establishment Details
-> **Settlement:** `=this.settlement`
-> **Owner:** `=this.owner`
-> **Type:** `=this.building_type`
+> **Settlement:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Owner:** [[1. World Almanac/PCs/Shinobura Jinmada.md|Shinobura Jinmada]]
+> **Type:** Residential
 
 ## Description
+
 The Shinobura family household, and current residence of Jinmada.
 
 ## Goods, Services & Rumours
-- 
+
+-
 
 ## Associated NPCs
+
 - [[Shinobura Jinmada]]
 - [[Shinobura Mamoru]]

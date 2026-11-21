@@ -1,7 +1,16 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+permalink: /1. World Almanac/NPCs/Historical/Zhi Hui.md
+created: 2026-11-21T13:14:51.440Z
+modified: 2026-09-26T16:03:09.084Z
+published: 2026-09-26T16:03:09.084Z
+>>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - npc
+aliases: []
 status: Dead
 location:
 faction:
@@ -10,25 +19,29 @@ class: Monk
 level:
 npc_image:
 ---
+
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Dead
+> **Location:**
+> **Ancestry:**
+> **Profession:** Monk
+> **Faction:**
 
 ## Appearance
 
 (Image)
 
 ## Bio
-Zhi Hui was a Sangpotshi monk who encountered a [kodama](https://en.wikipedia.org/wiki/Kodama_(spirit)) [[Kami]] in [[The Great Willow]]. She befriended this spirit and it eventually revealed to her the location of the Tan Sugi Grove. It was in the grove that Zhi Hui would found the [[Tan Sugi Monastery]], which would eventually lead to the founding of [[Willowshore]] itself.
+
+Zhi Hui was a Sangpotshi monk who encountered a [kodama](https://en.wikipedia.org/wiki/Kodama_\(spirit\)) [[Kami]] in [[The Great Willow]]. She befriended this spirit and it eventually revealed to her the location of the Tan Sugi Grove. It was in the grove that Zhi Hui would found the [[Tan Sugi Monastery]], which would eventually lead to the founding of [[Willowshore]] itself.
 
 After her death in 7054, the monks of the monastery would begin to drift away, until today when the place is left abandoned.
 
 ## Relationship to Party
+
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-- 
+
+-

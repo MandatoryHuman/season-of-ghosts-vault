@@ -1,16 +1,26 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+permalink: /z_templates/Adventure Site Template.md
+created: 2026-11-21T13:14:51.852Z
+modified: 2026-09-21T11:46:40.787Z
+published: 2026-09-21T11:46:40.787Z
+>>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - location/adventure_site
+aliases: []
 region: <% await tp.system.prompt("What region is this site in?") %>
 status: Unexplored
 ---
+
 > [!info]+ Site Status
-> **Region:** `=link(this.region)`
-> **Exploration Status:** `=this.status`
+> **Region:** [[<% await tp.system.prompt("What region is this site in?") %>|<% await tp.system.prompt("What region is this site in?") %>]]
+> **Exploration Status:** Unexplored
 
 ## Description
 
-
 ## Objectives & Mysteries
-- 
+
+-

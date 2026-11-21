@@ -1,5 +1,13 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore.md
+created: 2026-11-21T13:14:51.361Z
+modified: 2026-09-26T16:33:31.799Z
+published: 2026-09-26T16:33:31.799Z
+>>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - location/settlement
   - location/settlement/town
