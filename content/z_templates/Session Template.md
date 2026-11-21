@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /z_templates/Session Template.md
 title: <% tp.file.title %>
 created: 2026-11-21T12:52:22.568Z
 modified: 2026-09-29T15:32:50.666Z

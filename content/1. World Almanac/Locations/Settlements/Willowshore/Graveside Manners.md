@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/Graveside Manners.md
 created: 2026-11-21T12:52:22.119Z
 modified: 2026-09-26T16:03:09.071Z
 published: 2026-09-26T16:03:09.071Z

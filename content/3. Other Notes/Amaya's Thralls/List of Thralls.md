@@ -1,6 +1,7 @@
 ---
 publish: true
-created: 2026-11-12T18:08:58.127Z
+permalink: /3. Other Notes/Amaya's Thralls/List of Thralls.md
+created: 2026-11-21T12:52:22.245Z
 modified: 2026-09-28T13:23:36.017Z
 published: 2026-09-28T13:23:36.017Z
 aliases: []

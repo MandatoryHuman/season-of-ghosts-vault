@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/God of Drought.md
 aliases:
   - Hiderigami
   - Hanba

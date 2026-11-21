@@ -1,6 +1,7 @@
 ---
 publish: true
-created: 2026-11-12T18:08:58.136Z
+permalink: /3. Other Notes/Amaya's Thralls/Thralls/Boshū.md
+created: 2026-11-21T12:52:22.251Z
 modified: 2026-09-26T16:03:09.102Z
 published: 2026-09-26T16:03:09.102Z
 aliases: []

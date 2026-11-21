@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/The Cerulean Teahouse.md
 aliases:
   - Cerulean Teahouse
 created: 2026-11-21T12:52:22.150Z

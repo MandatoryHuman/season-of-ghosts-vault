@@ -1,6 +1,7 @@
 ---
 publish: true
-created: 2026-11-12T18:08:57.933Z
+permalink: /1. World Almanac/Events/Reenactment Festival.md
+created: 2026-11-21T12:52:22.069Z
 modified: 2026-09-21T11:46:40.784Z
 published: 2026-09-21T11:46:40.784Z
 tags:

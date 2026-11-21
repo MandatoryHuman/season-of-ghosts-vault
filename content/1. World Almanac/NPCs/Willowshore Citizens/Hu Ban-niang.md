@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /1. World Almanac/NPCs/Willowshore Citizens/Hu Ban-niang.md
 aliases:
   - Granny Hu
 created: 2026-11-21T12:52:22.189Z

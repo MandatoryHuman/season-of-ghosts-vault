@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Earthbound Spirit.md
 aliases:
   - Jibakurei
 title: Earthbound Spirit

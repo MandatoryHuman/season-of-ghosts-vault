@@ -1,6 +1,7 @@
 ---
 publish: true
-created: 2026-11-12T18:08:58.164Z
+permalink: /3. Other Notes/Ghostiary/Categories of Ghost/Summoned Ghosts.md
+created: 2026-11-21T12:52:22.271Z
 modified: 2026-09-21T11:46:40.786Z
 published: 2026-09-21T11:46:40.786Z
 aliases: []

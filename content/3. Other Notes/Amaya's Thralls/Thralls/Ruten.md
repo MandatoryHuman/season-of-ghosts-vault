@@ -1,6 +1,7 @@
 ---
 publish: true
-created: 2026-11-12T18:08:58.145Z
+permalink: /3. Other Notes/Amaya's Thralls/Thralls/Ruten.md
+created: 2026-11-21T12:52:22.258Z
 modified: 2026-09-26T16:03:09.104Z
 published: 2026-09-26T16:03:09.104Z
 aliases: []

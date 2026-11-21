@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Water Ghost.md
 aliases:
   - Shuǐ Guǐ
   - Mul Gwisin

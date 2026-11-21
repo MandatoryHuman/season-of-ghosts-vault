@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Long Ghost.md
 aliases:
   - Begu Ganjang
 title: Begu Ganjang

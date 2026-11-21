@@ -1,6 +1,7 @@
 ---
 publish: true
-created: 2026-11-12T18:08:58.132Z
+permalink: /3. Other Notes/Amaya's Thralls/Thralls/Amiri.md
+created: 2026-11-21T12:52:22.248Z
 modified: 2026-11-21T12:42:48.982Z
 published: 2026-11-21T12:42:48.982Z
 aliases: []

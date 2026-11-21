@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /1. World Almanac/NPCs/Willowshore Citizens/Damihansig Mababangloob.md
 aliases:
   - Dami
 created: 2026-11-21T12:52:22.183Z

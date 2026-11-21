@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Shrouded Ghost.md
 aliases:
   - Pocong
 title: Shrouded Ghost

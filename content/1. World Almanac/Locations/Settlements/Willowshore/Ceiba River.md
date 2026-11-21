@@ -1,6 +1,7 @@
 ---
 publish: true
-created: 2026-11-12T18:08:57.972Z
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/Ceiba River.md
+created: 2026-11-21T12:52:22.108Z
 modified: 2026-09-21T11:46:40.786Z
 published: 2026-09-21T11:46:40.786Z
 tags:

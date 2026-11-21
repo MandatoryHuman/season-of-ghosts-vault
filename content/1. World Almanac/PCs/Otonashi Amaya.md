@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /1. World Almanac/PCs/Otonashi Amaya.md
 aliases:
   - Amaya
 created: 2026-11-21T12:52:22.234Z

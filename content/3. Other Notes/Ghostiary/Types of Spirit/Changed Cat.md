@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Changed Cat.md
 aliases:
   - Bakeneko
 title: Changed Cat

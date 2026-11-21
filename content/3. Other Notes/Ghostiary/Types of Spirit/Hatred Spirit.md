@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Hatred Spirit.md
 aliases:
   - Onryō
 title: Hatred Spirits

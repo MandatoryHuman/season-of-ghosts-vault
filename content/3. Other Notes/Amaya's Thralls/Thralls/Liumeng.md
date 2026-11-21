@@ -1,6 +1,7 @@
 ---
 publish: true
-created: 2026-11-12T18:08:58.142Z
+permalink: /3. Other Notes/Amaya's Thralls/Thralls/Liumeng.md
+created: 2026-11-21T12:52:22.256Z
 modified: 2026-10-18T15:15:24.545Z
 published: 2026-10-18T15:15:24.545Z
 aliases: []

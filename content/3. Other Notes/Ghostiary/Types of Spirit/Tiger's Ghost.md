@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Tiger's Ghost.md
 aliases:
   - Ma Trành
 title: Tiger's Ghost

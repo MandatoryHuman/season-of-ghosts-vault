@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Lady of the Wood.md
 aliases:
   - Nang Tani
   - Phi Tani

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /1. World Almanac/NPCs/Willowshore Citizens/Mountain Summit Grass.md
 created: 2026-11-21T12:52:22.208Z
 modified: 2026-09-26T16:03:09.092Z
 published: 2026-09-26T16:03:09.092Z

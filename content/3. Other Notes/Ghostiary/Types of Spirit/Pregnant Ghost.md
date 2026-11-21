@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Pregnant Ghost.md
 aliases:
   - Kuntilanak
   - Pontianak

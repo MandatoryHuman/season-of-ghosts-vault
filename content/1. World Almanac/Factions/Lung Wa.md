@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /1. World Almanac/Factions/Lung Wa.md
 aliases:
   - The Lung Wa Empire
 created: 2026-11-21T12:52:22.074Z

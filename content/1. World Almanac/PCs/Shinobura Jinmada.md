@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /1. World Almanac/PCs/Shinobura Jinmada.md
 aliases:
   - Jinmada
 created: 2026-11-21T12:52:22.236Z

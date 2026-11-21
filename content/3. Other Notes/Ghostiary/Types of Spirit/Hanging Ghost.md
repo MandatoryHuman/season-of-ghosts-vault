@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Hanging Ghost.md
 aliases:
   - Diào Sǐ Guǐ
 title: Hanged Ghost

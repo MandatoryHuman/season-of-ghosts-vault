@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Snow Woman.md
 aliases:
   - Yuki-onna
 title: Snow Woman

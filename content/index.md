@@ -1,7 +1,8 @@
 ---
 publish: true
+permalink: /index.md
 title: Season of Ghosts Vault
-created: 2026-11-12T18:08:57.213Z
+created: 2026-11-21T12:52:18.175Z
 modified: 2026-09-26T16:04:49.574Z
 published: 2026-09-26T16:04:49.574Z
 banner: "[[SoG Banner.webp]]"

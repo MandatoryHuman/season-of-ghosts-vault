@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Phi Pop.md
 aliases:
   - Phi Pob
 title: Phi Pop

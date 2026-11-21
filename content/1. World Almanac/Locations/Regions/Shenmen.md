@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /1. World Almanac/Locations/Regions/Shenmen.md
 created: 2026-11-21T12:52:22.091Z
 modified: 2026-09-21T11:46:40.786Z
 published: 2026-09-21T11:46:40.786Z

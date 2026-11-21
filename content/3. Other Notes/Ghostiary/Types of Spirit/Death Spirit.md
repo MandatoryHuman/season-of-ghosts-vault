@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Death Spirit.md
 aliases:
   - Shinigami
 title: Death Spirit

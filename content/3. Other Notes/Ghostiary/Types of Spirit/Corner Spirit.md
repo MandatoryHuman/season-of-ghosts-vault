@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Corner Spirit.md
 aliases:
   - Ma Xó
 title: Corner Spirit

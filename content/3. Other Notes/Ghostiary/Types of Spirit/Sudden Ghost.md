@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Sudden Ghost.md
 aliases:
   - Phi Tai Hong
 title: Sudden Ghost

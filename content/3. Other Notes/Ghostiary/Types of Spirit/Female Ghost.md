@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Female Ghost.md
 aliases:
   - Nǚ guǐ
 title: Female Ghost

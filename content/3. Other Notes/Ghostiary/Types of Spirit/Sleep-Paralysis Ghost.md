@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Sleep-Paralysis Ghost.md
 aliases:
   - Phi Am
 title: Sleep-Paralysis Ghost

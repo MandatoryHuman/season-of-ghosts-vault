@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Maternal Ghost.md
 aliases:
   - Ubume
 title: Maternal Ghost

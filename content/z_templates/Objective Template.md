@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /z_templates/Objective Template.md
 title: <% tp.file.title %>
 created: 2026-11-21T12:52:22.563Z
 modified: 2026-09-26T15:54:24.861Z

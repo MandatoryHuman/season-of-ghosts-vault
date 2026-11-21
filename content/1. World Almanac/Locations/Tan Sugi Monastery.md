@@ -1,6 +1,7 @@
 ---
 publish: true
-created: 2026-11-12T18:08:57.952Z
+permalink: /1. World Almanac/Locations/Tan Sugi Monastery.md
+created: 2026-11-21T12:52:22.086Z
 modified: 2026-09-21T11:46:40.786Z
 published: 2026-09-21T11:46:40.786Z
 tags:

@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /1. World Almanac/PCs/Crimson Rosoideae.md
 aliases:
   - Crimson
 created: 2026-11-21T12:52:22.231Z

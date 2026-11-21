@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Egg Ghost.md
 aliases:
   - Dalgyal Gwisin
 title: Egg Ghost

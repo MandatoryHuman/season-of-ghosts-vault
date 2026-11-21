@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Belly Exposer.md
 aliases:
   - Haradashi
 title: Belly Exposer

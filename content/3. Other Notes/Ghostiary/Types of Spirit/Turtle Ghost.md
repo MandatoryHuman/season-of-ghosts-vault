@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Turtle Ghost.md
 aliases:
   - Suppon no yūrei
 title: Turtle Ghost

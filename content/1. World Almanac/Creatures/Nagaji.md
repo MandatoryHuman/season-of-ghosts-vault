@@ -1,6 +1,7 @@
 ---
 publish: true
-created: 2026-11-12T18:08:57.921Z
+permalink: /1. World Almanac/Creatures/Nagaji.md
+created: 2026-11-21T12:52:22.057Z
 modified: 2026-09-21T11:46:40.771Z
 published: 2026-09-21T11:46:40.771Z
 tags:

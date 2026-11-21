@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Ship Ghost.md
 aliases:
   - Funa-yūrei
 title: Ship Ghosts

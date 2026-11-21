@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/One-Footed Ghost.md
 aliases:
   - Phi Kong Koi
 title: Jungle Ghost

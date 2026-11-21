@@ -1,5 +1,6 @@
 ---
 publish: true
+permalink: /3. Other Notes/Ghostiary/Types of Spirit/Yellow-Ribbon Lady.md
 aliases:
   - Ma Phae Wah
 title: Yellow-Ribbon Lady
