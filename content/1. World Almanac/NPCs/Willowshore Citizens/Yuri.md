@@ -1,7 +1,16 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+permalink: /1. World Almanac/NPCs/Willowshore Citizens/Yuri.md
+created: 2026-11-21T13:48:24.469Z
+modified: 2026-09-26T16:03:09.097Z
+published: 2026-09-26T16:03:09.097Z
+>>>>>>> 1897e731a528a33b4ffe9e40b0059db79f2f22a3
 tags:
   - npc
+aliases: []
 status: Dead
 location: "[[Willowshore]]"
 faction: Willowshore Ranger Corps
@@ -10,22 +19,25 @@ class: Ranger
 level:
 npc_image:
 ---
+
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Dead
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
+> **Ancestry:**
+> **Profession:** Ranger
+> **Faction:** Willowshore Ranger Corps
 
 ## Appearance
+
 (Image)
 
 ## Bio
 
-
 ## Relationship to Party
+
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-- 
+
+-

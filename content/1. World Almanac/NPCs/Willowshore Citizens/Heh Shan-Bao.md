@@ -1,6 +1,14 @@
 ---
+publish: true
+permalink: /1. World Almanac/NPCs/Willowshore Citizens/Heh Shan-Bao.md
 aliases:
   - Governor
+<<<<<<< HEAD
+=======
+created: 2026-11-21T13:48:24.416Z
+modified: 2026-09-26T16:03:09.388Z
+published: 2026-09-26T16:03:09.388Z
+>>>>>>> 1897e731a528a33b4ffe9e40b0059db79f2f22a3
 tags:
   - npc
 status: Alive
@@ -15,17 +23,18 @@ npc_image: "[[Heh Shan-Bao.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Governor's House.md|Governor's House]]
+> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]],Tian-shu
+> **Profession:** Governor
+> **Faction:**
 
 ## Appearance
 
-![[Heh Shan-Bao.webp]]
+![[z_assets/NPCs/Heh Shan-Bao.webp]]
 
 ## Bio
+
 Heh was the last appointed governor of [[Willowshore]] by the empire of [[Lung Wa]] before their collapse. He has remained in power for the last two years mainly because the people of the village see him as relatively benign as far as tradition goes.
 
 ## Relationship to Party
@@ -34,4 +43,5 @@ Heh was the last appointed governor of [[Willowshore]] by the empire of [[Lung W
 - **Favours Owed:** None
 
 ## Notes
-- 
+
+-

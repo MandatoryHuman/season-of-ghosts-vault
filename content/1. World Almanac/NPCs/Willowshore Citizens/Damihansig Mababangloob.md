@@ -1,6 +1,14 @@
 ---
+publish: true
+permalink: /1. World Almanac/NPCs/Willowshore Citizens/Damihansig Mababangloob.md
 aliases:
   - Dami
+<<<<<<< HEAD
+=======
+created: 2026-11-21T13:48:24.411Z
+modified: 2026-09-26T16:03:09.086Z
+published: 2026-09-26T16:03:09.086Z
+>>>>>>> 1897e731a528a33b4ffe9e40b0059db79f2f22a3
 tags:
   - npc
 status: Alive
@@ -14,17 +22,18 @@ npc_image: "[[Dami.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/The Hand of Spring.md|The Hand of Spring]]
+> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
+> **Profession:** Doctor
+> **Faction:**
 
 ## Appearance
 
 ![[z_assets/NPCs/Dami.webp]]
 
 ## Bio
+
 As the resident doctor of [[Willowshore]], Dami uses a mix of acupuncture, purified chemicals, and surgery to care for its citizens. Dami has developed a reputation for being a charitable man who cares more for his patient's wellbeing than monetary gain.
 
 ## Relationship to Party

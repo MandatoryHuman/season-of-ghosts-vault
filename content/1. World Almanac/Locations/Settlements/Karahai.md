@@ -1,23 +1,35 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+permalink: /1. World Almanac/Locations/Settlements/Karahai.md
+created: 2026-11-21T13:48:24.302Z
+modified: 2026-09-26T16:03:09.066Z
+published: 2026-09-26T16:03:09.066Z
+>>>>>>> 1897e731a528a33b4ffe9e40b0059db79f2f22a3
 tags:
   - location/settlement
   - location/settlement/town
+aliases: []
 region: "[[Shenmen]]"
 ruler:
 population:
 settlement_type: Town
 ---
+
 > [!info]+ Settlement Details
-> **Type:** `=this.settlement_type`
-> **Region:** `=this.region`
-> **Leadership:** `=this.ruler`
-> **Population:** `=this.population`
+> **Type:** Town
+> **Region:** [[1. World Almanac/Locations/Regions/Shenmen.md|Shenmen]]
+> **Leadership:**
+> **Population:**
 
 ## Description
+
 A coastal fortress and [[Willowshore]]'s closest neighbour, roughly a day's ride to the East.
 
 ## Key Establishments
+
 - A large market
 
 ## Notable Residents

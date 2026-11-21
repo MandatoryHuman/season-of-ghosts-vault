@@ -1,16 +1,28 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+permalink: /z_templates/Session Notes Template.md
+created: 2026-11-21T13:48:24.892Z
+modified: 2026-09-26T16:03:09.124Z
+published: 2026-09-26T16:03:09.124Z
+>>>>>>> 1897e731a528a33b4ffe9e40b0059db79f2f22a3
 tags:
   - session
+aliases: []
 real_date: <% tp.file.creation_date("YYYY-MM-DD") %>
 in_game_date: <% await tp.system.prompt("What is the in-game date?") %>
 ---
-**Date Played:** `=this.real_date`
-**In-Game Date:** `=this.in_game_date`
-**Characters Present:** 
+
+**Date Played:** <% tp.file.creation\_date("YYYY-MM-DD") %>
+**In-Game Date:** <% await tp.system.prompt("What is the in-game date?") %>
+**Characters Present:**
 
 ## Session Log
-- 
+
+-
 
 ## Outstanding Threads / To-Dos
-- 
+
+-
