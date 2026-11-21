@@ -277,6 +277,30 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: "@quartz-community/obsidian-plugin-excalidraw"
+    enabled: true
+    order: 50
+    options: {}
+  - source: github:Doghouse-Mike/quartz-photo-view
+    enabled: true
+    order: 50
+    options: {}
+  - source: "@quartz-community/crawl-links"
+    enabled: true
+    order: 50
+    options: {}
+  - source: "@quartz-themes/core"
+    enabled: true
+    order: 50
+    options: {}
+  - source: github:riberoc/quartz-hero-banner
+    enabled: true
+    order: 50
+    options: {}
+  - source: github:hyodoarch/quartz-auto-link-card-enhanced
+    enabled: true
+    order: 50
+    options: {}
 layout:
   groups:
     toolbar:

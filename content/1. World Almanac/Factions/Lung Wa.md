@@ -1,5 +1,4 @@
 ---
-publish: true
 aliases:
   - The Lung Wa Empire
 tags:
@@ -10,8 +9,8 @@ factiontype: Empire
 ---
 
 > [!info]+ Faction Details
-> **Type:** Empire
-> **Leader:** Various emperors
+> **Type:** `=this.factiontype`
+> **Leader:** `=this.leader`
 
 ## Details
 

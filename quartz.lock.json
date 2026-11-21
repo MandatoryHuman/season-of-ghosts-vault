@@ -181,11 +181,29 @@
       "commit": "a2e035fd9a99fc07197c6627bb21d08c57038fc6",
       "installedAt": "2026-07-26T13:01:06.109Z"
     },
+    "quartz-auto-link-card-enhanced": {
+      "source": "github:hyodoarch/quartz-auto-link-card-enhanced",
+      "resolved": "https://github.com/hyodoarch/quartz-auto-link-card-enhanced.git",
+      "commit": "5160936f149f77785cfb9568f1b3574fb11e8147",
+      "installedAt": "2026-11-21T13:06:01.935Z"
+    },
+    "quartz-hero-banner": {
+      "source": "github:riberoc/quartz-hero-banner",
+      "resolved": "https://github.com/riberoc/quartz-hero-banner.git",
+      "commit": "bd7b40f4ba0400a1001ef6f9063ca89ac21d216b",
+      "installedAt": "2026-11-21T13:05:35.636Z"
+    },
     "quartz-leaflet-bases-plugin": {
       "source": "github:Requiae/quartz-leaflet-bases-plugin",
       "resolved": "https://github.com/Requiae/quartz-leaflet-bases-plugin.git",
       "commit": "48da13cf01ba6d742e616da2e837fd2a9478ac79",
       "installedAt": "2026-07-26T13:01:06.187Z"
+    },
+    "quartz-photo-view": {
+      "source": "github:Doghouse-Mike/quartz-photo-view",
+      "resolved": "https://github.com/Doghouse-Mike/quartz-photo-view.git",
+      "commit": "bc5aa5c3c1c633ad3d1dc9f249d87138e9f42e9c",
+      "installedAt": "2026-11-21T13:04:44.788Z"
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",

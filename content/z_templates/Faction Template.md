@@ -2,22 +2,20 @@
 aliases: []
 tags:
   - faction
-aliases: []
 leader:
 alignment:
 factiontype:
 ---
-
 > [!info]+ Faction Details
-> **Type:**
-> **Leader:**
+> **Type:** `=this.factiontype`
+> **Leader:** `=this.leader`
 
 ## Details
 
 ## Goals & Motivations
 
-## Standing with Party
 
+## Standing with Party
 - **Current Reputation:** Neutral
 - **Favours Owed:** None
 
