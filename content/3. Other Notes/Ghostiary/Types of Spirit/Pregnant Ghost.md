@@ -4,6 +4,10 @@ permalink: /3. Other Notes/Ghostiary/Types of Spirit/Pregnant Ghost.md
 aliases:
   - Kuntilanak
   - Pontianak
+title: Pregnant Ghost
+created: 2026-11-21T13:56:44.852Z
+modified: 2026-09-26T16:03:09.117Z
+published: 2026-09-26T16:03:09.117Z
 tags:
   - spirit/type
   - creature

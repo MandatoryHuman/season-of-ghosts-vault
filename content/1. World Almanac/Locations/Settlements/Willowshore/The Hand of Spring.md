@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/The Hand of Spring.md
+created: 2026-11-21T13:56:44.694Z
+modified: 2026-09-26T16:03:09.081Z
+published: 2026-09-26T16:03:09.081Z
 tags:
   - location/building
   - herbalist

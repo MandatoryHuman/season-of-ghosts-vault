@@ -2,7 +2,9 @@
 publish: true
 permalink: /z_templates/Spirit Template.md
 title: <% tp.file.title %>
-aliases: []
+created: 2026-11-21T13:56:45.095Z
+modified: 2026-09-26T16:03:09.125Z
+published: 2026-09-26T16:03:09.125Z
 tags:
   - spirit/type
   - creature

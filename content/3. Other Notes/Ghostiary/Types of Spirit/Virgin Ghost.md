@@ -3,6 +3,10 @@ publish: true
 permalink: /3. Other Notes/Ghostiary/Types of Spirit/Virgin Ghost.md
 aliases:
   - Cheonyeo Gwisin
+title: Virgin Ghost
+created: 2026-11-21T13:56:44.866Z
+modified: 2026-09-26T16:03:09.121Z
+published: 2026-09-26T16:03:09.121Z
 tags:
   - spirit/type
   - creature

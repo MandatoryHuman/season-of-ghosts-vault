@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/Thrice Blessed Inn.md
+created: 2026-11-21T13:56:44.700Z
+modified: 2026-09-26T16:03:09.082Z
+published: 2026-09-26T16:03:09.082Z
 tags:
   - location/building
   - inn

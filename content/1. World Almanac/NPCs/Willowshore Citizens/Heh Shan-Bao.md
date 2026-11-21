@@ -3,6 +3,9 @@ publish: true
 permalink: /1. World Almanac/NPCs/Willowshore Citizens/Heh Shan-Bao.md
 aliases:
   - Governor
+created: 2026-11-21T13:56:44.729Z
+modified: 2026-09-26T16:03:09.388Z
+published: 2026-09-26T16:03:09.388Z
 tags:
   - npc
 status: Alive

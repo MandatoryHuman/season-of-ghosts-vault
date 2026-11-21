@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/NPCs/Willowshore Citizens/Ba-Ming Ouh.md
+created: 2026-11-21T13:56:44.721Z
+modified: 2026-09-26T16:03:09.085Z
+published: 2026-09-26T16:03:09.085Z
 tags:
   - npc
 aliases: []

@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/Shinobura Jinmada's House.md
+created: 2026-11-21T13:56:44.684Z
+modified: 2026-09-26T16:03:09.078Z
+published: 2026-09-26T16:03:09.078Z
 tags:
   - location/building
   - residential

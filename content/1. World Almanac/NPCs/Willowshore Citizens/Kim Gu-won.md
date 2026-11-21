@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/NPCs/Willowshore Citizens/Kim Gu-won.md
+created: 2026-11-21T13:56:44.739Z
+modified: 2026-09-26T16:03:09.090Z
+published: 2026-09-26T16:03:09.090Z
 tags:
   - npc
 aliases: []

@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/Silvermist Lodges.md
+created: 2026-11-21T13:56:44.686Z
+modified: 2026-09-26T16:03:09.079Z
+published: 2026-09-26T16:03:09.079Z
 tags:
   - location/building
   - residential

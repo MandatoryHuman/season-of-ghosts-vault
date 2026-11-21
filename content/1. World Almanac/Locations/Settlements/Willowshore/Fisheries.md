@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/Fisheries.md
+created: 2026-11-21T13:56:44.659Z
+modified: 2026-09-26T16:03:09.071Z
+published: 2026-09-26T16:03:09.071Z
 tags:
   - location/building
   - fishery

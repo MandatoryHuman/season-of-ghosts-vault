@@ -3,6 +3,10 @@ publish: true
 permalink: /3. Other Notes/Ghostiary/Types of Spirit/Yellow-Ribbon Lady.md
 aliases:
   - Ma Phae Wah
+title: Yellow-Ribbon Lady
+created: 2026-11-21T13:56:44.869Z
+modified: 2026-09-26T16:03:09.122Z
+published: 2026-09-26T16:03:09.122Z
 tags:
   - spirit/type
   - creature

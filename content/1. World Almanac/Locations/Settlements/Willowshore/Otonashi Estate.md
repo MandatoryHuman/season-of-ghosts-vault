@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/Otonashi Estate.md
+created: 2026-11-21T13:56:44.680Z
+modified: 2026-10-26T00:03:58.581Z
+published: 2026-10-26T00:03:58.581Z
 tags:
   - location/building
   - residential

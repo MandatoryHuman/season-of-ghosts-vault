@@ -3,6 +3,10 @@ publish: true
 permalink: /3. Other Notes/Ghostiary/Types of Spirit/Phi Pop.md
 aliases:
   - Phi Pob
+title: Phi Pop
+created: 2026-11-21T13:56:44.851Z
+modified: 2026-09-26T16:03:09.115Z
+published: 2026-09-26T16:03:09.115Z
 tags:
   - spirit/type
   - creature

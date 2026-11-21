@@ -4,6 +4,10 @@ permalink: /3. Other Notes/Ghostiary/Types of Spirit/God of Drought.md
 aliases:
   - Hiderigami
   - Hanba
+title: God of Drought
+created: 2026-11-21T13:56:44.836Z
+modified: 2026-09-26T16:03:09.111Z
+published: 2026-09-26T16:03:09.111Z
 tags:
   - spirit/type
   - creature

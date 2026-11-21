@@ -4,6 +4,10 @@ permalink: /3. Other Notes/Ghostiary/Types of Spirit/Foetus Ghost.md
 aliases:
   - Toyol
   - Tuyul
+title: Fetus Ghost
+created: 2026-11-21T13:56:44.834Z
+modified: 2026-09-26T16:03:09.110Z
+published: 2026-09-26T16:03:09.110Z
 tags:
   - spirit/type
   - creature
