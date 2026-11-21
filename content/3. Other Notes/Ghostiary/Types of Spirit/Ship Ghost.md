@@ -3,13 +3,6 @@ publish: true
 permalink: /3. Other Notes/Ghostiary/Types of Spirit/Ship Ghost.md
 aliases:
   - Funa-yūrei
-<<<<<<< HEAD
-=======
-title: Ship Ghosts
-created: 2026-11-21T13:14:51.589Z
-modified: 2026-09-26T16:03:09.118Z
-published: 2026-09-26T16:03:09.118Z
->>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - spirit/type
   - creature

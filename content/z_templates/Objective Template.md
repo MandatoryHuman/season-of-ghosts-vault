@@ -2,13 +2,7 @@
 publish: true
 permalink: /z_templates/Objective Template.md
 title: <% tp.file.title %>
-<<<<<<< HEAD
 aliases: []
-=======
-created: 2026-11-21T13:14:51.862Z
-modified: 2026-09-26T15:54:24.861Z
-published: 2026-09-26T15:54:24.861Z
->>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - mystery
   - objective

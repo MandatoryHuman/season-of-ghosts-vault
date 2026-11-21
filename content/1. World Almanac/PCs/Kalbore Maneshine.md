@@ -1,13 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-permalink: /1. World Almanac/PCs/Kalbore Maneshine.md
-created: 2026-11-21T13:14:51.503Z
-modified: 2026-10-25T22:28:36.635Z
-published: 2026-10-25T22:28:36.635Z
->>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - pc
 player_name: Alex

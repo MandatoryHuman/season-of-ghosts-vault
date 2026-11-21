@@ -1,13 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-permalink: /1. World Almanac/NPCs/Historical/Zhi Hui.md
-created: 2026-11-21T13:14:51.440Z
-modified: 2026-09-26T16:03:09.084Z
-published: 2026-09-26T16:03:09.084Z
->>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - npc
 aliases: []

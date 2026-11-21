@@ -3,13 +3,6 @@ publish: true
 permalink: /3. Other Notes/Ghostiary/Types of Spirit/Corner Spirit.md
 aliases:
   - Ma Xó
-<<<<<<< HEAD
-=======
-title: Corner Spirit
-created: 2026-11-21T13:14:51.556Z
-modified: 2026-09-26T16:03:09.107Z
-published: 2026-09-26T16:03:09.107Z
->>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - spirit/type
   - creature

@@ -1,13 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-permalink: /z_templates/Session Notes Template.md
-created: 2026-11-21T13:14:51.866Z
-modified: 2026-09-26T16:03:09.124Z
-published: 2026-09-26T16:03:09.124Z
->>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - session
 aliases: []

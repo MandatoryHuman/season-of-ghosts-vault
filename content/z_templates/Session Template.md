@@ -2,13 +2,7 @@
 publish: true
 permalink: /z_templates/Session Template.md
 title: <% tp.file.title %>
-<<<<<<< HEAD
 aliases: []
-=======
-created: 2026-11-21T13:14:51.868Z
-modified: 2026-09-29T15:32:50.666Z
-published: 2026-09-29T15:32:50.666Z
->>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - session
 aliases: []

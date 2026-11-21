@@ -1,13 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-permalink: /1. World Almanac/Factions/Lumber Lords.md
-created: 2026-11-21T13:14:51.333Z
-modified: 2026-09-21T11:46:40.784Z
-published: 2026-09-21T11:46:40.784Z
->>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - faction
 aliases: []

@@ -3,13 +3,6 @@ publish: true
 permalink: /3. Other Notes/Ghostiary/Types of Spirit/Hungry Ghost.md
 aliases:
   - È Guǐ
-<<<<<<< HEAD
-=======
-title: Hungry Ghost
-created: 2026-11-21T13:14:51.573Z
-modified: 2026-09-26T16:03:09.112Z
-published: 2026-09-26T16:03:09.112Z
->>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - spirit/type
   - creature

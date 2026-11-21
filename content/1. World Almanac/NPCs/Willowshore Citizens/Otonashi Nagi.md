@@ -1,13 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-permalink: /1. World Almanac/NPCs/Willowshore Citizens/Otonashi Nagi.md
-created: 2026-11-21T13:14:51.481Z
-modified: 2026-09-26T16:03:09.094Z
-published: 2026-09-26T16:03:09.094Z
->>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - npc
 aliases: []

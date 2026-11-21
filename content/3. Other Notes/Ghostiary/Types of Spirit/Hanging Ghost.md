@@ -3,13 +3,6 @@ publish: true
 permalink: /3. Other Notes/Ghostiary/Types of Spirit/Hanging Ghost.md
 aliases:
   - Diào Sǐ Guǐ
-<<<<<<< HEAD
-=======
-title: Hanged Ghost
-created: 2026-11-21T13:14:51.570Z
-modified: 2026-09-26T16:03:09.111Z
-published: 2026-09-26T16:03:09.111Z
->>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - spirit/type
   - creature

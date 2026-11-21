@@ -1,13 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-permalink: /z_templates/Adventure Site Template.md
-created: 2026-11-21T13:14:51.852Z
-modified: 2026-09-21T11:46:40.787Z
-published: 2026-09-21T11:46:40.787Z
->>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - location/adventure_site
 aliases: []

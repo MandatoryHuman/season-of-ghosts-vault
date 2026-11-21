@@ -3,12 +3,6 @@ publish: true
 permalink: /1. World Almanac/Locations/Settlements/Willowshore/The Cerulean Teahouse.md
 aliases:
   - Cerulean Teahouse
-<<<<<<< HEAD
-=======
-created: 2026-11-21T13:14:51.414Z
-modified: 2026-11-16T18:33:30.967Z
-published: 2026-11-16T18:33:30.967Z
->>>>>>> 7bdee27b1203a5effbad04ed713e6acae4b8062a
 tags:
   - location/building
   - teahouse
