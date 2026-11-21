@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /z_templates/Building Template.md
+created: 2026-11-21T13:28:56.859Z
+modified: 2026-09-26T16:03:09.123Z
+published: 2026-09-26T16:03:09.123Z
 tags:
   - location/building
 aliases: []

@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /z_templates/PC Template.md
+created: 2026-11-21T13:28:56.869Z
+modified: 2026-09-26T16:03:09.124Z
+published: 2026-09-26T16:03:09.124Z
 tags:
   - pc
 aliases: []

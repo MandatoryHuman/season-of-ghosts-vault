@@ -4,6 +4,10 @@ permalink: /3. Other Notes/Ghostiary/Types of Spirit/Rattling Skeleton.md
 aliases:
   - Gashadokuro
   - Odokuro
+title: Rattling Skeleton
+created: 2026-11-21T13:28:56.604Z
+modified: 2026-09-26T16:03:09.118Z
+published: 2026-09-26T16:03:09.118Z
 tags:
   - spirit/type
   - creature

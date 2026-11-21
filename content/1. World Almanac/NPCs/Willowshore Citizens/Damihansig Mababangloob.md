@@ -3,6 +3,9 @@ publish: true
 permalink: /1. World Almanac/NPCs/Willowshore Citizens/Damihansig Mababangloob.md
 aliases:
   - Dami
+created: 2026-11-21T13:28:56.478Z
+modified: 2026-09-26T16:03:09.086Z
+published: 2026-09-26T16:03:09.086Z
 tags:
   - npc
 status: Alive

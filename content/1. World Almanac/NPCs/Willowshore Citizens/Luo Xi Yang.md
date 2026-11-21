@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/NPCs/Willowshore Citizens/Luo Xi Yang.md
+created: 2026-11-21T13:28:56.497Z
+modified: 2026-09-26T16:03:09.091Z
+published: 2026-09-26T16:03:09.091Z
 tags:
   - npc
 aliases: []

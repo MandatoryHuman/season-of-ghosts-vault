@@ -3,6 +3,10 @@ publish: true
 permalink: /3. Other Notes/Ghostiary/Types of Spirit/Maternal Ghost.md
 aliases:
   - Ubume
+title: Maternal Ghost
+created: 2026-11-21T13:28:56.596Z
+modified: 2026-09-26T16:03:09.114Z
+published: 2026-09-26T16:03:09.114Z
 tags:
   - spirit/type
   - creature

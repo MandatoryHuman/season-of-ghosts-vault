@@ -3,6 +3,10 @@ publish: true
 permalink: /3. Other Notes/Ghostiary/Types of Spirit/Death Spirit.md
 aliases:
   - Shinigami
+title: Death Spirit
+created: 2026-11-21T13:28:56.577Z
+modified: 2026-09-26T16:03:09.108Z
+published: 2026-09-26T16:03:09.108Z
 tags:
   - spirit/type
   - creature

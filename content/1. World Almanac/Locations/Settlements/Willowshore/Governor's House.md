@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/Governor's House.md
+created: 2026-11-21T13:28:56.415Z
+modified: 2026-09-26T16:03:09.071Z
+published: 2026-09-26T16:03:09.071Z
 tags:
   - location/building
   - residential

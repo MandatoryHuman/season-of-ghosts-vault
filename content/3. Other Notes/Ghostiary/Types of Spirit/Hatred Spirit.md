@@ -3,6 +3,10 @@ publish: true
 permalink: /3. Other Notes/Ghostiary/Types of Spirit/Hatred Spirit.md
 aliases:
   - Onryō
+title: Hatred Spirits
+created: 2026-11-21T13:28:56.588Z
+modified: 2026-09-26T16:03:09.111Z
+published: 2026-09-26T16:03:09.111Z
 tags:
   - spirit/type
   - creature

@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/NPCs/Willowshore Citizens/Nadoya Sanmi.md
+created: 2026-11-21T13:28:56.503Z
+modified: 2026-09-26T16:03:09.092Z
+published: 2026-09-26T16:03:09.092Z
 tags:
   - npc
 aliases: []

@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/Events/Night of Broken Blades.md
+created: 2026-11-21T12:52:22.067Z
+modified: 2026-09-21T11:46:40.768Z
+published: 2026-09-21T11:46:40.768Z
 tags:
   - event
   - lore
