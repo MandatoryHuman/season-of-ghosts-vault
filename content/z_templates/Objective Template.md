@@ -1,8 +1,6 @@
 ---
 title: <% tp.file.title %>
-created: 2026-11-21T12:52:22.563Z
-modified: 2026-09-26T15:54:24.861Z
-published: 2026-09-26T15:54:24.861Z
+aliases: []
 tags:
   - mystery
   - objective

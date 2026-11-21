@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /1. World Almanac/Creatures/Leshy.md
-created: 2026-11-21T12:52:22.055Z
-modified: 2026-09-21T11:46:40.769Z
-published: 2026-09-21T11:46:40.769Z
+aliases: []
 tags:
   - creature
   - ancestry

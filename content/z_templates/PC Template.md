@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /z_templates/PC Template.md
-created: 2026-11-21T12:52:22.564Z
-modified: 2026-09-26T16:03:09.124Z
-published: 2026-09-26T16:03:09.124Z
+aliases: []
 tags:
   - pc
 player_name: <% await tp.system.prompt("Who is the player?") %>

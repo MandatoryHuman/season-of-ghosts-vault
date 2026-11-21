@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /1. World Almanac/NPCs/Willowshore Citizens/Yuri.md
-created: 2026-11-21T12:52:22.223Z
-modified: 2026-09-26T16:03:09.097Z
-published: 2026-09-26T16:03:09.097Z
+aliases: []
 tags:
   - npc
 status: Dead

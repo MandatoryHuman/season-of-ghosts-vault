@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /1. World Almanac/NPCs/Willowshore Citizens/De-Ge Hua.md
-created: 2026-11-21T12:52:22.184Z
-modified: 2026-09-26T16:03:09.086Z
-published: 2026-09-26T16:03:09.086Z
+aliases: []
 tags:
   - npc
 status: Alive

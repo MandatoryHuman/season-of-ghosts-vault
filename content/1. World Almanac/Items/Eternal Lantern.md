@@ -1,9 +1,5 @@
 ---
 publish: true
-permalink: /1. World Almanac/Items/Eternal Lantern.md
-created: 2026-11-21T12:52:22.081Z
-modified: 2026-09-21T11:46:40.784Z
-published: 2026-09-21T11:46:40.784Z
 tags:
   - item
 ---

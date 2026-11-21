@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /z_templates/Settlement Template.md
-created: 2026-11-21T12:52:22.570Z
-modified: 2026-09-21T11:46:40.768Z
-published: 2026-09-21T11:46:40.768Z
+aliases: []
 tags:
   - location/settlement
 region: <% await tp.system.prompt("What broader region is this in?") %>

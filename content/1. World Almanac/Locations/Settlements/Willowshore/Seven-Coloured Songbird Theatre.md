@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /1. World Almanac/Locations/Settlements/Willowshore/Seven-Coloured Songbird Theatre.md
-created: 2026-11-21T12:52:22.141Z
-modified: 2026-09-26T16:03:09.078Z
-published: 2026-09-26T16:03:09.078Z
+aliases: []
 tags:
   - location/building
   - theatre

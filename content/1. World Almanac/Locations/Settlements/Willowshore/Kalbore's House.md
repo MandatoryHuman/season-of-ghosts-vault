@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /1. World Almanac/Locations/Settlements/Willowshore/Kalbore's House.md
-created: 2026-11-21T12:52:22.124Z
-modified: 2026-10-26T00:03:23.023Z
-published: 2026-10-26T00:03:23.023Z
+aliases: []
 tags:
   - location/building
   - residential

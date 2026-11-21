@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /1. World Almanac/Locations/Settlements/Willowshore/Amaya's House.md
-created: 2026-11-21T12:52:22.104Z
-modified: 2026-09-26T16:03:09.068Z
-published: 2026-09-26T16:03:09.068Z
+aliases: []
 tags:
   - location/building
   - residential
