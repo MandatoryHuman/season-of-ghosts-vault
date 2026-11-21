@@ -2,15 +2,15 @@
 publish: true
 permalink: /1. World Almanac/Locations/Regions/Shenmen.md
 created: 2026-11-21T13:56:44.635Z
-modified: 2026-11-21T14:15:14.156Z
-published: 2026-11-21T14:15:14.156Z
+modified: 2026-11-21T14:20:39.907Z
+published: 2026-11-21T14:20:39.907Z
 tags:
   - location/region
-socialImage: "[[Shenmen Banner.webp]]"
+socialImage: "[[Shenmen_Banner.webp]]"
 aliases: []
 parentregion: Tian Xia
 dangerlevel: High
-cover: "[[Shenmen Banner.webp]]"
+cover: "[[Shenmen_Banner.webp]]"
 ---
 
 > [!info]+ Regional Data
@@ -34,4 +34,4 @@ Life in Shenmen is hard. Most of its people are villagers who survive by subsist
 - [[Willowshore]]
 - [[Specterwood]]
 
-![[z_assets/Banners/Shenmen Banner.webp]]
+![[z_assets/Banners/Shenmen_Banner.webp]]
