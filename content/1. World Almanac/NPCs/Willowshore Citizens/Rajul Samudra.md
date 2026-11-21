@@ -1,7 +1,15 @@
 ---
+<<<<<<< HEAD
 aliases: []
+=======
+publish: true
+created: 2026-11-12T18:08:58.093Z
+modified: 2026-09-26T16:03:09.095Z
+published: 2026-09-26T16:03:09.095Z
+>>>>>>> e53c10dad9e43696f43654316eadb0c3af1a2484
 tags:
   - npc
+aliases: []
 status: Alive
 location: "[[Willowshore Dock|Dock]]"
 faction:
@@ -13,22 +21,25 @@ npc_image: "[[Rajul Samudra.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Willowshore Dock.md|Dock]]
+> **Ancestry:** [[1. World Almanac/Creatures/Nagaji.md|Nagaji]]
+> **Profession:** Shipwright
+> **Faction:**
 
 ## Appearance
 
-![[Rajul Samudra.webp|400]]
+![[z_assets/NPCs/Rajul Samudra.webp|400]]
 
 ## Bio
+
 Manager of the [[Willowshore]] [[Willowshore Dock]], as hired by [[The Ceiba-Duyue Exchange]] due to his great skill in boatbuilding.
 
 ## Relationship to Party
+
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-- 
+
+-
