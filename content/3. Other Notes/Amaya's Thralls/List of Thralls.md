@@ -2,7 +2,6 @@
 aliases: []
 tags: []
 ---
-
 ```base
 views:
   - type: cards

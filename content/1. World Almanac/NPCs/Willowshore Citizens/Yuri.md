@@ -2,7 +2,6 @@
 aliases: []
 tags:
   - npc
-aliases: []
 status: Dead
 location: "[[Willowshore]]"
 faction: Willowshore Ranger Corps
@@ -11,25 +10,22 @@ class: Ranger
 level:
 npc_image:
 ---
-
 > [!info]+ Biographical Data
-> **Status:** Dead
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Ancestry:**
-> **Profession:** Ranger
-> **Faction:** Willowshore Ranger Corps
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
-
 (Image)
 
 ## Bio
 
-## Relationship to Party
 
+## Relationship to Party
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-
--
+- 

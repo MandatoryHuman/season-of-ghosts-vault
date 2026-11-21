@@ -1,6 +1,4 @@
 ---
-publish: true
-permalink: /1. World Almanac/NPCs/Willowshore Citizens/Shinobura Mamoru.md
 aliases:
   - Mamoru
 tags:
@@ -14,27 +12,22 @@ class:
 level:
 npc_image:
 ---
-
 > [!info]+ Biographical Data
-> **Status:** Alive
-> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore.md|Willowshore]]
-> **Ancestry:** [[1. World Almanac/Creatures/Kitsune.md|Kitsune]]
-> **Profession:**
-> **Faction:**
+> **Status:** `=this.status`
+> **Location:** `=this.location`
+> **Ancestry:** `=this.ancestry`
+> **Profession:** `=this.class`
+> **Faction:** `=this.faction`
 
 ## Appearance
-
 (Image)
 
 ## Bio
-
 Brother of [[Shinobura Jinmada]], and shunned by much of [[Willowshore]].
 
 ## Relationship to Party
-
 - **Attitude:** Neutral
 - **Favours Owed:** None
 
 ## Notes
-
--
+- 
