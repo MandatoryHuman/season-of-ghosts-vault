@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/Luo and Laws.md
+created: 2026-11-21T12:52:22.127Z
+modified: 2026-09-26T16:03:09.073Z
+published: 2026-09-26T16:03:09.073Z
 tags:
   - location/building
   - office

@@ -1,4 +1,9 @@
 ---
+publish: true
+permalink: /3. Other Notes/Amaya's Thralls/Thralls/En.md
+created: 2026-11-21T12:52:22.253Z
+modified: 2026-09-26T16:03:09.103Z
+published: 2026-09-26T16:03:09.103Z
 aliases: []
 tags: []
 npc_image: "[[En Square.webp]]"

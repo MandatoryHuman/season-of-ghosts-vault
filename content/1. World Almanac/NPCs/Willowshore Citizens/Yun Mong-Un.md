@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/NPCs/Willowshore Citizens/Yun Mong-Un.md
+created: 2026-11-21T12:52:22.221Z
+modified: 2026-09-26T16:03:09.097Z
+published: 2026-09-26T16:03:09.097Z
 tags:
   - npc
 status: Alive

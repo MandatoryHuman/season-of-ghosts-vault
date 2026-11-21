@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/Mother's Coil.md
+created: 2026-11-21T12:52:22.134Z
+modified: 2026-09-26T16:03:09.076Z
+published: 2026-09-26T16:03:09.076Z
 tags:
   - location/building
   - shop

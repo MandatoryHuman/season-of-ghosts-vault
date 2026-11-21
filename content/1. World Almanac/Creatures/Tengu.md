@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/Creatures/Tengu.md
+created: 2026-11-21T12:52:22.061Z
+modified: 2026-09-21T11:46:40.771Z
+published: 2026-09-21T11:46:40.771Z
 tags:
   - creature
   - ancestry

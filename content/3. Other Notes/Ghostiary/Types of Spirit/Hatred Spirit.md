@@ -2,6 +2,10 @@
 title: Hatred Spirits
 aliases:
   - Onryō
+title: Hatred Spirits
+created: 2026-11-21T12:52:22.297Z
+modified: 2026-09-26T16:03:09.111Z
+published: 2026-09-26T16:03:09.111Z
 tags:
   - spirit/type
   - creature

@@ -1,5 +1,9 @@
 ---
-aliases: []
+publish: true
+permalink: /1. World Almanac/Locations/Settlements/Willowshore/Woodraft Lake.md
+created: 2026-11-21T12:52:22.167Z
+modified: 2026-09-21T11:46:40.810Z
+published: 2026-09-21T11:46:40.810Z
 tags:
   - location
   - lake
