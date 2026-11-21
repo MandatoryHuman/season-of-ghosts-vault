@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /1. World Almanac/NPCs/Willowshore Citizens/Kum Soon-chong.md
-created: 2026-11-21T13:28:56.494Z
-modified: 2026-09-26T16:03:09.090Z
-published: 2026-09-26T16:03:09.090Z
+aliases: []
 tags:
   - npc
 status: Alive

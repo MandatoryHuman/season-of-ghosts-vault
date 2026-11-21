@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /1. World Almanac/Locations/Settlements/Willowshore/Mercantile Street.md
-created: 2026-11-21T13:28:56.428Z
-modified: 2026-09-26T16:03:09.075Z
-published: 2026-09-26T16:03:09.075Z
+aliases: []
 tags:
   - location/building
   - district

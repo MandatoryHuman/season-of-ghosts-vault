@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /1. World Almanac/Locations/Settlements/Willowshore/Graveside Manners.md
-created: 2026-11-21T13:28:56.416Z
-modified: 2026-09-26T16:03:09.071Z
-published: 2026-09-26T16:03:09.071Z
+aliases: []
 tags:
   - location/building
   - shop

@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /1. World Almanac/Creatures/Elf.md
-created: 2026-11-21T12:52:22.046Z
-modified: 2026-09-21T11:46:40.713Z
-published: 2026-09-21T11:46:40.713Z
+aliases: []
 tags:
   - creature
   - ancestry

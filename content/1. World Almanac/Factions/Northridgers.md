@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /1. World Almanac/Factions/Northridgers.md
-created: 2026-11-21T13:28:56.376Z
-modified: 2026-09-21T11:46:40.784Z
-published: 2026-09-21T11:46:40.784Z
+aliases: []
 tags:
   - faction
 leader: "[[Hu Ban-niang]]"

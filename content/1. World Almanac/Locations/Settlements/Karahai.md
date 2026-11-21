@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /1. World Almanac/Locations/Settlements/Karahai.md
-created: 2026-11-21T13:28:56.395Z
-modified: 2026-09-26T16:03:09.066Z
-published: 2026-09-26T16:03:09.066Z
+aliases: []
 tags:
   - location/settlement
   - location/settlement/town

@@ -1,9 +1,6 @@
 ---
 aliases:
   - Mamoru
-created: 2026-11-21T13:28:56.511Z
-modified: 2026-10-31T12:09:42.789Z
-published: 2026-10-31T12:09:42.789Z
 tags:
   - npc
 status: Alive

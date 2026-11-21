@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /1. World Almanac/Locations/Settlements/Willowshore/The Happy Kappa.md
-created: 2026-11-21T13:28:56.449Z
-modified: 2026-09-26T16:03:09.081Z
-published: 2026-09-26T16:03:09.081Z
+aliases: []
 tags:
   - location/building
   - bathhouse

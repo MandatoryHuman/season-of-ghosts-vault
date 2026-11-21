@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /1. World Almanac/Locations/Settlements/Willowshore/Dawnstep Bridge.md
-created: 2026-11-21T13:28:56.408Z
-modified: 2026-09-26T16:03:09.069Z
-published: 2026-09-26T16:03:09.069Z
+aliases: []
 tags:
   - location/building
   - bridge

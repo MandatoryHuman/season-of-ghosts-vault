@@ -1,9 +1,5 @@
 ---
-publish: true
-permalink: /1. World Almanac/Locations/Settlements/Willowshore/Downtown Willowshore.md
-created: 2026-11-21T13:28:56.409Z
-modified: 2026-09-26T16:03:09.070Z
-published: 2026-09-26T16:03:09.070Z
+aliases: []
 tags:
   - location/building
   - district
