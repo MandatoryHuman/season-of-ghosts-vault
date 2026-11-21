@@ -3,13 +3,6 @@ publish: true
 permalink: /3. Other Notes/Ghostiary/Types of Spirit/Belly Exposer.md
 aliases:
   - Haradashi
-<<<<<<< HEAD
-=======
-title: Belly Exposer
-created: 2026-11-21T13:48:24.540Z
-modified: 2026-09-26T16:03:09.106Z
-published: 2026-09-26T16:03:09.106Z
->>>>>>> 1897e731a528a33b4ffe9e40b0059db79f2f22a3
 tags:
   - spirit/type
   - creature

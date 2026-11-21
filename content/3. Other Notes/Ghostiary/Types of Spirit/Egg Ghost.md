@@ -3,13 +3,6 @@ publish: true
 permalink: /3. Other Notes/Ghostiary/Types of Spirit/Egg Ghost.md
 aliases:
   - Dalgyal Gwisin
-<<<<<<< HEAD
-=======
-title: Egg Ghost
-created: 2026-11-21T13:48:24.551Z
-modified: 2026-09-26T16:03:09.109Z
-published: 2026-09-26T16:03:09.109Z
->>>>>>> 1897e731a528a33b4ffe9e40b0059db79f2f22a3
 tags:
   - spirit/type
   - creature

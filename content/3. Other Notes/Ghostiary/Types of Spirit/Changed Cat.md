@@ -3,13 +3,6 @@ publish: true
 permalink: /3. Other Notes/Ghostiary/Types of Spirit/Changed Cat.md
 aliases:
   - Bakeneko
-<<<<<<< HEAD
-=======
-title: Changed Cat
-created: 2026-11-21T13:48:24.543Z
-modified: 2026-09-26T16:03:09.107Z
-published: 2026-09-26T16:03:09.107Z
->>>>>>> 1897e731a528a33b4ffe9e40b0059db79f2f22a3
 tags:
   - spirit/type
   - creature

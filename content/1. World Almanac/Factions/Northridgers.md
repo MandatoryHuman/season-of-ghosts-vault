@@ -1,13 +1,5 @@
 ---
-<<<<<<< HEAD
 aliases: []
-=======
-publish: true
-permalink: /1. World Almanac/Factions/Northridgers.md
-created: 2026-11-21T13:48:24.277Z
-modified: 2026-09-21T11:46:40.784Z
-published: 2026-09-21T11:46:40.784Z
->>>>>>> 1897e731a528a33b4ffe9e40b0059db79f2f22a3
 tags:
   - faction
 aliases: []

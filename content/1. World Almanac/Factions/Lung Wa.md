@@ -3,12 +3,6 @@ publish: true
 permalink: /1. World Almanac/Factions/Lung Wa.md
 aliases:
   - The Lung Wa Empire
-<<<<<<< HEAD
-=======
-created: 2026-11-21T13:48:24.274Z
-modified: 2026-09-21T11:46:40.784Z
-published: 2026-09-21T11:46:40.784Z
->>>>>>> 1897e731a528a33b4ffe9e40b0059db79f2f22a3
 tags:
   - faction
 leader: Various emperors

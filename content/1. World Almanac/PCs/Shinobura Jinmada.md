@@ -1,12 +1,6 @@
 ---
 aliases:
   - Jinmada
-<<<<<<< HEAD
-=======
-created: 2026-11-21T13:48:24.485Z
-modified: 2026-10-25T22:31:07.226Z
-published: 2026-10-25T22:31:07.226Z
->>>>>>> 1897e731a528a33b4ffe9e40b0059db79f2f22a3
 tags:
   - pc
 player_name: Dion
