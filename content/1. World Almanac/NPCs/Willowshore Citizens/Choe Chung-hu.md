@@ -1,11 +1,12 @@
 ---
 publish: true
 permalink: /1. World Almanac/NPCs/Willowshore Citizens/Choe Chung-hu.md
-created: 2026-11-21T12:52:22.181Z
+created: 2026-11-21T13:14:51.447Z
 modified: 2026-09-26T16:03:09.086Z
 published: 2026-09-26T16:03:09.086Z
 tags:
   - npc
+aliases: []
 status: Alive
 location: "[[Milling Houses|Milling Houses]]"
 faction:
@@ -17,17 +18,18 @@ npc_image: "[[Choe Chung-hu.webp]]"
 ---
 
 > [!info]+ Biographical Data
-> **Status:** `=this.status`
-> **Location:** `=this.location`
-> **Ancestry:** `=this.ancestry`
-> **Profession:** `=this.class`
-> **Faction:** `=this.faction`
+> **Status:** Alive
+> **Location:** [[1. World Almanac/Locations/Settlements/Willowshore/Milling Houses.md|Milling Houses]]
+> **Ancestry:** [[1. World Almanac/Creatures/Human.md|Human]]
+> **Profession:** Miller
+> **Faction:**
 
 ## Appearance
 
-![[Choe Chung-hu.webp|400]]
+![[z_assets/NPCs/Choe Chung-hu.webp|400]]
 
 ## Bio
+
 Leader of the [[Milling Houses]], Choe manages to keep morale high amongst his workers by pushing back against unreasonable demands, keeping wages stable, and offering midnight snacks.
 
 ## Relationship to Party

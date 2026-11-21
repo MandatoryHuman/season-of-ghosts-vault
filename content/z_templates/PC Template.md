@@ -1,27 +1,30 @@
 ---
 publish: true
 permalink: /z_templates/PC Template.md
-created: 2026-11-21T12:52:22.564Z
+created: 2026-11-21T13:14:51.863Z
 modified: 2026-09-26T16:03:09.124Z
 published: 2026-09-26T16:03:09.124Z
 tags:
   - pc
+aliases: []
 player_name: <% await tp.system.prompt("Who is the player?") %>
 ancestry:
 class:
 party_role:
 ---
+
 > [!info]+ Character Details
-> **Player:** `=this.player_name`
-> **Ancestry & Heritage:** `=this.ancestry`
-> **Class:** `=this.class`
-> **Primary Role:** `=this.party_role`
+> **Player:** <% await tp.system.prompt("Who is the player?") %>
+> **Ancestry & Heritage:**
+> **Class:**
+> **Primary Role:**
 
 ## Appearance
 
-
 ## Backstory
-- 
+
+-
 
 ## Current Personal Goals
-- 
+
+-

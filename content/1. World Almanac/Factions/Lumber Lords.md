@@ -1,28 +1,31 @@
 ---
 publish: true
 permalink: /1. World Almanac/Factions/Lumber Lords.md
-created: 2026-11-21T12:52:22.072Z
+created: 2026-11-21T13:14:51.333Z
 modified: 2026-09-21T11:46:40.784Z
 published: 2026-09-21T11:46:40.784Z
 tags:
   - faction
+aliases: []
 leader: "[[Lung Wa]]"
 alignment:
 factiontype: Work Bosses
 ---
+
 > [!info]+ Faction Details
-> **Type:** `=this.factiontype`
-> **Leader:** `=this.leader`
+> **Type:** Work Bosses
+> **Leader:** [[1. World Almanac/Factions/Lung Wa.md|Lung Wa]]
 
 ## Details
+
 A group of wealthy work bosses who moved to [[Willowshore]] at the orders of [[Lung Wa]] to establish and expand various lumber camps. The bosses were known for their exploitation of Willowshore’s ascetic past. Worse, they began to present the settlement as a “getaway” for Lung Wa aristocrats to hunt for sport and indulge in food and drinks forcefully seized in the empire’s name.
 
 The lords left Willowshore after the collapse of the Lung Wa Empire to return to their homes in the capital, taking the wealth they had earned with them and leaving Willowshore to its own devices.
 
 ## Goals & Motivations
 
-
 ## Standing with Party
+
 - **Current Reputation:** Neutral
 - **Favours Owed:** None
 
