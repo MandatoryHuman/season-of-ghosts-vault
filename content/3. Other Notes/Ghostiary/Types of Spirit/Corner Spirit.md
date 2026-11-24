@@ -5,8 +5,8 @@ aliases:
   - Ma Xó
 title: Corner Spirit
 created: 2026-11-21T13:56:44.825Z
-modified: 2026-11-24T15:31:11.471Z
-published: 2026-11-24T15:31:11.471Z
+modified: 2026-11-24T17:00:33.871Z
+published: 2026-11-24T17:00:33.871Z
 tags:
   - spirit/type
   - creature
@@ -27,10 +27,11 @@ ghost_category: Summoned Ghosts
 
 ## Overview
 
-These spirits are conjured and bound to the dark corners of a house in order to bring wealth to the family who live within. They can be summoned by shamans or dark magicians.
+These spirits are conjured and bound to the dark corners of a house. Protective Ma Xó bring wealth to the family who live within, while malicious Ma Xó can be used to spy on neighbours. They can be summoned by shamans or dark magicians.
 
 ## Behaviour and Haunts
 
+- Ma Xó lurk in shadowed recesses of a home; behind doors, beneath staircases, or tucked beneath an altar.
 - While normally placid, these ghosts will turn on the family of the house if they forget to feed the spirit, or if they break a taboo.
 
 ### Recognition Guide
